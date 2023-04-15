@@ -6,6 +6,8 @@ nav:
     - Cronograma: cronograma.md
   - Atas:
     - Ata 1: IHC_Ata_01.md
+    - Ata 2: IHC_Ata_02.md
+    - Ata 3: IHC_Ata_03.md
 
 theme:
     name: material
