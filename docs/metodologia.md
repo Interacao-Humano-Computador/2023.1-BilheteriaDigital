@@ -26,9 +26,32 @@ Na semana inicial do projeto, montou-se uma planilha com os horários disponíve
 * Planning e Review: Sábado às 10h.
 * Status: Antes ou após as aulas da disciplina.
 
+## Política de Issues
+
+Uma issue deve ser aberta sempre que:
+
+* Quiser relatar um problema do qual você não consegue solucionar sozinho.
+* Achar necessário propor uma função ou ideia nova para o projeto.
+* Precisar debater algum tópico em específico.
+
+### Participar de uma Issue
+
+* Caso deseje participar duma issue da qual não estiver encarregado, comente para que o criador da issue o deixe como encarregado também.
+* Se, por ventura, alguma issue já estiver aberta há muito tempo, provavelmente ela já está resolvida. Portanto, comente nela para confirmar que essa tarefa já está finalizada antes de começar a desenvolvê-la.
+* No momento que você resolver a issue por completo, finalize a issue.
+
+## Política de Commits
+
+Quase sempre deve-se abrir um pull request, em especial, nas seguintes ocasiões:
+
+* Quando for enviar correções simples.
+* No momento que for dar assistência à alguma contribuição na qual já está sendo trabalhada em alguma issue.
+
+Além disso, é importante ressaltar que um pull request não significa exatamente um trabalho finalizado. Ele também é uma forma de acompanhar o progresso do desenvolvimento de algum artefato ou ideia, ou seja, é também uma forma dos outros acompanharem aquilo que está fazendo. Um pull request antes de ser aprovado ainda recebe commits posteriores ao seu levantamento.
+
 ## Histórico de Versões
 
 Versão   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ---------- | ----------
  1.0 | Descrição da Metodologia | Arthur de Melo | Matheus Henrique
- 
+ 1.1 | Adição da Política de Commits e de Issues | Arthur de Melo | Matheus Henrique
