@@ -16,10 +16,10 @@
 |                                    ![Logo do MkDocs](../assets/ferramentas/mkdocs.png)                                    |          MkDocs           |                  Criação das páginas de documentação.                  |
 |             ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png){: style="height:85px;width:85px"}             |    Visual Studio Code     |                  Edição dos arquivos de documentação.                  |
 |                 ![Logo do WhatsApp](../assets/ferramentas/whatsapp.png){: style="height:85px;width:85px"}                 |         WhatsApp          |             Utilizado como principal canal de comunicação.             |
-|                 ![Logo do YouTube](../assets/ferramentas/youtube.png){: style="height:56px;width:250px"}                  |          YouTube          |                    Hospedagem de vídeos produzidos.                    |
+|                 ![Logo do Youtube](../assets/ferramentas/youtube.png){: style="height:85px;width:95px"}                  |          YouTube          |                    Hospedagem de vídeos produzidos.                    |
 |             ![Logo do Google Planilhas](../assets/ferramentas/gsheets.png){: style="height:94px;width:72px"}              |     Google Planilhas      |      Criação de planilhas relacionadas ao cronograma e horários.       |
 |                 ![Logo do Google Docs](../assets/ferramentas/gdocs.png){: style="height:96px;width:96px"}                 |        Google Docs        |                Criação e edição de tabelas e arquivos.                 |
-|               ![Logo do Google Drive](../assets/ferramentas/gdrive.png){: style="height:128px;width:128px"}               |       Google Drive        |                     Compartilhamento de arquivos.                      |
+|               ![Logo do Google Drive](../assets/ferramentas/gdrive.png){: style="height:90px;width:90px"}               |       Google Drive        |                     Compartilhamento de arquivos.                      |
 |                 ![Logo do Draw.io](../assets/ferramentas/drawio.png){: style="height:100px;width:100px"}                  |          Draw.io          |              Produção da primeira versão do Rich Picture.              |
 | ![Logo do This Person Doesn't Exist](../assets/ferramentas/thispersondoesntexist.png){: style="height:100px;width:100px"} | This Person Doesn't Exist |              Criação de imagens falsas para as personas.               |
 
