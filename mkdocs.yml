@@ -1,5 +1,3 @@
-markdown_extensions:
-  - attr_list
 hide:
   - toc
 site_name: Bilheteria Digital
