@@ -14,6 +14,5 @@ Este repositório objetiva analisar o site [Bilheteria Digital](https://www.bilh
         <td align="center"><a href="https://github.com/manuziny"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88348637?v=4" width="100px;" alt=""/><br /><sub><b>Geovanna Maciel</b></sub></a><br />
         <td align="center"><a href="https://github.com/mathonaut"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/97904643?v=4" width="100px;" alt=""/><br /><sub><b>Matheus Henrique</b></sub></a><br />
     <td align="center"><a href="https://github.com/RafaelCLG0"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/93794185?v=4" width="100px;" alt=""/><br /><sub><b>Rafael Ferreira</b></sub></a><br />
-    <td align="center"><a href="https://github.com/nando3d3"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88115743?v=4" width="100px;" alt=""/><br /><sub><b>Sidney Fernando</b></sub></a><br />
   </tr>
 </table>
