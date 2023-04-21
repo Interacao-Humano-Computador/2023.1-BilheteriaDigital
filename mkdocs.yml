@@ -1,3 +1,5 @@
+markdown_extensions:
+  - attr_list
 hide:
   - toc
 site_name: Bilheteria Digital
@@ -21,13 +23,22 @@ theme:
     - navigation.footer
   name: material
   palette:
-    primary: "red"
-    accent: "black"
-    background: "white"
-    text: "black"
-    code:
-      bg: "black"
-      fg: "white"
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: black
+      toggle:
+        icon: material/weather-sunny
+        name: Claro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: white
+      toggle:
+        icon: material/weather-night
+        name: Escuro
+
   language: pt-BR
   favicon: assets/bilheteria.png
   logo: assets/bilheteria.png
