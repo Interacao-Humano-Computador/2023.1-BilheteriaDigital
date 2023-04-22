@@ -1,7 +1,3 @@
----
-hide:
-  - navigation
----
 # Ata de reunião Interação Humano-Computador - Grupo 01
 
 Data: 01/04/2023

@@ -1,3 +1,5 @@
+repo_url: https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital
+repo_name: 2023.1-BilheteriaDigital
 hide:
   - toc
 site_name: Bilheteria Digital
@@ -7,10 +9,10 @@ nav:
       - Ata 1: atas/IHC_Ata_01.md
       - Ata 2: atas/IHC_Ata_02.md
       - Ata 3: atas/IHC_Ata_03.md
-  - Metodologia: metodologia.md
   - Planejamento:
       - Ferramentas: planejamento/ferramentas.md
       - Cronograma: planejamento/cronograma.md
+      - Metodologia: metodologia.md
 theme:
   hide:
     - navigation
