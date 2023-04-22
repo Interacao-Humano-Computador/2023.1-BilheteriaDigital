@@ -1,4 +1,4 @@
-# Ata de reunião Requisitos de Software - Grupo 01
+# Ata de reunião Interação Humano-Computador - Grupo 01
 
 Data: 15/04/2023
 Horário: 11:00 às 11:04h
@@ -35,6 +35,7 @@ Local: Online via Teams
 
 ## Histórico de versão
 
-| Versão  | Data | Descrição | Autor(es) | Revisor(es) |
-| -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 15/04/2023 | Criação da Documentação | [Rafael Ferreira](https://github.com/RafaelCLG0) |    Todos    |
+| Versão |    Data    |                  Descrição                  |                    Autor(es)                     |                 Revisor(es)                 |
+| :----: | :--------: | :-----------------------------------------: | :----------------------------------------------: | :-----------------------------------------: |
+| `1.0`  | 15/04/2023 |           Criação da Documentação           | [Rafael Ferreira](https://github.com/RafaelCLG0) |                    Todos                    |
+| `1.1`  | 22/04/2023 | Correção do título e padronização do visual | [Matheus Henrique](https://github.com/mathonaut) | [Gabriel Campello](https://github.com/G16C) |
