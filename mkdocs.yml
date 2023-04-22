@@ -11,10 +11,11 @@ nav:
       - Ata 3: atas/IHC_Ata_03.md
       - Ata 4: atas/IHC_Ata_04.md
   - Planejamento:
-      - Processo de Design: planejamento/processo-design.md
-      - Ferramentas: planejamento/ferramentas.md
       - Cronograma: planejamento/cronograma.md
+      - Ferramentas: planejamento/ferramentas.md
       - Metodologia: planejamento/metodologia.md
+      - Sites avaliados: planejamento/sites-avaliados.md
+      - Site escolhido: planejamento/site-escolhido.md
 theme:
   features:
     - navigation.instant
