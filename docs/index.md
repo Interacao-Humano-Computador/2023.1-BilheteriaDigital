@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - footer
+---
+
 # Bilheteria Digital
 
 <p align="center"><img src="assets/bilheteria.png" width = 40%></p>
@@ -5,6 +11,7 @@
 Este repositório objetiva analisar o site [Bilheteria Digital](https://www.bilheteriadigital.com) para fins de estudos na disciplina de Interação Humano-Computador da FGA-UnB.
 
 ## Grupo
+
 ### 👨‍💻 Contribuidores
 
 <table>
@@ -20,6 +27,8 @@ Este repositório objetiva analisar o site [Bilheteria Digital](https://www.bilh
 
 ## 3. Histórico de versão
 
-Versão   | Descrição | Autor(es) | Revisor(es)
---------- | ------ | ---------- | ----------
-1.0 | Criação da git page | Douglas Alves e Rafael Ferreira | Arthur de Melo, Matheus Henrique e Gabriel Campello
+| Versão |      Descrição      |                                            Autor(es)                                            |                                                                  Revisor(es)                                                                   |
+| :----: | :-----------------: | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+| `1.0`  | Criação da git page | [Douglas Alves](https://github.com/dougAlvs) e [Rafael Ferreira](https://github.com/RafaelCLG0) | [Arthur de Melo](https://github.com/arthurmlv), [Matheus Henrique](https://github.com/mathonaut) e [Gabriel Campello](https://github.com/g16c) |
+| `1.1`  | Atualização do visual | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.2`  | Atualização das cores e adição dos temas | [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) |
