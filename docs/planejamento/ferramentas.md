@@ -20,7 +20,6 @@
 |             ![Logo do Google Planilhas](../assets/ferramentas/gsheets.png){: style="height:94px;width:72px"}              |     Google Planilhas      |      Criação de planilhas relacionadas ao cronograma e horários.       |
 |                 ![Logo do Google Docs](../assets/ferramentas/gdocs.png){: style="height:96px;width:96px"}                 |        Google Docs        |                Criação e edição de tabelas e arquivos.                 |
 |               ![Logo do Google Drive](../assets/ferramentas/gdrive.png){: style="height:90px;width:90px"}               |       Google Drive        |                     Compartilhamento de arquivos.                      |
-|                 ![Logo do Draw.io](../assets/ferramentas/drawio.png){: style="height:100px;width:100px"}                  |          Draw.io          |              Produção da primeira versão do Rich Picture.              |
 | ![Logo do This Person Doesn't Exist](../assets/ferramentas/thispersondoesntexist.png){: style="height:100px;width:100px"} | This Person Doesn't Exist |              Criação de imagens falsas para as personas.               |
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>

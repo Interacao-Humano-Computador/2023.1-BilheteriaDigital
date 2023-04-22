@@ -9,6 +9,7 @@ nav:
       - Ata 1: atas/IHC_Ata_01.md
       - Ata 2: atas/IHC_Ata_02.md
       - Ata 3: atas/IHC_Ata_03.md
+      - Ata 4: atas/IHC_Ata_04.md
   - Planejamento:
       - Ferramentas: planejamento/ferramentas.md
       - Cronograma: planejamento/cronograma.md
@@ -25,19 +26,15 @@ theme:
   name: material
   palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: black
-      accent: black
+      scheme: claro
       toggle:
-        icon: material/weather-sunny
+        icon: material/circle-half-full
         name: Claro
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
-      accent: white
       toggle:
-        icon: material/weather-night
+        icon: material/circle-half-full
         name: Escuro
 
   language: pt-BR
@@ -52,3 +49,5 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+
+extra_css: [stylesheets/extra.css]
