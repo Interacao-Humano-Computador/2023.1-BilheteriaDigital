@@ -7,6 +7,7 @@ nav:
       - Ata 1: atas/IHC_Ata_01.md
       - Ata 2: atas/IHC_Ata_02.md
       - Ata 3: atas/IHC_Ata_03.md
+  - Metodologia: metodologia.md
   - Planejamento:
       - Ferramentas: planejamento/ferramentas.md
       - Cronograma: planejamento/cronograma.md
