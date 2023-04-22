@@ -6,11 +6,11 @@ hide:
 
 # Bilheteria Digital
 
-<font size="3"><p style="text-align: center">Figura 1: Logo Bilheteria Digital.</p></font>
+<font size="2"><p style="text-align: center">Figura 1: Logo Bilheteria Digital.</p></font>
 
 <p align="center"><img style="border: 2px solid white; border-radius: 117px" img src="assets/bilheteria.png" width = 40%></p>
 
-<font size="3"><p style="text-align: center">Fonte: [Bilheteria Digital](https://www.bilheteriadigital.com).</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Bilheteria Digital](https://www.bilheteriadigital.com).</p></font>
 
 ## Sobre o projeto
 
