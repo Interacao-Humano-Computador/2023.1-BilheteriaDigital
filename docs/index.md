@@ -27,8 +27,8 @@ Este repositório objetiva analisar o site [Bilheteria Digital](https://www.bilh
 
 ## 3. Histórico de versão
 
-| Versão |      Descrição      |                                            Autor(es)                                            |                                                                  Revisor(es)                                                                   |
-| :----: | :-----------------: | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-| `1.0`  | Criação da git page | [Douglas Alves](https://github.com/dougAlvs) e [Rafael Ferreira](https://github.com/RafaelCLG0) | [Arthur de Melo](https://github.com/arthurmlv), [Matheus Henrique](https://github.com/mathonaut) e [Gabriel Campello](https://github.com/g16c) |
-| `1.1`  | Atualização do visual | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) |
-| `1.2`  | Atualização das cores e adição dos temas | [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) |
+| Versão  | Data | Descrição | Autor(es) | Revisor(es) |
+| -------- | ------ | ------ | ---------- | ---------- |
+| 1.0  | 15/04/2023 | Criação da git page | [Douglas Alves](https://github.com/dougAlvs) e [Rafael Ferreira](https://github.com/RafaelCLG0) | [Arthur de Melo](https://github.com/arthurmlv), [Matheus Henrique](https://github.com/mathonaut) e [Gabriel Campello](https://github.com/g16c) |
+| 1.1  | 21/04/2023 | Atualização do visual | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) |
+| 1.2  | 21/04/2023 | Atualização das cores e adição dos temas | [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) |

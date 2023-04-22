@@ -51,7 +51,7 @@ Além disso, é importante ressaltar que um pull request não significa exatamen
 
 ## Histórico de Versões
 
-Versão   | Descrição | Autor(es) | Revisor(es)
---------- | ------ | ---------- | ----------
- 1.0 | Descrição da Metodologia | Arthur de Melo | Matheus Henrique
- 1.1 | Adição da Política de Commits e de Issues | Arthur de Melo | Matheus Henrique
+Versão  | Data | Descrição | Autor(es) | Revisor(es)
+-------- | ------ | ------ | ---------- | ----------
+ 1.0 | 21/04/2023 | Descrição da Metodologia | [Arthur de Melo](https://github.com/arthurmlv) | [Matheus Henrique](https://github.com/mathonaut)
+ 1.1 | 21/04/2023 | Adição da Política de Commits e de Issues | [Arthur de Melo](https://github.com/arthurmlv) | [Matheus Henrique](https://github.com/mathonaut)

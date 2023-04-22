@@ -37,6 +37,6 @@ Local: Online via Meet
 
 ## Histórico de versão
 
-| Versão |        Descrição        |                  Autor(es)                   | Revisor(es) |
-| :----: | :---------------------: | :------------------------------------------: | :---------: |
-| `1.0`  | Criação da Documentação | [Douglas Alves](https://github.com/dougalvs) |    Todos    |
+| Versão  | Data | Descrição | Autor(es) | Revisor(es) |
+| -------- | ------ | ------ | ---------- | ---------- |
+| `1.0` | 15/04/2023 | Criação da Documentação | [Douglas Alves](https://github.com/dougalvs) |    Todos    |

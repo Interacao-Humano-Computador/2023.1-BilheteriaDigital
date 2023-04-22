@@ -35,6 +35,6 @@ Local: Online via Teams
 
 ## Histórico de versão
 
-| Versão |        Descrição        |                    Autor(es)                     | Revisor(es) |
-| :----: | :---------------------: | :----------------------------------------------: | :---------: |
-| `1.0`  | Criação da Documentação | [Rafael Ferreira](https://github.com/RafaelCLG0) |    Todos    |
+| Versão  | Data | Descrição | Autor(es) | Revisor(es) |
+| -------- | ------ | ------ | ---------- | ---------- |
+| `1.0` | 15/04/2023 | Criação da Documentação | [Rafael Ferreira](https://github.com/RafaelCLG0) |    Todos    |
