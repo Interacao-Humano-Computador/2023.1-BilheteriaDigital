@@ -81,7 +81,7 @@
 ## Histórico de Versão
 
 | Versão |    Data    |                Descrição                 |                    Autor(es)                     |                 Revisor(es)                  |
-| :----: | :--------: | :--------------------------------------: | :----------------------------------------------: | :------------------------------------------: |
+| ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
 | `1.0`  | 22/04/2023 | Criação da página de Processo de Design. | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
 | `1.1`  | 22/04/2023 | Adição dos ciclos de Nielsen, de Mayhew e motivações | [Douglas Alves](https://github.com/dougAlvs)| [Geovanna Maciel](https://github.com/manuziny)
 | `1.1.1`  | 22/04/2023 | Resumo dos processos que não foram escolhidos | [Douglas Alves](https://github.com/dougAlvs)| [Geovanna Maciel](https://github.com/manuziny)

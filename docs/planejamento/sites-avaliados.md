@@ -74,4 +74,4 @@ O [Memorial JK](http://www.memorialjk.com.br) é um website que reúne informaç
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
- 1.0 | 22/04/2023 | Criação do documento | [Douglas Alves](https://github.com/dougalvs) e [Rafael Ferreira](https://github.com/RafaelCLG0)| [Gabriel Campello](https://github.com/g16c)
+ `1.0` | 22/04/2023 | Criação do documento | [Douglas Alves](https://github.com/dougalvs) e [Rafael Ferreira](https://github.com/RafaelCLG0)| [Gabriel Campello](https://github.com/g16c)
