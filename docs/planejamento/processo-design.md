@@ -48,7 +48,7 @@
 <th>10. Pratique design iterativo</th>
 </tr>
 </table>
-<figcaption>Fonte: BARBOSA e SILVA, 2011, p.105.</figcaption>
+<figcaption><font size="3">Fonte: BARBOSA e SILVA, 2011, p.105.</font></figcaption>
 </figure>
 
 ### Engenharia de Usabilidade de Mayhew
@@ -58,7 +58,7 @@
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Atividades do Modelo de Ciclo de Vida de Mayhew.</p></font>
 ![Diagrama do Modelo de Ciclo de Vida de Mayhew](../assets/processo-de-design/figura3.png#only-light){width: 300}
 ![Diagrama do Modelo de Ciclo de Vida de Mayhew](../assets/processo-de-design/figura3e.png#only-dark){width: 300}
-<figcaption>Fonte: BARBOSA e SILVA, 2011, p.110.</figcaption>
+<figcaption><font size="3">Fonte: BARBOSA e SILVA, 2011, p.110.</font></figcaption>
 </figure>
 
 #### Análise de requisitos

@@ -1,9 +1,9 @@
 # Sites Avaliados
 
 ## Introdução
-Baseado nas heurísticas de [Nielsen](https://www.nngroup.com/people/jakob-nielsen/), cada integrante realizou o planejamento e execução de alguns sites candidatos a escolhidos para o projeto. A tabela 1 apresenta o site que cada integrante escolheu:
+Baseado nas heurísticas de [Nielsen](https://www.nngroup.com/people/jakob-nielsen/), cada integrante realizou o planejamento e execução de alguns sites candidatos a escolhidos para o projeto. A Tabela 1, a seguir, apresenta o site que cada integrante escolheu:
 
-<font size="2"><p style="text-align: center">Figura 1: Tabela de sites avaliados.</p></font>
+<font size="2"><p style="text-align: center">Tabela 1: Tabela de sites avaliados.</p></font>
 
 
 <center>
@@ -26,7 +26,7 @@ Baseado nas heurísticas de [Nielsen](https://www.nngroup.com/people/jakob-niels
 OBS.: Devido a uma recomendação do professor André, o site escolhido para o projeto foi mudado e não estava na lista inicial apresentada pelos integrantes do grupo, por isso sua avaliação foi feita posteriormente por dois integrantes.
 
 ## Alistamento Militar Online
-O responsável por realizar essa avaliação foi o integrante [Arthur de Melo](https://github.com/arthurmlv), tal avaliação teve como principal objetivo verificar o comprometimento do site do Alistamento Militar Online no que tange ao atendimento às mais diversas camadas sociais. Sendo assim, foram avaliados três principais caminhos de interação: realizar alistamento; acompanhar alistamento; requerer certificado de dispensa. Na avaliação heurística, foram encontrados as seguintes violações e seus respectivos graus de severidade:
+O responsável por realizar essa avaliação foi o integrante [Arthur de Melo](https://github.com/arthurmlv), tal avaliação teve como principal objetivo verificar o comprometimento do site do Alistamento Militar Online no que tange ao atendimento às mais diversas camadas sociais. Sendo assim, foram avaliados três principais caminhos de interação: realizar alistamento; acompanhar alistamento; requerer certificado de dispensa. Na avaliação heurística, foram encontradas as seguintes violações e os seus respectivos graus de severidade:
 
 * Status do sistema: simples.
 * Controle do usuário e liberdade: grave.
@@ -52,7 +52,7 @@ O portal do [IFB (Instituto Federal de Brasília)](https://www.ifb.edu.br/), que
 ## Infosaúde
 O InfoSaúde é um espaço virtual criado para disponibilizar dados e informações sobre a situação de saúde do DF. Ela é uma plataforma que contém informações relevantes para os usuários, pesquisadores e gestores. Sua avaliação ficou a cargo da integrante [Geovanna Maciel](https://github.com/manuziny).
 
-A escolha do site foi pelo seu design que contêm muitas informações ambíguas para os usuários. Ao pensar que seus usuários que fariam consultas sobre a farmácia de alto culto ou a quantidade de remédios nas UBS, são pessoas de mais idade e sem muito uso de interfaces. Portanto a escolha se deu por essas características.
+A escolha do site foi pelo seu design que contém muitas informações ambíguas para os usuários. Ao pensar que seus usuários que fariam consultas sobre a farmácia de alto culto ou a quantidade de remédios nas UBS, são pessoas de mais idade e sem muito uso de interfaces. Portanto a escolha se deu por essas características.
 
 * [Link para a avaliação detalhada.](avaliacoes/avaliacao-infosaude.pdf)
 
