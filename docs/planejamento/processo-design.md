@@ -16,49 +16,46 @@
 
 <p style="text-align: justify;">&emsp;&emsp;No design ou redesign, o designer busca alternativas de design a fim de encontrar uma solução adequada às necessidades e aos requisitos definidos na atividade de análise (BARBOSA e SILVA, 2011, p.101). Os resultados dessa atividade são apresentados em formas de descrições textuais ou esboços dos modelos e da interação usuário-sistema. O designer, também constroí versões interativas das soluções propostas, demonstrando de maneira clara como as interfaces ou as interações funcionam (BARBOSA e SILVA, 2011, p.102).</p>
 
-<p style="text-align: justify;">&emsp;&emsp;As interações entre as atividades ocorrem quantas vezes forem necessárias. Essas atividades estão sumarizadas na figura 1.</p>
-
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Figura 1</b> - Atividades do Modelo de Ciclo de Vida Simples.</p></font>
-![Diagrama do Modelo de Ciclo de Vida Simples](../assets/processo-de-design/figura1.png#only-light){width: 300}
-![Diagrama do Modelo de Ciclo de Vida Simples](../assets/processo-de-design/figura1e.png#only-dark){width: 300}
-<figcaption>Fonte: BARBOSA e SILVA, 2011, p.102.</figcaption>
-</figure>
-
 ### Ciclo de Vida em Estrela
-
-<p style="text-align: justify;">&emsp;&emsp;Desenvolvido por Hix e Hartson, esse modelo é composto por seis atividades ilustradas pela figura 2.</p>
-
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Figura 2</b> - Atividades do Modelo de Ciclo de Vida em Estrela.</p></font>
-![Diagrama do Modelo de Ciclo de Vida em Estrela](../assets/processo-de-design/figura2.png#only-light){width: 300}
-![Diagrama do Modelo de Ciclo de Vida em Estrela](../assets/processo-de-design/figura2e.png#only-dark){width: 300}
-<figcaption>Fonte: BARBOSA e SILVA, 2011, p.103.</figcaption>
-</figure>
 
 <p style="text-align: justify;">&emsp;&emsp;Nesse modelo, é de responsabilidade do designer escolher qual atividade será realizada primeiro, porém, passar pela avaliação após concluir cada atividade é obrigatório independente do caminho escolhido.</p>
 
 <p style="text-align: justify;">&emsp;&emsp;Em relação a atividade, ela possui um papel fundamental nesse modelo, pois são verificados se os dados coletados e os requisitos especificados estão de acordo ao que o usuário necessita. Ela também, é usada para detectar problemas de usabilidade nas representações de design, nos protótipos e no sistema final (BARBOSA e SILVA, 2011, p.104).</p>
 
 ### Engenharia de Usabilidade de Nielsen
-<p style="text-align: justify;">&emsp;&emsp;Segundo Jakob Nielsen, engenharia de usabilidade é um conjunto de atividades que devem acontecer durante todo o ciclo de vida do produto (BARBOSA e SILVA, 2011, p.104). Nielsen define as seguintes atividades em seu ciclo de vida:</p>
-1. Conheça seu usuário 
-2. Realize uma análise competitiva
-3. Defina as metas de usabilidade
-4. Faça designs paralelos
-5. Adote o design participativo
-6. Faça o design coordenado da interface como um todo
-7. Aplique diretrizes e análise heurística
-8. Faça protótipos
-9. Realize testes empíricos
-10. Pratique design iterativo
-
-
-### Engenharia de Usabilidade de Mayhew
-<p style="text-align: justify;">&emsp;&emsp;Deborah Mayhew propôs esse modelo iterativo para a engenharia de usabilidade dividido em três etapas: análise de requisitos, design/avaliação/desenvolvimento e instalação. Esse ciclo de vida está ilustrado na figura 3 e logo após há uma descrição de suas fases:</p>
+<p style="text-align: justify;">&emsp;&emsp;Segundo Jakob Nielsen, engenharia de usabilidade é um conjunto de atividades que devem acontecer durante todo o ciclo de vida do produto (BARBOSA e SILVA, 2011, p.104). A tabela 1 mostra as atividades definidas por Nielsen em seu ciclo de vida:</p>
 
 <figure markdown>
-<font size="3"><p style="text-align: center"><b>Figura 3</b> - Atividades do Modelo de Ciclo de Vida de Mayhew.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Atividades da Engenharia de Usabilidade de Nielsen.</p></font>
+<table>
+<tr>
+<th>1. Conheça seu usuário</th>
+<th>6. Faça o design coordenado da interface como um todo</th>
+</tr>
+<tr>
+<th>2. Realize uma análise competitiva</th>
+<th>7. Aplique diretrizes e análise heurística</th>
+</tr>
+<tr>
+<th>3. Defina as metas de usabilidade</th>
+<th>8. Faça protótipos</th>
+</tr>
+<tr>
+<th>4. Faça designs paralelos</th>
+<th>9. Realize testes empíricos</tr></th>
+<tr>
+<th>5. Adote o design participativo</th>
+<th>10. Pratique design iterativo</th>
+</tr>
+</table>
+<figcaption>Fonte: BARBOSA e SILVA, 2011, p.105.</figcaption>
+</figure>
+
+### Engenharia de Usabilidade de Mayhew
+<p style="text-align: justify;">&emsp;&emsp;Deborah Mayhew propôs esse modelo iterativo para a engenharia de usabilidade dividido em três etapas: análise de requisitos, design/avaliação/desenvolvimento e instalação. Esse ciclo de vida está ilustrado na figura 1 e logo após há uma descrição de suas fases:</p>
+
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Atividades do Modelo de Ciclo de Vida de Mayhew.</p></font>
 ![Diagrama do Modelo de Ciclo de Vida de Mayhew](../assets/processo-de-design/figura3.png#only-light){width: 300}
 ![Diagrama do Modelo de Ciclo de Vida de Mayhew](../assets/processo-de-design/figura3e.png#only-dark){width: 300}
 <figcaption>Fonte: BARBOSA e SILVA, 2011, p.110.</figcaption>
@@ -87,3 +84,4 @@
 | :----: | :--------: | :--------------------------------------: | :----------------------------------------------: | :------------------------------------------: |
 | `1.0`  | 22/04/2023 | Criação da página de Processo de Design. | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
 | `1.1`  | 22/04/2023 | Adição dos ciclos de Nielsen, de Mayhew e motivações | [Douglas Alves](https://github.com/dougAlvs)| [Geovanna Maciel](https://github.com/manuziny)
+| `1.1.1`  | 22/04/2023 | Resumo dos processos que não foram escolhidos | [Douglas Alves](https://github.com/dougAlvs)| [Geovanna Maciel](https://github.com/manuziny)
