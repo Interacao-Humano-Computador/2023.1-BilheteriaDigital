@@ -319,3 +319,4 @@ A Tabela 19 ainda há de ser atualizada. No entanto, realizar-se-á a correção
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
 1.0 | 21/04/2023 | Criação do cronograma | [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/g16c) | [Matheus Henrique](https://github.com/mathonaut)
+1.2 | 22/04/2023 | Correção pós apresentação | [Geovanna Maciel](https://github.com/manuziny) | [Matheus Henrique](https://github.com/mathonaut)

@@ -9,17 +9,18 @@ nav:
       - Ata 1: atas/IHC_Ata_01.md
       - Ata 2: atas/IHC_Ata_02.md
       - Ata 3: atas/IHC_Ata_03.md
+      - Ata 4: atas/IHC_Ata_04.md
   - Planejamento:
+      - Processo de Design: planejamento/processo-design.md
       - Ferramentas: planejamento/ferramentas.md
       - Cronograma: planejamento/cronograma.md
-      - Metodologia: metodologia.md
+      - Metodologia: planejamento/metodologia.md
 theme:
-  hide:
-    - navigation
   features:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.footer
   name: material
@@ -45,10 +46,11 @@ theme:
   logo: assets/bilheteria.png
 
 markdown_extensions:
-  - attr_list
   - admonition
+  - attr_list
+  - def_list
+  - md_in_html
   - pymdownx.details
   - pymdownx.superfences
-  - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
