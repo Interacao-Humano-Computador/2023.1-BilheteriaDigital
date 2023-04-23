@@ -50,6 +50,10 @@ O portal do [IFB (Instituto Federal de Brasília)](https://www.ifb.edu.br/), que
 * [Link para a avaliação detalhada.](avaliacoes/avaliacao-ifb.pdf)
 
 ## Infosaúde
+O InfoSaúde é um espaço virtual criado para disponibilizar dados e informações sobre a situação de saúde do DF. Ela é uma plataforma que contém informações relevantes para os usuários, pesquisadores e gestores. Sua avaliação ficou a cargo da integrante [Geovanna Maciel](https://github.com/manuziny).
+
+A escolha do site foi pelo seu design que contêm muitas informações ambíguas para os usuários. Ao pensar que seus usuários que fariam consultas sobre a farmácia de alto culto ou a quantidade de remédios nas UBS, são pessoas de mais idade e sem muito uso de interfaces. Portanto a escolha se deu por essas características.
+
 * [Link para a avaliação detalhada.](avaliacoes/avaliacao-infosaude.pdf)
 
 ## Mercado Livre

@@ -21,7 +21,7 @@ Baseado nos critérios anteriores, o site [Bilheteria Digital](https://play.goog
 
 Inicialmente, o site escolhido pelo grupo havia sido o [IFB (Instituto Federal de Brasília)](https://www.ifb.edu.br). Contudo, após orientação do professor André, a escolha acabou sendo mudada para a [Bilheteria Digital](https://play.google.com/store/apps/details?id=com.bilheteriadigital.mobile&hl=pt_BR&gl=US), isso se deve, sobretudo, ao fato do site escolhido inicialmente  ser muito simples para o escopo da disciplina e tamanho da equipe. Dito isso, a escolha da [Bilheteria Digital](https://play.google.com/store/apps/details?id=com.bilheteriadigital.mobile&hl=pt_BR&gl=US) apresentou uma motivação extra: precisávamos de um site de complexidade média, isto é, não podia ser um site muito simples e puramente informativo, mas também não podia ser um site muito complexo que fugisse da habilidade dos integrantes e do escopo da disciplina.
 
-####  [Link da avaliação de IHC completa do site.]()
+####  [Link da avaliação de IHC completa do site.](avaliacoes/avaliacao-bilheteria-digital.pdf)
 ## Histórico de Versões
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
