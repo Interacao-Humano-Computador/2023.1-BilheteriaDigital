@@ -14,7 +14,7 @@ hide:
 
 ## Sobre o projeto
 
-Esta página é dedicada à documentação de todos os artefatos produzidos pelo grupo 01 na disciplina de Interação Humano-Computador (IHC) da Faculdade do Gama da Universidade de Brasília (FGA-Unb) durante o 1º semestre de 2023. O objetivo do projeto é fazer a avaliação de IHC do site [Bilheteria Digital](https://www.bilheteriadigital.com) e, aplicando os conceitos aprendidos em classe, sugerir melhoras em sua interface. O site em questão é uma plataforma de acompanhamento de vendas e controle de acesso de ingressos dos mais diversos tipos de eventos que atua em todo Brasil.
+Esta página é dedicada à documentação de todos os artefatos produzidos pelo grupo 01 na disciplina de Interação Humano-Computador (IHC) da Faculdade do Gama da Universidade de Brasília (FGA-Unb) durante o 1º semestre de 2023. O objetivo do projeto é fazer a avaliação de IHC do site [Bilheteria Digital](https://www.bilheteriadigital.com) e, aplicando os conceitos aprendidos em classe, sugerir melhorias em sua interface. O site em questão, cuja logo está explicitada na Figura 1, é uma plataforma de acompanhamento de vendas e controle de acesso de ingressos dos mais diversos tipos de eventos que atua em todo Brasil.
 
 
 ## Equipe
@@ -34,7 +34,8 @@ Esta página é dedicada à documentação de todos os artefatos produzidos pelo
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| 1.0  | 15/04/2023 | Criação da git page | [Douglas Alves](https://github.com/dougAlvs) e [Rafael Ferreira](https://github.com/RafaelCLG0) | [Arthur de Melo](https://github.com/arthurmlv), [Matheus Henrique](https://github.com/mathonaut) e [Gabriel Campello](https://github.com/g16c) |
-| 1.1  | 21/04/2023 | Atualização do visual | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) |
-| 1.2  | 21/04/2023 | Atualização das cores e adição dos temas | [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) |
-| 1.3  | 22/04/2023 | Atualização descrição do projeto | [Douglas Alves](https://github.com/dougAlvs) | [Gabriel Campello](https://github.com/g16c) |
+| `1.0`  | 15/04/2023 | Criação da git page | [Douglas Alves](https://github.com/dougAlvs) e [Rafael Ferreira](https://github.com/RafaelCLG0) | [Arthur de Melo](https://github.com/arthurmlv), [Matheus Henrique](https://github.com/mathonaut) e [Gabriel Campello](https://github.com/g16c) |
+| `1.1`  | 21/04/2023 | Atualização do visual | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.2`  | 21/04/2023 | Atualização das cores e adição dos temas | [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) |
+| `1.3`  | 22/04/2023 | Atualização descrição do projeto | [Douglas Alves](https://github.com/dougAlvs) | [Gabriel Campello](https://github.com/g16c) |
+| `1.4`  | 23/04/2023 | Adição de citação à figura | [Arthur de Melo](https://github.com/arthurmlv) | [Rafael Ferreira](https://github.com/RafaelCLG0) |

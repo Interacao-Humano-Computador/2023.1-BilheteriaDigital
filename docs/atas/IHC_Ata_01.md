@@ -38,6 +38,6 @@ Local: Online via Meet
 ## Histórico de versão
 
 | Versão |    Data    |        Descrição        |                    Autor(es)                     |                   Revisor(es)                    |
-| :----: | :--------: | :---------------------: | :----------------------------------------------: | :----------------------------------------------: |
+| ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
 | `1.0`  | 15/04/2023 | Criação da Documentação |   [Douglas Alves](https://github.com/dougalvs)   |                      Todos                       |
 | `1.1`  | 22/04/2023 | Padronização do visual  | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
