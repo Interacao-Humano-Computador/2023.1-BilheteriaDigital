@@ -2,11 +2,11 @@
 
 ## Descrição 
 
-A metodologia do projeto é a forma como o processo foi realizado, ou seja, as práticas e estratégias utilizadas para o planejamento e execução das etapas que o compõem. Sendo assim, para o desenvolvimento deste projeto, o grupo se baseou no método Scrum, devido à familiaridade da equipe com tal.
+A metodologia do projeto é a forma como o processo foi realizado, ou seja, as práticas e as estratégias utilizadas para o planejamento e a execução das etapas que as compõem. Sendo assim, para o desenvolvimento deste projeto, o grupo se baseou no método Scrum, devido à familiaridade da equipe com tal.
 
 ### SCRUM
 
-O método Scrum pode ser definido como um conjunto de boas práticas, as quais possuem o intuito de desenvolver um projeto no qual não precisa necessariamente do conhecimento de todas as etapas. Portanto, o projeto é divido em ciclos, denominados *sprints*. As *sprints* são um conjunto de atividades que deverão ser executadas num determinado tempo (*Sprint Backlog*).
+O método Scrum pode ser definido como um conjunto de boas práticas, as quais possuem como intuito o desenvolvimento um projeto no qual não precisa necessariamente do discernimento de todas as etapas. Portanto, o projeto é divido em ciclos, denominados *sprints*. As *sprints* são um conjunto de atividades que deverão ser executadas num determinado tempo (*Sprint Backlog*).
 
 #### Equipe Scrum
 
@@ -47,7 +47,9 @@ Quase sempre deve-se abrir um pull request, em especial, nas seguintes ocasiões
 * Quando for enviar correções simples.
 * No momento que for dar assistência à alguma contribuição na qual já está sendo trabalhada em alguma issue.
 
-Além disso, é importante ressaltar que um pull request não significa exatamente um trabalho finalizado. Ele também é uma forma de acompanhar o progresso do desenvolvimento de algum artefato ou ideia, ou seja, é também uma forma dos outros acompanharem aquilo que está fazendo. Um pull request antes de ser aprovado ainda recebe commits posteriores ao seu levantamento.
+Além disso, é importante ressaltar que um pull request não significa exatamente um trabalho finalizado. Ele também é uma forma de acompanhar o progresso do desenvolvimento de algum artefato ou ideia, ou seja, é também uma forma dos outros acompanharem aquilo que está fazendo. Um pull request antes de ser aprovado ainda recebe commits posteriores ao seu levantamento. Sendo assim, é importante que o revisor faça as alterações necessárias na branch específica e faça o merge.
+
+Para cada entrave que demanda um pull request, uma branch deve ser criada, sendo tal nomeada de maneira que seja possível identificar a adversidade a qual está sendo solucionada nessa. Ademais, ao finalizar o pull request e a branch perder o seu propósito naquele momento, a exclusão da branch deve ser efetivada.
 
 ## Histórico de Versões
 
