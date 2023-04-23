@@ -6,7 +6,7 @@
 
 <p style="text-align: justify;">&emsp;&emsp;Os processos de design, portanto, são técnicas que permitem que as atividades elucidadas anteriormente sejam realizadas de forma sistemática e interativa com o objetivo de desenvolver soluções que atendam às necessidades dos usuários. Dentre as diversas técnicas podemos citar quatro principais, sendo elas: ciclo de vida simples, ciclo de vida em estrela, engenharia de usabilidade de Nielsen e engenharia de usabilidade de Mayhew.</p>
 
-<p style="text-align: justify;">&emsp;&emsp;Nesse documento, discutiremos os quatros principais processos de design e como eles podem serem aplicados para propor intervenções capazes de resolver problemas.</p>
+<p style="text-align: justify;">&emsp;&emsp;Logo de antemão, é importante dizer que o modelo de design escolhido pelo grupo foi o <b>Ciclo de Vida de Mayhew</b>. Contudo, nesse documento serão discutidos os quatro principais processos de design, como eles podem ser aplicados para propor intervenções capazes de resolver problemas e qual foi a motivação da escolha do grupo para o projeto.</p>
 
 ## Modelos
 
@@ -40,6 +40,42 @@
 
 <p style="text-align: justify;">&emsp;&emsp;Em relação a atividade, ela possui um papel fundamental nesse modelo, pois são verificados se os dados coletados e os requisitos especificados estão de acordo ao que o usuário necessita. Ela também, é usada para detectar problemas de usabilidade nas representações de design, nos protótipos e no sistema final (BARBOSA e SILVA, 2011, p.104).</p>
 
+### Engenharia de Usabilidade de Nielsen
+<p style="text-align: justify;">&emsp;&emsp;Segundo Jakob Nielsen, engenharia de usabilidade é um conjunto de atividades que devem acontecer durante todo o ciclo de vida do produto (BARBOSA e SILVA, 2011, p.104). Nielsen define as seguintes atividades em seu ciclo de vida:</p>
+1. Conheça seu usuário 
+2. Realize uma análise competitiva
+3. Defina as metas de usabilidade
+4. Faça designs paralelos
+5. Adote o design participativo
+6. Faça o design coordenado da interface como um todo
+7. Aplique diretrizes e análise heurística
+8. Faça protótipos
+9. Realize testes empíricos
+10. Pratique design iterativo
+
+
+### Engenharia de Usabilidade de Mayhew
+<p style="text-align: justify;">&emsp;&emsp;Deborah Mayhew propôs esse modelo iterativo para a engenharia de usabilidade dividido em três etapas: análise de requisitos, design/avaliação/desenvolvimento e instalação. Esse ciclo de vida está ilustrado na figura 3 e logo após há uma descrição de suas fases:</p>
+
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - Atividades do Modelo de Ciclo de Vida de Mayhew.</p></font>
+![Diagrama do Modelo de Ciclo de Vida de Mayhew](../assets/processo-de-design/figura3.png#only-light){width: 300}
+![Diagrama do Modelo de Ciclo de Vida de Mayhew](../assets/processo-de-design/figura3e.png#only-dark){width: 300}
+<figcaption>Fonte: BARBOSA e SILVA, 2011, p.110.</figcaption>
+</figure>
+
+#### Análise de requisitos
+<p style="text-align: justify;">&emsp;&emsp;Nessa fase, são definidas as metas de usabilidade considerando aspectos como o perfil dos usuários, a análise das tarefas a serem realizadas, as possibilidades e limitações da plataforma em que o sistema será executado, e princípios gerais de design de IHC. Para facilitar a verificação dessas metas em etapas posteriores do processo de desenvolvimento, é comum apresentá-las em guias de estilo que incluem diretrizes relacionadas a diversos elementos da interface do usuário, como layout, cores, fontes, imagens, ícones e sons.</p>
+
+#### Design, avaliação, desenvolvimento
+<p style="text-align: justify;">&emsp;&emsp;Essa fase busca criar uma interface que atenda às metas de usabilidade definidas na fase anterior. Esse processo envolve a criação da solução em três níveis de detalhe. No primeiro nível, o designer deve repensar a execução das tarefas e criar protótipos de baixa fidelidade para avaliação. No segundo nível, designer estabelece padrões de design e constrói protótipos de média fidelidade para avaliação. Já no terceiro nível, o designer faz o projeto detalhado da interface, com alta fidelidade, para implementação.</p>
+
+#### Instalação
+<p style="text-align: justify;">&emsp;&emsp;Essa fase envolve a coleta de feedback dos usuários que já usaram o sistema por algum tempo, de forma a melhorar versões futuras deste ou demonstrar a necessidade de desenvolvimento de novos sistemas.</p>
+
+## Motivações para a escolha
+<p style="text-align: justify;">&emsp;&emsp;Após a análise dos modelos citados anteriormente, o grupo discutiu suas vantagens e desvantagens para chegar a um consenso de qual seria o melhor processo para o projeto. A conclusão foi que o Ciclo de Vida de Mayhew seria o melhor candidato por alguns motivos, como o fato de suas etapas serem detalhadas e bem definidas, deixando menos espaço para a subjetividade do que o ciclo de vida simples, por exemplo. Pelo fato do grupo não ter experiência na área de IHC, um modelo mais robusto e detalhado seria mais condizente com nossa situação, pois nos serviria de guia.</p>
+<p style="text-align: justify;">&emsp;&emsp;No contexto do projeto da disciplina, como o sistema escolhido já está em produção, iniciaremos na etapa de instalação do Ciclo de Vida de Mayhew, identificando algumas problemas e respectivas melhorias que possam ser aplicadas ao sistema, para depois ir para a fase de análise de requisitos e assim seguir o fluxo previsto no modelo.</p>
 
 ## Referências 
 >BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -50,3 +86,4 @@
 | Versão |    Data    |                Descrição                 |                    Autor(es)                     |                 Revisor(es)                  |
 | :----: | :--------: | :--------------------------------------: | :----------------------------------------------: | :------------------------------------------: |
 | `1.0`  | 22/04/2023 | Criação da página de Processo de Design. | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
+| `1.1`  | 22/04/2023 | Adição dos ciclos de Nielsen, de Mayhew e motivações | [Douglas Alves](https://github.com/dougAlvs)| [Geovanna Maciel](https://github.com/manuziny)
