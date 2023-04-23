@@ -1,7 +1,5 @@
 repo_url: https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital
 repo_name: 2023.1-BilheteriaDigital
-hide:
-  - toc
 site_name: Bilheteria Digital
 nav:
   - Home: index.md
@@ -11,10 +9,12 @@ nav:
       - Ata 3: atas/IHC_Ata_03.md
       - Ata 4: atas/IHC_Ata_04.md
   - Planejamento:
-      - Processo de Design: planejamento/processo-design.md
-      - Ferramentas: planejamento/ferramentas.md
       - Cronograma: planejamento/cronograma.md
+      - Ferramentas: planejamento/ferramentas.md
       - Metodologia: planejamento/metodologia.md
+      - Sites avaliados: planejamento/sites-avaliados.md
+      - Site escolhido: planejamento/site-escolhido.md
+      - Processo design: planejamento/processo-design.md
 theme:
   features:
     - navigation.instant
@@ -26,19 +26,15 @@ theme:
   name: material
   palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: black
-      accent: black
+      scheme: claro
       toggle:
-        icon: material/weather-sunny
+        icon: material/circle-half-full
         name: Claro
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
-      accent: white
       toggle:
-        icon: material/weather-night
+        icon: material/circle-half-full
         name: Escuro
 
   language: pt-BR
@@ -54,3 +50,5 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
+
+extra_css: [stylesheets/extra.css]

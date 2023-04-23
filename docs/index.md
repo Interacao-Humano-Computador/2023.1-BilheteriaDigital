@@ -6,13 +6,18 @@ hide:
 
 # Bilheteria Digital
 
-<p align="center"><img src="assets/bilheteria.png" width = 40%></p>
+<font size="2"><p style="text-align: center">Figura 1: Logo Bilheteria Digital.</p></font>
 
-Este repositório objetiva analisar o site [Bilheteria Digital](https://www.bilheteriadigital.com) para fins de estudos na disciplina de Interação Humano-Computador da FGA-UnB.
+<p align="center"><img style="border: 2px solid white; border-radius: 117px" img src="assets/bilheteria.png" width = 40%></p>
 
-## Grupo
+<font size="2"><p style="text-align: center">Fonte: [Bilheteria Digital](https://www.bilheteriadigital.com).</p></font>
 
-### 👨‍💻 Contribuidores
+## Sobre o projeto
+
+Esta página é dedicada à documentação de todos os artefatos produzidos pelo grupo 01 na disciplina de Interação Humano-Computador (IHC) da Faculdade do Gama da Universidade de Brasília (FGA-Unb) durante o 1º semestre de 2023. O objetivo do projeto é fazer a avaliação de IHC do site [Bilheteria Digital](https://www.bilheteriadigital.com) e, aplicando os conceitos aprendidos em classe, sugerir melhoras em sua interface. O site em questão é uma plataforma de acompanhamento de vendas e controle de acesso de ingressos dos mais diversos tipos de eventos que atua em todo Brasil.
+
+
+## Equipe
 
 <table>
   <tr>
@@ -25,10 +30,11 @@ Este repositório objetiva analisar o site [Bilheteria Digital](https://www.bilh
   </tr>
 </table>
 
-## 3. Histórico de versão
+## Histórico de versão
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
 | 1.0  | 15/04/2023 | Criação da git page | [Douglas Alves](https://github.com/dougAlvs) e [Rafael Ferreira](https://github.com/RafaelCLG0) | [Arthur de Melo](https://github.com/arthurmlv), [Matheus Henrique](https://github.com/mathonaut) e [Gabriel Campello](https://github.com/g16c) |
 | 1.1  | 21/04/2023 | Atualização do visual | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) |
 | 1.2  | 21/04/2023 | Atualização das cores e adição dos temas | [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) |
+| 1.3  | 22/04/2023 | Atualização descrição do projeto | [Douglas Alves](https://github.com/dougAlvs) | [Gabriel Campello](https://github.com/g16c) |

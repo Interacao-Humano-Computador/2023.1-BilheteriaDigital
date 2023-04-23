@@ -2,9 +2,12 @@
 
 <p align="center"><img src="assets/img/bilheteria.png" width = 40%></p>
 
-Este repositório objetiva analisar o site [Bilheteria Digital](https://www.bilheteriadigital.com) para fins de estudos na disciplina de Interação Humano-Computador da FGA-UnB.
+## Sobre o projeto
 
-## 👨‍💻 Contribuidores
+Este repositório é dedicada à documentação de todos os artefatos produzidos pelo grupo 01 na disciplina de Interação Humano-Computador (IHC) da Faculdade do Gama da Universidade de Brasília (FGA-Unb) durante o 1º semestre de 2023. O objetivo do projeto é fazer a avaliação de IHC do site [Bilheteria Digital](https://www.bilheteriadigital.com) e, aplicando os conceitos aprendidos em classe, sugerir melhoras em sua interface. O site em questão é uma plataforma de acompanhamento de vendas e controle de acesso de ingressos dos mais diversos tipos de eventos que atua em todo Brasil.
+
+
+## Equipe
 
 <table>
   <tr>
