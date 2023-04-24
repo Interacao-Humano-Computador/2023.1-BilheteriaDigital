@@ -3,6 +3,7 @@ repo_name: 2023.1-BilheteriaDigital
 site_name: Bilheteria Digital
 nav:
   - Home: index.md
+  - Apresentação: apresentacao.md
   - Atas:
       - Ata 1: atas/IHC_Ata_01.md
       - Ata 2: atas/IHC_Ata_02.md
