@@ -47,9 +47,10 @@ markdown_extensions:
   - attr_list
   - def_list
   - md_in_html
+  - pymdownx.caret
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
-
+  - pymdownx.tilde
 extra_css: [stylesheets/extra.css]
