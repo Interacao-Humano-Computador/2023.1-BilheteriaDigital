@@ -6,12 +6,12 @@ Local: Online via Teams
 
 ## Participantes presentes:
 
-- [x] Arthur De Melo
-- [x] Douglas Alves
-- [x] Gabriel Campello
-- [ ] Geovanna Maciel
-- [x] Matheus Henrique
-- [x] Rafael Ferreira
+- [x] [Arthur de Melo](https://github.com/arthurmlv)
+- [x] [Douglas Alves](https://github.com/dougAlvs)
+- [x] [Gabriel Campello](https://github.com/G16C)
+- [ ] [Geovanna Maciel]((https://github.com/manuziny))
+- [x] [Matheus Henrique](https://github.com/mathonaut)
+- [x] [Rafael Ferreira](https://github.com/RafaelCLG0)
 
 ## Discussão:
 
