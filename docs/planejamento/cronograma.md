@@ -67,12 +67,12 @@ A Tabela 4 ainda há de ser atualizada. No entanto, realizar-se-á a correção 
 
 | Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
 |---	|---	|---	|---	|---	|
-|   Perfil do usuário 	| Início: 21/04<br>Fim: 23/04 	| Geovanna 	| Início: 24/04<br>Fim: 24/04 	| Douglas 	|
-|   Personas 	| Início: 25/04<br>Fim: 27/04 	| Rafael e Gabriel 	| Início: 28/04<br>Fim: 29/04 	| Matheus 	|
-|   Pesquisa sobre ética 	| Início: 22/04<br>Fim: 25/04 	| Matheus 	| Início: 26/04<br>Fim: 26/04 	| Gabriel 	|
-|   Execução do documento 	| Início: 27/04<br>Fim: 30/04 	| Arthur e Douglas 	| Início: 01/05<br>Fim: 02/05 	| Geovanna 	|
-|   Análise de tarefas 	| Início: 28/04<br>Fim: 01/04 	| Geovanna e Douglas 	| Início: 02/04<br>Fim: 03/04 	| Arthur 	|
-|   Gravação da Apresentação 	| Início: 01/04<br>Fim: 01/04 	| Todos 	| Início: 02/05<br>Fim: 02/05 	| Todos 	|
+|   Perfil do usuário 	| Início: 01/05<br>Fim: 02/05 	| Geovanna e Gabriel | Início: 03/05<br>Fim: 03/05 	| Rafael 	|
+|   Personas 	| Início: 03/05<br>Fim: 05/04 	| Rafael e Matheus 	| Início: 05/05<br>Fim: 05/05 	| Geovanna 	|
+|   Pesquisa sobre ética 	| Início: 02/05<br>Fim: 03/05 	| Gabriel 	| Início: 04/05<br>Fim: 05/05 	| Douglas	|
+|   Execução do documento de pesquisa sobre ética | Início: 03/05<br>Fim: 04/05 	| Arthur e Douglas 	| Início: 05/05<br>Fim: 06/05 	|   Matheus |
+|   Análise de tarefas: HTA	| Início: 06/05<br>Fim: 06/04 	| Geovanna e Douglas 	| Início: 07/04<br>Fim: 07/04 	| Arthur 	|
+|   Gravação da Apresentação 	| Início: 07/05<br>Fim: 07/05 	| Todos 	| Início: 08/05<br>Fim: 08/05 	| Todos 	|
 |   Correção pós apresentação	| Início: 09/05<br>Fim: 09/05 	| Todos 	| Início: 09/05<br>Fim: 12/05 	| Todos 	|
 
 <font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/g16c).</p></font>
