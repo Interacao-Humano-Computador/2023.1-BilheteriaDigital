@@ -30,6 +30,8 @@ nav:
       - Sites avaliados: planejamento/sites-avaliados.md
       - Site escolhido: planejamento/site-escolhido.md
       - Processo design: planejamento/processo-design.md
+  - Análise de Requisitos:
+      - Perfil de Usuário: requisitos/perfil-usuario.md
 theme:
   features:
     - navigation.instant
