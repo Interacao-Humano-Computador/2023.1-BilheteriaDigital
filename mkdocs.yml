@@ -6,6 +6,7 @@ markdown_extensions:
   - admonition
   - attr_list
   - def_list
+  - footnotes
   - md_in_html
   - pymdownx.caret
   - pymdownx.details
@@ -16,8 +17,6 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Análise de Requisitos:
-      - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
   - Apresentação: apresentacao.md
   - Atas:
       - Ata 1: atas/IHC_Ata_01.md
@@ -33,6 +32,10 @@ nav:
       - Sites avaliados: planejamento/sites-avaliados.md
       - Site escolhido: planejamento/site-escolhido.md
       - Processo design: planejamento/processo-design.md
+  - Análise de Requisitos:
+      - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
+      - Personas: analise-de-requisitos/personas.md
+
 theme:
   features:
     - navigation.instant
