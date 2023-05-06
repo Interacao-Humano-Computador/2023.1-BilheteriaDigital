@@ -16,6 +16,8 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Análise de Requisitos:
+      - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
   - Apresentação: apresentacao.md
   - Atas:
       - Ata 1: atas/IHC_Ata_01.md
