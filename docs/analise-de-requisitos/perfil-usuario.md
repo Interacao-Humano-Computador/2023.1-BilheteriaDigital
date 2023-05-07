@@ -32,7 +32,7 @@ Os resultados do Grupo de Foco foram bem variados, levando em consideração a d
 
 <span style = "color: orange"> Geovana Campeiro </span>: Boa experiência com sites de compra de ingressos online.
 
-<span style = "color: orange">Usuário 2 </span>: Experiencte com navegação web, mas prefere fazer compras físicas dependendo da disponibilidade.
+<span style = "color: orange">Usuário 2 </span>: Experiente com navegação web, mas prefere fazer compras físicas dependendo da disponibilidade.
 
 <span style = "color: orange">Usuário 3 </span>: Experiente, mas não costuma utilizar com frequência.
 
