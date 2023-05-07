@@ -6,11 +6,12 @@ Personas são personagens fictícias criadas para representar os usuários da ap
 
 ## Metodologia
 
-As personas foram criadas a partir do [perfil de usuário](../analise-de-requisitos/perfil-usuario.md) elaborado. No total, o elenco é composto por quatro personas, 2 primaria(s), 1 secundaria(s) e uma antipersona. Essa quantidade foi escolhida, pois representa de maneira razoável a população de usuários do sistema.
+
+As personas foram criadas a partir do [perfil de usuário](../analise-de-requisitos/perfil-usuario.md) elaborado. No total, o elenco é composto por quatro personas, 2 primárias, 1 secundária e uma antipersona. Essa quantidade foi escolhida, pois representa de maneira razoável a população de usuários do sistema.
 
 ## Elenco
 
-As tabelas de 1 a 4 apresentam o elenco de personas.
+As tabelas de 1 a 4 apresentam o elenco de personas, as quais possuem as fotos explicitadas nas figuras de 1 a 4.
 
 <center>
 
