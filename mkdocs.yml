@@ -36,6 +36,10 @@ nav:
       - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
       - Perfil de Usuário: analise-de-requisitos/perfil-usuario.md
       - Personas: analise-de-requisitos/personas.md
+      - Análise de tarefas:
+          - Análise Hierárquica de Tarefas: analise-de-requisitos/analise-de-tarefas/hta.md
+          - GOMS: analise-de-requisitos/analise-de-tarefas/goms.md
+
 theme:
   features:
     - navigation.instant
