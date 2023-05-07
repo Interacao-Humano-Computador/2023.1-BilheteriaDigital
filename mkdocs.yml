@@ -18,6 +18,9 @@ nav:
   - Home: index.md
   - Análise de Requisitos:
       - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
+      - Análise de tarefas:
+           - Análise Hierárquica de Tarefas: analise-de-requisitos/analise-de-tarefas/hta.md
+           - GOMS: analise-de-requisitos/analise-de-tarefas/goms.md
   - Apresentação: apresentacao.md
   - Atas:
       - Ata 1: atas/IHC_Ata_01.md
