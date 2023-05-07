@@ -18,6 +18,7 @@ nav:
   - Home: index.md
   - Análise de Requisitos:
       - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
+      - Perfil de Usuário: analise-de-requisitos/perfil-usuario.md
       - Análise de tarefas:
            - Análise Hierárquica de Tarefas: analise-de-requisitos/analise-de-tarefas/hta.md
            - GOMS: analise-de-requisitos/analise-de-tarefas/goms.md
@@ -36,9 +37,6 @@ nav:
       - Sites avaliados: planejamento/sites-avaliados.md
       - Site escolhido: planejamento/site-escolhido.md
       - Processo design: planejamento/processo-design.md
-  - Análise de Requisitos:
-      - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
-      - Perfil de Usuário: analise-de-requisitos/perfil-usuario.md
 theme:
   features:
     - navigation.instant
