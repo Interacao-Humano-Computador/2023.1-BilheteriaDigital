@@ -21,13 +21,12 @@ Local: Online via Teams
 ## Decisões:
 
 - Padronização das referências: [Matheus Henrique](https://github.com/mathonaut).
-- Criação das issues com base no [cronograma](https://docs.google.com/spreadsheets/d/1SEwBQoFsySaTAvdmDYGwd3fS2pl0NnlE/edit?rtpof=true#gid=1284715897): <br> 
-Perfil de usuário: [Rafael Ferreira](https://github.com/RafaelCLG0); <br>
-Personas: [Gabriel Campello](https://github.com/G16C); <br>
-Execução do documento: [Geovanna Maciel](https://github.com/manuziny);<br>
-Pesquisa sobre a ética: [Douglas Alves](https://github.com/dougAlvs);<br>
-Análise de tarefas: [Arthur de Melo](https://github.com/arthurmlv) <br>
-
+- Criação das issues com base no [cronograma](https://docs.google.com/spreadsheets/d/1SEwBQoFsySaTAvdmDYGwd3fS2pl0NnlE/edit?rtpof=true#gid=1284715897): <br>
+  Perfil de usuário: [Rafael Ferreira](https://github.com/RafaelCLG0); <br>
+  Personas: [Gabriel Campello](https://github.com/G16C); <br>
+  Execução do documento: [Geovanna Maciel](https://github.com/manuziny);<br>
+  Pesquisa sobre a ética: [Douglas Alves](https://github.com/dougAlvs);<br>
+  Análise de tarefas: [Arthur de Melo](https://github.com/arthurmlv) <br>
 
 ## Link da gravação
 
@@ -36,6 +35,7 @@ Análise de tarefas: [Arthur de Melo](https://github.com/arthurmlv) <br>
 ## Próxima Reunião 06/05/2023 às 10h
 
 ## Histórico de versão
-Versão | Data   | Descrição | Autor(es) | Revisor(es)
---------- | ------ | ---------- | ---------- | ----------
-1.0 | 29/04/2023 | Criação da Documentação | [Arthur de Melo](https://github.com/arthurmlv) | Todos
+
+| Versão | Data       | Descrição                | Autor(es)                                      | Revisor(es) |
+| ------ | ---------- | ------------------------ | ---------------------------------------------- | ----------- |
+| 1.0    | 29/04/2023 | Criação da documentação. | [Arthur de Melo](https://github.com/arthurmlv) | Todos       |

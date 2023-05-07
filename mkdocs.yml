@@ -16,13 +16,14 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Apresentação: apresentacao.md
+  - Apresentações: apresentacao.md
   - Atas:
       - Ata 1: atas/IHC_Ata_01.md
       - Ata 2: atas/IHC_Ata_02.md
       - Ata 3: atas/IHC_Ata_03.md
       - Ata 4: atas/IHC_Ata_04.md
       - Ata 5: atas/IHC_Ata_05.md
+      - Ata 6: atas/IHC_Ata_06.md
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
@@ -31,7 +32,8 @@ nav:
       - Site escolhido: planejamento/site-escolhido.md
       - Processo design: planejamento/processo-design.md
   - Análise de Requisitos:
-      - Perfil de Usuário: requisitos/perfil-usuario.md
+      - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
+      - Perfil de Usuário: analise-de-requisitos/perfil-usuario.md
 theme:
   features:
     - navigation.instant
