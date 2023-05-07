@@ -17,7 +17,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Apresentação: apresentacao.md
+  - Apresentações: apresentacao.md
   - Atas:
       - Ata 1: atas/IHC_Ata_01.md
       - Ata 2: atas/IHC_Ata_02.md
@@ -34,8 +34,8 @@ nav:
       - Processo design: planejamento/processo-design.md
   - Análise de Requisitos:
       - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
+      - Perfil de Usuário: analise-de-requisitos/perfil-usuario.md
       - Personas: analise-de-requisitos/personas.md
-
 theme:
   features:
     - navigation.instant

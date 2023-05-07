@@ -30,13 +30,13 @@ Local: Online via Meet
 ## Link da gravação:
 
 !!! info
-    A primeira reunião foi realizada por meio do Google Meets, no entanto, não foi gravada
+    A primeira reunião foi realizada por meio do Google Meets, no entanto, não foi gravada.
 
 ## Próxima Reunião 09/04/2023 às 10h
 
 ## Histórico de versão
 
-| Versão |    Data    |        Descrição        |                    Autor(es)                     |                   Revisor(es)                    |
-| ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
-| `1.0`  | 15/04/2023 | Criação da Documentação |   [Douglas Alves](https://github.com/dougalvs)   |                      Todos                       |
-| `1.1`  | 22/04/2023 | Padronização do visual  | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| Versão | Data       | Descrição                | Autor(es)                                        | Revisor(es)                                      |
+| ------ | ---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`  | 15/04/2023 | Criação da documentação. | [Douglas Alves](https://github.com/dougalvs)     | Todos                                            |
+| `1.1`  | 22/04/2023 | Padronização do visual.  | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |

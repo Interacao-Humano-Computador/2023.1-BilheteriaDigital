@@ -33,8 +33,8 @@ Local: Online via Teams
 
 ## Histórico de versão
 
-| Versão |    Data    |                  Descrição                  |                    Autor(es)                     |                 Revisor(es)                 |
-| ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
-| `1.0`  | 22/04/2023 |           Criação da Documentação           |   [Gabriel Campello](https://github.com/G16C)    |                    Todos                    |
-| `1.1`  | 22/04/2023 | Correção do título e padronização do visual | [Matheus Henrique](https://github.com/mathonaut) | [Gabriel Campello](https://github.com/G16C) |
-| `1.1`  | 23/04/2023 | Correção da data e adição do link | [Arthur de Melo](https://github.com/arthurmlv) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| Versão | Data       | Descrição                                    | Autor(es)                                        | Revisor(es)                                      |
+| ------ | ---------- | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`  | 22/04/2023 | Criação da documentação.                     | [Gabriel Campello](https://github.com/G16C)      | Todos                                            |
+| `1.1`  | 22/04/2023 | Correção do título e padronização do visual. | [Matheus Henrique](https://github.com/mathonaut) | [Gabriel Campello](https://github.com/G16C)      |
+| `1.1`  | 23/04/2023 | Correção da data e adição do link.           | [Arthur de Melo](https://github.com/arthurmlv)   | [Rafael Ferreira](https://github.com/RafaelCLG0) |
