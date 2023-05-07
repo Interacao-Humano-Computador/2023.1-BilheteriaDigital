@@ -29,6 +29,6 @@ Local: Online via Teams
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição               | Autor(es)                                        | Revisor(es) |
-| ------ | ---------- | ----------------------- | ------------------------------------------------ | ----------- |
-| 1.0    | 06/05/2023 | Criação da Documentação | [Matheus Henrique](https://github.com/mathonaut) | Todos       |
+| Versão | Data       | Descrição                | Autor(es)                                        | Revisor(es) |
+| ------ | ---------- | ------------------------ | ------------------------------------------------ | ----------- |
+| 1.0    | 06/05/2023 | Criação da documentação. | [Matheus Henrique](https://github.com/mathonaut) | Todos       |
