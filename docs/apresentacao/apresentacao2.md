@@ -9,9 +9,9 @@ O objetivo dessa página é armazenar o vídeo da apresentação da Segunda Entr
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
-Nesta apresentação, demonstrou-se o que foi foi realizado para a primeira entrega da disciplina, a qual foi planejada sob os critérios estabelecidos no plano de ensino disponibilizado pelo professor. Estes critérios estão explicitados na Tabela 1 a seguir:
+Nesta apresentação, demonstrou-se o que foi foi realizado para a segunda entrega da disciplina, a qual foi planejada sob os critérios estabelecidos no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf) disponibilizado pelo professor. Estes critérios estão explicitados na Tabela 1 a seguir:
 
-<font size="3"><p style="text-align: center">Tabela 1: Critérios para a Entrega 1</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Critérios para a Entrega 2</p></font>
 
 A git page possui?  | Sim/Não/Incompleto
 --------- | ------
@@ -39,7 +39,7 @@ A git page possui?  | Sim/Não/Incompleto
 23 – Ao menos duas técnicas para especificar as tarefas? | Sim, HTA e CMN GOMS
 
 
-<font size="3"><p style="text-align: center">Fonte: Plano de Ensino da disciplina de IHC</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Plano de Ensino da disciplina de IHC](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf)</p></font>
 
 ## Histórico de Versões
 
