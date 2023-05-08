@@ -1,6 +1,6 @@
 ## Introdução
 
-Essa página tem como objetivo disponibilizar as apresentações realizadas para cada entrega da disciplina de Interação Humano-Computador.
+O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Entrega. Se não for possível acessar o vídeo pela própria página, clique no link correspondente.
 
 ## Apresentação 01
 <p style="text-align: center"><a href="https://www.youtube.com/embed/c_BhiL1lPC0" target="blanket">Clique aqui</a></p>
