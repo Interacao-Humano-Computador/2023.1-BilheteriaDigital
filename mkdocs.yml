@@ -17,7 +17,9 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Apresentações: apresentacao.md
+  - Apresentações:
+      - Apresentação 1: apresentacao/apresentacao1.md
+      - Apresentação 2: apresentacao/apresentacao2.md
   - Atas:
       - Ata 1: atas/IHC_Ata_01.md
       - Ata 2: atas/IHC_Ata_02.md
