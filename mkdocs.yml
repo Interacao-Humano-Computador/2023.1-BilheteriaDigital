@@ -1,6 +1,5 @@
 repo_url: https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital
 repo_name: 2023.1-BilheteriaDigital
-site_name: Bilheteria Digital
 
 markdown_extensions:
   - admonition
@@ -15,6 +14,7 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
+site_name: Bilheteria Digital
 nav:
   - Home: index.md
   - Apresentações:
@@ -37,12 +37,14 @@ nav:
   - Análise de Requisitos:
       - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
       - Perfil de Usuário: analise-de-requisitos/perfil-usuario.md
+      - Cenários: analise-de-requisitos/cenarios.md
       - Personas: analise-de-requisitos/personas.md
       - Análise de tarefas:
           - Análise Hierárquica de Tarefas: analise-de-requisitos/analise-de-tarefas/hta.md
           - GOMS: analise-de-requisitos/analise-de-tarefas/goms.md
 
 theme:
+  name: material
   features:
     - navigation.instant
     - navigation.tracking
@@ -50,22 +52,25 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.footer
-  name: material
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: claro
       toggle:
         icon: material/circle-half-full
-        name: Claro
+        name: Escuro
 
-    - media: "(prefers-color-scheme: dark)"
+    - media: "(prefers-color-scheme: light)"
       scheme: slate
       toggle:
         icon: material/circle-half-full
-        name: Escuro
+        name: Claro
 
   language: pt-BR
   favicon: assets/bilheteria.png
   logo: assets/bilheteria.png
+
+extra:
+  version:
+    provider: mike
 
 extra_css: [stylesheets/extra.css]
