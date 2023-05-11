@@ -25,3 +25,4 @@ Após o login, pesquisou "sonic" na barra de pesquisas na parte superior, aparec
 | Versão |    Data    |                Descrição                 |                    Autor(es)                     |                 Revisor(es)                  |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
 | `1.0`  | 10/05/2023 | Criação da página de Cenários, feita a Introdução e o Cenário de Cadastro. | [Arthur de Melo](https://github.com/arthurmlv) | [Douglas Alves](https://github.com/dougAlvs) |
+| `1.1`  | 11/05/2023 | Remoção do Cenário de Cadastro e Adição do Cenário de Compra. | [Arthur de Melo](https://github.com/arthurmlv) | [Douglas Alves](https://github.com/dougAlvs) |
