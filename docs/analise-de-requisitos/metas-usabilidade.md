@@ -1,0 +1,85 @@
+# Metas de Usabilidade
+
+## Introdução
+
+Podemos definir usabilidade como sendo o grau em que um produto é usado por usuários específicos para atingir objetivos específicos com eficácia, eficiência e satisfação em um contexto de uso específico.<a id="anchor_1" href="#REF1">^1^</a>
+
+Metas de Usabilidade, portanto, seriam os fatores de qualidade que permite que as características elencadas no parágrafo anterior sejam alcançadas. As metas utilizadas neste projetos serão as seguintes: Eficácia, Eficiência, Segurança, Utilidade, Aprendizado e Memorização.<a id="anchor_2" href="#REF2">^2^</a>
+
+## Metodologia
+
+No contexto desse trabalho, todas as metas serão analisadas utilizando como base o comportamento dos usuários, com as características definidas pelo [perfil do usuário](../analise-de-requisitos/perfil-usuario.md), em diversas situações de uso. Sendo assim, as metas serão priorizadas, definindo quais foram atingidas ou não.
+
+## Metas de Usabilidade
+
+São enumerados a seguir as metas de usabilidade e como o sistema do site [Bilheteria Digital](https://www.bilheteriadigital.com/) as utiliza.
+
+### 1. Eficácia
+
+Definida como o quão bom um sistema faz o que se espera que ele faça.
+
+#### No sistema
+
+No geral o sistema é eficaz, ele consegue com êxito mostrar os eventos e suas informações e permite que o usuário realize as atividades principais de compra e visualização de ingressos. Há ressalvas em relação a velocidade e a qualidade das informações apresentadas ao usuário.
+
+<hr>
+
+### 2. Eficiência
+
+Definida como o sistema auxilia o usuário a realizar as suas tarefas.
+
+#### No sistema
+
+<hr>
+
+### 3. Segurança
+
+Definida como a proteção do usuário contra condições perigosas e situações indesejáveis.
+
+#### No sistema
+
+<hr>
+
+### 4. Utilidade
+
+Definida como a oferta, pelo sistema, de um conjunto apropriado de funções. Ou seja, se o sistema oferece a quantidade necessária para que o usuário realize uma tarefa de maneira mais eficiente.
+
+No sistema
+
+<hr>
+
+### 5. Aprendizado
+
+Definida como a facilidade para se aprender a utilizar esse sistema.
+
+No sistema
+
+<hr>
+
+### 6. Memorização
+
+Definida como sendo a facilidade para um usuário se lembrar como utilizar o sistema após uma experiência prévia.
+
+No sistema
+
+<hr>
+
+## Conclusão
+
+## Referências Bibliográficas
+
+> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+## Bibliografia
+
+> PERILLO, Matheus; SANTANA, Natan Tavares. Metas de usabilidade. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/analise_de_requisitos/metas_usabilidade/>>. Acesso em: 09 maio 2023.
+
+> SANTOS, Eduardo Schuindt; VAS, João Lucas. Metas de Usabilidade. Repositório do Grupo Simples Nacional da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/MetasUsabilidade/>>. Acesso em: 09 maio 2023.
+
+> MACHADO, Maurício. et al. Metas de Usabilidade. Repositório do Grupo Lichess da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-Lichess/analise_requisitos/metas_usabilidade/>>. Acesso em: 03 maio 2023.
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                      |
+| ------ | ---------- | ------------------ | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`  | 10/05/2023 | Criação da página. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
