@@ -4,7 +4,7 @@
 
 Podemos definir usabilidade como sendo o grau em que um produto é usado por usuários específicos para atingir objetivos específicos com eficácia, eficiência e satisfação em um contexto de uso específico.<a id="anchor_1" href="#REF1">^1^</a>
 
-Metas de Usabilidade, portanto, seriam os fatores de qualidade que permite que as características elencadas no parágrafo anterior sejam alcançadas. As metas utilizadas neste projetos serão as seguintes: Eficácia, Eficiência, Segurança, Utilidade, Aprendizado e Memorização.<a id="anchor_2" href="#REF2">^2^</a>
+Metas de Usabilidade, portanto, seriam os fatores de qualidade que permite que as características elencadas no parágrafo anterior sejam alcançadas. As metas utilizadas neste projetos serão as seguintes: Eficácia, Eficiência, Segurança, Utilidade, Aprendizado e Memorização.<a id="anchor_1" href="#REF1">^1^</a>
 
 ## Metodologia
 
@@ -74,7 +74,7 @@ A utilização do sistema se torna bastante intuitiva com a experiência de apen
 
 ## Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1mk">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Bibliografia
 
