@@ -20,7 +20,7 @@ Definida como o quão bom um sistema faz o que se espera que ele faça.
 
 #### No sistema
 
-No geral o sistema é eficaz, ele consegue com êxito mostrar os eventos e suas informações e permite que o usuário realize as atividades principais de compra e visualização de ingressos. Há ressalvas em relação a velocidade e a qualidade das informações apresentadas ao usuário.
+No geral o sistema é parcialmente eficaz, ele consegue com êxito mostrar os eventos e permite que o usuário realize com ressalvas as atividades principais de compra e visualização de ingressos.
 
 <hr>
 
@@ -30,6 +30,8 @@ Definida como o sistema auxilia o usuário a realizar as suas tarefas.
 
 #### No sistema
 
+O sistema não apresenta uma boa eficiência. A interface não possui ferramentas de auxílio a usuários com limitações, preenchimento de dados automático, atalhos, falta de informações sobre o estado atual dos eventos como quantidade de ingressos disponíveis e uma abertura excessiva de novas abas. Além disso, a aplicação possui uma opção de compartilhar a sua localização com o app para que sejam mostrados eventos próximos, porém após o compartilhamento, os eventos mostrados seguem sendo os da localização padrão sendo necessário uma mudança manual do usuário para que os eventos locais sejam mostrados.
+
 <hr>
 
 ### 3. Segurança
@@ -38,13 +40,15 @@ Definida como a proteção do usuário contra condições perigosas e situaçõe
 
 #### No sistema
 
+A aplicação possui diversas falhas nessa área. No momento da compra não se possui uma explicação clara do que seria a taxa que é aplicada sobre o valor do ingresso, por exemplo a figura 1a e 1b mostra diferentes porcentagem aplicada sobre o valor. Podemos citar ainda, as informações sobre o ingresso que são dispostas de maneira bastante confusa, gerando desorientação ao usuário.
+
 <hr>
 
 ### 4. Utilidade
 
 Definida como a oferta, pelo sistema, de um conjunto apropriado de funções. Ou seja, se o sistema oferece a quantidade necessária para que o usuário realize uma tarefa de maneira mais eficiente.
 
-No sistema
+#### No sistema
 
 <hr>
 
@@ -52,7 +56,7 @@ No sistema
 
 Definida como a facilidade para se aprender a utilizar esse sistema.
 
-No sistema
+#### No sistema
 
 <hr>
 
@@ -60,7 +64,9 @@ No sistema
 
 Definida como sendo a facilidade para um usuário se lembrar como utilizar o sistema após uma experiência prévia.
 
-No sistema
+#### No sistema
+
+A utilização do sistema se torna bastante intuitiva com a experiência de apenas alguns usuários, pois aos com alguma limitações o uso permanece limitado com o tempo devido a falta de ferramentas adequadas.
 
 <hr>
 
@@ -68,7 +74,7 @@ No sistema
 
 ## Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <a id="REF1" href="#anchor_1mk">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Bibliografia
 
@@ -76,10 +82,9 @@ No sistema
 
 > SANTOS, Eduardo Schuindt; VAS, João Lucas. Metas de Usabilidade. Repositório do Grupo Simples Nacional da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/MetasUsabilidade/>>. Acesso em: 09 maio 2023.
 
-> MACHADO, Maurício. et al. Metas de Usabilidade. Repositório do Grupo Lichess da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-Lichess/analise_requisitos/metas_usabilidade/>>. Acesso em: 03 maio 2023.
-
 ## Histórico de Versões
 
-| Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                      |
-| ------ | ---------- | ------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 10/05/2023 | Criação da página. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| Versão | Data       | Descrição                                                          | Autor(es)                                        | Revisor(es)                                      |
+| ------ | ---------- | ------------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`  | 10/05/2023 | Criação da página.                                                 | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.1`  | 11/05/2023 | Adição das metas de eficácia, eficiência, segurança e memorização. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
