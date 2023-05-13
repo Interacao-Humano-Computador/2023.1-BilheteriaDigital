@@ -69,6 +69,33 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 
 <font size="3"><p style="text-align: center">Fonte: [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny).</p></font>
 
+### Cancelar compra
+
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 4</b> - Diagrama HTA de cancelamento de compra.</p></font>
+
+<center>
+![Notação diagrama HTA](../../assets/analise-de-tarefas/hta3.png#only-light){width: 300}
+![Notação diagrama HTA](../../assets/analise-de-tarefas/hta3e.png#only-dark){width: 300}
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Campello](https://github.com/G16C).</p></font>
+</figure>
+
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Tabela HTA de visualização de pedidos.</p></font>
+
+| Objetivos/Operações |             Problemas e recomendações            |  
+|:---------------------:|--------------------------------------------------|
+|      0.Cancelar compra    | 	                             | 
+|      1.Fazer login       	  |**input**: dados de login.<br>**feedback**: usuário redirecionado para a página de meu painel.<br> **plano**: abrir área de meus pedidos.  	                             | 
+| 	   2.Acessar minhas compras            |**input**: apertar no botão "meus pedidos".<br>**feedback**: após o usuário ser redirecionado para a página de meu painel ele terá acesso às suas compras efetuadas. <br> **plano**: abrir página de detalhes sobre a compra                                  | 
+|	   3.Selecionar opção de ações sobre a compra                |**input**: apertar no botão "mostrar".<br>**feedback**: usuário terá acesso à ações que podem ser realizadas sobre a compra.<br> **plano**: selecionar opção de cancelar compra. 	                                 | 
+|	   4.Selcionar opção de cancelamento de compras   |**input**: apertar no botão "cancelar pedido".<br>**feedback**: compra será cancelada.<br>	|
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Campello](https://github.com/G16C).</p></font>
+</figure>
+
 ## Bibliografia
 >BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
@@ -80,3 +107,4 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
 | `1.0`  | 06/05/2023 | Criação da página de Processo de Design. | [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv) |
 | `1.1` | 07/05/2023 | Adição da análise de duas tarefas. | [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv)
+| `1.2` | 12/05/2023 | Adição da avaliação do cancelamento de compra. | [Gabriel Campello](https://github.com/G16C) | [Arthur de Melo](https://github.com/arthurmlv)
