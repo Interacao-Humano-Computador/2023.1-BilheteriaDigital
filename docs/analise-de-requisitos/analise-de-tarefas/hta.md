@@ -135,4 +135,4 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 | `1.0`  | 06/05/2023 | Criação da página de Processo de Design.       | [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv) |
 | `1.1`  | 07/05/2023 | Adição da análise de duas tarefas.             | [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv) |
 | `1.2`  | 12/05/2023 | Adição da avaliação do cancelamento de compra. | [Gabriel Campello](https://github.com/G16C)                                                   | [Arthur de Melo](https://github.com/arthurmlv) |
-| `1.3`  | 13/05/2023 | Adição da avaliação da Busca de Ingresso.      | [Matheus Henrique](https://github.com/mathonaut)                                              | [Gabriel Campello](https://github.com/G16C)    |
+| `1.3`  | 13/05/2023 | Adição da avaliação da Busca de Ingresso.      | [Matheus Henrique](https://github.com/mathonaut)                                              | [Arthur de Melo](https://github.com/arthurmlv) |
