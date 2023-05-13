@@ -16,7 +16,7 @@ A Análise Hierárquica de Tarefas (HTA) é um método de análise de tarefas qu
 
 ## Análise de tarefas:
 
-No que diz respeito as tarefas para análise com o método HTA, foram escolhidas o acesso ao meu painel e o compartilhamento de eventos, conforme explicitado nas figuras 2 e 3 e nas tabelas 1 e 2.
+No que diz respeito as tarefas para análise com o método HTA, foram escolhidas o acesso ao meu painel e o compartilhamento de eventos, conforme explicitado nas figuras de 2 a 4 e nas tabelas de 1 a 3.
 
 ### Visualizar meus pedidos
 
