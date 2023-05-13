@@ -24,6 +24,7 @@ No geral o sistema é parcialmente eficaz, ele consegue com êxito mostrar os ev
 
 <hr>
 
+<a id="met1"></a>
 ### 2. Eficiência
 
 Definida como o sistema auxilia o usuário a realizar as suas tarefas.
@@ -33,8 +34,9 @@ Definida como o sistema auxilia o usuário a realizar as suas tarefas.
 O sistema não apresenta uma boa eficiência. A interface não possui ferramentas de auxílio a usuários com limitações, preenchimento de dados automático, atalhos, falta de informações sobre o estado atual dos eventos como quantidade de ingressos disponíveis e uma abertura excessiva de novas abas. Além disso, a aplicação possui uma opção de compartilhar a sua localização com o app para que sejam mostrados eventos próximos, porém após o compartilhamento, os eventos mostrados seguem sendo os da localização padrão sendo necessário uma mudança manual do usuário para que os eventos locais sejam mostrados.
 
 <hr>
-
+<a id="met2"></a>
 ### 3. Segurança
+
 
 Definida como a proteção do usuário contra condições perigosas e situações indesejáveis.
 
@@ -44,11 +46,13 @@ A aplicação possui diversas falhas nessa área. No momento da compra não se p
 
 <hr>
 
+<a id="met3"></a>
 ### 4. Utilidade
 
 Definida como a oferta, pelo sistema, de um conjunto apropriado de funções. Ou seja, se o sistema oferece a quantidade necessária para que o usuário realize uma tarefa de maneira mais eficiente.
 
 #### No sistema
+O sistema se apresenta eficiente em relação a algumas funcionalidades principais como pesquisar um evento, comprar um ingresso, recuperar senha, cadastro/login, compartilhar um evento, localidade, visualização de pedidos, cancelamento de pedidos e alteração de cadastro, mas contendo alguns problemas na parte da Central de Ajuda, sendo em alguns casos ineficiente para seu usuário que deseja solucionar um problema ou saber mais sobre suas políticas de privacidade, ou termos de uso.
 
 <hr>
 
@@ -57,6 +61,7 @@ Definida como a oferta, pelo sistema, de um conjunto apropriado de funções. Ou
 Definida como a facilidade para se aprender a utilizar esse sistema.
 
 #### No sistema
+O sistema possui funcionalidades explicitas para o usuário sendo elas objetivas, evitando que o usuário precise de um longo período de treinamento.
 
 <hr>
 
@@ -71,6 +76,8 @@ A utilização do sistema se torna bastante intuitiva com a experiência de apen
 <hr>
 
 ## Conclusão
+<a name="met"></a>
+Nas metas de [Eficiência](#met1), [Segurança](#met2), e [Utilidade](#met3) possui alguns problemas listados anteriormente que devem ser priorizados e tratados nas próximas etapas.
 
 ## Referências Bibliográficas
 
@@ -88,3 +95,4 @@ A utilização do sistema se torna bastante intuitiva com a experiência de apen
 | ------ | ---------- | ------------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 10/05/2023 | Criação da página.                                                 | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
 | `1.1`  | 11/05/2023 | Adição das metas de eficácia, eficiência, segurança e memorização. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.2`  | 13/05/2023 | Complemento das Metas e Conclusão | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Matheus Henrique](https://github.com/mathonaut) |
