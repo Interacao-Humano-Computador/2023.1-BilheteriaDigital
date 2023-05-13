@@ -1,10 +1,10 @@
 ## Introdução
 
-A construção primordial de um cenário de análise envolve o desenvolvimento de uma história sobre sujeitos praticando uma determinada atividade.<a id="anchor_1" href="#REF1">^1^</a> Portanto, trata-se de uma narrativa textual ou representada visualmente por imagens – a qual possui um contexto apropriadamente detalhado. Um cenário também demonstra uma situação de uso de uma aplicação, a qual envolve usuários, processos e dados relevantes.<a id="anchor_2" href="#REF2">^2^</a> No caso, para a nossa disciplina, o objetivo primordial para a utilização dos cenários visa à avaliação do nível de satisfação de um usuário com o produto em questão, além de auxiliar no entendimento da atividade.
+A construção primordial de um cenário de análise envolve o desenvolvimento de uma história sobre sujeitos praticando uma determinada atividade<a id="anchor_1" href="#REF1">^1^</a>. Portanto, trata-se de uma narrativa textual ou representada visualmente por imagens – a qual possui um contexto apropriadamente detalhado. Um cenário também demonstra uma situação de uso de uma aplicação, a qual envolve usuários, processos e dados relevantes<a id="anchor_2" href="#REF2">^2^</a>. No caso, para a nossa disciplina, o objetivo primordial para a utilização dos cenários visa à avaliação do nível de satisfação de um usuário com o produto em questão, além de auxiliar no entendimento da atividade.
 
 ## Cenários
 
-Para todos os cenários feitos, precisa-se detalhar os elementos característicos de um cenário. Esses são: contexto, ator(es), objetivos, planejamento, ações, eventos e avaliação.<a id="anchor_3" href="#REF3">^3^</a> Os atores aqui utilizados serão as [personas criadas para o projeto](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/personas/).
+Para todos os cenários feitos, precisa-se detalhar os elementos característicos de um cenário. Esses são: contexto, ator(es), objetivos, planejamento, ações, eventos e avaliação<a id="anchor_3" href="#REF3">^3^</a>. Os atores aqui utilizados serão as [personas criadas para o projeto](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/personas/).
 
 ### Cadastro do usuário
 
