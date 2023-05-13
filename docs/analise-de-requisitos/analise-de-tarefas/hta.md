@@ -74,10 +74,10 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 4</b> - Diagrama HTA de cancelamento de compra.</p></font>
 
-<center>
+
 ![Notação diagrama HTA](../../assets/analise-de-tarefas/hta3.png#only-light){width: 300}
 ![Notação diagrama HTA](../../assets/analise-de-tarefas/hta3e.png#only-dark){width: 300}
-</center>
+
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Campello](https://github.com/G16C).</p></font>
 </figure>
