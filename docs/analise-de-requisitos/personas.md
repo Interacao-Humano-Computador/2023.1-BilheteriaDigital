@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Personas são personagens fictícias criadas para representar os usuários da aplicação. Elas devem possuir características que sumarizam bem os usuários “típicos”, mas que sejam específicas para torná-las ferramentas de design e comunicação eficientes.<a id="anchor_1" href="#REF1">^1^</a> No contexto desse trabalho, elas serão utilizadas para melhor compreender como as funcionalidades do sistema interagem com as demandas dos usuários.
+Personas são personagens fictícias criadas para representar os usuários da aplicação. Elas devem possuir características que sumarizam bem os usuários “típicos”, mas que sejam específicas para torná-las ferramentas de design e comunicação eficientes<a id="anchor_1" href="#REF1">^1^</a>. No contexto desse trabalho, elas serão utilizadas para melhor compreender como as funcionalidades do sistema interagem com as demandas dos usuários.
 
 ## Metodologia
 

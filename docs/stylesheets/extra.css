@@ -8,9 +8,9 @@
 
 [data-md-color-scheme="slate"] {
     --md-primary-fg-color:#070707;
-    --md-accent-fg-color:rgb(255, 0, 0);
+    --md-accent-fg-color:rgb(255, 0, 0) !important;
     --md-default-bg-color: #000000;
-    --md-typeset-a-color: rgba(255, 0, 0, 0.850);
+    --md-typeset-a-color: rgba(255, 0, 0, 0.850) !important;
     --md-code-bg-color: rgb(0, 0, 0);
     --md-typeset-table-color: rgba(255, 255, 255, 0.211);
     --md-typeset-table-color--light:     rgba(128, 128, 128, 0.157);

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-No intuito de se conhecer melhor os usuários do aplicativo é necessário elaborar um perfil genérico chamado de perfil de usuário. Segundo Barbosa e Silva, perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado.<a id="anchor_1" href="#REF1">^1^</a>
+No intuito de se conhecer melhor os usuários do aplicativo é necessário elaborar um perfil genérico chamado de perfil de usuário. Segundo Barbosa e Silva, perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado<a id="anchor_1" href="#REF1">^1^</a>.
 
 ## Metodologia
 
