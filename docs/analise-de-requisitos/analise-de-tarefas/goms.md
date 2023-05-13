@@ -39,6 +39,23 @@ GOAL 0: Compartilhar um evento
         0P 1.2: Clicando no ícone da rede social que deseja compartilhar
 
 ```
+### Cancelar compra
+
+```
+GOAL 0: Fazer login na página para efetuar cancelamento de compra
+    GOAL 1: Acessar aba meu painel
+        OP 1.1: Guiar o mouse para a aba meu painel
+        0P 1.2: Pressionar o botão
+    GOAL 2: Selecionar a opção minhas compras 
+        OP 2.1: Guiar o mouse para a opção 'mostrar'
+        OP 2.2: Clicar no botão de seleção
+    GOAL 3: Selecionar a opção de cancelamento de compras
+        (Sel. Rule: A compra não pode ser cancelada com menos de 48h (dois dias) para a realização do evento.)
+            OP 3.1: Guiar o mouse para a opção de cancelamento de compras
+            OP 3.2: Selecionar a compra que deseja cnacelar
+            OP 3.3: Clicar no botão de cancelamento
+
+```
 
 ### Comprar Ingresso
 
@@ -85,24 +102,6 @@ GOAL 0: Encontrar a aba de suporte ao cliente
     GOAL 2: Acessar a aba Central de Ajuda
         OP 2.1: Guiar o mouse para a opção de ajuda desejada
         OP 2.2: Clicar na opção
-
-```
-
-### Cancelar compra
-
-```
-GOAL 0: Fazer login na página para efetuar cancelamento de compra
-    GOAL 1: Acessar aba meu painel
-        OP 1.1: Guiar o mouse para a aba meu painel
-        0P 1.2: Pressionar o botão
-    GOAL 2: Selecionar a opção minhas compras 
-        OP 2.1: Guiar o mouse para a opção 'mostrar'
-        OP 2.2: Clicar no botão de seleção
-    GOAL 3: Selecionar a opção de cancelamento de compras
-        (Sel. Rule: A compra não pode ser cancelada com menos de 48h (dois dias) para a realização do evento.)
-            OP 3.1: Guiar o mouse para a opção de cancelamento de compras
-            OP 3.2: Selecionar a compra que deseja cnacelar
-            OP 3.3: Clicar no botão de cancelamento
 
 ```
 
