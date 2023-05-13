@@ -79,6 +79,23 @@ GOAL 0: Encontrar a aba de suporte ao cliente
 
 ```
 
+### Cancelar compra
+
+```
+GOAL 0: Fazer login na página
+    GOAL 1: Acessar aba meu painel
+        OP 1.1: Guiar o mouse para a aba meu painel
+        0P 1.2: Pressionar o botão
+    GOAL 2: Selecionar a opção minhas compras 
+        OP 2.1: Guiar o mouse para a opção 'mostrar'
+        OP 2.2: Clicar no botão de seleção
+    GOAL 3: Selecionar a opção de cancelamento de compras
+        OP 3.1: Guiar o mouse para a opção de cancelamento de compras
+        OP 3.2: Selecionar a compra que deseja cnacelar
+        OP 3.3: Clicar no botão de cancelamento
+
+```
+
 ## Bibliografia
 >BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
@@ -91,3 +108,4 @@ GOAL 0: Encontrar a aba de suporte ao cliente
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
 | `1.0`  | 06/05/2023 | Criação da página de Processo de Design. | [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv) |
 | `1.1` | 07/05/2023 | Adição do modelo GOMS. | [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv)
+| `1.2` | 13/05/2023 | Adição da opção de cancelar compra no modelo GOMS. | [Gabriel Campello](https://github.com/G16C) | [Rafael Ferreira](https://github.com/RafaelCLG0)
