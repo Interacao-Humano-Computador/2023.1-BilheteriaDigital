@@ -26,9 +26,24 @@ Este guia de estilo pode ser utilizado como uma referência para tomar decisões
 ## Resultados da análise
 A plataforma Bilheteria Digital é predominantemente acessada por usuários por meio de computadores, sejam eles desktops ou notebooks. Portanto, é fundamental considerar as especificidades desses dispositivos ao projetar e desenvolver a interface do sistema, garantindo que ela ofereça uma experiência de usuário satisfatória e eficaz para aqueles que acessam a plataforma por meio desses meios. Isso envolve a adaptação da interface para diferentes tamanhos de tela, a escolha de elementos visuais apropriados e a implementação de funcionalidades intuitivas e de fácil acesso para os usuários.
 
-## Elementos de interface, interação e ação
+## Elementos de interface
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FlkJqsPebEpckC0t6oat1MP%2FGuia-de-Estilo%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DZ5BeXjqZIgoiCZxP-1" allowfullscreen></iframe>
+
+* Preenchimento de Campos: os campos de preenchimento disponíveis na interface do sistema exigem que o usuário insira informações manualmente, de acordo com suas necessidades e objetivos. Esses campos podem incluir a barra de pesquisa e a caixa de texto dentro do perfil, que são exemplos de campos que exigem entrada de texto. 
+
+* Seleção: há alguns elementos de seleção como por exemplo seleção de eventos, seleção de quantidade de ingressos, seleção do menu, idioma de preferência. 
+
+* Ativação: incluem botões, ícones, links e outros elementos clicáveis. No site encontramos elementos como botões de compra, hyperkins e pagamento.
+
 
 ## Vocabulários e padrões
+
+* Terminologia: o site utiliza termos ligados a eventos e com o vocabulário comum para o entendimento dos usuários que utilizam o site. As terminologias são usadas na página inicial, na descrição dos eventos, página de compra e no "meu painel" do usuário.
+
+* Tipos de tela: as telas seguem um padrão simples e minimalista, elas não destoam muito uma das outras, seguindo a mesma identidade visual. 
+
+* Sequência de diálogos: as sequências seguem um padrão, os botões de confirmação e cancelamento são semelhantes em páginas diferentes. 
 
 ## Referências Bibliográficas
 
@@ -39,3 +54,4 @@ A plataforma Bilheteria Digital é predominantemente acessada por usuários por 
 | Versão | Data       | Descrição                            | Autor(es)                                                                                    | Revisor(es)                                                                                         |
 | ------ | ---------- | ------------------------------------ | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | `1.0`  | 13/05/2023 | Criação da página guia de estilo. | [Geovanna Maciel](https://github.com/manuziny) | [Douglas Alves](https://github.com/dougAlvs) |
+| `1.1`  | 13/05/2023 | Adição dos tópicos. | [Geovanna Maciel](https://github.com/manuziny) [Douglas Alves](https://github.com/dougAlvs) | [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0) |
