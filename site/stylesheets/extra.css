@@ -8,7 +8,7 @@
 
 [data-md-color-scheme="slate"] {
     --md-primary-fg-color:#070707;
-    --md-accent-fg-color:rgb(255, 0, 0);
+    --md-accent-fg-color:rgb(255, 0, 0) !important;
     --md-default-bg-color: #000000;
     --md-typeset-a-color: rgba(255, 0, 0, 0.850) !important;
     --md-code-bg-color: rgb(0, 0, 0);
