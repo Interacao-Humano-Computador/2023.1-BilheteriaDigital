@@ -46,6 +46,7 @@ nav:
       - Metas de Usabilidade: analise-de-requisitos/metas-usabilidade.md
       - Princípios Gerais: analise-de-requisitos/principios.md
       - Guia de Estilo: analise-de-requisitos/guia-de-estilo.md
+      - Características Gerais: analise-de-requisitos/caracteristicas.md
 
 theme:
   name: material

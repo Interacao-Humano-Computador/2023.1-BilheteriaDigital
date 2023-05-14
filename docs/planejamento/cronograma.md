@@ -97,7 +97,7 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira 
 ### Executado
 Na Tabela 6, tem-se o cronograma planejado para todas as atividades da terceira entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Princípios gerais do projeto</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Princípios gerais do projeto</p></font>
 
 | Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
 |---	|---	|---	|---	|---	|
@@ -114,7 +114,7 @@ Na Tabela 6, tem-se o cronograma planejado para todas as atividades da terceira 
 ### Planejado
 Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Planejamentos</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Planejamentos</p></font>
 
 | Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
 |---	|---	|---	|---	|---	|
@@ -133,7 +133,7 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta en
 ### Planejado
 Na Tabela 8, tem-se o cronograma planejado para todas as atividades da quinta entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Análise de requisitos 1</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Análise de requisitos 1</p></font>
 
 | Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
 |---	|---	|---	|---	|---	|
@@ -152,7 +152,7 @@ Na Tabela 8, tem-se o cronograma planejado para todas as atividades da quinta en
 ### Planejado
 Na Tabela 9, tem-se o cronograma planejado para todas as atividades da sexta entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Verificação de artefatos 1</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Verificação de artefatos 1</p></font>
 
 | Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
 |---	|---	|---	|---	|---	|
@@ -177,7 +177,7 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da sexta ent
 ### Planejado
 Na Tabela 10, tem-se o cronograma planejado para todas as atividades da sétima entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Relato dos resultados</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 10</b> - Relato dos resultados</p></font>
 
 | Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
 |---	|---	|---	|---	|---	|
@@ -195,7 +195,7 @@ Na Tabela 10, tem-se o cronograma planejado para todas as atividades da sétima 
 ### Planejado
 Na Tabela 11, tem-se o cronograma planejado para todas as atividades da oitava entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 10</b> - Resultado protótipo alta fidelidade</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 11</b> - Resultado protótipo alta fidelidade</p></font>
 
 | Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
 |---	|---	|---	|---	|---	|
@@ -213,7 +213,7 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da oitava e
 ### Planejado
 Na Tabela 12, tem-se o cronograma planejado para todas as atividades da última entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 11</b> - Entrega final</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 12</b> - Entrega final</p></font>
 
 | Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
 |---	|---	|---	|---	|---	|

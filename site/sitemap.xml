@@ -113,7 +113,6 @@
     <url>
          <loc>None</loc>
          <lastmod>2023-05-14</lastmod>
-<<<<<<< HEAD
          <changefreq>daily</changefreq>
     </url>
     <url>
@@ -124,8 +123,11 @@
     <url>
          <loc>None</loc>
          <lastmod>2023-05-14</lastmod>
-=======
->>>>>>> eb0eec2d9f0762c6646c99679b2a5b250f4bd895
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>None</loc>
+         <lastmod>2023-05-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
