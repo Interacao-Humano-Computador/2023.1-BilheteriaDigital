@@ -42,6 +42,7 @@ nav:
       - Análise de tarefas:
           - Análise Hierárquica de Tarefas: analise-de-requisitos/analise-de-tarefas/hta.md
           - GOMS: analise-de-requisitos/analise-de-tarefas/goms.md
+      - Metas de Usabilidade: analise-de-requisitos/metas-usabilidade.md
       - Princípios Gerais: analise-de-requisitos/principios.md
 
 theme:
