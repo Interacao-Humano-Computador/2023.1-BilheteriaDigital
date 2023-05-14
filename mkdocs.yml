@@ -27,6 +27,7 @@ nav:
       - Ata 4: atas/IHC_Ata_04.md
       - Ata 5: atas/IHC_Ata_05.md
       - Ata 6: atas/IHC_Ata_06.md
+      - Ata 7: atas/IHC_Ata_07.md
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
@@ -44,6 +45,7 @@ nav:
           - GOMS: analise-de-requisitos/analise-de-tarefas/goms.md
       - Metas de Usabilidade: analise-de-requisitos/metas-usabilidade.md
       - Princípios Gerais: analise-de-requisitos/principios.md
+      - Guia de Estilo: analise-de-requisitos/guia-de-estilo.md
 
 theme:
   name: material
