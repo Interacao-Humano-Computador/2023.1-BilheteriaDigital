@@ -28,10 +28,11 @@ Este guia de estilo pode ser utilizado como uma referência para tomar decisões
 
 ## Resultados da análise
 
-A plataforma Bilheteria Digital é predominantemente acessada por usuários por meio de computadores, sejam eles _desktops_ ou _notebooks_. Portanto, é fundamental considerar as especificidades desses dispositivos ao projetar e desenvolver a interface do sistema, garantindo que ela ofereça uma experiência de usuário satisfatória e eficaz para aqueles que acessam a plataforma por meio desses meios. Isso envolve a adaptação da interface para diferentes tamanhos de tela, a escolha de elementos visuais apropriados e a implementação de funcionalidades intuitivas e de fácil acesso para os usuários.
+A plataforma Bilheteria Digital é predominantemente acessada por usuários por meio de computadores, sejam eles _desktops_ ou _notebooks_. Portanto, é fundamental considerar as especificidades desses dispositivos ao projetar e desenvolver a interface do sistema, garantindo que ela ofereça uma experiência de usuário satisfatória e eficaz para aqueles que acessam a plataforma por meio desses meios. Isso envolve a adaptação da interface para diferentes tamanhos de tela, a escolha de elementos visuais apropriados e a implementação de funcionalidades intuitivas e de fácil acesso para os usuários. Por fim, os elementos de interface estão explicitados na Figura 1.
 
 ## Elementos de interface
 
+<p style="text-align: center">Figura 1 - Elementos da Interface.</p>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FlkJqsPebEpckC0t6oat1MP%2FGuia-de-Estilo%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DZ5BeXjqZIgoiCZxP-1" allowfullscreen></iframe>
 
 - Preenchimento de Campos: os campos de preenchimento disponíveis na interface do sistema exigem que o usuário insira informações manualmente, de acordo com suas necessidades e objetivos. Esses campos podem incluir a barra de pesquisa e a caixa de texto dentro do perfil, que são exemplos de campos que exigem entrada de texto.
@@ -39,6 +40,14 @@ A plataforma Bilheteria Digital é predominantemente acessada por usuários por 
 - Seleção: há alguns elementos de seleção como por exemplo seleção de eventos, seleção de quantidade de ingressos, seleção do menu, idioma de preferência.
 
 - Ativação: incluem botões, ícones, links e outros elementos clicáveis. No site encontramos elementos como botões de compra, _hyperlinks_ e pagamento.
+
+## Elementos de Interação
+
+Estilo de interação: os usuários podem interagir com o site na seleção de eventos, seleçao de assentos, finalização da compra, confrmação de compra e cancelamento de compra. ue são feitos através de botões e/ou hiperlinks.
+
+Seleção de estilos: a escolha do estilo do Bilheteria Digital tem a interface simples e focada no objetivos de encontrar um evento e comprar seu ingresso, tanto que suas páginas não destoam muito umas das outras, com botões semelhantes.
+ 
+Aceleradores (teclas de atalho): no site não foram encontradas teclas de atalho.
 
 ## Vocabulários e padrões
 
