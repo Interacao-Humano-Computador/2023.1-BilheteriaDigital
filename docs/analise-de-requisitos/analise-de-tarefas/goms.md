@@ -18,6 +18,45 @@ Obs: Durante o proceso de análise subentendeu-se que o usuário já havia acess
 
 ## Análise de tarefas:
 
+### Visualizar meus pedidos
+
+```
+GOAL 0: Fazer login na página para vizualizar meus pedidos
+    GOAL 1: Acessar aba meu painel
+        OP 1.1: Guiar o mouse para a aba meu painel
+        0P 1.2: Pressionar o botão
+    GOAL 2: Selecionar a opção meus pedidos
+        OP 2.1: Guiar o mouse para a opção 'Meus Pedidos'
+        OP 2.2: Clicar na opção Meus Pedidos
+
+```
+### Compartilhar evento nas redes sociais
+
+```
+GOAL 0: Compartilhar um evento
+    GOAL 1: Selecionar um evento
+        OP 1.1: Guiar o mouse para opção compatilhar 
+        0P 1.2: Clicando no ícone da rede social que deseja compartilhar
+
+```
+### Cancelar compra
+
+```
+GOAL 0: Fazer login na página para efetuar cancelamento de compra
+    GOAL 1: Acessar aba meu painel
+        OP 1.1: Guiar o mouse para a aba meu painel
+        0P 1.2: Pressionar o botão
+    GOAL 2: Selecionar a opção minhas compras 
+        OP 2.1: Guiar o mouse para a opção 'mostrar'
+        OP 2.2: Clicar no botão de seleção
+    GOAL 3: Selecionar a opção de cancelamento de compras
+        (Sel. Rule: A compra não pode ser cancelada com menos de 48h (dois dias) para a realização do evento.)
+            OP 3.1: Guiar o mouse para a opção de cancelamento de compras
+            OP 3.2: Selecionar a compra que deseja cnacelar
+            OP 3.3: Clicar no botão de cancelamento
+
+```
+
 ### Comprar Ingresso
 
 ```
@@ -60,44 +99,9 @@ GOAL 0: Encontrar a aba de suporte ao cliente
     GOAL 1: Acessa a área de Central de Ajuda
         OP 1.1: Guiar o mouse para a aba de suporte
         OP 1.2: Pressionar a tecla
-    GOAL 3: Acessar a aba Central de Ajuda
+    GOAL 2: Acessar a aba Central de Ajuda
         OP 2.1: Guiar o mouse para a opção de ajuda desejada
         OP 2.2: Clicar na opção
-
-```
-
-### Cancelar compra
-
-```
-GOAL 0: Fazer login na página para efetuar cancelamento de compra
-    GOAL 1: Acessar aba meu painel
-        OP 1.1: Guiar o mouse para a aba meu painel
-        0P 1.2: Pressionar o botão
-    GOAL 2: Selecionar a opção minhas compras 
-        OP 2.1: Guiar o mouse para a opção 'mostrar'
-        OP 2.2: Clicar no botão de seleção
-    GOAL 3: Selecionar a opção de cancelamento de compras
-        (Sel. Rule: A compra não pode ser cancelada com menos de 48h (dois dias) para a realização do evento.)
-            OP 3.1: Guiar o mouse para a opção de cancelamento de compras
-            OP 3.2: Selecionar a compra que deseja cnacelar
-            OP 3.3: Clicar no botão de cancelamento
-
-```
-
-### Cancelar compra
-
-```
-GOAL 0: Fazer login na página
-    GOAL 1: Acessar aba meu painel
-        OP 1.1: Guiar o mouse para a aba meu painel
-        0P 1.2: Pressionar o botão
-    GOAL 2: Selecionar a opção minhas compras 
-        OP 2.1: Guiar o mouse para a opção 'mostrar'
-        OP 2.2: Clicar no botão de seleção
-    GOAL 3: Selecionar a opção de cancelamento de compras
-        OP 3.1: Guiar o mouse para a opção de cancelamento de compras
-        OP 3.2: Selecionar a compra que deseja cnacelar
-        OP 3.3: Clicar no botão de cancelamento
 
 ```
 
@@ -114,3 +118,4 @@ GOAL 0: Fazer login na página
 | `1.0`  | 06/05/2023 | Criação da página de Processo de Design. | [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv) |
 | `1.1` | 07/05/2023 | Adição do modelo GOMS. | [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv)
 | `1.2` | 13/05/2023 | Adição da opção de cancelar compra no modelo GOMS. | [Gabriel Campello](https://github.com/G16C) | [Rafael Ferreira](https://github.com/RafaelCLG0)
+| `1.3` | 13/05/2023 | Adição das opções de acordo com o HTA. | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny)
