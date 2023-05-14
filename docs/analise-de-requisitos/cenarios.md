@@ -22,6 +22,13 @@ Na segunda etapa, Rebeca utiliza os dedos para realizar um scroll na página at�
 
 Terminando sua pesquisa, Rebeca percebe que passou mais de 30 minutos realizando sua pesquisa e ficou impressionada como o fato do site possui uma má usabilidade.
 
+### Compartilhar Eventos nas Redes Sociais
+
+Jonas Mendes é um jovem apaixonado por teatro e sempre busca maneiras de compartilhar suas experiências culturais com seus amigos e familiares. Ele estava muito animado com o próximo espetáculo que iria assistir e decidiu utilizar o site Bilheteria Digital para compartilhar esse evento. Realizou uma pesquisa sobre os espetáculos e encontrou todas as informações necessárias no site da Bilheteria Digital. Ele ficou impressionado com a facilidade de navegação e a ampla variedade de eventos disponíveis. Após encontrar o espetáculo que desejava compartilhar, ele decidiu planejar cuidadosamente sua estratégia. Primeiro, Jonas criou uma lista de amigos e familiares que poderiam se interessar pelo evento. Ele sabia que cada pessoa tinha diferentes gostos e preferências, então escolheu eventos variados que poderiam agradar a todos. Jonas aproveitou a função de compartilhamento do site Bilheteria Digital tornando a experiência mais interativa. Ele criou um post detalhado sobre o evento, incluindo informações sobre o espetáculo, local, data e horário, e compartilhou em sua conta no Facebook, marcando todos os amigos e familiares que ele havia convidado.
+
+No post, Jonas também incluiu um link direto para a página do evento no Bilheteria Digital, onde seus amigos e familiares poderiam obter mais informações e comprar os ingressos. Ele incentivou a interação, convidando todos a deixarem comentários sobre o que estavam mais animados para ver no espetáculo.
+
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> ROSSON, M.B., CARROL, J.M. Usability engineering: scenario-based development of human-computer interaction. Morgan Kaufmann, 2002.
@@ -37,3 +44,4 @@ Terminando sua pesquisa, Rebeca percebe que passou mais de 30 minutos realizando
 | `1.0`  | 10/05/2023 | Criação da página de Cenários, feita a Introdução e o Cenário de Cadastro. | [Arthur de Melo](https://github.com/arthurmlv)   | [Douglas Alves](https://github.com/dougAlvs)   |
 | `1.1`  | 11/05/2023 | Remoção do Cenário de Cadastro e Adição do Cenário de Compra.              | [Arthur de Melo](https://github.com/arthurmlv)   | [Douglas Alves](https://github.com/dougAlvs)   |
 | `1.2`  | 11/05/2023 | Adição do Cenário de Busca.                                                | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.3`  | 13/05/2023 | Adição do Cenário de Compartilhar Evento                                   | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Arthur de Melo](https://github.com/arthurmlv) |
