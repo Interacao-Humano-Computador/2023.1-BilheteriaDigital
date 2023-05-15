@@ -24,19 +24,19 @@ A git page possui?  | Sim/Não/Incompleto
 7 - As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim
 8 – Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”? | Sim
 9 - O perfil do usuário segue os atributos de (Hackos e Redish, 1998; Courage e Baxter, 2005)? | Incompleto
-11 - O perfil do usuário define os grupos de atributos apresentados no capítulo 8 - Organização do Espaço de Problema? | Sim
-12 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Sim
-13 – A gravação da reunião do grupo. | Sim
-14 – Os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)? | Sim
-15 – Que solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? | Sim
-16 – Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários (quanto mais melhor)?  | Grupo de foco e entrevista
-17 – Cada persona possui: identidade: nome e sobrenome; idade e dados demográficos; foto; status: primária, secundária…; objetivos: quais são os objetivos desta persona? habilidades: especialidade, educação, treinamento; tarefas: em linhas gerais, quais as tarefas básicas ou críticas que a persona realiza? relacionamentos: entender com quem a persona se relaciona; requisitos: de que a persona precisa? expectativas: como a persona acredita que o produto funciona? Como ela organiza as informações no seu domínio de trabalho? | Sim
-18 - As personas foram criadas baseadas nos dados do perfil do usuário? | Sim
-19 – O elenco de personas? A razão da quantidade de personas é justificada? | Sim
-20 – A Análise de tarefas? | Sim
+10 - O perfil do usuário define os grupos de atributos apresentados no capítulo 8 - Organização do Espaço de Problema? | Sim
+11 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Sim
+12 – A gravação da reunião do grupo. | Sim
+13 – Os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)? | Sim
+14 – Que solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? | Sim
+15 – Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários (quanto mais melhor)?  | Grupo de foco e entrevista
+16 – Cada persona possui: identidade: nome e sobrenome; idade e dados demográficos; foto; status: primária, secundária…; objetivos: quais são os objetivos desta persona? habilidades: especialidade, educação, treinamento; tarefas: em linhas gerais, quais as tarefas básicas ou críticas que a persona realiza? relacionamentos: entender com quem a persona se relaciona; requisitos: de que a persona precisa? expectativas: como a persona acredita que o produto funciona? Como ela organiza as informações no seu domínio de trabalho? | Sim
+17 - As personas foram criadas baseadas nos dados do perfil do usuário? | Sim
+18 – O elenco de personas? A razão da quantidade de personas é justificada? | Sim
+19 – A Análise de tarefas? | Sim
 20 – O termo de consentimento livre e esclarecido dos participantes? | Sim
-22 – Utilizaram alguma técnica para especificar as tarefas? | Sim
-23 – Ao menos duas técnicas para especificar as tarefas? | Sim, HTA e CMN GOMS
+21 – Utilizaram alguma técnica para especificar as tarefas? | Sim
+22 – Ao menos duas técnicas para especificar as tarefas? | Sim, HTA e CMN GOMS
 
 
 <font size="3"><p style="text-align: center">Fonte: [Plano de Ensino da disciplina de IHC](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf)</p></font>
