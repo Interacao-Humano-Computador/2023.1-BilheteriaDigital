@@ -43,11 +43,11 @@ A plataforma Bilheteria Digital é predominantemente acessada por usuários por 
 
 ## Elementos de Interação
 
-Estilo de interação: os usuários podem interagir com o site na seleção de eventos, seleçao de assentos, finalização da compra, confrmação de compra e cancelamento de compra. ue são feitos através de botões e/ou hiperlinks.
+- Estilo de interação: os usuários podem interagir com o site na seleção de eventos, seleçao de assentos, finalização da compra, confrmação de compra e cancelamento de compra. Os quais são feitos através de botões e/ou hiperlinks.
 
-Seleção de estilos: a escolha do estilo do Bilheteria Digital tem a interface simples e focada no objetivos de encontrar um evento e comprar seu ingresso, tanto que suas páginas não destoam muito umas das outras, com botões semelhantes.
- 
-Aceleradores (teclas de atalho): no site não foram encontradas teclas de atalho.
+- Seleção de estilos: a escolha do estilo do Bilheteria Digital tem a interface simples e focada no objetivos de encontrar um evento e comprar seu ingresso, tanto que suas páginas não destoam muito umas das outras, com botões semelhantes.
+
+- Aceleradores (teclas de atalho): no site não foram encontradas teclas de atalho.
 
 ## Vocabulários e padrões
 
