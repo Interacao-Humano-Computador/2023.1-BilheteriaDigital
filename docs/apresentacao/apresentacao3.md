@@ -29,7 +29,7 @@ A git page possui?  | Sim/Não/Incompleto
 12 – As características da plataforma para o projeto? | Sim
 13 – As metas de usabilidade que devem ser alcançadas no projeto? | Sim
 14 – A razão da seleção das metas de usabilidade? | Sim
-15 – O Guia de Estilo do projeto?  | Grupo de foco e entrevista
+15 – O Guia de Estilo do projeto?  | Sim
 16 – O Guia de Estilo do projeto possui a estrutura demandada pelo professor no plano de ensino? | Sim
 17 – O Guia de Estilo corresponde ao site avaliado? | Sim
 

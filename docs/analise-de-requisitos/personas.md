@@ -15,7 +15,7 @@ As tabelas de 1 a 4 apresentam o elenco de personas, as quais possuem as fotos e
 
 <center>
 
-<b>Tabela 1</b> - Persona Primária Rebeca Hellen.
+<b>Tabela 1</b> - <a id="anchor_PRH" style="visibility: hidden"></a>Persona Primária Rebeca Hellen.
 
 | <p style="text-align: center">Figura 1- Persona Primária Rebeca Hellen</p><figure markdown>![Persona Primária Rebeca Hellen](../assets/personas/persona_rebeca.png){:style="height:500px;width:500px;border-radius:5px"}<figcaption>Fonte: Elaborada por [Matheus Henrique](https://github.com/mathonaut) (2023).<a id="fnref:1" href="#fn:1"><sup>1</sup></a></figcaption></figure> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,7 +39,7 @@ As tabelas de 1 a 4 apresentam o elenco de personas, as quais possuem as fotos e
 
 <center>
 
-<b>Tabela 2</b> - Persona Secundária Maria Eduarda de Oliveira.
+<b>Tabela 2</b> - <a id="anchor_PSM" style="visibility: hidden"></a>Persona Secundária Maria Eduarda de Oliveira.
 
 | <p style="text-align: center">Figura 2- Persona Secundária Maria Eduarda de Oliveira.</p><figure markdown>![Persona Secundária Maria Eduarda de Oliveira](../assets/personas/persona_maria.png){:style="height:500px;width:500px;border-radius:5px"}<figcaption>Fonte: Elaborada por [Matheus Henrique](https://github.com/mathonaut) (2023).<a id="fnref:2" href="#fn:2"><sup>2</sup></a></figcaption></figure> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -63,7 +63,7 @@ As tabelas de 1 a 4 apresentam o elenco de personas, as quais possuem as fotos e
 
 <center>
 
-<b>Tabela 3</b> - Persona Primária Bruna Santos.
+<b>Tabela 3</b> - <a id="anchor_PBS" style="visibility: hidden"></a>Persona Primária Bruna Santos.
 
 | <p style="text-align: center">Figura 3- Persona Primária Bruna Santos.</p><figure markdown>![Persona Primária Bruna Santos](../assets/personas/persona_bruna.png){:style="height:500px;width:500px;border-radius:5px"}<figcaption>Fonte: Elaborada por [Rafael Ferreira](https://github.com/RafaelCLG0) (2023).<a id="fnref:3" href="#fn:3"><sup>3</sup></a></figcaption></figure> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -87,7 +87,7 @@ As tabelas de 1 a 4 apresentam o elenco de personas, as quais possuem as fotos e
 
 <center>
 
-<b>Tabela 4</b> - Antipersona Jonas Mendes.
+<b>Tabela 4</b> - <a id="anchor_PJM" style="visibility: hidden"></a>Antipersona Jonas Mendes.
 
 | <p style="text-align: center">Figura 4- Antipersona Jonas Mendes.</p><figure markdown>![Antipersona Jonas Mendes](../assets/personas/persona_jonas.png){:style="height:500px;width:500px;border-radius:5px"}<figcaption>Fonte: Elaborada por [Rafael Ferreira](https://github.com/RafaelCLG0) (2023).<a id="fnref:4" href="#fn:4"><sup>4</sup></a></figcaption></figure> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
