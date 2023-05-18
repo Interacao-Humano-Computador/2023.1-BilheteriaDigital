@@ -74,6 +74,7 @@ O espectro predominante neste tópico é o econômico. Sendo assim, a eficiênci
 
 ### Violação
 
+<<<<<<< HEAD
 Na aba de "Central de ajuda", o usuário ao yenatr retornar à página inicial, clicando na logo do site, é  impedido de efetuar essa operação, sendo, portanto, obrigado à utiliazar o botão de retorno do navegador como mostrado na Figura 6. Isso pode causar estranhesa ao consumidor e afetar a eficiência das operções realizadas no site. Outro problema encontrado foi durante o processo de compra. Ao descer a página de um evento podemos encontrar uma funcionalidade destinada à visualizar o local do evento. No entanto essa funcionalidade não abre corretamente no site do Google Maps, como mostrado na figura 7. 
 
 <p style="text-align: center">Figura 6 - Violação Eficiência do Usuário 1</p>
@@ -82,6 +83,8 @@ Na aba de "Central de ajuda", o usuário ao yenatr retornar à página inicial, 
 <p style="text-align: center">Figura 7 - Violação Eficiência do Usuário 2</p>
 <figure markdown>![correspondencia](../assets/principios/eficiencia2.png){:style="height:400px;width:800px;border-radius:5px"}<figcaption>Fonte: [Bilheteria Digital](https://www.bilheteriadigital.com/).</figcaption></figure>
 
+=======
+>>>>>>> 4701b5f (add violações 1 a 4)
 
 
 ## Antecipação
@@ -92,6 +95,7 @@ Todo o tipo de informação essencial ao usuário naquele determinado momento de
 
 ### Violação
 
+<<<<<<< HEAD
 Durante o uso do site, mesmo o usuário tendo se cadastrado e informado seu endereço, a página inicial continua com eventos do estado de São Paulo como padrão, para acessar eventos da sua região o próprio usuário deve selecionar seu estado, como mostardo nas Figuras 8 e 9.
 
 <p style="text-align: center">Figura 8 - Violação Antecipacao 1</p>
@@ -100,6 +104,8 @@ Durante o uso do site, mesmo o usuário tendo se cadastrado e informado seu ende
 <p style="text-align: center">Figura 9 - Violação Antecipacao 2</p>
 <figure markdown>![correspondencia](../assets/principios/antecipacao2.png){:style="height:400px;width:800px;border-radius:5px"}<figcaption>Fonte: [Bilheteria Digital](https://www.bilheteriadigital.com/).</figcaption></figure>
 
+=======
+>>>>>>> 4701b5f (add violações 1 a 4)
 
 
 ## Visibilidade e Reconhecimento
@@ -110,6 +116,7 @@ Antes que uma ação seja executada, o usuário precisa ter uma visão prévia d
 
 ### Violação
 
+<<<<<<< HEAD
 Na central de ajuda, na aba de "Política de Privacidade", existe um link associado ao título da página que abre informações redundantes, como mostrado na Figura 10. Além disso, o site não apresenta informações essenciais para a completude do processo de compra, como por exemplo a chave pix necessária para efetuar o pagamento, apresentado na Figura 11.
 
 <p style="text-align: center">Figura 10 - Violação Visibilidade e Reconhecimento 1</p>
@@ -117,6 +124,9 @@ Na central de ajuda, na aba de "Política de Privacidade", existe um link associ
 
 <p style="text-align: center">Figura 11 - Violação Visibilidade e Reconhecimento 2</p>
 <figure markdown>![correspondencia](../assets/principios/reconhecimento2.png){:style="height:400px;width:800px;border-radius:5px"}<figcaption>Fonte: [Bilheteria Digital](https://www.bilheteriadigital.com/).</figcaption></figure>
+=======
+
+>>>>>>> 4701b5f (add violações 1 a 4)
 
 ## Conteúdo Relavante e Expressão Adequada
 
@@ -131,10 +141,14 @@ Para o tópico de Conteúdo Relavante e Expressão Adequada, destacam-se quatro 
 
 ### Violação
 
+<<<<<<< HEAD
 A expressão "Meu Painel", não está em acordo com a máxima da relação ou relevância. Tendo em vista que não é uma expressão comumente utilizada para apresentar as informações do usuário cadastrado, como mostrado na Figura 12.
 
 <p style="text-align: center">Figura 12 - Violação Relevância e Expressão Adequada 2</p>
 <figure markdown>![correspondencia](../assets/principios/relevancia.png){:style="height:400px;width:800px;border-radius:5px"}<figcaption>Fonte: [Bilheteria Digital](https://www.bilheteriadigital.com/).</figcaption></figure>
+=======
+
+>>>>>>> 4701b5f (add violações 1 a 4)
 
 ## Projeto para Erros
 
@@ -144,6 +158,7 @@ Dado que tanto o usuário quanto o sistema são passíveis de erro, o sistema de
 
 ### Violação
 
+<<<<<<< HEAD
 Durante o processo de alteração de email, não foi apresentada ao usuário qualquer mensagem de confirmação adicional, ou seja o usuário poderia clicar sem querer no botão de confirmação o que resulatria em email alterado sem que esse fosse o objetivo do usuário, como mostrado nas Figuras 13 e 14. 
 
 <p style="text-align: center">Figura 13 - Violação Projeto para Erros 1</p>
@@ -151,6 +166,8 @@ Durante o processo de alteração de email, não foi apresentada ao usuário qua
 
 <p style="text-align: center">Figura 14 - Violação Projeto para Erros 2</p>
 <figure markdown>![correspondencia](../assets/principios/projeto-erros2.png){:style="height:400px;width:800px;border-radius:5px"}<figcaption>Fonte: [Bilheteria Digital](https://www.bilheteriadigital.com/).</figcaption></figure>
+=======
+>>>>>>> 4701b5f (add violações 1 a 4)
 
 
 ## Bibliografia
@@ -172,6 +189,10 @@ Durante o processo de alteração de email, não foi apresentada ao usuário qua
 | Versão |    Data    |                Descrição                 |                    Autor(es)                     |                 Revisor(es)                  |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
 | `1.0`  | 11/05/2023 | Documentação dos Princípios Gerais. | [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) |
+<<<<<<< HEAD
 | `1.1`  | 18/05/2023 | Violação dos Princípios Gerais. | [Arthur de Melo](https://github.com/arthurmlv) | [Gabriel Campello](https://github.com/G16C) |
 | `1.2`  | 20/05/2023 | Violação dos Princípios Gerais 2. | [Gabriel Campello](https://github.com/G16C) | [Arthur de Melo](https://github.com/arthurmlv) |
 
+=======
+| `1.0`  | 18/05/2023 | Violação dos Princípios Gerais. | [Arthur de Melo](https://github.com/arthurmlv) | [Gabriel Campello](https://github.com/manuziny) |
+>>>>>>> 4701b5f (add violações 1 a 4)
