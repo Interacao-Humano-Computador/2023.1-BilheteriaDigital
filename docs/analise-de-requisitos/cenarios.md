@@ -28,6 +28,14 @@ Terminando sua pesquisa, Rebeca percebe que passou mais de 30 minutos realizando
 
 No post, Jonas também incluiu um link direto para a página do evento no Bilheteria Digital, onde seus amigos e familiares poderiam obter mais informações e comprar os ingressos. Ele incentivou a interação, convidando todos a deixarem comentários sobre o que estavam mais animados para ver no espetáculo.
 
+### Cancelar compra de um ingresso
+
+<a href="../personas/#anchor_PRH">Rebeca Hellen</a>, é uma jovem agrônoma com uma vida muito agitada, e para se desestressar decidiu comprar ingressos para um show de forró. Infelizmente alguns dias antes do show ela recebeu a notícia de um compromisso de extrema urgência que aconteceria no mesmo dia do evento que ela tinha comprado ingressos, e portanto, teve que cancelar sua compra. 
+
+Para tanto, ela acessou o site da Bilheteria Digital e buscou pela área de cancelamento de ingressos. Rebeca acessou a aba "meu painel" e buscou em suas compras efetuadas o botão de cancelamento de compra. Felizmente, ela encontrou facilmente o botão de cancelamento de compra em seu painel de usuário no site da Bilheteria Digital. Com apenas alguns cliques, ela conseguiu solicitar o cancelamento dos ingressos para o show de forró que não poderia mais comparecer. 
+
+O processo de cancelamento foi ágil e intuitivo, sem complicações. Rebeca recebeu imediatamente uma confirmação de que sua solicitação de cancelamento havia sido registrada. Além disso, ela foi informada sobre o prazo de processamento do cancelamento e as políticas de reembolso. Dentro de poucos dias, Rebeca recebeu o reembolso integral do valor pago pelos ingressos em sua conta bancária. Ela ficou satisfeita com a transparência e eficiência do processo de cancelamento da Bilheteria Digital.
+
 
 ## Referências Bibliográficas
 
