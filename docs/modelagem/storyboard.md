@@ -15,10 +15,12 @@ O storyboard é um exemplo de protótipo de baixa fidelidade, muito útil devido
 Os protótipos foram desenvolvidos com base nas tarefas definidas nos cenários.
 
 
-Tarefa 4: Cancelar compra de um ingresso
+## Tarefa 4: Cancelar compra de um ingresso
+
 Na figura 4, podemos ver um cenário em que por algum motivo o usuário teve que cancelar a compra efetuada. 
 
-<figure markdown>![Figura 4](../../assets/storyboard/storyboard4.png)<figcaption>Fonte: [Gbariel Campello](https://github.com/G16C) (2023).</figcaption></figure>
+<p style="text-align: center"><b>Figura 4</b> - Cancelar compra de um ingresso</p></font>
+<figure markdown>![Figura 4](../assets/storyboard/storyboard4.png)<figcaption>Fonte: [Gabriel Campello](https://github.com/G16C) (2023).</figcaption></figure>
 
 
 ## Referências Bibliográficas
