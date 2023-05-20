@@ -36,6 +36,11 @@ Para tanto, ela acessou o site da Bilheteria Digital e buscou pela área de canc
 
 O processo de cancelamento foi ágil e intuitivo, sem complicações. Rebeca recebeu imediatamente uma confirmação de que sua solicitação de cancelamento havia sido registrada. Além disso, ela foi informada sobre o prazo de processamento do cancelamento e as políticas de reembolso. Dentro de poucos dias, Rebeca recebeu o reembolso integral do valor pago pelos ingressos em sua conta bancária. Ela ficou satisfeita com a transparência e eficiência do processo de cancelamento da Bilheteria Digital.
 
+### Visualizar meus pedidos
+
+<a href="../personas/#anchor_PRH">Rebeca Hellen</a> é uma agrônoma de 25 anos que trabalha em período integral em uma fazenda e é fã de música sertaneja. Ela costuma comprar ingressos para shows por meio do site da Bilheteria Digital. Recentemente, ela comprou ingressos para um show de sua dupla favorita, Matheus e Rafael, e agora que a data do evento está chegando precisa verificar as informações de seu pedido. 
+
+Para isso, ela acessa o site da Bilheteria Digital, realiza o login com seus dados e acessa a página  "Meus pedidos". Ao acessar a página, Rebeca visualiza todos os pedidos já realizados em sua conta, ela rapidamente identifica o pedido do show da dupla sertaneja e clica nele para visualizar os detalhes. Na tela de detalhes do pedido, Rebeca pôde verificar o nome do evento, a data e horário do show, o local do evento, a quantidade de ingressos adquiridos, o valor total do pedido e as informações de entrega. Rebeca nota que as informações do pedido estão corretas e que não há nenhum problema. Ela fica satisfeita por poder ter acesso rápido e fácil às informações do seu pedido e prossegue com seus afazeres.
 
 ## Referências Bibliográficas
 
