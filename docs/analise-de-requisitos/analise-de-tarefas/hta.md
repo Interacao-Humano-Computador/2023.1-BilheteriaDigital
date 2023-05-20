@@ -147,7 +147,19 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 |     2.2 Pesquisar o tópico em destaque     | **input**: clique na caixa de pesquisa e insira o que deseja pesquisar. <br> **feedback**: a página é atualizada com os resultados.       |
 |      3. Selecionar a opção desejada    | **feedback**: o usuario é redirecionado para a página detalhando o tópico escolhido.         |
 
-## Bibliografia
+### Comprar ingresso
+
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 7</b> - Diagrama HTA da Compra de ingressos.</p></font>
+
+![Diagrama HTA da Busca de Ingressso no Modo Claro](../../assets/analise-de-tarefas/hta6.png#only-light){width: 300}
+![Diagrama HTA da Busca de Ingressso no Modo Escuro](../../assets/analise-de-tarefas/hta6e.png#only-dark){width: 300}
+
+<font size="3"><p style="text-align: center">Fonte: [Douglas Alves](https://github.com/dougAlvs) e [Arthur de Melo](https://github.com/arthurmlv).</p></font>
+
+</figure>
+
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Diagrama HTA de Compra de ingressos.</p></font>
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
