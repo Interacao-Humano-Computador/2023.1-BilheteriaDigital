@@ -30,11 +30,17 @@ Para a realização da avaliação, utilizar-se-á de uma adaptação dos métod
 
 ## Questões Práticas da Avaliação
 
+### Recrutamento
+
 O recrutamento dos usuários será flexibilizado ao entrevistador em questão, e a escolha de cada um deve ter como base o [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/perfil-usuario/#conclusao) já levantado pelo questionário. Quanto ao local, que também será flexível, as reuniões podem ser presenciais ou online. Como cada integrante do grupo ficou responsável pela criação de um storyboard, tem-se um total de seis storyboards. Sendo assim, como cada avaliação será feita de maneira indivual para cada storyboard, serão necessários seis usuários. 
+
+### Equipamentos Necessários
 
 Equipamentos necessários: foto ou imagem digitalizada do storyboard (em papel, caso presencial); ferramenta para o usuário realizar ou anotar as correções sugeridas; e, em caso de reunião online, será necessário para ambos os participantes um dispositivo com conexão à Internet.
 
-O prazo para a realização de tal reunião, que terá aproximadamente 7 minutos, será de até 2 dias antes da Entrega da Etapa 5: 29/05/2023. O orçamento vai ser o gasto pessoal que a pessoa terá para realizar sua locomoção, caso seja presencial, ou a conta de energia e de Internet, caso seja online. Os recursos necessários serão tempo e disponibilidade dos participantes.
+### Prazo e Recursos
+
+O prazo para a realização de tal reunião, que terá aproximadamente 7 minutos, será de até 2 dias antes da Entrega da Etapa 5: 29/05/2023. O orçamento vai ser o gasto pessoal que a pessoa terá para realizar sua locomoção, caso seja presencial, ou a conta de energia e de Internet, caso seja online. Não há previsão para os gastos relacionados ao recrutamento. Os recursos de mão-de-obra necessários serão tempo e disponibilidade dos participantes, sendo um deles o usuário.
 
 ## Questões Éticas
 
@@ -127,4 +133,4 @@ As Tabelas 2 e 3 apresentam os templates utilizados para o cronograma e para a e
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| `1.0`  |   20/05/2023   |     Documentação do planejamento da avaliação do Storyboard     |    [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0) | [Matheus Henrique](https://github.com/mathonaut)
+| `1.0`  |   20/05/2023   |     Documentação do planejamento da avaliação do Storyboard     |    [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0) | [Douglas Alves](https://github.com/dougalvs) e [Gabriel Campello](https://github.com/G16C)
