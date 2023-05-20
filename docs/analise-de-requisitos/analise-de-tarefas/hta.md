@@ -79,8 +79,6 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 ![Notação diagrama HTA](../../assets/analise-de-tarefas/hta3.png#only-light){width: 300}
 ![Notação diagrama HTA](../../assets/analise-de-tarefas/hta3e.png#only-dark){width: 300}
 
-<!-- ![Notação diagrama HTA](../../assets/analise-de-tarefas/hta3.png#only-light){width: 300}
-![Notação diagrama HTA](../../assets/analise-de-tarefas/hta3e.png#only-dark){width: 300} -->
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Campello](https://github.com/G16C).</p></font>
 
@@ -124,6 +122,20 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 |           2.3 Entrar na página do evento            | **feedback**: o usuario é redirecionado para a página do evento.                                                                                                                                                           |
 
 <font size="3"><p style="text-align: center">Fonte: [Matheus Henrique](https://github.com/mathonaut).</p></font>
+
+### Acessar a Central de Ajuda
+
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 6</b> - Diagrama HTA de Acessar a Central de Ajuda.</p></font>
+
+![Diagrama HTA da Busca de Ingressso no Modo Claro](../../assets/analise-de-tarefas/hta5.png#only-light){width: 300}
+![Diagrama HTA da Busca de Ingressso no Modo Escuro](../../assets/analise-de-tarefas/hta5e.png#only-dark){width: 300}
+
+<font size="3"><p style="text-align: center">Fonte: [Douglas Alves dos Santos](https://github.com/dougAlvs).</p></font>
+
+</figure>
+
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Diagrama HTA de Acessar a Central de Ajuda.</p></font>
 
 ## Bibliografia
 
