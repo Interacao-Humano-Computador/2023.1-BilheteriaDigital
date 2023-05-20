@@ -29,6 +29,7 @@ nav:
       - Ata 5: atas/IHC_Ata_05.md
       - Ata 6: atas/IHC_Ata_06.md
       - Ata 7: atas/IHC_Ata_07.md
+      - Ata 8: atas/IHC_Ata_08.md
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
@@ -48,6 +49,15 @@ nav:
       - Princípios Gerais: analise-de-requisitos/principios.md
       - Guia de Estilo: analise-de-requisitos/guia-de-estilo.md
       - Características Gerais: analise-de-requisitos/caracteristicas.md
+  - Design, Avaliação e Desenvolvimento:
+      - Nível 1:
+          - Análise de Tarefas:
+              - Planejamento da Avaliação da Análise de Tarefas: design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-avaliavao-at.md
+              - Relato dos Resultados da Avaliação: design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/relato-resultados-at.md
+          - Storyboard:
+              - Planejamento da Avaliação do Storyboard: design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-avaliavao-sb.md
+              - Planejamento do Relato dos Resultados: design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-relato-resultados-sb.md
+              - Relato dos Resultados da Avaliação: design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/relato-resultados-sb.md
 
 theme:
   name: material
