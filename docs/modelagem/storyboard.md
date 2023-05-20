@@ -35,6 +35,21 @@ Na figura 5, é apresentada um storyboard sobre a busca de um show no site.
 
 </center>
 
+## Tarefa 6: Visualizar meus pedidos
+
+Na figura 6, é apresentada um storyboard sobre a visualização dos pedidos do usuário no site.
+
+<center>
+
+**Figura 6** - Storyboard visualizar meus pedidos</p>
+
+<figure markdown> 
+
+![Figura 5 - Busca de um evento no site Bilheteria Digital.](../assets/storyboard/storyboard6.png)<figcaption>Fonte: [Douglas Alves](https://github.com/dougAlvs) (2023).</figcaption>
+</figure>
+
+</center>
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> PREECE, Jennifer, SHARP, Helen, ROGERS, Yvonne. Interaction Design: beyond human-computer interaction. John Wiley & Sons, 2015.
