@@ -16,7 +16,7 @@ A Análise Hierárquica de Tarefas (HTA) é um método de análise de tarefas qu
 
 ## Análise de tarefas:
 
-No que diz respeito as tarefas para análise com o método HTA, foram escolhidas o acesso ao meu painel e o compartilhamento de eventos, conforme explicitado nas figuras de 2 a 5 e nas tabelas de 1 a 4.
+No que diz respeito as tarefas para análise com o método HTA, foram escolhidas o acesso ao meu painel e o compartilhamento de eventos, conforme explicitado nas figuras de 2 a 6 e nas tabelas de 1 a 6.
 
 ### Visualizar meus pedidos
 
@@ -131,11 +131,21 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 ![Diagrama HTA da Busca de Ingressso no Modo Claro](../../assets/analise-de-tarefas/hta5.png#only-light){width: 300}
 ![Diagrama HTA da Busca de Ingressso no Modo Escuro](../../assets/analise-de-tarefas/hta5e.png#only-dark){width: 300}
 
-<font size="3"><p style="text-align: center">Fonte: [Douglas Alves dos Santos](https://github.com/dougAlvs).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Douglas Alves](https://github.com/dougAlvs) e [Arthur de Melo](https://github.com/arthurmlv).</p></font>
 
 </figure>
 
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Diagrama HTA de Acessar a Central de Ajuda.</p></font>
+
+|     Objetivos/Operações     | Problemas e recomendações  |
+| :---------------------: | ------------------------------ |
+| 0. Acessar aba Central de Ajuda 1>2 |   |
+| 1. Acessar área de Central de Ajuda a partir da tela inicial | **feedback**: usuário é redirecionado para a página de Central de Ajuda.<br> **plano**: clicar no botão da aba de suporte.  |
+|        1.1 Selecionar o botão da aba de suporte         | **input**: clicar no botão "Central de Ajuda". <br>**feedback**: a página é carregada.              |
+| 2.  Acessar a aba desejada Central de Ajuda 1/2 | **feedback**: usuário é redirecionado para o tópico desejado.<br> **plano**: escolher o tópico em destaque, caso esteja visível, ou pesquisar o tópico desejado, escolhê-lo e acessar a página que detalha a vicissitude. |
+|  2.1 Selecionar o tópico em destaque  | **input**: clicar no tópico em destaque.<br>**feedback**: o site atualiza a página os resultados dentro daquele tópico.     |
+|     2.2 Pesquisar o tópico em destaque     | **input**: clique na caixa de pesquisa e insira o que deseja pesquisar. <br> **feedback**: a página é atualizada com os resultados.       |
+|      3. Selecionar a opção desejada    | **feedback**: o usuario é redirecionado para a página detalhando o tópico escolhido.         |
 
 ## Bibliografia
 
