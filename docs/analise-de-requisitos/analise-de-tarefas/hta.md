@@ -16,7 +16,7 @@ A Análise Hierárquica de Tarefas (HTA) é um método de análise de tarefas qu
 
 ## Análise de tarefas:
 
-No que diz respeito as tarefas para análise com o método HTA, foram escolhidas o acesso ao meu painel e o compartilhamento de eventos, conforme explicitado nas figuras de 2 a 6 e nas tabelas de 1 a 6.
+No que diz respeito as tarefas para análise com o método HTA, foram escolhidas o acesso ao meu painel e o compartilhamento de eventos, conforme explicitado nas figuras de 2 a 7 e nas tabelas de 1 a 7.
 
 ### Visualizar meus pedidos
 
@@ -147,6 +147,8 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 |     2.2 Pesquisar o tópico em destaque     | **input**: clique na caixa de pesquisa e insira o que deseja pesquisar. <br> **feedback**: a página é atualizada com os resultados.       |
 |      3. Selecionar a opção desejada    | **feedback**: o usuario é redirecionado para a página detalhando o tópico escolhido.         |
 
+<font size="3"><p style="text-align: center">Fonte: [Douglas Alves](https://github.com/dougAlvs) e [Arthur de Melo](https://github.com/arthurmlv).</p></font>
+
 ### Comprar ingresso
 
 <figure markdown>
@@ -161,6 +163,21 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 
 <font size="3"><p style="text-align: center"><b>Tabela 7</b> - Diagrama HTA de Compra de ingressos.</p></font>
 
+|     Objetivos/Operações     | Problemas e recomendações  |
+| :---------------------: | ------------------------------ |
+| 0. Comprar ingresso 1>2 |   |
+| 1.1 Pesquisar evento |  **input**: clicar na caixa de pesquisa e inserir o que deseja pesquisar. <br> **feedback**: o site atualiza a página com os eventos relacionados.  |
+|        1.2 Selecionar o evento desejado 1+2         | **input**: clicar na imagem do evento desejado. <br>**feedback**: a página é carregada.              |
+| 2.1  Selecionar o tipo de ingresso | **input**: clicar no botão de selecionar quantidade de ingresso. <br> **feedback**: o tipo escolhido aumenta a quantidade. |
+|  2.2 Selecionar o assento  | **input**: selecionar o assento no mapa.<br>**feedback**: o site avisa que foi escolhida uma poltrona.     |
+|  1.3 Realizar pagamento 1>2  | **input**: selecionar a opção de pagamento.<br>**feedback**: o site dá os detalhes para aquela opção de pagamento.     |
+|     2.3 Preencher informações de pagamento     | **input**: passar os dados necessários nas caixas específicas. <br> **feedback**: as informações são confirmadas após finalizar a compra.       |
+|      2.4 Receber confirmação de compra    | **feedback**: o usuario é redirecionado para a página confirmando a compra e recebe um e-mail.         |
+
+<font size="3"><p style="text-align: center">Fonte: [Douglas Alves](https://github.com/dougAlvs) e [Arthur de Melo](https://github.com/arthurmlv).</p></font>
+
+## Bibliografia
+
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 > Análise de tarefas. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-SimplesNacional/>>. Acesso em 06 de abril de 2023.
@@ -173,3 +190,4 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 | `1.1`  | 07/05/2023 | Adição da análise de duas tarefas.             | [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv) |
 | `1.2`  | 12/05/2023 | Adição da avaliação do cancelamento de compra. | [Gabriel Campello](https://github.com/G16C)                                                   | [Arthur de Melo](https://github.com/arthurmlv) |
 | `1.3`  | 13/05/2023 | Adição da avaliação da Busca de Ingresso.      | [Matheus Henrique](https://github.com/mathonaut)                                              | [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.4`  | 20/05/2023 | Adição da avaliação de Central de Ajuda e de Compra.      | [Douglas Alves](https://github.com/dougAlvs) e [Arthur de Melo](https://github.com/arthurmlv)                                             | [Geovanna Maciel](https://github.com/manuziny) |
