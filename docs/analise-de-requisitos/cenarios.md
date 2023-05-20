@@ -42,6 +42,17 @@ O processo de cancelamento foi ágil e intuitivo, sem complicações. Rebeca rec
 
 Para isso, ela acessa o site da Bilheteria Digital, realiza o login com seus dados e acessa a página  "Meus pedidos". Ao acessar a página, Rebeca visualiza todos os pedidos já realizados em sua conta, ela rapidamente identifica o pedido do show da dupla sertaneja e clica nele para visualizar os detalhes. Na tela de detalhes do pedido, Rebeca pôde verificar o nome do evento, a data e horário do show, o local do evento, a quantidade de ingressos adquiridos, o valor total do pedido e as informações de entrega. Rebeca nota que as informações do pedido estão corretas e que não há nenhum problema. Ela fica satisfeita por poder ter acesso rápido e fácil às informações do seu pedido e prossegue com seus afazeres.
 
+### Acessar a aba Central de Ajuda
+
+<a href="../personas/#anchor_PSM">Maria Eduarda de Oliveira</a> é uma médica veterinária de 31 anos que possui pós-graduação em Clínica Cirúrgica Veterinária. Ela está solteira e mora com seu namorado Carlos. Maria é muito organizada e segue uma rotina diária. Ela sai de casa às 09:00 horas para ir trabalhar e retorna às 18:00 horas. Após o trabalho, ela faz uma caminhada com seu poodle Fifo por cerca de uma hora. Em seguida, Maria prepara o jantar com Carlos para finalizar o dia. Uma vez por semana, ela substitui um jantar com Carlos por um evento com os amigos.
+
+Ela espera que o site da interface apresente as informações de forma minimalista e seja fácil de usar. Maria também espera poder visualizar eventos de interesse próximos à sua localização. 
+
+Na semana de seu aniversário de namoro com Carlos, ela pretendia levá-lo para uma peça de teatro na qual ele estava falando há tempos, ele queria muito ir. A peça só tinha ingressos disponíveis no Bilheteria Digital, portanto ela foi ao site e procurou pela peça teatral. Logo no feed de eventos ela pôde encontrar a peça teatral e comprou os ingressos. Mas ela não se atentou que os ingressos eram somente para o próximo mês. Nesse contexto ela achou melhor cancelar a compra, mas ficou na dúvida em como faria tal procedimento. Portanto ela voltou à página principal e procurou pela aba Central de Ajuda.
+
+Rapidamente ela encontrou a aba de Central de ajuda localizada na header do site, a qual ela clicou e pôde encontrar o tópico em que falava sobre o cancelamento da compra. Assim ela cancelou sua compra e comprou ingressos para outro evento para que pudesse aproveitar seu aniversário de namoro com seu namorado.
+
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> ROSSON, M.B., CARROL, J.M. Usability engineering: scenario-based development of human-computer interaction. Morgan Kaufmann, 2002.
@@ -58,3 +69,5 @@ Para isso, ela acessa o site da Bilheteria Digital, realiza o login com seus dad
 | `1.1`  | 11/05/2023 | Remoção do Cenário de Cadastro e Adição do Cenário de Compra.              | [Arthur de Melo](https://github.com/arthurmlv)   | [Douglas Alves](https://github.com/dougAlvs)   |
 | `1.2`  | 11/05/2023 | Adição do Cenário de Busca.                                                | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) |
 | `1.3`  | 13/05/2023 | Adição do Cenário de Compartilhar Evento                                   | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.4` | 20/05/2023 | Atualização do cenário de compartilhar evento | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny)
+| `1.5` | 20/05/2023 | Adição do cenário acessar aba de Central de Ajuda | [Geovanna Maciel](https://github.com/manuziny) | [Rafael Ferreira](https://github.com/RafaelCLG0)
