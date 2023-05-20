@@ -79,6 +79,9 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 ![Notação diagrama HTA](../../assets/analise-de-tarefas/hta3.png#only-light){width: 300}
 ![Notação diagrama HTA](../../assets/analise-de-tarefas/hta3e.png#only-dark){width: 300}
 
+<!-- ![Notação diagrama HTA](../../assets/analise-de-tarefas/hta3.png#only-light){width: 300}
+![Notação diagrama HTA](../../assets/analise-de-tarefas/hta3e.png#only-dark){width: 300} -->
+
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Campello](https://github.com/G16C).</p></font>
 
 </figure>
