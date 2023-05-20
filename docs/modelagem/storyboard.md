@@ -1,4 +1,4 @@
-# Storybaords
+# Storyboards
 
 ## Introdução
 
@@ -13,6 +13,21 @@ O storyboard é um exemplo de protótipo de baixa fidelidade, muito útil devido
 - A satisfação da pessoa ao completar a tarefa, no final do storyboard.
 
 Os protótipos foram desenvolvidos com base nas tarefas definidas nos cenários.
+
+## Tarefa 1: Comprar um ingresso
+
+Na figura 1, apresenta-se um storyboard no qual o usuário, após uma árdua semana de trabalho, opta por assistir uma peça de teatro ainda não definida.
+
+<center>
+
+**Figura 1** - Storyboard compra de um ingresso</p>
+
+<figure markdown> 
+
+![Figura 1 - Compra de um ingresso na Bilheteria Digital.](../assets/storyboard/storyboard1.png)<figcaption>Fonte: [Arthur de Melo](https://github.com/arthurmlv) (2023).</figcaption>
+</figure>
+
+</center>
 
 ## Tarefa 4: Cancelar compra de um ingresso
 

@@ -49,7 +49,18 @@
     
     
     
-  </head>
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+        html.glightbox-open { overflow: initial; height: 100%; }
+        .gslide-title { margin-top: 0px; user-select: text; }
+        .gslide-desc { color: #666; user-select: text; }
+        .gslide-image img { background: white; }
+        
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}
+            </style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -71,7 +82,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#storybaords" class="md-skip">
+        <a href="#storyboards" class="md-skip">
           Pular para conteúdo
         </a>
       
@@ -137,39 +148,6 @@
       </form>
     
     
-    
-      <label class="md-header__button md-icon" for="__search">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-      </label>
-      <div class="md-search" data-md-component="search" role="dialog">
-  <label class="md-search__overlay" for="__search"></label>
-  <div class="md-search__inner" role="search">
-    <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
-      <label class="md-search__icon md-icon" for="__search">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
-      </label>
-      <nav class="md-search__options" aria-label="Pesquisar">
-        
-        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
-        </button>
-      </nav>
-      
-    </form>
-    <div class="md-search__output">
-      <div class="md-search__scrollwrap" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="search-result">
-          <div class="md-search-result__meta">
-            Inicializando busca
-          </div>
-          <ol class="md-search-result__list" role="presentation"></ol>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
     
     
       <div class="md-header__source">
@@ -1002,6 +980,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#tarefa-1-comprar-um-ingresso" class="md-nav__link">
+    Tarefa 1: Comprar um ingresso
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#tarefa-4-cancelar-compra-de-um-ingresso" class="md-nav__link">
     Tarefa 4: Cancelar compra de um ingresso
   </a>
@@ -1011,6 +996,13 @@
         <li class="md-nav__item">
   <a href="#tarefa-5-buscar-evento" class="md-nav__link">
     Tarefa 5: Buscar Evento
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarefa-6-visualizar-meus-pedidos" class="md-nav__link">
+    Tarefa 6: Visualizar meus pedidos
   </a>
   
 </li>
@@ -1085,6 +1077,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#tarefa-1-comprar-um-ingresso" class="md-nav__link">
+    Tarefa 1: Comprar um ingresso
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#tarefa-4-cancelar-compra-de-um-ingresso" class="md-nav__link">
     Tarefa 4: Cancelar compra de um ingresso
   </a>
@@ -1094,6 +1093,13 @@
         <li class="md-nav__item">
   <a href="#tarefa-5-buscar-evento" class="md-nav__link">
     Tarefa 5: Buscar Evento
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarefa-6-visualizar-meus-pedidos" class="md-nav__link">
+    Tarefa 6: Visualizar meus pedidos
   </a>
   
 </li>
@@ -1130,7 +1136,7 @@
   
 
 
-<h1 id="storybaords">Storybaords</h1>
+<h1 id="storyboards">Storyboards</h1>
 <h2 id="introducao">Introdução</h2>
 <p>O storyboard é um exemplo de protótipo de baixa fidelidade, muito útil devido sua simplicidade, baixo custo e rápida produção. Isso significa que podem ser rapidamente alterados. São geralmente utilizados em conjunto com cenários. <a id="anchor_1" href="#REF1"><sup>1</sup></a> Ao utilizar storyboards em conjunto com cenários ou roteiros, é possível visualizar e planejar a sequência de eventos, a composição das cenas, a posição dos personagens, a movimentação da câmera e outros elementos visuais importantes. Isso ajuda a identificar possíveis problemas narrativos, ajustar a dinâmica da história e prever como ela será apresentada ao público. O storyboard consiste em uma série de ilustrações sequenciais que representam os principais momentos, ações e composições visuais de uma cena ou de todo o enredo. Cada quadro do storyboard retrata uma cena específica, acompanhada por uma descrição escrita ou diálogos relacionados. No caso de um sistema baseado em GUI. Esse modelo de artefato deve conter os seguintes elementos:</p>
 <ul>
@@ -1143,19 +1149,35 @@
 <li>A satisfação da pessoa ao completar a tarefa, no final do storyboard.</li>
 </ul>
 <p>Os protótipos foram desenvolvidos com base nas tarefas definidas nos cenários.</p>
+<h2 id="tarefa-1-comprar-um-ingresso">Tarefa 1: Comprar um ingresso</h2>
+<p>Na figura 1, apresenta-se um storyboard no qual o usuário, após uma árdua semana de trabalho, opta por assistir uma peça de teatro ainda não definida.</p>
+<p><center></p>
+<p><strong>Figura 1</strong> - Storyboard compra de um ingresso</p></p>
+<figure>
+<p><a class="glightbox" href="../../assets/storyboard/storyboard1.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Figura 1 - Compra de um ingresso na Bilheteria Digital." src="../../assets/storyboard/storyboard1.png" /></a><figcaption>Fonte: <a href="https://github.com/arthurmlv">Arthur de Melo</a> (2023).</figcaption></p>
+</figure>
+<p></center></p>
 <h2 id="tarefa-4-cancelar-compra-de-um-ingresso">Tarefa 4: Cancelar compra de um ingresso</h2>
 <p>Na figura 4, podemos ver um cenário em que por algum motivo o usuário teve que cancelar a compra efetuada.</p>
 <p style="text-align: center"><b>Figura 4</b> - Cancelar compra de um ingresso</p>
 <p></font></p>
 <figure>
-<p><img alt="Figura 4" src="../../assets/storyboard/storyboard4.png" /><figcaption>Fonte: <a href="https://github.com/G16C">Gabriel Campello</a> (2023).</figcaption></p>
+<p><a class="glightbox" href="../../assets/storyboard/storyboard4.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Figura 4" src="../../assets/storyboard/storyboard4.png" /></a><figcaption>Fonte: <a href="https://github.com/G16C">Gabriel Campello</a> (2023).</figcaption></p>
 </figure>
 <h2 id="tarefa-5-buscar-evento">Tarefa 5: Buscar Evento</h2>
 <p>Na figura 5, é apresentada um storyboard sobre a busca de um show no site.</p>
 <p><center></p>
 <p><strong>Figura 5</strong> - Buscar de um Evento</p></p>
 <figure>
-<p><img alt="Figura 5 - Busca de um evento no site Bilheteria Digital." src="../../assets/storyboard/storyboard5.png" /><figcaption>Fonte: <a href="https://github.com/mathonaut">Matheus Henrique</a> (2023).</figcaption></p>
+<p><a class="glightbox" href="../../assets/storyboard/storyboard5.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Figura 5 - Busca de um evento no site Bilheteria Digital." src="../../assets/storyboard/storyboard5.png" /></a><figcaption>Fonte: <a href="https://github.com/mathonaut">Matheus Henrique</a> (2023).</figcaption></p>
+</figure>
+<p></center></p>
+<h2 id="tarefa-6-visualizar-meus-pedidos">Tarefa 6: Visualizar meus pedidos</h2>
+<p>Na figura 6, é apresentada um storyboard sobre a visualização dos pedidos do usuário no site.</p>
+<p><center></p>
+<p><strong>Figura 6</strong> - Storyboard visualizar meus pedidos</p></p>
+<figure>
+<p><a class="glightbox" href="../../assets/storyboard/storyboard6.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Figura 5 - Busca de um evento no site Bilheteria Digital." src="../../assets/storyboard/storyboard6.png" /></a><figcaption>Fonte: <a href="https://github.com/dougAlvs">Douglas Alves</a> (2023).</figcaption></p>
 </figure>
 <p></center></p>
 <h2 id="referencias-bibliograficas">Referências Bibliográficas</h2>
@@ -1261,5 +1283,5 @@
       <script src="../../assets/javascripts/bundle.51198bba.min.js"></script>
       
     
-  </body>
+  <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
 </html>
