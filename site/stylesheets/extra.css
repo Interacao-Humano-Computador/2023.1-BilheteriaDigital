@@ -23,3 +23,14 @@ body {
 p {
   text-indent: 1em;
 }
+
+[data-md-color-scheme="claro"] img[src$="#only-dark"]
+[data-md-color-scheme="claro"] img[src$="#gh-dark-mode-only"] {
+  display: none;
+}
+
+
+[data-md-color-scheme="slate"] img[src$="#only-light"],
+[data-md-color-scheme="slate"] img[src$="#gh-light-mode-only"] {
+  display: none;
+}
