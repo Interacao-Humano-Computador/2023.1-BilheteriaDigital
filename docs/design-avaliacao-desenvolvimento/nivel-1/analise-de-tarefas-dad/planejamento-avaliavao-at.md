@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A avaliação é um processo essencial para que o processo de desenvolvimento consiga produzir um sistema com alta qualidade. Sendo assim, no intuito de corrigir possíveis problemas relacionados com a análise de tarefas realizada, será feita uma avaliação desse artefato. Para uma verdadeira interação com usuários do Bilheteria Digital, serão realizadas entrevistas com usuários reais do produto, tendo como base o [perfil de usuário](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/perfil-usuario/), assim será possível avaliar sua perspectiva de forma dinâmica. 
+A avaliação é um processo essencial para que o processo de desenvolvimento consiga produzir um sistema com alta qualidade. Sendo assim, no intuito de corrigir possíveis problemas relacionados com a análise de tarefas realizada, será feita uma avaliação desse artefato. Para uma verdadeira interação com usuários do Bilheteria Digital, serão realizadas entrevistas com usuários reais do produto, tendo como base o [perfil de usuário](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/perfil-usuario/), assim será possível avaliar sua perspectiva de forma dinâmica.
 
 ## Metologia
 
@@ -63,9 +63,9 @@ Em relação aos prazos, a entrevista deverá ser realizada em no máximo uma ho
 
 **Tabela 2** - Modelo do cronograma de uma entrevista.
 
-| Entrevistadores(s) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  Fulano e Ciclano  |    Beltrano     |       00:00       |     00:30      | xx/xx/xxxx | Plataforma X |
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :---------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| Fulano e Ciclano  |    Beltrano     |       00:00       |     00:30      | xx/xx/xxxx | Plataforma X |
 
 **Fonte 2** - [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
 
@@ -73,31 +73,29 @@ Em relação aos prazos, a entrevista deverá ser realizada em no máximo uma ho
 
 ### Roteiro de Perguntas
 
-A tabela 3 a seguir mostra o roteiro de perguntas a serem realizadas na entrevista. Na entrevista estarão disponíveis capturas de tela para que o usuário possa ver a tela da qual o entrevistador estará relacionando e seu fluxo. 
+A tabela 3 a seguir mostra o roteiro de perguntas a serem realizadas na entrevista. Na entrevista estarão disponíveis capturas de tela para que o usuário possa ver a tela da qual o entrevistador estará relacionando e seu fluxo.
 
 <center>
 
 **Tabela 3** - Roteiro de perguntas da entrevista.
 
-| Número |     Pergunta     | Resposta Possíveis  |
-| :----: | :--------------: | :-----------------: |
-|   1    | Qual o seu nome? | Resposta Discursiva |
-| 2 | Qual sua idade? | Resposra discursiva |
-| 3 | Qual sua área de profissão ou ocupação? | Resposta discursiva |
-| 4 | Qual seu grau de experiência com tecnologias? | Resposta discursiva |
-| 5 | Você já utilizou algum site de compra de ingressos online? | Resposta fechada |
-| 6 | Você compraria algum ingresso no Bilheteria Digital? | Resposta fechada |
-| 7 | Quais seriam as principais atividades que você realizaria num site como o Bilheteria Digital? | Resposta discursiva |
-| 8 | Qual é o procedimento que você realizaria para buscar e selecionar ingressos para um determinado evento? | Resposta discursiva |
-| 9 | Já tendo comprado o ingresso, que procedimento você faria para o visualizar? | Resposta discursiva |
-| 10 | Supondo que você gostou de um evento e deseja compartilhá-lo, como você o faria na plataforma? | Resposta discursiva |
-| 11 | Sobre o cancelamento da compra, você acha essa tarefa de fácil execução e entendimento? | Resposta Fechada | 
-| 12 | Após a apresentação dos fluxos, em uma escala de 1 a 5, como você avaliaria a usabilidade do site? | Resposta fechada |
-| 13 | Em algum fluxo você sentiu alguma insegurança ao uso? | Resposta discursiva |
-| 14 | Em uma escala de 1 a 5, como você avaliaria seu grau de satisfação com o uso do site? | Resposta fechada | 
-| 15 | Após essa avaliação, você recomendaria o site para algum amigo? | Resposta fechada |
-
-
+| Número |                                                 Pergunta                                                 | Resposta Possíveis  |
+| :----: | :------------------------------------------------------------------------------------------------------: | :-----------------: |
+|   1    |                                             Qual o seu nome?                                             | Resposta Discursiva |
+|   2    |                                             Qual sua idade?                                              | Resposra Discursiva |
+|   3    |                                 Qual sua área de profissão ou ocupação?                                  | Resposta Discursiva |
+|   4    |                              Qual seu grau de experiência com tecnologias?                               | Resposta Discursiva |
+|   5    |                        Você já utilizou algum site de compra de ingressos online?                        |  Resposta Fechada   |
+|   6    |                           Você compraria algum ingresso no Bilheteria Digital?                           |  Resposta Fechada   |
+|   7    |       Quais seriam as principais atividades que você esperaria num site como o Bilheteria Digital?       | Resposta Discursiva |
+|   8    | Qual é o procedimento que você realizaria para buscar e selecionar ingressos para um determinado evento? | Resposta Discursiva |
+|   9    |               Já tendo comprado o ingresso, que procedimento você faria para o visualizar?               | Resposta Discursiva |
+|   10   |      Supondo que você gostou de um evento e deseja compartilhá-lo, como você o faria na plataforma?      | Resposta Discursiva |
+|   11   |         Sobre o cancelamento da compra, você acha essa tarefa de fácil execução e entendimento?          |  Resposta Fechada   |
+|   12   |    Após a apresentação dos fluxos, em uma escala de 1 a 5, como você avaliaria a usabilidade do site?    |  Resposta Fechada   |
+|   13   |                          Em algum fluxo você sentiu alguma insegurança ao uso?                           | Resposta Discursiva |
+|   14   |          Em uma escala de 1 a 5, como você avaliaria seu grau de satisfação com o uso do site?           |  Resposta Fechada   |
+|   15   |                     Após essa avaliação, você recomendaria o site para algum amigo?                      |  Resposta Fechada   |
 
 **Fonte 2** - [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
 
@@ -109,14 +107,13 @@ Será utilizado o [termo de consentimento](../../../../analise-de-requisitos/asp
 
 ## E - Avaliar, Interpretar e Apresentar os Dados
 
-Após a realização da avaliação, os dados serão documentados e tratados, levando em conta o contexto em que eles foram produzidos, julgando se possuem alto grau de confiabilidade e que podem ser generalizados para representar a população de usuários do site. 
+Após a realização da avaliação, os dados serão documentados e tratados, levando em conta o contexto em que eles foram produzidos, julgando se possuem alto grau de confiabilidade e que podem ser generalizados para representar a população de usuários do site.
 
 O que envolve registrar os problemas, dificuldades durante a interação, podem envolver questões de usabilidade, funcionalidades ausentes e problemas de desempenho. Serão anotadas as descrições dos problemas, sua classificação, sugestões de melhoria, captar o feedback do usuário e ao fim da entrevistas documentar as observações gerais a serem feitas a cerca da entrevista realizada.
 
-Realizada a etapa anteriormente mencionada, os dados serão apresentados ao time de desenvolvimento, procurando com isso obter o máximo de informação relevante para o desenvolvimento do projeto. 
+Realizada a etapa anteriormente mencionada, os dados serão apresentados ao time de desenvolvimento, procurando com isso obter o máximo de informação relevante para o desenvolvimento do projeto.
 
-## Planejamento do teste piloto
-
+## Planejamento do Teste Piloto
 
 Segundo Barbosa e Silva (2011, p.276) o objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como
 planejada, produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve
@@ -136,12 +133,12 @@ Desta forma, o teste piloto será conduzido por uma equipe composta por duas pes
 
 > EDUARDA, Maria. Planejamento da Avaliação da Análise de tarefas. Repositório do Grupo Millenium Papelaria e Presentes da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.1-Millenium-Papelaria/DesignAvaliacaoDesenvolvimento/nivel1/planejamentoAvaliacaoAnalisedeTarefas/>>. Acesso em: 19 maio 2023.
 
->BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                     | Autor(es)                                        | Revisor(es)                                    |
-| ------ | ---------- | --------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
-| `1.0`  | 19/05/2023 | Criação da página com textos introdutórios.   | [Matheus Henrique](https://github.com/mathonaut) | [Geovanna Maciel](https://github.com/manuziny) |
-| `1.1`  | 20/05/2023 | Adicionado a metodologia e questões práticas. | [Matheus Henrique](https://github.com/mathonaut) | [Geovanna Maciel](https://github.com/manuziny) |
-| `1.2`  | 21/05/2023 | Adicionado teste piloto, estões da entrevistas e complementando alguns textos. | [Geovanna Maciel](https://github.com/manuziny) | [Matheus Henrique](https://github.com/mathonaut) | 
+| Versão | Data       | Descrição                                                                      | Autor(es)                                        | Revisor(es)                                      |
+| ------ | ---------- | ------------------------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`  | 19/05/2023 | Criação da página com textos introdutórios.                                    | [Matheus Henrique](https://github.com/mathonaut) | [Geovanna Maciel](https://github.com/manuziny)   |
+| `1.1`  | 20/05/2023 | Adicionado a metodologia e questões práticas.                                  | [Matheus Henrique](https://github.com/mathonaut) | [Geovanna Maciel](https://github.com/manuziny)   |
+| `1.2`  | 21/05/2023 | Adicionado teste piloto, estões da entrevistas e complementando alguns textos. | [Geovanna Maciel](https://github.com/manuziny)   | [Matheus Henrique](https://github.com/mathonaut) |
