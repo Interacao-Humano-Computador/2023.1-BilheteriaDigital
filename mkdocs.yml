@@ -14,6 +14,9 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
+plugins:
+  - glightbox
+
 site_name: Bilheteria Digital
 nav:
   - Home: index.md
@@ -29,6 +32,7 @@ nav:
       - Ata 5: atas/IHC_Ata_05.md
       - Ata 6: atas/IHC_Ata_06.md
       - Ata 7: atas/IHC_Ata_07.md
+      - Ata 8: atas/IHC_Ata_08.md
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
@@ -57,6 +61,7 @@ nav:
               - Planejamento da Avaliação do Storyboard: design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-avaliavao-sb.md
               - Planejamento do Relato dos Resultados: design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-relato-resultados-sb.md
               - Relato dos Resultados da Avaliação: design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/relato-resultados-sb.md
+              - Storyboards: design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/storyboard.md
 
 theme:
   name: material
