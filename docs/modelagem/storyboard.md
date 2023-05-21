@@ -29,6 +29,37 @@ Na figura 1, apresenta-se um storyboard no qual o usuário, após uma árdua sem
 
 </center>
 
+## Tarefa 2: Buscar Evento
+
+Na figura 2, é apresentada um storyboard sobre a busca de um show no site.
+
+<center>
+
+**Figura 2** - Storyboard Buscar um Evento</p>
+
+<figure markdown>
+
+![Figura 2 - Busca de um evento no site Bilheteria Digital.](../assets/storyboard/storyboard5.png)<figcaption>Fonte: [Matheus Henrique](https://github.com/mathonaut) (2023).</figcaption>
+</figure>
+
+</center>
+
+## Tarefa 3: Compartilhar Eventos nas Redes Sociais
+
+Na figura 3, é apresentada um storyboard sobre compartilhar eventos nas redes sociais.
+
+<center>
+
+**Figura 3** - Storyboard Compartilhar Eventos nas Redes Sociais</p>
+
+<figure markdown> 
+
+![Figura 3 - Compartilhar Eventos nas Redes Sociais](../assets/storyboard/storyboard7.png)
+<figcaption>Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0) (2023).</figcaption>
+</figure>
+
+</center>
+
 ## Tarefa 4: Cancelar compra de um ingresso
 
 Na figura 4, podemos ver um cenário em que por algum motivo o usuário teve que cancelar a compra efetuada.
@@ -36,27 +67,14 @@ Na figura 4, podemos ver um cenário em que por algum motivo o usuário teve que
 <p style="text-align: center"><b>Figura 4</b> - Cancelar compra de um ingresso</p></font>
 <figure markdown>![Figura 4](../assets/storyboard/storyboard4.png)<figcaption>Fonte: [Gabriel Campello](https://github.com/G16C) (2023).</figcaption></figure>
 
-## Tarefa 5: Buscar Evento
 
-Na figura 5, é apresentada um storyboard sobre a busca de um show no site.
+## Tarefa 5: Visualizar meus pedidos
 
-<center>
-
-**Figura 5** - Buscar de um Evento</p>
-
-<figure markdown>
-![Figura 5 - Busca de um evento no site Bilheteria Digital.](../assets/storyboard/storyboard5.png)<figcaption>Fonte: [Matheus Henrique](https://github.com/mathonaut) (2023).</figcaption>
-</figure>
-
-</center>
-
-## Tarefa 6: Visualizar meus pedidos
-
-Na figura 6, é apresentada um storyboard sobre a visualização dos pedidos do usuário no site.
+Na figura 5, é apresentada um storyboard sobre a visualização dos pedidos do usuário no site.
 
 <center>
 
-**Figura 6** - Storyboard visualizar meus pedidos</p>
+**Figura 5** - Storyboard visualizar meus pedidos</p>
 
 <figure markdown> 
 
@@ -75,3 +93,6 @@ Na figura 6, é apresentada um storyboard sobre a visualização dos pedidos do 
 | ------ | ---------- | ----------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`  | 18/05/2023 | Criação da página de storyboards, criação do primeiro storyboard. | [Gabriel Campello](https://github.com/G16C)      | [Arthur de Melo](https://github.com/arthurmlv) |
 | `1.1`  | 20/05/2023 | Adição do storyboard de Busca de Evento.                          | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.2`  | 20/05/2023 | Adição do storyboard de Comprar Ingresso.                          | [Arthur de Melo](https://github.com/arthurmlv)| [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.3`  | 20/05/2023 | Adição do storyboard de Compartilhar Evento.                          | [Rafael Ferreira](https://github.com/RafaelCLG0)| [Arthur de Melo](https://github.com/arthurmlv) |
+
