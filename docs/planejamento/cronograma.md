@@ -121,19 +121,34 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta en
 |   Planejamento da avaliação do Storyboard 	| Início: 17/05<br>Fim: 20/05 	| Arthur e Rafael 	| Início: 20/05<br>Fim: 20/05 	| Douglas e Gabriel 	|
 |   Planejamento do relato dos resultados da avaliação do Storyboard 	| Início: 17/05<br>Fim: 20/05 	| Douglas e Gabriel 	| Início: 20/05<br>Fim: 20/05 	| Geovanna e Matheus 	|
 |   Planejamento da Avaliação da Análise de tarefas 	| Início: 17/05<br>Fim: 20/05 	| Geovanna e Matheus 	| Início: 20/05<br>Fim: 20/05 	| Arthur e Rafael 	|
+| Planejamento do relato da avaliação da análise de tareas | Início: 17/05<br>Fim: 20/05 | Geovanna | Início: 21/05 <br> Fim: 21/05 | Matheus
 |   Gravação da apresentação 	| Início: 21/05<br>Fim: 21/05 	| Todos 	| Início: 20/05<br>Fim: 20/05 	| Todos 	|
 |   Correção pós apresentação 	| Início: 23/05<br>Fim: 23/05 	| Todos 	| Início: 24/05<br>Fim: 25/05 	| Todos 	|
 
 <font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/g16c).</p></font>
 
+### Executado
+Na Tabela 8, tem-se o cronograma executado para todas as atividades da quarta entrega.
 
+<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Planejamentos</p></font>
+
+| Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
+|---	|---	|---	|---	|---	|
+|   Planejamento da avaliação do Storyboard 	| Início: 18/05<br>Fim: 20/05 	| Arthur e Rafael 	| Início: 21/05<br>Fim: 21/05 	| Douglas e Gabriel 	|
+|   Planejamento do relato dos resultados da avaliação do Storyboard 	| Início: 18/05<br>Fim: 20/05 	| Douglas e Gabriel 	| Início: 21/05<br>Fim: 21/05 	| Geovanna e Matheus 	|
+|   Planejamento da Avaliação da Análise de tarefas 	| Início: 18/05<br>Fim: 21/05 	| Geovanna e Matheus 	| Início: 22/05<br>Fim: 22/05 	| Arthur e Rafael 	|
+| Planejamento do relato da avaliação da análise de tareas | Início: 21/05<br>Fim: 21/05 | Geovanna | Início: 22/05 <br> Fim: 22/05 | Matheus
+|   Gravação da apresentação 	| Início: 21/05<br>Fim: 21/05 	| Todos 	| Início: 22/05<br>Fim: 22/05 	| Todos 	|
+|   Correção pós apresentação 	| Início: 25/05<br>Fim: 30/05 	| Todos 	| Início: 02/06<br>Fim: 05/06 	| Todos 	|
+
+<font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/g16c).</p></font>
 
 ## Entrega 5
 
 ### Planejado
-Na Tabela 8, tem-se o cronograma planejado para todas as atividades da quinta entrega.
+Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Análise de requisitos 1</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Análise de requisitos 1</p></font>
 
 | Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
 |---	|---	|---	|---	|---	|
@@ -150,9 +165,9 @@ Na Tabela 8, tem-se o cronograma planejado para todas as atividades da quinta en
 ## Entrega 6
 
 ### Planejado
-Na Tabela 9, tem-se o cronograma planejado para todas as atividades da sexta entrega.
+Na Tabela 10, tem-se o cronograma planejado para todas as atividades da sexta entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Verificação de artefatos 1</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 10</b> - Verificação de artefatos 1</p></font>
 
 | Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
 |---	|---	|---	|---	|---	|
@@ -175,9 +190,9 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da sexta ent
 ## Entrega 7
 
 ### Planejado
-Na Tabela 10, tem-se o cronograma planejado para todas as atividades da sétima entrega.
+Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sétima entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 10</b> - Relato dos resultados</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 11</b> - Relato dos resultados</p></font>
 
 | Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
 |---	|---	|---	|---	|---	|
@@ -193,9 +208,9 @@ Na Tabela 10, tem-se o cronograma planejado para todas as atividades da sétima 
 ## Entrega 8
 
 ### Planejado
-Na Tabela 11, tem-se o cronograma planejado para todas as atividades da oitava entrega.
+Na Tabela 12, tem-se o cronograma planejado para todas as atividades da oitava entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 11</b> - Resultado protótipo alta fidelidade</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 12</b> - Resultado protótipo alta fidelidade</p></font>
 
 | Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
 |---	|---	|---	|---	|---	|
@@ -211,9 +226,9 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da oitava e
 ## Entrega final
 
 ### Planejado
-Na Tabela 12, tem-se o cronograma planejado para todas as atividades da última entrega.
+Na Tabela 13, tem-se o cronograma planejado para todas as atividades da última entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 12</b> - Entrega final</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 13</b> - Entrega final</p></font>
 
 | Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
 |---	|---	|---	|---	|---	|
