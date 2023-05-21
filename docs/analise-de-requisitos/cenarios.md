@@ -71,3 +71,4 @@ Rapidamente ela encontrou a aba de Central de ajuda localizada na header do site
 | `1.3`  | 13/05/2023 | Adição do Cenário de Compartilhar Evento                                   | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Arthur de Melo](https://github.com/arthurmlv) |
 | `1.4` | 20/05/2023 | Atualização do cenário de compartilhar evento | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny)
 | `1.5` | 20/05/2023 | Adição do cenário acessar aba de Central de Ajuda | [Geovanna Maciel](https://github.com/manuziny) | [Rafael Ferreira](https://github.com/RafaelCLG0)
+
