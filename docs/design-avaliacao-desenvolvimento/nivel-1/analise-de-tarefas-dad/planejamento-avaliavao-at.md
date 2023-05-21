@@ -79,23 +79,25 @@ A tabela 3 a seguir mostra o roteiro de perguntas a serem realizadas na entrevis
 
 **Tabela 3** - Roteiro de perguntas da entrevista.
 
-| Número |                                                 Pergunta                                                 | Resposta Possíveis  |
-| :----: | :------------------------------------------------------------------------------------------------------: | :-----------------: |
-|   1    |                                             Qual o seu nome?                                             | Resposta Discursiva |
-|   2    |                                             Qual sua idade?                                              | Resposra Discursiva |
-|   3    |                                 Qual sua área de profissão ou ocupação?                                  | Resposta Discursiva |
-|   4    |                              Qual seu grau de experiência com tecnologias?                               | Resposta Discursiva |
-|   5    |                        Você já utilizou algum site de compra de ingressos online?                        |  Resposta Fechada   |
-|   6    |                           Você compraria algum ingresso no Bilheteria Digital?                           |  Resposta Fechada   |
-|   7    |       Quais seriam as principais atividades que você esperaria num site como o Bilheteria Digital?       | Resposta Discursiva |
-|   8    | Qual é o procedimento que você realizaria para buscar e selecionar ingressos para um determinado evento? | Resposta Discursiva |
-|   9    |               Já tendo comprado o ingresso, que procedimento você faria para o visualizar?               | Resposta Discursiva |
-|   10   |      Supondo que você gostou de um evento e deseja compartilhá-lo, como você o faria na plataforma?      | Resposta Discursiva |
-|   11   |         Sobre o cancelamento da compra, você acha essa tarefa de fácil execução e entendimento?          |  Resposta Fechada   |
-|   12   |    Após a apresentação dos fluxos, em uma escala de 1 a 5, como você avaliaria a usabilidade do site?    |  Resposta Fechada   |
-|   13   |                          Em algum fluxo você sentiu alguma insegurança ao uso?                           | Resposta Discursiva |
-|   14   |          Em uma escala de 1 a 5, como você avaliaria seu grau de satisfação com o uso do site?           |  Resposta Fechada   |
-|   15   |                     Após essa avaliação, você recomendaria o site para algum amigo?                      |  Resposta Fechada   |
+| Número |                                                           Pergunta                                                           |     Resposta Possíveis     |
+| :----: | :--------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
+|   1    |                                                       Qual o seu nome?                                                       |    Resposta Discursiva     |
+|   2    |                                                       Qual sua idade?                                                        |    Resposra Discursiva     |
+|   3    |                                           Qual sua área de profissão ou ocupação?                                            |    Resposta Discursiva     |
+|   4    |                                        Qual seu grau de experiência com tecnologias?                                         |    Resposta Discursiva     |
+|   5    |                                  Você já utilizou algum site de compra de ingressos online?                                  |      Resposta Fechada      |
+|   6    |                                     Você compraria algum ingresso no Bilheteria Digital?                                     |      Resposta Fechada      |
+|   7    |                 Quais seriam as principais atividades que você esperaria num site como o Bilheteria Digital?                 |    Resposta Discursiva     |
+|   8    |           Qual é o procedimento que você realizaria para buscar e selecionar ingressos para um determinado evento?           |    Resposta Discursiva     |
+|   9    |                         Já tendo comprado o ingresso, que procedimento você faria para o visualizar?                         |    Resposta Discursiva     |
+|   10   |                Supondo que você gostou de um evento e deseja compartilhá-lo, como você o faria na plataforma?                |    Resposta Discursiva     |
+|   11   |                   Sobre o cancelamento da compra, você acha essa tarefa de fácil execução e entendimento?                    |      Resposta Fechada      |
+|   12   |              Após a apresentação dos fluxos, em uma escala de 1 a 5, como você avaliaria a usabilidade do site?              |      Resposta Fechada      |
+|   13   |                                    Em algum fluxo você sentiu alguma insegurança ao uso?                                     |    Resposta Discursiva     |
+|   14   |                    Em uma escala de 1 a 5, como você avaliaria seu grau de satisfação com o uso do site?                     |      Resposta Fechada      |
+|   15   |                               Após essa avaliação, você recomendaria o site para algum amigo?                                |      Resposta Fechada      |
+|   16   | No diagrama hta de busca de evento, o problema apresentado em 2.1 é condizente com a realidade? Você possui alguma sugestão? |    Resposta Discursiva     |
+|   17   |                      No diagrama hta de acessar a central de ajuda, o problema apresentado em 3 existe?                      | Resposta Fechada (Sim/Não) |
 
 **Fonte 2** - [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
 
