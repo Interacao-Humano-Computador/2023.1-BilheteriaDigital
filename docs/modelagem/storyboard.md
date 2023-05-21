@@ -29,9 +29,9 @@ Na figura 1, apresenta-se um storyboard no qual o usuário, após uma árdua sem
 
 </center>
 
-## Tarefa 2: Buscar Evento
+## Tarefa 2: Busca de Evento
 
-Na figura 2, é apresentada um storyboard sobre a busca de um show no site.
+Na figura 2, é apresentado um storyboard sobre a busca de um show no site.
 
 <center>
 
@@ -46,7 +46,7 @@ Na figura 2, é apresentada um storyboard sobre a busca de um show no site.
 
 ## Tarefa 3: Compartilhar Eventos nas Redes Sociais
 
-Na figura 3, é apresentada um storyboard sobre compartilhar eventos nas redes sociais.
+Na figura 3, é apresentado um storyboard sobre compartilhar eventos nas redes sociais.
 
 <center>
 
@@ -70,7 +70,7 @@ Na figura 4, podemos ver um cenário em que por algum motivo o usuário teve que
 
 ## Tarefa 5: Visualizar meus pedidos
 
-Na figura 5, é apresentada um storyboard sobre a visualização dos pedidos do usuário no site.
+Na figura 5, é apresentado um storyboard sobre a visualização dos pedidos do usuário no site.
 
 <center>
 
@@ -79,6 +79,21 @@ Na figura 5, é apresentada um storyboard sobre a visualização dos pedidos do 
 <figure markdown> 
 
 ![Figura 5 - Busca de um evento no site Bilheteria Digital.](../assets/storyboard/storyboard6.png)<figcaption>Fonte: [Douglas Alves](https://github.com/dougAlvs) (2023).</figcaption>
+</figure>
+
+</center>
+
+## Tarefa 6: Acessar a aba Central de Ajuda
+
+Na figura 6, é apresentado um storyboard sobre o acesso à aba Central de Ajuda.
+
+<center>
+
+**Figura 6** - Storyboard Central de Ajuda</p>
+
+<figure markdown> 
+
+![Figura 6 - Acessar a aba Central de Ajuda.](../assets/storyboard/storyboard2.png)<figcaption>Fonte: [Geovanna Maciel](https://github.com/manuziny) (2023).</figcaption>
 </figure>
 
 </center>
@@ -95,4 +110,5 @@ Na figura 5, é apresentada um storyboard sobre a visualização dos pedidos do 
 | `1.1`  | 20/05/2023 | Adição do storyboard de Busca de Evento.                          | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) |
 | `1.2`  | 20/05/2023 | Adição do storyboard de Comprar Ingresso.                          | [Arthur de Melo](https://github.com/arthurmlv)| [Rafael Ferreira](https://github.com/RafaelCLG0) |
 | `1.3`  | 20/05/2023 | Adição do storyboard de Compartilhar Evento.                          | [Rafael Ferreira](https://github.com/RafaelCLG0)| [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.4`  | 21/05/2023 | Adição do storyboard de Central de Ajuda.                          | [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv) |
 
