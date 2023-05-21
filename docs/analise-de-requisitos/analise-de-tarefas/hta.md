@@ -79,7 +79,6 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 ![Notação diagrama HTA](../../assets/analise-de-tarefas/hta3.png#only-light){width: 300}
 ![Notação diagrama HTA](../../assets/analise-de-tarefas/hta3e.png#only-dark){width: 300}
 
-
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Campello](https://github.com/G16C).</p></font>
 
 </figure>
@@ -96,10 +95,10 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Campello](https://github.com/G16C).</p></font>
 
-### Busca de Ingresso
+### Busca de Evento
 
 <figure markdown>
-<font size="3"><p style="text-align: center"><b>Figura 5</b> - Diagrama HTA da Busca de Ingresso.</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 5</b> - Diagrama HTA da Busca de Evento.</p></font>
 
 ![Diagrama HTA da Busca de Ingressso no Modo Claro](../../assets/analise-de-tarefas/hta4.png#only-light){width: 300}
 ![Diagrama HTA da Busca de Ingressso no Modo Escuro](../../assets/analise-de-tarefas/hta4e.png#only-dark){width: 300}
@@ -108,18 +107,18 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 
 </figure>
 
-<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Tabela HTA da Busca de Ingresso.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Tabela HTA da Busca de Evento.</p></font>
 
-|                 Objetivos/Operações                 | Problemas e recomendações                                                                                                                                                                                                  |
-| :-------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|              0. Busca de ingresso 1/2               | **input**: nome, data e loclização do evento.<br>**feedback**: a página do evento aparece na tela do usuário. <br>**plano**: encontrar evento na tela inicial ou pesquisar pelo evento na barra de pesquisa.               |
-|      1. Encontrar o evento na tela inicial 1>2      | **feedback**: usuário é redirecionado para a página do evento.<br> **plano**: clicar no evento na tela inicial e entrar na página do evento.                                                                               |
-|        1.1 Clicar no evento na tela inicial         | **input**: clicar na imagem do evento. <br>**feedback**: a página é carregada.                                                                                                                                             |
-|           1.2 Entrar na página do evento            | **feedback**: o usuario é redirecionado para a página do evento.                                                                                                                                                           |
-| 2. Pesquisar pelo o evento na barra de pesquisa 1>2 | **input**: clique na caixa de pesquisa.<br>**feedback**: a caixa de pesquisa fica com as bordas avermelhadas.<br> **plano**: digitar o nome do evento na caixa de pesquisa, clicar no evento e entrar na página do evento. |
-|  2.1 Digitar o nome do evento na caixa de pesquisa  | **input**: dados do evento.<br>**feedback**: o site atualiza a página com os eventos encontrados.                                                                                                                          |
-|                2.2 Clicar no evento                 | **input**: clique na imagens do evento. <br> **feedback**: a página é carregada.                                                                                                                                           |
-|           2.3 Entrar na página do evento            | **feedback**: o usuario é redirecionado para a página do evento.                                                                                                                                                           |
+|                 Objetivos/Operações                 | Problemas e recomendações                                                                                                                                                                                                                |
+| :-------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|               0. Busca de evento 1/2                | **input**: nome, data e loclização do evento.<br>**feedback**: a página do evento aparece na tela do usuário. <br>**plano**: encontrar evento na tela inicial ou pesquisar pelo evento na barra de pesquisa.                             |
+|      1. Encontrar o evento na tela inicial 1>2      | **feedback**: usuário é redirecionado para a página do evento.<br> **plano**: clicar no evento na tela inicial e entrar na página do evento.                                                                                             |
+|        1.1 Clicar no evento na tela inicial         | **input**: clicar na imagem do evento. <br>**feedback**: a página é carregada.                                                                                                                                                           |
+|           1.2 Entrar na página do evento            | **feedback**: o usuario é redirecionado para a página do evento.                                                                                                                                                                         |
+| 2. Pesquisar pelo o evento na barra de pesquisa 1>2 | **input**: clique na caixa de pesquisa.<br>**feedback**: a caixa de pesquisa fica com as bordas avermelhadas.<br> **plano**: digitar o nome do evento na caixa de pesquisa, clicar no evento e entrar na página do evento.               |
+|  2.1 Digitar o nome do evento na caixa de pesquisa  | **input**: dados do evento.<br>**feedback**: o site atualiza a página com os eventos<br>**problema**: pesquisa não é realizada com palavras chaves levando a situações onde o evento não é encontrando mesmo ele existindo. encontrados. |
+|                2.2 Clicar no evento                 | **input**: clique na imagens do evento. <br> **feedback**: a página é carregada.                                                                                                                                                         |
+|           2.3 Entrar na página do evento            | **feedback**: o usuario é redirecionado para a página do evento.                                                                                                                                                                         |
 
 <font size="3"><p style="text-align: center">Fonte: [Matheus Henrique](https://github.com/mathonaut).</p></font>
 
@@ -137,15 +136,15 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Diagrama HTA de Acessar a Central de Ajuda.</p></font>
 
-|     Objetivos/Operações     | Problemas e recomendações  |
-| :---------------------: | ------------------------------ |
-| 0. Acessar aba Central de Ajuda 1>2 |   |
-| 1. Acessar área de Central de Ajuda a partir da tela inicial | **feedback**: usuário é redirecionado para a página de Central de Ajuda.<br> **plano**: clicar no botão da aba de suporte.  |
-|        1.1 Selecionar o botão da aba de suporte         | **input**: clicar no botão "Central de Ajuda". <br>**feedback**: a página é carregada.              |
-| 2.  Acessar a aba desejada Central de Ajuda 1/2 | **feedback**: usuário é redirecionado para o tópico desejado.<br> **plano**: escolher o tópico em destaque, caso esteja visível, ou pesquisar o tópico desejado, escolhê-lo e acessar a página que detalha a vicissitude. |
-|  2.1 Selecionar o tópico em destaque  | **input**: clicar no tópico em destaque.<br>**feedback**: o site atualiza a página os resultados dentro daquele tópico.     |
-|     2.2 Pesquisar o tópico em destaque     | **input**: clique na caixa de pesquisa e insira o que deseja pesquisar. <br> **feedback**: a página é atualizada com os resultados.       |
-|      3. Selecionar a opção desejada    | **feedback**: o usuario é redirecionado para a página detalhando o tópico escolhido.         |
+|                     Objetivos/Operações                      | Problemas e recomendações                                                                                                                                                                                                 |
+| :----------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|             0. Acessar aba Central de Ajuda 1>2              |                                                                                                                                                                                                                           |
+| 1. Acessar área de Central de Ajuda a partir da tela inicial | **feedback**: usuário é redirecionado para a página de Central de Ajuda.<br> **plano**: clicar no botão da aba de suporte.                                                                                                |
+|           1.1 Selecionar o botão da aba de suporte           | **input**: clicar no botão "Central de Ajuda". <br>**feedback**: a página é carregada.                                                                                                                                    |
+|        2. Acessar a aba desejada Central de Ajuda 1/2        | **feedback**: usuário é redirecionado para o tópico desejado.<br> **plano**: escolher o tópico em destaque, caso esteja visível, ou pesquisar o tópico desejado, escolhê-lo e acessar a página que detalha a vicissitude. |
+|             2.1 Selecionar o tópico em destaque              | **input**: clicar no tópico em destaque.<br>**feedback**: o site atualiza a página os resultados dentro daquele tópico.                                                                                                   |
+|              2.2 Pesquisar o tópico em destaque              | **input**: clique na caixa de pesquisa e insira o que deseja pesquisar. <br> **feedback**: a página é atualizada com os resultados.                                                                                       |
+|                3. Selecionar a opção desejada                | **feedback**: o usuario é redirecionado para a página detalhando o tópico escolhido.<br>**problema**: existem algumas redundâncias com tópicos diferentes levando para o mesmo texto.                                     |
 
 <font size="3"><p style="text-align: center">Fonte: [Douglas Alves](https://github.com/dougAlvs) e [Arthur de Melo](https://github.com/arthurmlv).</p></font>
 
@@ -163,16 +162,16 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 
 <font size="3"><p style="text-align: center"><b>Tabela 7</b> - Diagrama HTA de Compra de ingressos.</p></font>
 
-|     Objetivos/Operações     | Problemas e recomendações  |
-| :---------------------: | ------------------------------ |
-| 0. Comprar ingresso 1>2 |   |
-| 1.1 Pesquisar evento |  **input**: clicar na caixa de pesquisa e inserir o que deseja pesquisar. <br> **feedback**: o site atualiza a página com os eventos relacionados.  |
-|        1.2 Selecionar o evento desejado 1+2         | **input**: clicar na imagem do evento desejado. <br>**feedback**: a página é carregada.              |
-| 2.1  Selecionar o tipo de ingresso | **input**: clicar no botão de selecionar quantidade de ingresso. <br> **feedback**: o tipo escolhido aumenta a quantidade. |
-|  2.2 Selecionar o assento  | **input**: selecionar o assento no mapa.<br>**feedback**: o site avisa que foi escolhida uma poltrona.     |
-|  1.3 Realizar pagamento 1>2  | **input**: selecionar a opção de pagamento.<br>**feedback**: o site dá os detalhes para aquela opção de pagamento.     |
-|     2.3 Preencher informações de pagamento     | **input**: passar os dados necessários nas caixas específicas. <br> **feedback**: as informações são confirmadas após finalizar a compra.       |
-|      2.4 Receber confirmação de compra    | **feedback**: o usuario é redirecionado para a página confirmando a compra e recebe um e-mail.         |
+|          Objetivos/Operações           | Problemas e recomendações                                                                                                                         |
+| :------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+|        0. Comprar ingresso 1>2         |                                                                                                                                                   |
+|          1.1 Pesquisar evento          | **input**: clicar na caixa de pesquisa e inserir o que deseja pesquisar. <br> **feedback**: o site atualiza a página com os eventos relacionados. |
+|  1.2 Selecionar o evento desejado 1+2  | **input**: clicar na imagem do evento desejado. <br>**feedback**: a página é carregada.                                                           |
+|   2.1 Selecionar o tipo de ingresso    | **input**: clicar no botão de selecionar quantidade de ingresso. <br> **feedback**: o tipo escolhido aumenta a quantidade.                        |
+|        2.2 Selecionar o assento        | **input**: selecionar o assento no mapa.<br>**feedback**: o site avisa que foi escolhida uma poltrona.                                            |
+|       1.3 Realizar pagamento 1>2       | **input**: selecionar a opção de pagamento.<br>**feedback**: o site dá os detalhes para aquela opção de pagamento.                                |
+| 2.3 Preencher informações de pagamento | **input**: passar os dados necessários nas caixas específicas. <br> **feedback**: as informações são confirmadas após finalizar a compra.         |
+|   2.4 Receber confirmação de compra    | **feedback**: o usuario é redirecionado para a página confirmando a compra e recebe um e-mail.                                                    |
 
 <font size="3"><p style="text-align: center">Fonte: [Douglas Alves](https://github.com/dougAlvs) e [Arthur de Melo](https://github.com/arthurmlv).</p></font>
 
@@ -184,10 +183,10 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                      | Autor(es)                                                                                     | Revisor(es)                                    |
-| ------ | ---------- | ---------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| `1.0`  | 06/05/2023 | Criação da página de Processo de Design.       | [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv) |
-| `1.1`  | 07/05/2023 | Adição da análise de duas tarefas.             | [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv) |
-| `1.2`  | 12/05/2023 | Adição da avaliação do cancelamento de compra. | [Gabriel Campello](https://github.com/G16C)                                                   | [Arthur de Melo](https://github.com/arthurmlv) |
-| `1.3`  | 13/05/2023 | Adição da avaliação da Busca de Ingresso.      | [Matheus Henrique](https://github.com/mathonaut)                                              | [Arthur de Melo](https://github.com/arthurmlv) |
-| `1.4`  | 20/05/2023 | Adição da avaliação de Central de Ajuda e de Compra.      | [Douglas Alves](https://github.com/dougAlvs) e [Arthur de Melo](https://github.com/arthurmlv)                                             | [Geovanna Maciel](https://github.com/manuziny) |
+| Versão | Data       | Descrição                                            | Autor(es)                                                                                     | Revisor(es)                                    |
+| ------ | ---------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| `1.0`  | 06/05/2023 | Criação da página de Processo de Design.             | [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.1`  | 07/05/2023 | Adição da análise de duas tarefas.                   | [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.2`  | 12/05/2023 | Adição da avaliação do cancelamento de compra.       | [Gabriel Campello](https://github.com/G16C)                                                   | [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.3`  | 13/05/2023 | Adição da avaliação da Busca de Ingresso.            | [Matheus Henrique](https://github.com/mathonaut)                                              | [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.4`  | 20/05/2023 | Adição da avaliação de Central de Ajuda e de Compra. | [Douglas Alves](https://github.com/dougAlvs) e [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) |
