@@ -82,7 +82,7 @@ O teste piloto possui como objetivo avaliar o planejamento realizado e a sua exe
 
 ## Termo de Consentimento Livre e Esclarecido
 
-Olá, somos uma equipe de um projeto acadêmico da disciplina de Interação Humano-Computador do curso de Engenharia de Software da Universidade de Brasília. Nosso objetivo é avaliar o site [Bilheteria Digital](bilheteriadigital.com), que é um site de venda de ingressos para eventos. Estamos atualmente em uma etapa específica do projeto que consiste em analisar determinadas tarefas no aplicativo por meio de artefatos que relatam cenários ilustrados e hipotéticos com lastro na realidade.
+Olá, somos uma equipe de um projeto acadêmico da disciplina de Interação Humano-Computador do curso de Engenharia de Software da Universidade de Brasília. Nosso objetivo é avaliar o site [Bilheteria Digital](https://www.bilheteriadigital.com), que é um site de venda de ingressos para eventos. Estamos atualmente em uma etapa específica do projeto que consiste em analisar determinadas tarefas no aplicativo por meio de artefatos que relatam cenários ilustrados e hipotéticos com lastro na realidade.
 Para isso, estamos conduzindo uma série de pesquisas e gostaríamos de solicitar o seu consentimento para participar de uma atividade de avaliação de uma das histórias criadas com duração de aproximadamente 7 minutos. É importante que você saiba algumas informações sobre a pesquisa:
 
 - Nosso compromisso é divulgar os resultados de nossas pesquisas para o cliente.
