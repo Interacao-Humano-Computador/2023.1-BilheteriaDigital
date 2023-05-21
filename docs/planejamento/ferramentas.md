@@ -21,6 +21,7 @@
 |                                                       ![Logo do Google Docs](../assets/ferramentas/gdocs.png){: style="height:96px;width:96px"}                                                       | Google Docs               | Criação e edição de tabelas e arquivos. <a id="anchor_9" href="#FRM9">^9^</a>                               |
 |                                                      ![Logo do Google Drive](../assets/ferramentas/gdrive.png){: style="height:90px;width:90px"}                                                      | Google Drive              | Compartilhamento de arquivos. <a id="anchor_10" href="#FRM10">^10^</a>                                      |
 |                                       ![Logo do This Person Doesn't Exist](../assets/ferramentas/thispersondoesntexist.png){: style="height:100px;width:100px"}                                       | This Person Doesn't Exist | Criação de imagens falsas para as personas. <a id="anchor_11" href="#FRM11">^11^</a>                        |
+|                                       ![Logo do Storyboard That](../assets/ferramentas/storyboardthat.png){: style="height:100px;width:100px"}                                       | Storyboard That | Criação de imagens para os storyboards. <a id="anchor_12" href="#FRM12">^12^</a>                        |
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
@@ -47,6 +48,8 @@
 > <a id="FRM10" href="#anchor_10">10.</a> Google Drive. Disponível em: [https://workspace.google.com/intl/pt-BR/products/drive/](). Acesso em: 21 de abr. de 2023.
 >
 > <a id="FRM11" href="#anchor_11">11.</a> This Person Doesn't Exist. Disponível em: [https://this-person-does-not-exist.com/pt](). Acesso em: 21 de abr. de 2023.
+
+> <a id="FRM12" href="#anchor_12">12.</a> Storyboard That. Disponível em: [https://www.storyboardthat.com/pt](). Acesso em: 21 de maio de 2023.
 
 ## Histórico de Versões
 

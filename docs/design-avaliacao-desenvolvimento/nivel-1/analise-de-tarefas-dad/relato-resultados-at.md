@@ -7,7 +7,7 @@ Tendo como base os tópicos relatados por Barbosa e Silva (2011, p.279) e adapta
 * Objetivo e escopo da avaliação
 * Método de avaliação
 * Seleção dos participantes
-* Probelmas e dificuldades encontradas
+* Problemas e dificuldades encontradas
 * Sugestões de melhoria
 * Feedback dos usuários
 * Análise e interpretação dos usuários
@@ -21,11 +21,16 @@ A documentação do relato da avaliação deverá conter os tópicos citados aba
 Nesta etapa, o redator do documento deverá explicar a razão pela qual a avaliação está sendo realizada e descrever o objetivo que o grupo pretende alcançar com a análise de tarefas. Isso envolve justificar a importância da avaliação, esclarecer as expectativas e as metas estabelecidas, e fornecer uma visão geral do propósito e do contexto da avaliação.
 
 ### Método de avaliação
+
 O método escolhido foi o de observação e entrevista aos usuários, portanto segue-se o modelo. O entrevistador deverá preencher a tabela 1 que é o cronograma executado. O padrão será usado por todos os entrevistadores em seu relato, com a finalidade de manter um documento harmônico e conciso.
+
+**Tabela 1** - Template Cronograma.
 
 | Entrevistadores(s) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 |  Fulano e Ciclano  |    Beltrano     |       00:00       |     00:30      | xx/xx/xxxx | Plataforma X |
+
+**Fonte** - [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
 
 ### Seleção dos participantes 
 Após o preenchimento do cronograma, será necessário uma justificativa da seleção do entrevistado, se ele se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/perfil-usuario/) definido no projeto. É necessário que os entrevistados possam ter uma semelhança com nosso elenco de [personas](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/personas/), pois são o público alvo que se deseja atingar e desta forma captar quais são os desejos dos usuários do Bilheteria Digital.
@@ -43,7 +48,7 @@ Nessa seção do documento, o entrevistador deve detalhadamente listar os proble
 O entrevistador deve realizar uma análise e interpretação dos resultados obtidos a partir da avaliação de tarefas. Isso envolve examinar cuidadosamente os dados coletados durante a avaliação, identificar padrões, tendências e insights relevantes, e extrair conclusões significativas a partir dessas informações.  Contextualizar os resultados dentro do objetivo da avaliação e considerar o impacto dos problemas identificados na usabilidade, na experiência do usuário e nos objetivos estabelecidos.
 
 ### Sumário dos principais resultados
-Ao final do documento, é necessário que o entrevistador faça um resumo dos tópicos considerados essenciais dentro dos objetivos da avaliação. Essa etapa permitirá reunir em uma única perspectiva as principais informações relacionadas às melhorias a serem aplicadas na plataforma do Bilheteria Digital. Deve conter os aspectos mais relevantes identificados durante a avaliação, incluindo os problemas encontrados, as sugestões de melhorias propostas e o feedback dos usuários. Além disso, é importante ressaltar os impactos dessas melhorias na usabilidade, na experiência do usuário e nos objetivos estabelecidos. O objetivo dessa síntese é fornecer uma visão clara e concisa das ações prioritárias a serem tomadas para aprimorar a plataforma, permitindo uma tomada de decisão mais efetiva e uma implementação direcionada das melhorias necessárias
+Ao final do documento, é necessário que o entrevistador faça um resumo dos tópicos considerados essenciais dentro dos objetivos da avaliação. Essa etapa permitirá reunir em uma única perspectiva as principais informações relacionadas às melhorias a serem aplicadas na plataforma do Bilheteria Digital. Deve conter os aspectos mais relevantes identificados durante a avaliação, incluindo os problemas encontrados, as sugestões de melhorias propostas e o feedback dos usuários. Além disso, é importante ressaltar os impactos dessas melhorias na usabilidade, na experiência do usuário e nos objetivos estabelecidos. O objetivo dessa síntese é fornecer uma visão clara e concisa das ações prioritárias a serem tomadas para aprimorar a plataforma, permitindo uma tomada de decisão mais efetiva e uma implementação direcionada das melhorias necessárias.
 
 ## Bibliografia
 

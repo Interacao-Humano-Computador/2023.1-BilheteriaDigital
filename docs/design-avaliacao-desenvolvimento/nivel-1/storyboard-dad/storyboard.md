@@ -54,8 +54,8 @@ Na figura 3, é apresentado um storyboard sobre compartilhar eventos nas redes s
 
 <figure markdown> 
 
-![Figura 3 - Compartilhar Eventos nas Redes Sociais](../../../assets/storyboard/storyboard7.png)
-<figcaption>Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0) (2023).</figcaption>
+![Figura 3 - Compartilhar Eventos nas Redes Sociais](../../../assets/storyboard/storyboard7.png)<figcaption>Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0) (2023).</figcaption></figure>
+
 </figure>
 
 </center>
@@ -111,4 +111,5 @@ Na figura 6, é apresentado um storyboard sobre o acesso à aba Central de Ajuda
 | `1.2`  | 20/05/2023 | Adição do storyboard de Comprar Ingresso.                          | [Arthur de Melo](https://github.com/arthurmlv)| [Rafael Ferreira](https://github.com/RafaelCLG0) |
 | `1.3`  | 20/05/2023 | Adição do storyboard de Compartilhar Evento.                          | [Rafael Ferreira](https://github.com/RafaelCLG0)| [Arthur de Melo](https://github.com/arthurmlv) |
 | `1.4`  | 21/05/2023 | Adição do storyboard de Central de Ajuda.                          | [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.5`  | 21/05/2023 | Adição do storyboard de Visualização dos Pedidos.                        | [Douglas Alves](https://github.com/dougalvs) | [Arthur de Melo](https://github.com/arthurmlv) |
 

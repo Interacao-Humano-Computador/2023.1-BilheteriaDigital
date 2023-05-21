@@ -21,7 +21,7 @@ Para realizar esse planejamento será utilizado o framework DECIDE, onde cada le
 |   D   |          Decidir como lidar com as questões éticas.          |
 |   E   |          Avaliar, interpretar e apresentar os dados          |
 
-**Fonte 1** - [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
+**Fonte** - [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
 
 </center>
 
@@ -45,7 +45,7 @@ Os métodos escolhidos são os de observação e o de entrevistas com usuários.
 
 A escolha do método de observação se dá pelo motivo do método permitir identificar como o usuário utiliza o sistema, identificando possíveis problemas e entraves no sistema.
 
-Em relação a entrevista, o motivo se dá pelo fato de ser um método investigativo que permite coletar muitas informações, além de ser flexível permite fazer perguntas que aprofundam ainda mais os objetivos a serem alcançados pelos usuários.
+Em relação a entrevista, o motivo se dá pelo fato de ser um método investigativo que permite coletar muitas informações, além de ser flexível permite fazer perguntas que aprofundam ainda mais os objetivos a serem alcançados pelos usuários. Ademais, tal entrevista deve ser estritamente gravada e documentada.
 
 ## I - Identificar Questões Práticas da Avaliação
 
@@ -67,7 +67,7 @@ Em relação aos prazos, a entrevista deverá ser realizada em no máximo uma ho
 | :---------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 | Fulano e Ciclano  |    Beltrano     |       00:00       |     00:30      | xx/xx/xxxx | Plataforma X |
 
-**Fonte 2** - [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
+**Fonte** - [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
 
 </center>
 
@@ -99,7 +99,7 @@ A tabela 3 a seguir mostra o roteiro de perguntas a serem realizadas na entrevis
 |   16   | No diagrama hta de busca de evento, o problema apresentado em 2.1 é condizente com a realidade? Você possui alguma sugestão? |    Resposta Discursiva     |
 |   17   |                      No diagrama hta de acessar a central de ajuda, o problema apresentado em 3 existe?                      | Resposta Fechada (Sim/Não) |
 
-**Fonte 2** - [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
+**Fonte** - [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
 
 </center>
 
