@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Nesta página será descrito como será realizado o relato dos resulatados da avaliação do Storyboard. <a id="anchor_1" href="#REF1">^1^</a> Para tanto, o documento a seguir tem o foco no planejamento e não nos resultados em questão. Posteriormente esses resultados encontrar-se-ão em uma página a parte.
+Nesta página será descrito como será realizado o relato dos resulatados da avaliação do Storyboard<a id="anchor_1" href="#REF1">^1^</a>. Para tanto, o documento a seguir tem o foco no planejamento e não nos resultados em questão. Posteriormente esses resultados se encontrarão em uma página a parte.
 
 ## Metodologia
 

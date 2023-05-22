@@ -24,6 +24,7 @@ Nesta etapa, o redator do documento deverá explicar a razão pela qual a avalia
 
 O método escolhido foi o de observação e entrevista aos usuários, portanto segue-se o modelo. O entrevistador deverá preencher a tabela 1 que é o cronograma executado. O padrão será usado por todos os entrevistadores em seu relato, com a finalidade de manter um documento harmônico e conciso.
 
+<center>
 **Tabela 1** - Template Cronograma.
 
 | Entrevistadores(s) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
@@ -31,6 +32,7 @@ O método escolhido foi o de observação e entrevista aos usuários, portanto s
 |  Fulano e Ciclano  |    Beltrano     |       00:00       |     00:30      | xx/xx/xxxx | Plataforma X |
 
 **Fonte** - [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
+</center>
 
 ### Seleção dos participantes 
 Após o preenchimento do cronograma, será necessário uma justificativa da seleção do entrevistado, se ele se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/perfil-usuario/) definido no projeto. É necessário que os entrevistados possam ter uma semelhança com nosso elenco de [personas](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/personas/), pois são o público alvo que se deseja atingar e desta forma captar quais são os desejos dos usuários do Bilheteria Digital.
