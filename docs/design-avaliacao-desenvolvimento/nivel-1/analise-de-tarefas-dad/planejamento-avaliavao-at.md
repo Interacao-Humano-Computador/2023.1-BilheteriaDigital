@@ -27,16 +27,14 @@ Para realizar esse planejamento será utilizado o framework DECIDE, onde cada le
 
 ## D - Objetivos
 
-Os objetivos deste planejamento é documentar a maneira que a avaliação do artefato produzido pela [análise de tarefas](../../../../analise-de-requisitos/analise-de-tarefas/hta/) será feita. Esclarecendo como e onde os dados serão obtidos, qual o perfil dos participantes dessa avaliação, se os padrões exigidos para esse documento estão sendo seguidos e se existe algum design alternativo para aplicação. Sendo assim, a avaliação será utilizada para se elicitar ideias e problemas não identificados na produção do artefato de Análise de Tarefas e que deverão ser implementados em uma nova versão do artefato.
+Os objetivos desta avaliação é verificar se os artefatos produzidos na [análise de tarefas](../../../../analise-de-requisitos/analise-de-tarefas/hta/) estão em conformidade com os padrões exigidos para esse artefato estão sendo seguidos e se existe algum design alternativo para aplicação. Sendo assim, a avaliação será utilizada para se elicitar ideias e problemas não identificados na produção do artefato de Análise de Tarefas e que deverão ser implementados em uma nova versão do artefato.
 
 ## E - Explorar Perguntas Respondidas com a Avaliação
 
-As perguntas responsáveis por guiar a análise serão as seguintes:
+As perguntas responsáveis por guiar essa avaliação serão as seguintes:
 
 - Os diagramas HTA's possuem as notações corretas, legendas e a representação em tabela?
 - Os diagramas representam tarefas condizentes com as funcionalidades esperadas para o site?
-- Quais são os entraves que fazem com que as pessoas desistam de realizar a compra do ingresso no site?
-- Existe algum problema que induza o usuário a realizar alguma ação não desejada?
 - As entrevistas permitem que sejam realizadas melhorias nas tarefas elucidadas pelo artefato de Análise de Tarefas?
 
 ## C - Escolher os Métodos de Avaliação
@@ -49,15 +47,23 @@ Em relação a entrevista, o motivo se dá pelo fato de ser um método investiga
 
 ## I - Identificar Questões Práticas da Avaliação
 
-O processo se inicia pelo recrutamento das pessoas entrevistadas, essas pessoas deverão ter as características elucidadas pelo perfil de usuário e pelas personas. O número de pessoas recomendadas para esses métodos de avaliação é de 5 a 12 pessoas, sendo permitido um número menor. O número de entrevistados será correspondente ao número de integrantes no grupo, sendo assim, um total de 6 usuários entrevistados. Essa escolha se dá porque seria aberto para que cada integrante pudesse ter um contato real com usuários e assim coletar perspectivas diversas.
+### Recrutamento
+
+O processo se inicia pelo recrutamento das pessoas entrevistadas, essas pessoas deverão ter as características elucidadas pelo [perfil de usuário](../../../../analise-de-requisitos/perfil-usuario) e pelas [personas](../../../../analise-de-requisitos/personas). O número de entrevistados será correspondente ao número de integrantes no grupo, sendo assim, um total de 6 usuários entrevistados. Essa escolha se dá porque seria aberto para que cada integrante pudesse ter um contato real com usuários e assim coletar perspectivas diversas.
+
+### Preparção
 
 Os entrevistadores serão responsáveis por realizar as perguntas presentes no roteiro de perguntas a seguir e realizar as anotações sobre as respostas dos usuários. As atividades elencadas anteriormente podem ser realizadas por uma única pessoa ou por uma dupla onde cada um fica responsável por cada atividade (realizar as perguntas e coletar as respostas).
 
 A observação pode ser realizada de maneira separada ou em conjunto com a entrevista (através de uma entrevista contextualizada). Essa observação deverá envolver alguma das atividades construída no artefato de [análise de tarefas](../../../../analise-de-requisitos/analise-de-tarefas/hta) e durante o processo, o entrevistador, deverá realizar perguntas sobre a opinião do usuário em relação as funcionalidades utilizadas se necessário interrompendo os usuário na realização das suas tarefas.
 
-A realização das entrevistas e da observação não podem gerar custos a equipe e ao usuário, portanto, deverão ser utilizadas ferramentas gratuitas e que sejam de conhecimento de todos, como o Google Meets e Microsoft Teams. Os equipamentos necessários serão quaisquer dispositivos com acesso a internet, aos aplicativos de comunicação e a um navegador de internet.
+### Custos
 
-Em relação aos prazos, a entrevista deverá ser realizada em no máximo uma hora, evitando cansaço aos participantes. Já para a documentação do cronograma deverá ser utilizado o modelo da tabela 2, que será preenchido devidamente após cada integrante encontrar seu respectivo usuário a ser entrevistado.
+A realização das entrevistas e da observação não podem gerar custos a equipe e ao usuário, portanto, elas deverão ser feitas de modo online utilizado a ferramenta gratuita Microsoft Teams. Os equipamentos necessários serão quaisquer dispositivos com acesso a internet, aos aplicativos de comunicação e a um navegador de internet que os envolvidos possuírem.
+
+### Prazos
+
+Em relação aos prazos, a entrevista e a observação deverá ser realizada em até dois dias antes da entrega que é dia 29/05/2023. As atividades devem durar no máximo uma hora, evitando cansaço aos participantes. Já para a documentação do cronograma deverá ser utilizado o modelo da tabela 2, que será preenchido devidamente após cada integrante encontrar seu respectivo usuário a ser entrevistado.
 
 <center>
 
@@ -79,25 +85,24 @@ A tabela 3 a seguir mostra o roteiro de perguntas a serem realizadas na entrevis
 
 **Tabela 3** - Roteiro de perguntas da entrevista.
 
-| Número |                                                           Pergunta                                                           |     Resposta Possíveis     |
-| :----: | :--------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
-|   1    |                                                       Qual o seu nome?                                                       |    Resposta Discursiva     |
-|   2    |                                                       Qual sua idade?                                                        |    Resposra Discursiva     |
-|   3    |                                           Qual sua área de profissão ou ocupação?                                            |    Resposta Discursiva     |
-|   4    |                                        Qual seu grau de experiência com tecnologias?                                         |    Resposta Discursiva     |
-|   5    |                                  Você já utilizou algum site de compra de ingressos online?                                  |      Resposta Fechada      |
-|   6    |                                     Você compraria algum ingresso no Bilheteria Digital?                                     |      Resposta Fechada      |
-|   7    |                 Quais seriam as principais atividades que você esperaria num site como o Bilheteria Digital?                 |    Resposta Discursiva     |
-|   8    |           Qual é o procedimento que você realizaria para buscar e selecionar ingressos para um determinado evento?           |    Resposta Discursiva     |
-|   9    |                         Já tendo comprado o ingresso, que procedimento você faria para o visualizar?                         |    Resposta Discursiva     |
-|   10   |                Supondo que você gostou de um evento e deseja compartilhá-lo, como você o faria na plataforma?                |    Resposta Discursiva     |
-|   11   |                   Sobre o cancelamento da compra, você acha essa tarefa de fácil execução e entendimento?                    |      Resposta Fechada      |
-|   12   |              Após a apresentação dos fluxos, em uma escala de 1 a 5, como você avaliaria a usabilidade do site?              |      Resposta Fechada      |
-|   13   |                                    Em algum fluxo você sentiu alguma insegurança ao uso?                                     |    Resposta Discursiva     |
-|   14   |                    Em uma escala de 1 a 5, como você avaliaria seu grau de satisfação com o uso do site?                     |      Resposta Fechada      |
-|   15   |                               Após essa avaliação, você recomendaria o site para algum amigo?                                |      Resposta Fechada      |
-|   16   | No diagrama hta de busca de evento, o problema apresentado em 2.1 é condizente com a realidade? Você possui alguma sugestão? |    Resposta Discursiva     |
-|   17   |                      No diagrama hta de acessar a central de ajuda, o problema apresentado em 3 existe?                      | Resposta Fechada (Sim/Não) |
+| Número |                                                              Pergunta                                                               |     Resposta Possíveis     |
+| :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
+|   1    |                                                          Qual o seu nome?                                                           |    Resposta Discursiva     |
+|   2    |                                                           Qual sua idade?                                                           |    Resposra Discursiva     |
+|   3    |                                               Qual sua área de profissão ou ocupação?                                               |    Resposta Discursiva     |
+|   4    |                                            Qual seu grau de experiência com tecnologias?                                            |    Resposta Discursiva     |
+|   5    |                                     Você já utilizou algum site de compra de ingressos online?                                      | Resposta Fechada (Sim/Não) |
+|   6    |        Observando a tarefa Visualizar meus pedidos, a sequência de processos é coerente? Se não, poderia descrever o porquê?        |    Resposta Discursiva     |
+|   7    | Observando a tarefa Compartilhar evento nas redes sociais, a sequência de processos é coerente? Se não, poderia descrever o porquê? |    Resposta Discursiva     |
+|   8    |            Observando a tarefa Cancelar compra, a sequência de processos é coerente? Se não, poderia descrever o porquê?            |    Resposta Discursiva     |
+|   9    |            Observando a tarefa Busca de Evento, a sequência de processos é coerente? Se não, poderia descrever o porquê?            |    Resposta Discursiva     |
+|   10   |      Observando a tarefa Acessar a Central de Ajuda, a sequência de processos é coerente? Se não, poderia descrever o porquê?       |    Resposta Discursiva     |
+|   11   |           Observando a tarefa Comprar ingresso, a sequência de processos é coerente? Se não, poderia descrever o porquê?            |    Resposta Discursiva     |
+|   12   |    No diagrama hta de busca de evento, o problema apresentado em 2.1 é condizente com a realidade? Você possui alguma sugestão?     |    Resposta Discursiva     |
+|   13   |                         No diagrama hta de acessar a central de ajuda, o problema apresentado em 3 existe?                          | Resposta Fechada (Sim/Não) |
+|   14   |                                    Observada as tarefas, elas estão condizente com a realidade?                                     | Resposta Fechada(Sim/Não)  |
+|   15   |                                Você teria alguma sugestão de melhoria para os diagramas das tarefas?                                |    Resposta Discursiva     |
+|   16   |                               E para as tarefas em si, teria alguma sugestão de melhoria dos passos?                                |    Resposta Discursiva     |
 
 **Fonte** - [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
 
@@ -105,7 +110,7 @@ A tabela 3 a seguir mostra o roteiro de perguntas a serem realizadas na entrevis
 
 ## D - Lidando com as Questões Éticas
 
-Será utilizado o [termo de consentimento](../../../../analise-de-requisitos/aspectos-eticos/#termo-de-consentimento) produzido na seção de [aspectos éticos](../../../../analise-de-requisitos/aspectos-eticos), a fim de se obter dos participantes a autorização para que sejam realizadas as atividades necessárias à produção desse artefato.
+Será utilizado o [termo de consentimento](../../../../analise-de-requisitos/aspectos-eticos/#termo-de-consentimento) produzido na seção de [aspectos éticos](../../../../analise-de-requisitos/aspectos-eticos), a fim de se obter dos participantes a autorização para que sejam realizadas as atividades necessárias à produção desse artefato e garantir que os participantes sejam respeitados durante e após a atividade.
 
 ## E - Avaliar, Interpretar e Apresentar os Dados
 
@@ -123,7 +128,7 @@ conduzir o teste-piloto como se fosse uma sessão normal de avaliação. Dessa f
 de verificar se a linguagem nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais
 contêm informações adequadas e suficientes para orientar o participante durante a avaliação
 
-Desta forma, o teste piloto será conduzido por uma equipe composta por duas pessoas, sendo que uma delas desempenhará o papel de usuário. Essa abordagem permitirá simular uma interação real entre o usuário e o sistema, proporcionando insights valiosos sobre a usabilidade e a experiência do usuário. O avaliador que assume o papel de usuário seguirá um roteiro pré-determinado e realizará tarefas como se fosse um usuário comum, enquanto o outro avaliador observará e registrará as interações, erros e dificuldades encontradas. Essa dinâmica de dupla avaliação é fundamental para identificar possíveis problemas, ajustar o protocolo de avaliação e garantir que a entrevista com os usuários reais ocorra de forma eficiente e produtiva.
+Desta forma, o teste piloto será conduzido por uma equipe composta por duas pessoas, sendo que uma delas desempenha o papel de usuário. O avaliador que assume o papel de usuário seguirá um roteiro pré-determinado e realizará tarefas como se fosse um usuário comum, enquanto o outro avaliador observará e registrará as interações, erros e dificuldades encontradas. Essa dinâmica de dupla avaliação é fundamental para identificar possíveis problemas, ajustar o protocolo de avaliação e garantir que a entrevista com os usuários reais ocorra de forma eficiente e produtiva. Vale ressaltar que esse teste deve ser feito um dia antes da entrevista real com os usuários.
 
 ## Bibliografia
 
