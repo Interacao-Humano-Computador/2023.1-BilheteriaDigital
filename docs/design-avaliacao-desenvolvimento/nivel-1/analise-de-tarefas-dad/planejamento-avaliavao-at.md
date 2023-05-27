@@ -91,7 +91,7 @@ A tabela 3 a seguir mostra o roteiro de perguntas a serem realizadas na entrevis
 |   2    |                                                           Qual sua idade?                                                           |    Resposra Discursiva     |
 |   3    |                                               Qual sua área de profissão ou ocupação?                                               |    Resposta Discursiva     |
 |   4    |                                            Qual seu grau de experiência com tecnologias?                                            |    Resposta Discursiva     |
-|   5    |                                     Você já utilizou algum site de compra de ingressos online?                                      | Resposta Fechada (Sim/Não) |
+|   5    |                             Você já utilizou algum site de compra de ingressos online? Se sim, quai(s)?                             |    Resposta Discursiva     |
 |   6    |        Observando a tarefa Visualizar meus pedidos, a sequência de processos é coerente? Se não, poderia descrever o porquê?        |    Resposta Discursiva     |
 |   7    | Observando a tarefa Compartilhar evento nas redes sociais, a sequência de processos é coerente? Se não, poderia descrever o porquê? |    Resposta Discursiva     |
 |   8    |            Observando a tarefa Cancelar compra, a sequência de processos é coerente? Se não, poderia descrever o porquê?            |    Resposta Discursiva     |
@@ -122,11 +122,7 @@ Realizada a etapa anteriormente mencionada, os dados serão apresentados ao time
 
 ## Planejamento do Teste Piloto
 
-Segundo Barbosa e Silva (2011, p.276) o objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como
-planejada, produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve
-conduzir o teste-piloto como se fosse uma sessão normal de avaliação. Dessa forma, ele tem oportunidade
-de verificar se a linguagem nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais
-contêm informações adequadas e suficientes para orientar o participante durante a avaliação
+Segundo Barbosa e Silva (2011, p.276) o objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto como se fosse uma sessão normal de avaliação. Dessa forma, ele tem oportunidade de verificar se a linguagem nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para orientar o participante durante a avaliação.
 
 Desta forma, o teste piloto será conduzido por uma equipe composta por duas pessoas, sendo que uma delas desempenha o papel de usuário. O avaliador que assume o papel de usuário seguirá um roteiro pré-determinado e realizará tarefas como se fosse um usuário comum, enquanto o outro avaliador observará e registrará as interações, erros e dificuldades encontradas. Essa dinâmica de dupla avaliação é fundamental para identificar possíveis problemas, ajustar o protocolo de avaliação e garantir que a entrevista com os usuários reais ocorra de forma eficiente e produtiva. Vale ressaltar que esse teste deve ser feito um dia antes da entrevista real com os usuários.
 
