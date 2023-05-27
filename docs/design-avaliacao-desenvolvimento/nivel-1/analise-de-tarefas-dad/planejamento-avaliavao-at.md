@@ -102,7 +102,7 @@ Na entrevista estarão disponíveis capturas de tela para que o usuário possa v
 
 </center>
 
-Nota se que as perguntas de 4 a 9 devera ser realizada de acordo com cada entrevista, se a entrevista é sobre o concelamento de compra realiza a pergunta 6, por exemplo. As perguntas 10 e 11 deverao ser realizadas pelos entrevistadores responsaveis pela tarefa de Busca de Evento e Acessar a Central de Ajuda respectivamente. No mais, as outras perguntas devem ser realizadas por todos os entrevistadores.
+Nota se que as perguntas de 4 a 9 deverão ser realizadas de acordo com cada entrevista, se a entrevista é sobre o cancelamento de compra realiza a pergunta 6, por exemplo. As perguntas 10 e 11 deverão ser realizadas pelos entrevistadores responsáveis pela tarefa de Busca de Evento e Acessar a Central de Ajuda respectivamente. No mais, as outras perguntas devem ser realizadas por todos os entrevistadores.
 
 ## D - Lidando com as Questões Éticas
 
