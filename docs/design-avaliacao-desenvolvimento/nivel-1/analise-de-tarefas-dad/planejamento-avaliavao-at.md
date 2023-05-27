@@ -39,7 +39,7 @@ As perguntas responsáveis por guiar essa avaliação serão as seguintes:
 
 ## C - Escolher os Métodos de Avaliação
 
-O método escolhido foi o de entrevistas com usuários.
+O método escolhido foi o de entrevista e observação com usuários.
 
 A esolha se dá pelo fato de ser um método investigativo que permite coletar muitas informações, além de ser flexível permite fazer perguntas que aprofundam ainda mais os objetivos a serem alcançados pelos usuários. Ademais, tal entrevista deve ser estritamente **gravada** e **documentada**.
 
@@ -51,7 +51,7 @@ O processo se inicia pelo recrutamento das pessoas entrevistadas, essas pessoas 
 
 ### Preparção
 
-Os entrevistadores serão responsáveis por realizar as perguntas presentes no roteiro de perguntas a seguir e realizar as anotações sobre as respostas dos usuários. Essa entrevista deverá envolver alguma das atividades construída no artefato de [análise de tarefas](../../../../analise-de-requisitos/analise-de-tarefas/hta). Vale salientar que os papéis de entrevistador podem ser realizados por uma única pessoa ou por uma dupla onde cada um fica responsável por cada atividade (realizar as perguntas e coletar as respostas).
+Os entrevistadores serão responsáveis por realizar as perguntas presentes no roteiro de perguntas a seguir e realizar as anotações sobre as respostas dos usuários. Essa entrevista deverá envolver alguma das atividades construída no artefato de [análise de tarefas](../../../../analise-de-requisitos/analise-de-tarefas/hta). Vale salientar que os papéis de entrevistador podem ser realizados por uma única pessoa ou por uma dupla onde cada um fica responsável por cada atividade (realizar as perguntas e coletar as respostas). O entrevitador deve requisitar do usuário que o mesmo compartilhe tela com o fim de poder realizar o método de observação do usuário.
 
 ### Custos
 
@@ -86,14 +86,20 @@ Na entrevista estarão disponíveis capturas de tela para que o usuário possa v
 |   1    |                                                          Qual o seu nome?                                                           |    Resposta Discursiva     |
 |   2    |                                            Qual seu grau de experiência com tecnologias?                                            |    Resposta Discursiva     |
 |   3    |                              Você já utilizou algum site de compra de ingressos online? Se sim, quais?                              |    Resposta Discursiva     |
-|   4    |        Observando a tarefa Visualizar meus pedidos, a sequência de processos é coerente? Se não, poderia descrever o porquê?        |    Resposta Discursiva     |
-|   5    | Observando a tarefa Compartilhar evento nas redes sociais, a sequência de processos é coerente? Se não, poderia descrever o porquê? |    Resposta Discursiva     |
-|   6    |            Observando a tarefa Cancelar compra, a sequência de processos é coerente? Se não, poderia descrever o porquê?            |    Resposta Discursiva     |
-|   7    |            Observando a tarefa Busca de Evento, a sequência de processos é coerente? Se não, poderia descrever o porquê?            |    Resposta Discursiva     |
-|   8    |      Observando a tarefa Acessar a Central de Ajuda, a sequência de processos é coerente? Se não, poderia descrever o porquê?       |    Resposta Discursiva     |
-|   9    |           Observando a tarefa Comprar ingresso, a sequência de processos é coerente? Se não, poderia descrever o porquê?            |    Resposta Discursiva     |
-|   10   |    No diagrama hta de Busca de Evento, o problema apresentado em 2.1 na tabela existe? Você possui alguma sugestão de melhoria?     |    Resposta Discursiva     |
-|   11   |     No diagrama hta de Acessar a Central de Ajuda, o problema apresentado em 3 existe? Você possui alguma sugestão de melhoria?     | Resposta Fechada (Sim/Não) |
+| 4 | Como você acessaria seus pedidos? | [ ] Fazer login/cadastro e acessar meu painel<br> [ ] Outro, qual? <br> ⚠️ Informar o usuário para fazer login com a conta padrão caso não tenha. 
+|   4.1    |        Observando a tarefa Visualizar meus pedidos, a sequência de processos é coerente? Se não, poderia descrever o porquê?      |    Resposta Discursiva  <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.  <br> ❗ Pular para pergunta 12   |
+| 5 | Como você compartilharia um evento nas redes sociais? | [ ] Procurar evento, acessar e compartilhar. <br> [ ] Outro, como?
+|   5.1    | Observando a tarefa Compartilhar evento nas redes sociais, a sequência de processos é coerente? Se não, poderia descrever o porquê? |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> ❗ Pular para pergunta 12    |
+|   6    |            Como você cancelaria sua compra?            |    [ ] Acessar meu painel, meus pedidos e apertar no cancelamento <br> [ ] Outro, como?     |
+|   6.1   |            Observando a tarefa Cancelar compra, a sequência de processos é coerente? Se não, poderia descrever o porquê?            |    Resposta Discursiva  <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.  <br> ❗ Pular para pergunta 12 |
+|   7    |            Como você faria para buscar um evento?            |    [ ] Encontrar na tela inicial <br> [ ] Pesquisar na barra de pesquisa <br> [ ] Outro, como?    |
+|   7.1    |            Observando a tarefa Busca de Evento, a sequência de processos é coerente? Se não, poderia descrever o porquê?            |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> ❗ Pular para a pergunta 10    |
+|   8  |      Como você faria para acessar a central de ajuda?       |    [ ] Clicar no botão "Central de Ajuda" e acessar a aba desejada <br> [ ] Outro, como?    |
+|   8.1   |      Observando a tarefa Acessar a Central de Ajuda, a sequência de processos é coerente? Se não, poderia descrever o porquê?       |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.  <br> ❗ Pular para pergunta 11  |
+|   9   |           Como você realizaria a tarefa de comprar um ingresso?            |    [ ] Pesquisar evento, selecionar o evento desejado e efetuar pagamento. <br> [ ] Outro, como?   |
+|   9.1   |           Observando a tarefa Comprar ingresso, a sequência de processos é coerente? Se não, poderia descrever o porquê?            |    Resposta Discursiva  <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> ❗ Pular para pergunta 12    |
+|   10   |    No diagrama hta de Busca de Evento, o problema apresentado em 2.1 na tabela existe? Você possui alguma sugestão de melhoria?     |    Resposta Discursiva <br>❗ Pular para pergunta 12    |
+|   11   |     No diagrama hta de Acessar a Central de Ajuda, o problema apresentado em 3 existe? Você possui alguma sugestão de melhoria?     | Resposta Discursiva <br>❗ Pular para pergunta 12|
 |   12   |                                        Observada a tarefa, ela é condizente com a realidade?                                        | Resposta Fechada(Sim/Não)  |
 |   13   |                                  Você teria alguma sugestão de melhoria para o diagrama da tarefa?                                  |    Resposta Discursiva     |
 |   14   |                               E para a tarefa em si, teria alguma sugestão de melhoria dos processos?                               |    Resposta Discursiva     |
@@ -102,7 +108,7 @@ Na entrevista estarão disponíveis capturas de tela para que o usuário possa v
 
 </center>
 
-Nota se que as perguntas de 4 a 9 deverão ser realizadas de acordo com cada entrevista, se a entrevista é sobre o cancelamento de compra realiza a pergunta 6, por exemplo. As perguntas 10 e 11 deverão ser realizadas pelos entrevistadores responsáveis pela tarefa de Busca de Evento e Acessar a Central de Ajuda respectivamente. No mais, as outras perguntas devem ser realizadas por todos os entrevistadores.
+Nota se que as perguntas de 4 a 9.1 deverão ser realizadas de acordo com cada entrevista, se a entrevista é sobre o cancelamento de compra realiza a pergunta 6 e 6.1, por exemplo. As perguntas 10 e 11 deverão ser realizadas pelos entrevistadores responsáveis pela tarefa de Busca de Evento e Acessar a Central de Ajuda respectivamente. No mais, as outras perguntas devem ser realizadas por todos os entrevistadores.
 
 ## D - Lidando com as Questões Éticas
 
@@ -123,6 +129,20 @@ Segundo Barbosa e Silva (2011, p.276) o objetivo desse teste é avaliar o própr
 Desta forma, o teste piloto será conduzido por uma equipe composta por duas pessoas, sendo que uma delas desempenha o papel de usuário. O avaliador que assume o papel de usuário seguirá um roteiro pré-determinado e realizará tarefas como se fosse um usuário comum, enquanto o outro avaliador observará e registrará as interações, erros e dificuldades encontradas. Essa dinâmica de dupla avaliação é fundamental para identificar possíveis problemas, ajustar o protocolo de avaliação e garantir que a entrevista com os usuários reais ocorra de forma eficiente e produtiva.
 
 O teste piloto será feito no dia 27/05/2023 às 11:30 e contará com a presença dos integrantes [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
+
+
+
+## Resultado do Teste Piloto
+
+Abaixo segue o vídeo feito do tste piloto de acordo com o cronograma citado anteriormente em que o [Matheus Henrique](https://github.com/mathonaut) fez papel de usuário e [Geovanna Maciel](https://github.com/manuziny) de entrevistadora. Nele pode-se notar um erro no diagrama HTA de visualizar pedidos, no mais, o teste mostrou que o questionário pode ser utilizado nas entrevistas.
+
+<p style="text-align: center"><a href="https://www.youtube.com/embed/CkPpON50eco" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/CkPpON50eco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).</p></font>
+
+
 
 ## Bibliografia
 
