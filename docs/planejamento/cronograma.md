@@ -161,11 +161,26 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta en
 
 <font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/g16c).</p></font>
 
+### Executado
+Na Tabela 10, tem-se o cronograma planejado para todas as atividades da quinta entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Análise de requisitos 1</p></font>
+
+| Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
+|---	|---	|---	|---	|---	|
+|   Relato dos resultados do Storyboard 	| Início: 27/05<br>Fim: 29/05 	| Gabriel 	| Início: 30/05<br>Fim: 30/05 	| Arthur 	|
+|   Relato dos resultados da Análise de tarefas 	| Início: 23/05<br>Fim: 28/05 	| Geovanna e Matheus 	| Início: 29/05<br>Fim: 29/05 	| Douglas e Rafael 	|
+|   Planejamento do relato de resultados da avaliação do protótipo de papel 	| Início: 28/05<br>Fim: 28/05 	| Arthur e Matheus 	| Início: 29/05<br>Fim: 29/05 	| Gabriel 	|
+|   Planejamento da avaliação do protótipo de papel 	| Início: 27/05<br>Fim: 29/05 	| Douglas e Rafael 	| Início: 30/05<br>Fim: 30/05 	| Geovanna e Matheus 	|
+|   Gravação da apresentação 	| Início: 29/05<br>Fim: 29/05 	| Todos 	| Início: 29/05<br>Fim: 29/05 	| Todos 	|
+|   Correção pós apresentação 	| Início: 04/05<br>Fim: 07/05 	| Todos 	| Início: 08/05<br>Fim: 09/05 	| Todos 	|
+
+<font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/g16c).</p></font>
 
 ## Entrega 6
 
 ### Planejado
-Na Tabela 10, tem-se o cronograma planejado para todas as atividades da sexta entrega.
+Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sexta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 10</b> - Verificação de artefatos 1</p></font>
 
@@ -190,7 +205,7 @@ Na Tabela 10, tem-se o cronograma planejado para todas as atividades da sexta en
 ## Entrega 7
 
 ### Planejado
-Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sétima entrega.
+Na Tabela 12, tem-se o cronograma planejado para todas as atividades da sétima entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 11</b> - Relato dos resultados</p></font>
 
@@ -208,7 +223,7 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sétima 
 ## Entrega 8
 
 ### Planejado
-Na Tabela 12, tem-se o cronograma planejado para todas as atividades da oitava entrega.
+Na Tabela 13, tem-se o cronograma planejado para todas as atividades da oitava entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 12</b> - Resultado protótipo alta fidelidade</p></font>
 
@@ -226,7 +241,7 @@ Na Tabela 12, tem-se o cronograma planejado para todas as atividades da oitava e
 ## Entrega final
 
 ### Planejado
-Na Tabela 13, tem-se o cronograma planejado para todas as atividades da última entrega.
+Na Tabela 14, tem-se o cronograma planejado para todas as atividades da última entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 13</b> - Entrega final</p></font>
 

@@ -1,6 +1,8 @@
 ## Introdução
 
-Para Barbosa e Silva (2011, p.282)<a id="anchor_1" href="#REF1">^1^</a> o guia de estilo "Trata-se de um registro das principais decisões de design tomadas, de forma que elas não se percam, isto é, sejam efetivamente incorporadas no produto final". O mesmo serve de ferramenta comunicativa para os stakeholders da equipe. O que torna de suma importância que as decisões possam ser consultadas com facilidade e possam ser discutidas para projeções futuras ou apenas atualizações. Para alcançar esses objetivos, é essencial ter um guia de estilo que oriente a criação de interfaces que atendam às necessidades e expectativas dos usuários, além de garantir a consistência visual e de interação em todo o sistema.
+Para Barbosa e Silva (2011, p.282)<a id="anchor_1" href="#REF1">^1^</a> o guia de estilo "Trata-se de um registro das principais decisões de design tomadas, de forma que elas não se percam, isto é, sejam efetivamente incorporadas no produto final". O mesmo serve de ferramenta comunicativa para os stakeholders da equipe. O que torna de suma importância que as decisões possam ser consultadas com facilidade e possam ser discutidas para projeções futuras ou apenas atualizações. 
+
+Para alcançar esses objetivos, é essencial ter um guia de estilo que oriente a criação de interfaces que atendam às necessidades e expectativas dos usuários, além de garantir a consistência visual e de interação em todo o sistema. Na produção do artefato, foram utilizados as [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/metas-usabilidade/) e os [Princípios Gerais](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/), ambos documentos tratam de como o site tem ressalvas que podem ser melhoradas através do guia de estilo.
 
 ## Objetivo
 
@@ -16,7 +18,7 @@ O guia de estilo do Bilheteria Digital será feito a partir dos elementos analis
 
 ### Público-alvo do guia de estilo
 
-Este guia de estilo foi elaborado para atender às necessidades dos alunos que estão cursando a disciplina de Interação Humano Computador, e que têm a responsabilidade de realizar a análise da plataforma Bilheteria Digital no âmbito deste curso. Ao utilizar este guia, os alunos poderão tomar decisões de design embasadas em diretrizes e melhores práticas relevantes para a disciplina, permitindo que realizem as outras etapas do projeto de forma mais eficiente e eficaz.
+Este guia de estilo foi elaborado para atender às necessidades tanto dos alunos que estão cursando a discilina de Interação Humano Computador, quanto da equipe de design e desenvolvedores do Bilheteria Digital que possam ter interesse pelo artefato. A partir dele os atores poderão tomar decisões de design embasadas em diretrizes e melhores práticas que foram citadas em [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/metas-usabilidade/) e os [Princípios Gerais](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/).
 
 ### Como utilizar o guia
 
@@ -24,7 +26,7 @@ Este guia de estilo pode ser utilizado como uma referência para tomar decisões
 
 ### Como manter o guia
 
-É essencial atualizar o guia de estilo sempre que a equipe tomar uma decisão que modifique o projeto de Interação Humano Computador, para garantir que todas as alterações realizadas estejam em conformidade com as diretrizes e padrões definidos no guia. Dessa forma, é possível manter a consistência visual e de interação em todo o sistema, garantindo a melhor experiência do usuário e evitando possíveis problemas de usabilidade e acessibilidade.
+É essencial atualizar o guia de estilo sempre que a equipe (de aluno e/ou deseigns e desenvolvedors do Bilheteria Digital) tomar uma decisão que modifique o projeto de Interação Humano Computador, para garantir que todas as alterações realizadas estejam em conformidade com as diretrizes e padrões definidos no guia. Dessa forma, é possível manter a consistência visual e de interação em todo o sistema, garantindo a melhor experiência do usuário e evitando possíveis problemas de usabilidade e acessibilidade.
 
 ## Resultados da análise
 
@@ -57,6 +59,23 @@ A plataforma Bilheteria Digital é predominantemente acessada por usuários por 
 
 - Sequência de diálogos: as sequências seguem um padrão, os botões de confirmação e cancelamento são semelhantes em páginas diferentes.
 
+## Propostas de intervenção
+
+As propostas de intervenção foram desenvolvidas com base nas [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/metas-usabilidade/) e nos [Princípios Gerais](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/) definidos para o projeto da Bilheteria Digital. Essas diretrizes foram utilizadas como referência para identificar áreas de melhoria e sugerir mudanças que visam aprimorar a usabilidade e a experiência do usuário.
+
+Com base nas [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/metas-usabilidade/), que incluem eficácia, eficiência, satisfação, segurança, acessibilidade e utilidade, foram levantados pontos específicos que podem ser aprimorados no sistema. Por exemplo, a meta de eficácia busca garantir que os usuários consigam realizar suas tarefas de forma correta e completa. Para atingir essa meta, foi proposto o botão de filtro em que o usuário verá eventos do próprio estado com mais facilidade de acordo com data, localidade e público alvo. 
+
+Em relação aos [Princípios Gerais](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/), que envolvem consistência, feedback, prevenção de erros, flexibilidade e simplicidade, foram consideradas mudanças que promovam a conformidade com esses princípios. Por exemplo, a consistência foi melhorada ao padronizar elementos visuais e interações em todo o sistema, tornando mais fácil para o usuário entender e navegar pelas diferentes partes da aplicação.
+
+Outros aspecto importante são o equilíbrio entre o controle e liberdade do usuário e a crrespondência com as expectativas do usuári. No primeiro tópico, pode-se observar no site em que o único filtro aplicável é de estado, não podendo filtrar por categoria, data e local. No segundo, foi identificado que o botão que sinaliza um localizador não é funcional pois ele é só uma imagem, ou seja, se o usuário pensar em mudar a localização através dele, ele cometerá um erro, o que quebra a expectativa do usuário.
+
+Para apresentar as propostas de intervenção de forma mais detalhada, será elaborado um quadro no Figma. O quadro no Figma fornecerá uma representação visual das mudanças propostas, incluindo alterações na interface, fluxos de navegação revisados e outras melhorias que contribuam para a usabilidade e a experiência do usuário.
+
+Essas intervenções têm como objetivo principal aprimorar a interação entre o usuário e o sistema da Bilheteria Digital, tornando-o mais fácil de usar, intuitivo e satisfatório. Ao considerar as Metas de Usabilidade e os Princípios Gerais, busca-se criar uma aplicação que atenda às necessidades e expectativas dos usuários, proporcionando uma experiência positiva e eficiente.
+
+<p style="text-align: center">Figura 2 - Proposta de intervenção.</p>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FlkJqsPebEpckC0t6oat1MP%2FGuia-de-Estilo%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DZ5BeXjqZIgoiCZxP-1" allowfullscreen></iframe>
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -67,3 +86,4 @@ A plataforma Bilheteria Digital é predominantemente acessada por usuários por 
 | ------ | ---------- | --------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | `1.0`  | 13/05/2023 | Criação da página guia de estilo. | [Geovanna Maciel](https://github.com/manuziny)                                              | [Douglas Alves](https://github.com/dougAlvs)                                                        |
 | `1.1`  | 13/05/2023 | Adição dos tópicos.               | [Geovanna Maciel](https://github.com/manuziny) [Douglas Alves](https://github.com/dougAlvs) | [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.2`  | 27/05/2023 | Correções após apresentação              | [Geovanna Maciel](https://github.com/manuziny) [Douglas Alves](https://github.com/dougAlvs) | [Arthur de Melo](https://github.com/arthurmlv) |
