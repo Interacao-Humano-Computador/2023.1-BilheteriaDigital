@@ -36,15 +36,34 @@ As tarefas abordadas na avaliação serão as seguintes:
 
 #### Buscar um evento
 
+<a id="met1"></a>
+Essa tarefa tem o intuito do participante realizar uma busca de um determinado evento selecionado pelo entrevistador apresentado no sistema.
+
+O objetivo da tarefa consiste em verificar se o participante consegue realizar uma busca de um determinado evento sem problemas.
+
+Para a realização dessa tarefa o entrevistador fará uma apresentação da imagem da tela inicial e pedir para o participante realizar uma busca de um evento descrito pelo entrevistador é analisar sua execução, caso o participante não consiga realizar essa tarefa, identificar os problemas que o impossibilitaram. 
+
 
 #### Comprar um ingresso
+Nessa tarefa o participante tem que realizar a compra de um ingresso de um evento selecionado na etapa anterior de [buscar um evento](#met1) utilizando o protótipo.
 
+O objetivo dessa tarefa consiste em determinar se o participante consegue comprar um ingresso seguindo os passos apresentados pelo protótipo.
+
+Para execução dessa tarefa, o entrevistador pedira que o participante realize a compra de um ingresso após selecionar um evento. Ele deverá escolher a quantidade de ingressos ou acentos possuindo um limite por pessoa apresentado no protótipo, depois selecionar um método de pagamento, concordar com os termos de uso e finalizar a compra do ingresso. Durante essa tarefa o entrevistador estará observando e anotando caso haja algum problema identificado.
 
 #### Visualizar meus pedidos
+Nessa tarefa o participante tem que acessar a parte de visualizar meus pedidos e encontrar pedidos já selecionados nas etapas anteriores ou não.
 
+O objetivo dessa tarefa é analisar se o participante por meio do protótipo consegue se localizar no sistema acessando a parte de visualizar meus pedidos.
+
+Na execução dessa tarefa o entrevistador apresentara a tela inicial e solicitara que o participante visualise seus pedidos. Durante a análise será observado se o protótipo apresentado algum problema na tarefa de visualizar meus pedidos.
 
 #### Cancelar Compra
+Essa tarefa tem o intuito do participante realizar a tarefa de cancelar uma compra no protótipo de papel apresentado pelo entrevistador.
 
+O objetivo dessa tarefa é verificar se o participante e capaz de executar a ação de cancelar uma compra, observando se possui algum problema no protótipo que impossibilite de executá-la.
+
+Para execução dessa tarefa o entrevistador solicitara que o participante realize a tarefa de cancelar a compra no protótipo de papel, será apresentada a tela inicial de começo e conforme o participante busque executa-lá o entrevistador estará observando suas ações e anotando algum problema encontrado no protótipo.
 
 ### Definir o perfil dos participantes e recrutá-los
 
@@ -70,5 +89,6 @@ A avaliação propriamente dita será feita de forma online pela plataforma Team
 | Versão | Data       | Descrição                                       | Autor            | Revisor                   |
 | ------ | ---------- | ----------------------------------------------- | ---------------- | ------------------------- |
 | 1.0    | 27/05/2023 | Criação do documento | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/rafaelclg0) |
+| 1.1    | 27/05/2023 | Adição das Tarefas | [Rafael Ferreira](https://github.com/rafaelclg0) | [Geovanna Maciel](https://github.com/manuziny) |
 
 
