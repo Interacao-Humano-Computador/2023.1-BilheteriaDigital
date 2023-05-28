@@ -86,11 +86,12 @@ O teste piloto foi feito no dia 27/05/2023 às 19:00 e com a presença dos integ
 
 ## Resultado do Teste Piloto
 
-Abaixo segue o vídeo feito do tste piloto de acordo com o cronograma citado anteriormente em que o [Arthur de Melo](https://github.com/arthurmlv) fez papel de usuário e [Rafael Ferreira](https://github.com/RafaelCLG0) de entrevistadora. Nele foi apresentado os termo de consentimento, questionária com perguntas a serem feitas, storyboards e cenários que foram baseado os storyboards.
+Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado anteriormente em que o [Arthur de Melo](https://github.com/arthurmlv) fez papel de usuário e [Rafael Ferreira](https://github.com/RafaelCLG0) de entrevistadora. Nele foi apresentado os termo de consentimento, questionária com perguntas a serem feitas, storyboards e cenários que foram baseado os storyboards.
 
-<p style="text-align: center"><a href="https://youtu.be/N6nfcGWybLA" target="blanket">Clique aqui</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/embed/N6nfcGWybLA" target="blanket">Clique aqui</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/N6nfcGWybLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/N6nfcGWybLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0) e [Arthur de Melo](https://github.com/arthurmlv).</p></font>
 
@@ -117,23 +118,21 @@ As Tabelas 2 e 3 apresentam os templates utilizados para o cronograma e para a e
 
 <center>
 
-<font size="3"></p>Tabela 2 - Cronograma</font>
+
+<font size="3"></p>Tabela 2 - Template Cronograma</font>
 
 | Data | Início/Fim | Local |
 | ------- | -------- | --------- | 
-| 27/05/2023 | 19:30 - 19:37 | Teams |
-| 27/05/2023 | 19:50 - 19:55 | Teams | 
+| 24/05/2023 | 00:00-23:59 | Ambiente escolhido | 
 
 <font size="3">Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0)</p></font>
 
 <font size="3"></p>Tabela 3 - Participantes</font>
 
-| Nome | Função | Storyboard |
-|------|---------|------------|
-<span style = "color: red"> [Rafael Ferreira](https://github.com/RafaelCLG0)</span> |  Entrevistador | [Buscar Evento](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/storyboard/#tarefa-2-busca-de-evento)
-<span style = "color: orange"> Paulo</span> | Usuário | [Buscar Evento](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/storyboard/#tarefa-2-busca-de-evento)
-<span style = "color: red"> [Rafael Ferreira](https://github.com/RafaelCLG0)</span> |  Entrevistador | [Compartilhar nas Redes Sociais](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/storyboard/#tarefa-2-busca-de-evento)
-<span style = "color: orange"> Marcos</span> | Usuário | [Compartilhar nas Redes Sociais](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/storyboard/#tarefa-2-busca-de-evento)
+| Nome | Função |
+|------|---------|
+<span style = "color: red"> Nome do Entrevistador</span> |  Entrevistador
+<span style = "color: orange"> Nome do Usuário</span> | Usuário
 
 <font size="3">Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0)</p></font>
 
