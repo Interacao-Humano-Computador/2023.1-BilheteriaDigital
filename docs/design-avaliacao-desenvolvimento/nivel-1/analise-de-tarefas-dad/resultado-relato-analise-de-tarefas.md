@@ -152,9 +152,58 @@ De modo geral, na análise da tarefa, o participante conseguiu realizar a tarefa
 * O participante deu como sugestão de possuir uns filtros para facilitar a busca de um evento.
 * O participante identificou um problema no diagrama sobre a falta de encontrar eventos com base em seu estado.
 
-<p style="text-align: center"><a href="https://youtu.be/Rj9pV7KZjAI" target="blanket">Clique aqui</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/embed/Rj9pV7KZjAI" target="blanket">Clique aqui</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/Rj9pV7KZjAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Rj9pV7KZjAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
+
+## Entrevista - Compartilhar um Evento nas Redes Sociais
+
+### Objetivo e escopo da avaliação
+
+Para essa avaliação, foi feita a análise da Tarefa de [Compartilhar um Evento nas Redes Sociais](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/#cancelar-compra) e do [diagrama HTA de compartilhar um evento nas redes sociais](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/#cancelar-compra) em busca de identificar se estão corretos com de acordo com o participante ou se apresentam algum problema.
+
+### Método de avaliação
+
+O método utilizado foi a entrevista e de observação da interação do usuário ao realizar tarefa de compartilhar um evento nas redes sociais a partir do site com base no questionário realizando as perguntas da entrevista. Para isso, realizou-se uma reunião no Microsoft Teams com o usuário, a qual está explicitada na Tabela 8.
+
+<center>
+**Tabela 8** - Cronograma Executado.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Rafael Ferreira](https://github.com/RafaelCLG0) |    Paulo   |       12:30       |     12:38      | 28/05/2023 | Plataforma Teams |
+
+**Fonte** - [Rafael Ferreira](https://github.com/RafaelCLG0).
+</center>
+
+### Seleção de participante
+
+O participante se encaixa no perfil de usuário, pois é um usuário de entre 20 e 35 anos, tecnófilo e que já utilizou de um site para compartilhar um evento na redes sociais fornecidas ou não.
+
+### Problemas e dificuldades encontradas
+
+Durante a avaliação o participante identificou como compartilhar um evento nas redes sociais, mas pontuou sobre não possuir as redes sociais do momento mais utilizado como WhatsApp e Instagram, dificultando a ação de compartilhamento e submetendo-se a compartilhar de outras maneiras como pegar o link da página e divulgar nas entre grupos de amigos ou da comunidade.
+
+### Sugestões de melhoria
+
+Adicionar na aba de compartilhar, redes sociais da atualidade como Instagram e WhatsApp em busca de deixar mais prático essa função.
+
+### Feedback do usuário
+
+De modo geral, na análise da tarefa, o participante conseguiu realizar a tarefa proposta sem apresentar nenhum problema, apresentando uma sugestão de adicionar mais redes sociais da atualidade como Instagram e WhatsApp tornando a função mais eficiente. Na parte do diagrama de compartilhar um evento nas redes sociais, o participante concordou deixando claro estar coerente com a funcionalidade e não apresentando nenhuma alteração no diagrama.
+
+### Sumário dos principais resultados
+
+* O fluxo de tarefas da Compartilhar Evento nas Redes Sociais está alinhado com o uso real dos usuários da Bilheteria Digital.
+* O participante não encontrou dificuldade em compartilhar um evento nas redes sociais que estivesse disponível no site.
+* O participante deu como sugestão adicionar as redes sociais da atualidade como o Instagram e WhatsApp.
+* O participante não identificou problema no diagrama relatando que está condizente com a realidade de compartilhar um evento.
+
+<p style="text-align: center"><a href="https://www.youtube.com/embed/o6FhvJyT2E4" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/o6FhvJyT2E4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
 
@@ -164,5 +213,6 @@ De modo geral, na análise da tarefa, o participante conseguiu realizar a tarefa
 | Versão | Data       | Descrição                                     | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | --------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`  | 27/05/2023 | Adição da entrevista e relato Central de Ajuda   | [Geovanna Maciel](https://github.com/manuziny) | [Douglas Alves](https://github.com/dougAlvs) e [Rafael Ferreira](https://github.com/RafaelCLG0) | 
-| `1.1`  | 27/05/2023 | Relato Comprar Ingresso   | [Arthur de Melo](https://github.com/arthurmlv) | [Douglas Alves](https://github.com/dougAlvs) | 
-| `1.1`  | 27/05/2023 | Relato da Busca de um evento | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny) | 
+| `1.1`  | 27/05/2023 | Adição do Relato Comprar Ingresso   | [Arthur de Melo](https://github.com/arthurmlv) | [Douglas Alves](https://github.com/dougAlvs) | 
+| `1.1`  | 27/05/2023 | Adição do Relato da Busca de um evento | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny) | 
+| `1.2`  | 27/05/2023 | Adição do Relato de Compartilhar Evento | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny) | 
