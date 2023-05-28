@@ -6,7 +6,7 @@
 A avaliação teve como objetivo validar se a tarefa de [Central de Ajuda](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/#analise-de-tarefas) está alinhada com o fluxo de atividades dos usuários da Bilheteria Digital e identificar áreas de melhorira para fornecer um suporte mais eficar e satisfatório aos usuários.
 
 ### Método de avaliação
-O método utilizado foi de entrevista e observação do usuário com a interface, na tabela 5 há o detalhamento do cronograma. Desta forma, foi realizada uma reunão no Google Meets em que o usuário compartilhou sua tela e interagiu com o sistema.
+O método utilizado foi de entrevista e observação do usuário com a interface, na tabela 5 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião no Google Meets em que o usuário compartilhou sua tela e interagiu com o sistema.
 
 <center>
 **Tabela 5** - Cronograma Executado.
@@ -109,9 +109,60 @@ Outra vicissitude pertinente é que o tempo para finalizar a compra é somente d
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv).</p></font>
 
+## Entrevista - Buscar um Evento
+
+### Objetivo e escopo da avaliação
+
+Para essa avaliação, foi feita a análise da Tarefa de [Buscar um Evento](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/#cancelar-compra), uma das principais funcionalides do site analisado. Além de verificar se a tarefa realizado condiz com os passos apresentados no [diagrama HTA da busca de evento](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/#cancelar-compra).
+
+### Método de avaliação
+
+O método utilizado foi a entrevista e de observação da interação do usuário ao realizar tarefa de procurar um evento no site passado pelo entrevistador e por um questionário realizando as perguntas da entrevista. Para isso, realizou-se uma reunião no Microsoft Teams com o usuário, a qual está explicitada na Tabela 7.
+
+<center>
+**Tabela 7** - Cronograma Executado.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Rafael Ferreira](https://github.com/RafaelCLG0) |    Marcos   |       11:40       |     11:48      | 28/05/2023 | Plataforma Teams |
+
+**Fonte** - [Rafael Ferreira](https://github.com/RafaelCLG0).
+</center>
+
+### Seleção de participante
+
+O participante se encaixa no perfil de usuário, pois é um usuário de entre 20 e 35 anos, tecnófilo e que já utilizou de um site para comprar buscar eventos desejáveis.
+
+### Problemas e dificuldades encontradas
+
+Durante a avaliação o participante não encontrou dificuldade em buscar um evento selecionado pelo entrevistador. Para essa tarefa esse utilizou-se de dois recursos um para procurar o evento na aba inicial e outro de pesquisar o evento na barra de pesquisa conseguindo executar ambas e apresentado que está coerente com o padrão e com os concorrentes.
+
+### Sugestões de melhoria
+
+O participante pontuou sobre possuir alguns filtros para procurar um evento com mais eficiência e eficácia.
+
+### Feedback do usuário
+
+De modo geral, na análise da tarefa, o participante conseguiu realizar a tarefa proposta sem apresentar nenhum problema relatando que o site está coerente para realizar uma busca de um evento, concordou também com diagrama de buscar um evento sugerindo a adição da funcionalidade de filtrar eventos por estado, presente no site, mas em falta no diagrama.
+
+### Sumário dos principais resultados
+
+* O fluxo de tarefas da Buscar evento está alinhado com o uso real dos usuários da Bilheteria Digital.
+* O participante não encontrou dificuldade em achar um evento proposto que estivesse disponível.
+* O participante deu como sugestão de possuir uns filtros para facilitar a busca de um evento.
+* O participante identificou um problema no diagrama sobre a falta de encontrar eventos com base em seu estado.
+
+<p style="text-align: center"><a href="https://youtu.be/Rj9pV7KZjAI" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/Rj9pV7KZjAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
+
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                     | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | --------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`  | 27/05/2023 | Adição da entrevista e relato Central de Ajuda   | [Geovanna Maciel](https://github.com/manuziny) | [Douglas Alves](https://github.com/dougAlvs) e [Rafael Ferreira](https://github.com/RafaelCLG0) | 
 | `1.1`  | 27/05/2023 | Relato Comprar Ingresso   | [Arthur de Melo](https://github.com/arthurmlv) | [Douglas Alves](https://github.com/dougAlvs) | 
+| `1.1`  | 27/05/2023 | Relato da Busca de um evento | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny) | 
