@@ -1,5 +1,153 @@
 # Relato do Resultado - Análise de Tarefas
 
+## Entrevista - Visualizar meus pedidos
+
+### Objetivo e escopo da avaliação
+A avaliação teve como objetivo validar se a tarefa de [Visualizar meus pedidos](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/#analise-de-tarefas) está alinhada com o fluxo de atividades dos usuários da Bilheteria Digital e identificar áreas de melhoria para fornecer um suporte mais eficar e satisfatório aos usuários.
+
+### Método de avaliação
+O método utilizado foi de entrevista e observação do usuário com a interface, na tabela 1 há o detalhamento do cronograma. Desta forma, foi realizada uma reunão no Google Meets em que o usuário compartilhou sua tela e interagiu com o sistema.
+
+<center>
+*Tabela 1* - Cronograma da entrevista.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Douglas Alves](https://github.com/dougAlvs) |    Ana Luiza Nobre    |       22:00       |     22:10      | 27/05/2023 | Plataforma Discord |
+
+*Fonte* - [Douglas Alves](https://github.com/dougAlvs)
+</center>
+
+### Seleção de participante
+
+A participante se encaixa no perfil de usuário, pois é uma usuária entre 20 e 35 anos, possui experiencia intermediária com tecnologia e já realizou a ação de compra e consulta em sites de compra online.
+
+### Problemas e dificuldades encontradas
+
+Por mais que não tenha apresentado nenhuma grande dificuldade para realização da tarefa, a usuária estranhou o uso do termo "Meu painel" pelo site.
+
+### Sugestões de melhoria
+
+Com base no estranhamento do termo "Meu painel", uma proposta de melhoria seria trocar o termo por outro mais comumente usado em sites e aplicações do mesmo tipo, como "Meu perfil" ou "Minha conta".
+
+### Feedback do usuário
+
+A usuária recomendou a substituição do termo "Meu painel" por "Minha conta", que é mais comum e explicativo na opinião dela.
+
+### Análise e interpretação dos resultados
+Com base na entrevista realizada e na observação dos usuários, podemos concluir que o fluxo da tarefa de Visualizar meus pedidos está alinhado com a realidade e corresponde às necessidades dos usuários da Bilheteria Digital. Com o único problema encontrado sendo em relação ao termo usado para designar a aba de informações do usuário.
+
+### Sumário dos principais resultados
+
+* O fluxo da tarefa de Visualizar meus pedidos está alinhado com o uso real dos usuários da Bilheteria Digital.
+* O usuário encontrou estranheza com o uso do termo "Meu painel" e sugeriu substituí-lo por "Minha conta".
+
+Esses resultados indicam a necessidade de um pequeno ajuste na interface da página inicial do site para proporcionar uma experiência mais eficaz e satisfatória aos usuários da Bilheteria Digital. Na gravação, a análise ta tarefa foi feita até o minuto 6:28.
+
+<p style="text-align: center"><a href="https://www.youtube.com/embed/TD891akhOyg" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/TD891akhOyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte:[Douglas Alves](https://github.com/dougAlvs).</p></font>
+
+## Entrevista - Compartilhar um Evento nas Redes Sociais
+
+### Objetivo e escopo da avaliação
+
+Para essa avaliação, foi feita a análise da Tarefa de [Compartilhar um Evento nas Redes Sociais](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/#cancelar-compra) e do [diagrama HTA de compartilhar um evento nas redes sociais](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/#cancelar-compra) em busca de identificar se estão corretos com de acordo com o participante ou se apresentam algum problema.
+
+### Método de avaliação
+
+O método utilizado foi a entrevista e de observação da interação do usuário ao realizar tarefa de compartilhar um evento nas redes sociais a partir do site com base no questionário realizando as perguntas da entrevista. Para isso, realizou-se uma reunião no Microsoft Teams com o usuário, a qual está explicitada na Tabela 2.
+
+<center>
+**Tabela 2** - Cronograma Executado.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Rafael Ferreira](https://github.com/RafaelCLG0) |    Paulo   |       12:30       |     12:38      | 28/05/2023 | Plataforma Teams |
+
+**Fonte** - [Rafael Ferreira](https://github.com/RafaelCLG0).
+</center>
+
+### Seleção de participante
+
+O participante se encaixa no perfil de usuário, pois é um usuário de entre 20 e 35 anos, tecnófilo e que já utilizou de um site para compartilhar um evento na redes sociais fornecidas ou não.
+
+### Problemas e dificuldades encontradas
+
+Durante a avaliação o participante identificou como compartilhar um evento nas redes sociais, mas pontuou sobre não possuir as redes sociais do momento mais utilizado como WhatsApp e Instagram, dificultando a ação de compartilhamento e submetendo-se a compartilhar de outras maneiras como pegar o link da página e divulgar nas entre grupos de amigos ou da comunidade.
+
+### Sugestões de melhoria
+
+Adicionar na aba de compartilhar, redes sociais da atualidade como Instagram e WhatsApp em busca de deixar mais prático essa função.
+
+### Feedback do usuário
+
+De modo geral, na análise da tarefa, o participante conseguiu realizar a tarefa proposta sem apresentar nenhum problema, apresentando uma sugestão de adicionar mais redes sociais da atualidade como Instagram e WhatsApp tornando a função mais eficiente. Na parte do diagrama de compartilhar um evento nas redes sociais, o participante concordou deixando claro estar coerente com a funcionalidade e não apresentando nenhuma alteração no diagrama.
+
+### Sumário dos principais resultados
+
+* O fluxo de tarefas da Compartilhar Evento nas Redes Sociais está alinhado com o uso real dos usuários da Bilheteria Digital.
+* O participante não encontrou dificuldade em compartilhar um evento nas redes sociais que estivesse disponível no site.
+* O participante deu como sugestão adicionar as redes sociais da atualidade como o Instagram e WhatsApp.
+* O participante não identificou problema no diagrama relatando que está condizente com a realidade de compartilhar um evento.
+
+<p style="text-align: center"><a href="https://www.youtube.com/embed/o6FhvJyT2E4" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/o6FhvJyT2E4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
+
+## Entrevista - Buscar um Evento
+
+### Objetivo e escopo da avaliação
+
+Para essa avaliação, foi feita a análise da Tarefa de [Buscar um Evento](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/#cancelar-compra), uma das principais funcionalides do site analisado. Além de verificar se a tarefa realizado condiz com os passos apresentados no [diagrama HTA da busca de evento](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/#cancelar-compra).
+
+### Método de avaliação
+
+O método utilizado foi a entrevista e de observação da interação do usuário ao realizar tarefa de procurar um evento no site passado pelo entrevistador e por um questionário realizando as perguntas da entrevista. Para isso, realizou-se uma reunião no Microsoft Teams com o usuário, a qual está explicitada na Tabela 3.
+
+<center>
+**Tabela 3** - Cronograma Executado.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Rafael Ferreira](https://github.com/RafaelCLG0) |    Marcos   |       11:40       |     11:48      | 28/05/2023 | Plataforma Teams |
+
+**Fonte** - [Rafael Ferreira](https://github.com/RafaelCLG0).
+</center>
+
+### Seleção de participante
+
+O participante se encaixa no perfil de usuário, pois é um usuário de entre 20 e 35 anos, tecnófilo e que já utilizou de um site para comprar buscar eventos desejáveis.
+
+### Problemas e dificuldades encontradas
+
+Durante a avaliação o participante não encontrou dificuldade em buscar um evento selecionado pelo entrevistador. Para essa tarefa esse utilizou-se de dois recursos um para procurar o evento na aba inicial e outro de pesquisar o evento na barra de pesquisa conseguindo executar ambas e apresentado que está coerente com o padrão e com os concorrentes.
+
+### Sugestões de melhoria
+
+O participante pontuou sobre possuir alguns filtros para procurar um evento com mais eficiência e eficácia.
+
+### Feedback do usuário
+
+De modo geral, na análise da tarefa, o participante conseguiu realizar a tarefa proposta sem apresentar nenhum problema relatando que o site está coerente para realizar uma busca de um evento, concordou também com diagrama de buscar um evento sugerindo a adição da funcionalidade de filtrar eventos por estado, presente no site, mas em falta no diagrama.
+
+### Sumário dos principais resultados
+
+* O fluxo de tarefas da Buscar evento está alinhado com o uso real dos usuários da Bilheteria Digital.
+* O participante não encontrou dificuldade em achar um evento proposto que estivesse disponível.
+* O participante deu como sugestão de possuir uns filtros para facilitar a busca de um evento.
+* O participante identificou um problema no diagrama sobre a falta de encontrar eventos com base em seu estado.
+
+<p style="text-align: center"><a href="https://www.youtube.com/embed/Rj9pV7KZjAI" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Rj9pV7KZjAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
+
 ## Entrevista - Central de Ajuda
 
 ### Objetivo e escopo da avaliação
@@ -15,7 +163,7 @@ O método utilizado foi de entrevista e observação do usuário com a interface
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 |  [Geovanna Maciel](https://github.com/manuziny) |    Lucas Maciel    |       20:40       |     20:50      | 27/05/2023 | Plataforma Google Meets |
 
-**Fonte** - [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
+**Fonte** - [Geovanna Maciel](https://github.com/manuziny).
 </center>
 
 ### Seleção de participante
@@ -109,103 +257,9 @@ Outra vicissitude pertinente é que o tempo para finalizar a compra é somente d
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv).</p></font>
 
-## Entrevista - Buscar um Evento
 
-### Objetivo e escopo da avaliação
 
-Para essa avaliação, foi feita a análise da Tarefa de [Buscar um Evento](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/#cancelar-compra), uma das principais funcionalides do site analisado. Além de verificar se a tarefa realizado condiz com os passos apresentados no [diagrama HTA da busca de evento](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/#cancelar-compra).
 
-### Método de avaliação
-
-O método utilizado foi a entrevista e de observação da interação do usuário ao realizar tarefa de procurar um evento no site passado pelo entrevistador e por um questionário realizando as perguntas da entrevista. Para isso, realizou-se uma reunião no Microsoft Teams com o usuário, a qual está explicitada na Tabela 7.
-
-<center>
-**Tabela 7** - Cronograma Executado.
-
-| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Rafael Ferreira](https://github.com/RafaelCLG0) |    Marcos   |       11:40       |     11:48      | 28/05/2023 | Plataforma Teams |
-
-**Fonte** - [Rafael Ferreira](https://github.com/RafaelCLG0).
-</center>
-
-### Seleção de participante
-
-O participante se encaixa no perfil de usuário, pois é um usuário de entre 20 e 35 anos, tecnófilo e que já utilizou de um site para comprar buscar eventos desejáveis.
-
-### Problemas e dificuldades encontradas
-
-Durante a avaliação o participante não encontrou dificuldade em buscar um evento selecionado pelo entrevistador. Para essa tarefa esse utilizou-se de dois recursos um para procurar o evento na aba inicial e outro de pesquisar o evento na barra de pesquisa conseguindo executar ambas e apresentado que está coerente com o padrão e com os concorrentes.
-
-### Sugestões de melhoria
-
-O participante pontuou sobre possuir alguns filtros para procurar um evento com mais eficiência e eficácia.
-
-### Feedback do usuário
-
-De modo geral, na análise da tarefa, o participante conseguiu realizar a tarefa proposta sem apresentar nenhum problema relatando que o site está coerente para realizar uma busca de um evento, concordou também com diagrama de buscar um evento sugerindo a adição da funcionalidade de filtrar eventos por estado, presente no site, mas em falta no diagrama.
-
-### Sumário dos principais resultados
-
-* O fluxo de tarefas da Buscar evento está alinhado com o uso real dos usuários da Bilheteria Digital.
-* O participante não encontrou dificuldade em achar um evento proposto que estivesse disponível.
-* O participante deu como sugestão de possuir uns filtros para facilitar a busca de um evento.
-* O participante identificou um problema no diagrama sobre a falta de encontrar eventos com base em seu estado.
-
-<p style="text-align: center"><a href="https://www.youtube.com/embed/Rj9pV7KZjAI" target="blanket">Clique aqui</a></p>
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Rj9pV7KZjAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-
-<font size="3"><p style="text-align: center">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
-
-## Entrevista - Compartilhar um Evento nas Redes Sociais
-
-### Objetivo e escopo da avaliação
-
-Para essa avaliação, foi feita a análise da Tarefa de [Compartilhar um Evento nas Redes Sociais](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/#cancelar-compra) e do [diagrama HTA de compartilhar um evento nas redes sociais](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/#cancelar-compra) em busca de identificar se estão corretos com de acordo com o participante ou se apresentam algum problema.
-
-### Método de avaliação
-
-O método utilizado foi a entrevista e de observação da interação do usuário ao realizar tarefa de compartilhar um evento nas redes sociais a partir do site com base no questionário realizando as perguntas da entrevista. Para isso, realizou-se uma reunião no Microsoft Teams com o usuário, a qual está explicitada na Tabela 8.
-
-<center>
-**Tabela 8** - Cronograma Executado.
-
-| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Rafael Ferreira](https://github.com/RafaelCLG0) |    Paulo   |       12:30       |     12:38      | 28/05/2023 | Plataforma Teams |
-
-**Fonte** - [Rafael Ferreira](https://github.com/RafaelCLG0).
-</center>
-
-### Seleção de participante
-
-O participante se encaixa no perfil de usuário, pois é um usuário de entre 20 e 35 anos, tecnófilo e que já utilizou de um site para compartilhar um evento na redes sociais fornecidas ou não.
-
-### Problemas e dificuldades encontradas
-
-Durante a avaliação o participante identificou como compartilhar um evento nas redes sociais, mas pontuou sobre não possuir as redes sociais do momento mais utilizado como WhatsApp e Instagram, dificultando a ação de compartilhamento e submetendo-se a compartilhar de outras maneiras como pegar o link da página e divulgar nas entre grupos de amigos ou da comunidade.
-
-### Sugestões de melhoria
-
-Adicionar na aba de compartilhar, redes sociais da atualidade como Instagram e WhatsApp em busca de deixar mais prático essa função.
-
-### Feedback do usuário
-
-De modo geral, na análise da tarefa, o participante conseguiu realizar a tarefa proposta sem apresentar nenhum problema, apresentando uma sugestão de adicionar mais redes sociais da atualidade como Instagram e WhatsApp tornando a função mais eficiente. Na parte do diagrama de compartilhar um evento nas redes sociais, o participante concordou deixando claro estar coerente com a funcionalidade e não apresentando nenhuma alteração no diagrama.
-
-### Sumário dos principais resultados
-
-* O fluxo de tarefas da Compartilhar Evento nas Redes Sociais está alinhado com o uso real dos usuários da Bilheteria Digital.
-* O participante não encontrou dificuldade em compartilhar um evento nas redes sociais que estivesse disponível no site.
-* O participante deu como sugestão adicionar as redes sociais da atualidade como o Instagram e WhatsApp.
-* O participante não identificou problema no diagrama relatando que está condizente com a realidade de compartilhar um evento.
-
-<p style="text-align: center"><a href="https://www.youtube.com/embed/o6FhvJyT2E4" target="blanket">Clique aqui</a></p>
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/o6FhvJyT2E4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-
-<font size="3"><p style="text-align: center">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
 
 
 ## Histórico de Versões
@@ -216,3 +270,5 @@ De modo geral, na análise da tarefa, o participante conseguiu realizar a tarefa
 | `1.1`  | 27/05/2023 | Adição do Relato Comprar Ingresso   | [Arthur de Melo](https://github.com/arthurmlv) | [Douglas Alves](https://github.com/dougAlvs) | 
 | `1.1`  | 27/05/2023 | Adição do Relato da Busca de um evento | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny) | 
 | `1.2`  | 27/05/2023 | Adição do Relato de Compartilhar Evento | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny) | 
+| `1.3`  | 28/05/2023 | Adição da entrevista e relato visualizar meus pedidos e organização da sequência   | [Geovanna Maciel](https://github.com/manuziny) | [Douglas Alves](https://github.com/dougAlvs) e [Rafael Ferreira](https://github.com/RafaelCLG0) | 
+
