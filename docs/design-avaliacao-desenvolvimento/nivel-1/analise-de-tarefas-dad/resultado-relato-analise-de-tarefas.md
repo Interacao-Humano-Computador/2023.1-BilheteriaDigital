@@ -61,7 +61,7 @@ Para essa avaliação, foi feita a análise da Tarefa de [Compartilhar um Evento
 O método utilizado foi a entrevista e de observação da interação do usuário ao realizar tarefa de compartilhar um evento nas redes sociais a partir do site com base no questionário realizando as perguntas da entrevista. Para isso, realizou-se uma reunião no Microsoft Teams com o usuário, a qual está explicitada na Tabela 2.
 
 <center>
-**Tabela 2** - Cronograma Executado.
+**Tabela 2** - Cronograma da entrevista.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -110,7 +110,7 @@ Para essa avaliação, foi feita a análise da Tarefa de [Buscar um Evento](http
 O método utilizado foi a entrevista e de observação da interação do usuário ao realizar tarefa de procurar um evento no site passado pelo entrevistador e por um questionário realizando as perguntas da entrevista. Para isso, realizou-se uma reunião no Microsoft Teams com o usuário, a qual está explicitada na Tabela 3.
 
 <center>
-**Tabela 3** - Cronograma Executado.
+**Tabela 3** - Cronograma da entrevista.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -154,10 +154,10 @@ De modo geral, na análise da tarefa, o participante conseguiu realizar a tarefa
 A avaliação teve como objetivo validar se a tarefa de [Central de Ajuda](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/#analise-de-tarefas) está alinhada com o fluxo de atividades dos usuários da Bilheteria Digital e identificar áreas de melhorira para fornecer um suporte mais eficar e satisfatório aos usuários.
 
 ### Método de avaliação
-O método utilizado foi de entrevista e observação do usuário com a interface, na tabela 5 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião no Google Meets em que o usuário compartilhou sua tela e interagiu com o sistema.
+O método utilizado foi de entrevista e observação do usuário com a interface, na tabela 4 há o detalhamento do cronograma. Desta forma, foi realizada uma reunião no Google Meets em que o usuário compartilhou sua tela e interagiu com o sistema.
 
 <center>
-**Tabela 5** - Cronograma Executado.
+**Tabela 4** - Cronograma Executado.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -209,10 +209,10 @@ Esses resultados indicam a necessidade de ajustes na interface da Central de Aju
 Nessa avaliação, será feita a análise da Tarefa de [Comprar Ingresso](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/#comprar-ingresso), a qual é a principal atividade realizada no site. Para isso, verificou-se a verossimilhança de tal tarefa e seu respectivo diagrama com a realidade.
 
 ### Método de avaliação
-O método utilizado foi a entrevista e de observação da interação do usuário ao realizar determinada tarefa no site e por meio de um questionário. Para isso, realizou-se uma reunião no Discord com o usuário, a qual está explicitada na Tabela 6.
+O método utilizado foi a entrevista e de observação da interação do usuário ao realizar determinada tarefa no site e por meio de um questionário. Para isso, realizou-se uma reunião no Discord com o usuário, a qual está explicitada na Tabela 5.
 
 <center>
-**Tabela 6** - Cronograma Executado.
+**Tabela 5** - Cronograma Executado.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -257,10 +257,57 @@ Outra vicissitude pertinente é que o tempo para finalizar a compra é somente d
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv).</p></font>
 
+## Entrevista - Cancelar Compra
 
+### Objetivo da Avaliação
+A avaliação teve como objetivo validar o HTA de Cancelamento de Compra condiz com a realidade do usuário e com a tarefa analisada.
 
+### Método da avaliação
+Foi realizada uma entrevista com um usuário, nessa entrevista foram apresentadas 8 perguntas relativas ao artefato sendo apresentado, detalhado na tabela 6 os aspectos da entrevista.
 
+<center>
+*Tabela 6* - Template Cronograma.
 
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Gabriel Campello](https://github.com/G16C)  |   Arthur Grandão     |       16:40       |     16:45      | 27/05/2023 | Plataforma Google Meet |
+
+*Fonte* - [Gabriel Campello](https://github.com/G16C).
+</center>
+
+### Seleção dos participantes
+O participante se encaixa no perfil de usuário, pois é um usuário entre 20 e 35 anos, experiente com tecnologia e já realizou a ação de cancelamento de compra.
+
+### Problemas e dificuldades encontradas
+Durante a entrevista não houve nenhuma dificuldade do usuário em relação ao HTA sendo apresentado.
+
+### Sugestões de melhoria
+Durante a entrevista não foi identificado nenhum tipo de erro ou falha que necessitasse de melhorias no storyboard.
+
+### Feedback dos usuário
+O usuário acredita que o HTA está condizente com a tarefa relacionada.
+
+### Análise e interpretação dos resultados
+Com base na entrevista realizada, podemos concluir que o HTA desenvolvido para a tarefa de a Cancelar Compra na Bilheteria Digital foi bem recebido pelo usuário. O participante selecionado para a avaliação se encaixou no perfil de usuário, sendo experiente em tecnologia e familiarizado com o site em questão.
+
+Durante a entrevista, o usuário não encontrou nenhuma dificuldade em relação ao storyboard. Isso indica que a sequência de eventos e a representação visual foram claras e compreensíveis para ele. A ausência de problemas ou sugestões de melhoria por parte do usuário é um bom indicativo de que o storyboard atende adequadamente às necessidades e expectativas dos usuários.
+
+### Sumário dos principais resultados
+A avaliação do HTA de Cancelamento de Compra da Bilheteria Digital foi conduzida com sucesso e resultou em feedback positivo por parte do usuário entrevistado. Os principais resultados obtidos são os seguintes:
+
+* O participante selecionado se encaixou no perfil de usuário, possuindo experiência em tecnologia e familiaridade com o site.
+
+*Durante a entrevista, o usuário não encontrou dificuldades ou problemas em relação ao storyboard, indicando que a sequência de eventos e a representação visual foram claras e compreensíveis.
+
+*Não foram identificadas sugestões de melhoria ou falhas que necessitassem de correção no HTA.
+
+* O usuário validou a qualidade do storyboard, afirmando que está bem montado e coerente com a tarefa de acessar o Cancelamento de Compra.
+
+*A experiência prévia do usuário com storyboards fortalece a validação do trabalho realizado.
+
+<p style="text-align: center"><a href="https://www.youtube.com/embed/pIi7bGCn27g" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/pIi7bGCn27g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 ## Histórico de Versões
 
@@ -271,4 +318,5 @@ Outra vicissitude pertinente é que o tempo para finalizar a compra é somente d
 | `1.1`  | 27/05/2023 | Adição do Relato da Busca de um evento | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny) | 
 | `1.2`  | 27/05/2023 | Adição do Relato de Compartilhar Evento | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny) | 
 | `1.3`  | 28/05/2023 | Adição da entrevista e relato visualizar meus pedidos e organização da sequência   | [Geovanna Maciel](https://github.com/manuziny) | [Douglas Alves](https://github.com/dougAlvs) e [Rafael Ferreira](https://github.com/RafaelCLG0) | 
+| `1.4`  | 29/05/2023 | Adição da entrevista e relato cancelar compra   | [Geovanna Maciel](https://github.com/manuziny) | [Douglas Alves](https://github.com/dougAlvs) e [Rafael Ferreira](https://github.com/RafaelCLG0) | 
 
