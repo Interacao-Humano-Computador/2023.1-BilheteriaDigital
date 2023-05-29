@@ -16,9 +16,9 @@ O planejamento de uma avaliação do storyboard envolve definir metas, critério
 
 - Avaliar (Evaluate): os resultados devem ser repensados e reavaliados antes de serem divulgados, ou seja, os dados coletados devem ser observados de acordo com o grau de confiabilidade dos dados, a validade interna e externa do estudo e a validade ecológica.
 
-## Objetivos
+## Objetivo da Avaliação
 
-A avaliação planejada tem como objetivo geral elaborar e validar uma versão final do storyboard que seja clara, coesa, atraente e alinhada com os objetivos do projeto. Para isso, o storyboard precisa: 
+A avaliação tem como objetivo geral elaborar e validar uma versão final do storyboard que seja clara, coesa, atraente e alinhada com os objetivos do projeto, afim de identificar problemas na interação e na interface que serão trabalhados mais à frente no projeto. Para isso, os storyboards precisam: 
 
 - ter lastro na realidade e fazer sentido nas ações realizadas; 
 
@@ -63,10 +63,10 @@ Tabela 1 - Roteiro de Perguntas
 |   ID   | Enunciado | Resposta |
 |--------|-----------|----------|
 | 1 | A narrativa apresentada pelo Storyboard está condizente com o título? | (&emsp;) SIM <br> (&emsp;) NÃO  |
-| 2 | O Storyboard em questão possui lastro na realidade? | (&emsp;) SIM <br> (&emsp;) NÃO |
+| 2 | O Storyboard em questão possui lastro com a realidade? | (&emsp;) SIM <br> (&emsp;) NÃO |
 | 3 | O Storyboard apresenta os principais aspectos da realização daquela tarefa? | (&emsp;) SIM <br> (&emsp;) NÃO |
 | 4 | As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica? | (&emsp;) SIM <br> (&emsp;) NÃO |
-| 5 | O storyboard possui uma composição visual com o seguinte itens (personagem, objetos, cénarios) identificáveis? | (&emsp;) SIM <br> (&emsp;) NÃO |
+| 5 | O storyboard possui uma composição visual com o seguinte itens (personagem, objetos, cenários) identificáveis? | (&emsp;) SIM <br> (&emsp;) NÃO |
 
 Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0)
 
@@ -76,9 +76,25 @@ Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https:
 
 O entrevistador precisa instigar o usuário a explicitar suas ideias, de maneira verbal ou ilustrativa, em caso de discordância do Storyboard proposto. Além disso, toda alteração proposta pelo usuário precisa ser anotada pelo entrevistador e, posteriormente, avaliada em conjunto para ser validada junto ao usuário ao final da atividade.
 
-## Teste Piloto
+## Planejamento do Teste Piloto
 
-O teste piloto possui como objetivo avaliar o planejamento realizado e a sua execução naquele dado momento, para isso, faz-se uma análise da avaliação planejada e verifica se tal retorna os dados necessários para a conclusão dos objetivos propostos. Sendo assim, o teste piloto será realizado individualmente, verificando os equipamentos necessários antes da reunião e fazendo os ajustes necessários no planejamento para a avaliação em específico. O entrevistador realizará o teste piloto individualmente como se ele fosse o usuário.
+O teste piloto possui como objetivo avaliar o planejamento realizado e a sua execução naquele dado momento, para isso, faz-se uma análise da avaliação planejada e verifica se tal retorna os dados necessários para a conclusão dos objetivos propostos.
+
+Desta forma, o teste piloto será conduzido por uma equipe composta por duas pessoas, sendo que uma delas desempenha o papel de usuário. O avaliador que assume o papel de usuário seguirá um roteiro pré-determinado e realizará tarefas como se fosse um usuário comum, enquanto o outro avaliador observará e registrará as interações, erros e dificuldades encontradas. Essa dinâmica de dupla avaliação é fundamental para identificar possíveis problemas, ajustar o protocolo de avaliação e garantir que a entrevista com os usuários reais ocorra de forma eficiente e produtiva.
+
+O teste piloto foi feito no dia 27/05/2023 às 19:00 e com a presença dos integrantes [Rafael Ferreira](https://github.com/RafaelCLG0) e [Arthur de Melo](https://github.com/arthurmlv).
+
+## Resultado do Teste Piloto
+
+Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado anteriormente em que o [Arthur de Melo](https://github.com/arthurmlv) fez papel de usuário e [Rafael Ferreira](https://github.com/RafaelCLG0) de entrevistadora. Nele foi apresentado os termo de consentimento, questionária com perguntas a serem feitas, storyboards e cenários que foram baseado os storyboards.
+
+<p style="text-align: center"><a href="https://www.youtube.com/embed/N6nfcGWybLA" target="blanket">Clique aqui</a></p>
+
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/N6nfcGWybLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0) e [Arthur de Melo](https://github.com/arthurmlv).</p></font>
+
 
 ## Termo de Consentimento Livre e Esclarecido
 
@@ -102,6 +118,7 @@ As Tabelas 2 e 3 apresentam os templates utilizados para o cronograma e para a e
 
 <center>
 
+
 <font size="3"></p>Tabela 2 - Template Cronograma</font>
 
 | Data | Início/Fim | Local |
@@ -110,7 +127,7 @@ As Tabelas 2 e 3 apresentam os templates utilizados para o cronograma e para a e
 
 <font size="3">Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0)</p></font>
 
-<font size="3"></p>Tabela 3 - Template Participantes</font>
+<font size="3"></p>Tabela 3 - Participantes</font>
 
 | Nome | Função |
 |------|---------|
@@ -134,3 +151,4 @@ As Tabelas 2 e 3 apresentam os templates utilizados para o cronograma e para a e
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
 | `1.0`  |   20/05/2023   |     Documentação do planejamento da avaliação do Storyboard     |    [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0) | [Douglas Alves](https://github.com/dougalvs) e [Gabriel Campello](https://github.com/G16C)
+| `1.1`  |   27/05/2023   |     Atualizando as entrevistas     |    [Rafael Ferreira](https://github.com/RafaelCLG0) | [Arthur de Melo](https://github.com/arthurmlv)

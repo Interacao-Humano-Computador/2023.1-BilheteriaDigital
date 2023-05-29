@@ -65,7 +65,10 @@ nav:
               - Planejamento do Relato dos Resultados: design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-relato-resultados-sb.md
               - Relato do Resultado: design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/relato-resultado-storyboard.md
               - Storyboards: design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/storyboard.md
-
+      - Nível 2:
+          - Protótipo de Papel:
+              - Planejamento da Avaliação do Protótipo de Papel: design-avaliacao-desenvolvimento/nivel-2/prototipo-papel-dad/planejamento-avaliacao-pp.md
+              - Planejamento do Relato dos Resultados: design-avaliacao-desenvolvimento/nivel-2/prototipo-papel-dad/planejamento-relato-resultados-pp.md
 theme:
   name: material
   features:
