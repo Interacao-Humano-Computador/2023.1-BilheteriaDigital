@@ -2,7 +2,7 @@
 
 ## Introdução 
 
-O relato dos resultados da avaliação dos storyboards tem como objetivo documentar os resultados obtidos durante o processo de Avaliação <a id="anchor_1" href="#REF1">^1^</a>. Esses resultados são referentes aos storyboards disponíveis [aqui](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/storyboard/#Introdução).
+O relato dos resultados da avaliação dos storyboards tem como objetivo documentar os resultados obtidos durante o processo de Avaliação <a id="anchor_1" href="#REF1">^1^</a>. Essas entrevistas são referentes aos [Storyboards](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/storyboard/#Introdução), além disso os padrões utilizados para as informações das entrevistas e o template de perguntas e respostas estão disponíveis em [Planejamento da Avaliação Storyboard](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-avaliavao-sb/#metodologia).
 
 ## Resultados
 
@@ -26,9 +26,13 @@ O método utilizado foi o método de investigação proposto no [Planejamento da
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Arthur de Melo](https://github.com/arthurmlv)  |   João Victor     |       21:00       |     21:05      | 27/05/2023 | Plataforma Google Meet |
+|  [Arthur de Melo](https://github.com/arthurmlv)  |   João Victor     |       19:00       |     19:05      | 27/05/2023 | Plataforma Discord |
 
-**Fonte** - [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
+</center>
+
+<center>
+
+**Fonte** - [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0).
 </center>
 
 ### Sumário dos Dados
@@ -46,6 +50,13 @@ O método utilizado foi o método de investigação proposto no [Planejamento da
 |5 – O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cénarios) identificáveis? | Sim |
 
 </center>
+
+<center>
+
+**Fonte** - [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0).
+</center>
+
+
 
 
 ### Problemas Relatados
@@ -73,9 +84,13 @@ O método utilizado foi o método de investigação proposto no [Planejamento da
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Rafael Ferreira](https://github.com/RafaelCLG0)  |   Paulo Victor   |       21:00       |     21:05      | 27/05/2023 | Plataforma Google Meet |
+|  [Rafael Ferreira](https://github.com/RafaelCLG0)  |   Paulo Victor   |       19:30       |   19:37     | 27/05/2023 | Plataforma Microsoft Teams |
 
-**Fonte** - [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
+</center>
+
+<center>
+
+**Fonte** - [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0).
 </center>
 
 ### Sumário dos Dados
@@ -94,6 +109,10 @@ O método utilizado foi o método de investigação proposto no [Planejamento da
 
 </center>
 
+<center>
+
+**Fonte** - [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0).
+</center>
 
 ### Problemas Relatados
 
@@ -120,9 +139,12 @@ O método utilizado foi o método de investigação proposto no [Planejamento da
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Rafael Ferreira](https://github.com/RafaelCLG0)  |  Marcos   |       21:00       |     21:05      | 27/05/2023 | Plataforma Google Meet |
+|  [Rafael Ferreira](https://github.com/RafaelCLG0)  |  Marcos   |       19:50      |     19:55      | 27/05/2023 | Plataforma Microsoft Teams |
 
-**Fonte** - [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
+
+
+**Fonte** - [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0).
+
 </center>
 
 ### Sumário dos Dados
@@ -139,6 +161,11 @@ O método utilizado foi o método de investigação proposto no [Planejamento da
 |4 – As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica? | Sim |
 |5 – O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cénarios) identificáveis? | Sim |
 
+</center>
+
+<center>
+
+**Fonte** - [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0).
 </center>
 
 
@@ -170,7 +197,7 @@ O método utilizado foi o método de investigação proposto no [Planejamento da
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 |  [Gabriel Campello](https://github.com/G16C)  |   Arthur Grandão     |       16:59       |     17:01      | 27/05/2023 | Plataforma Google Meet |
 
-**Fonte** - [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
+**Fonte** -  [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0).
 </center>
 
 ### Sumário dos Dados
@@ -188,15 +215,72 @@ O método utilizado foi o método de investigação proposto no [Planejamento da
 
 </center>
 
+<center>
+
+**Fonte** - [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0).
+</center>
+
 
 ### Problemas Relatados
 
-Durante o processo de avalia;áo do storyboard o entrevistado náo relatou nenhuma inconformidade, a gravação da entrevista está disponível [aqui](https://youtu.be/Ga7MltHJKoo).
+Durante o processo de avaliação do storyboard o entrevistado não relatou nenhuma inconformidade, a gravação da entrevista está disponível [aqui](https://youtu.be/Ga7MltHJKoo).
 
 
 ### Sugestões dos Usuários
 
 Durante a entrevista o entrevistado relatou que o proceso de Cancelar Compra podria estar mais visível para o usuário, e que não necessariamente entrar nas compras realizadas anteriormente seria a melhor forma de executar a tarefa.
+
+## 5 - Visualização de Pedidos
+
+### Objetivos da Avaliação
+
+A entrevista conduzida teve como objetivo final verificar se a narrativa presente no [Storyboard de Visualização de Pedidos](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/storyboard/#tarefa-5-visualizar-meus-pedidos) estava condizente com a tarefa, que ele se propunha a representar.
+
+### Método
+
+O método utilizado foi o método de investigação proposto no [Planejamento da Avaliação Storyboard](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-avaliavao-sb/#metodologia), sendo este o de entrevista. Além disso, utilizou-se de um questionário de 5 questões para guiar a entrevista. Na Tabela 9 estão disponiíveis as informações sobre o processo de entrevista e na Tabela 10 as respostas obtidas.
+
+### Avaliadores e Participantes
+
+<center>
+**Tabela 9** - Cronograma da Avaliação 5.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Douglas Alves](https://github.com/dougAlvs)  |   Ana Luiza    |       22:00       |     22:10      | 27/05/2023 | Plataforma Discord |
+
+**Fonte** -  [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0).
+</center>
+
+### Sumário dos Dados
+
+<center>
+**Tabela 10** - Respostas 5.
+
+| Perguntas | Respostas |
+| --------- | --------- |
+|1 – A narrativa apresentada pelo Storyboard está condizente com o título? | Sim |
+|2 – O Storyboard em questão possui lastro na realidade? | Sim |
+|3 – O Storyboard apresenta os principais aspectos da realização daquela tarefa? | Sim |
+|4 – As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica? | Sim |
+|5 – O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cénarios) identificáveis? | Sim |
+
+</center>
+
+<center>
+
+**Fonte** - [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0).
+</center>
+
+
+### Problemas Relatados
+
+Durante a entrevista a entrevistada foi questionada se havia notado alguma inconformidade entre o storyboard e a tarefa real, ela prontamente respondeu que não havia detectado nenhum problema. A gravação da entrevista está disponível [aqui](https://youtu.be/TD891akhOyg?t=391).
+
+
+### Sugestões dos Usuários
+
+Não houve nenhuma sugestão com relação à tarefa de visualização dos meus pedidos, tendo em vista que está em acordo com os padrçoes seguidos pelos sites de compra de ingresso.
 
 ## 6 - Central de Ajuda
 
@@ -214,7 +298,7 @@ Foi realizada uma reunião melhor descrita nas Tabelas 11 e 12, nelas foram expo
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 |  [Geovanna Maciel](https://github.com/manuziny)  |   Lucas Maciel     |       21:00       |     21:05      | 27/05/2023 | Plataforma Google Meets |
 
-**Fonte** - [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut).
+**Fonte** -  [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0).
 </center>
 
 ### Sumário dos Dados
@@ -230,6 +314,11 @@ Foi realizada uma reunião melhor descrita nas Tabelas 11 e 12, nelas foram expo
 |4 – As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica? | Sim |
 |5 – O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cénarios) identificáveis? | Sim |
 
+</center>
+
+<center>
+
+**Fonte** - [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0).
 </center>
 
 
@@ -250,3 +339,4 @@ O usuário acredita que o storyboard está bem montado e contém coerência com 
 | Versão | Data       | Descrição                                                         | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | ----------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`  | 29/05/2023 | Documentação do resultado dos relatos da avaliação dos Storyboards | [Gabriel Campello](https://github.com/G16C)      | [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.1`  | 29/05/2023 | Atualização das Informações | [Gabriel Campello](https://github.com/G16C)      | [Arthur de Melo](https://github.com/arthurmlv) |
