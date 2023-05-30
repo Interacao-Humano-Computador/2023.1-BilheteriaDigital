@@ -175,7 +175,7 @@ Durante a avaliação o usuário não relatou problemas, a gravação está pres
 
 ### Sugestões dos Usuários
 
-Não houve sugestões, pois o processo de de compartilhar eventos em redes sociais está  em acordo com os padrões seguidos por outros sites de compra de ingressos.
+O usuário sugeriu aumentar o número de redes sociais para o compartilhamento de eventos.
 
 
 ## 4 - Cancelar Compra
