@@ -6,7 +6,7 @@ O método de prototipação em papel permite avaliar a usabilidade de um design 
 
 ## Objetivo 
 
-Este artefato tem por objetivo planejar como será realizada essa avaliação com o método de protótipo de papel, detalhando a metodologia, cronograma, quais telas serão criadas e como será feita a avaliação com o usuário.
+Esta avaliação tem como objetivo, por meio do método de prototipação em papel, identificar eventuais problemas de usabilidade nas interfaces elaboradas para as tarefas escolhidas. Já este artefato tem por objetivo planejar como será realizada essa avaliação, detalhando a metodologia, cronograma, quais telas serão criadas e como será feita a avaliação com o usuário.
 
 ## Metodologia 
 
