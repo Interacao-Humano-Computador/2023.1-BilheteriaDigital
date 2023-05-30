@@ -206,7 +206,7 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sexta en
 ## Executado 
 Na Tabela 12, tem-se o cronograma executado para todas as atividades da quinta entrega.
 
-font size="3"><p style="text-align: center"><b>Tabela 12</b> - Verificação de artefatos 1</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 12</b> - Verificação de artefatos 1</p></font>
 
 | Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
 |---	|---	|---	|---	|---	|

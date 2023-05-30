@@ -79,7 +79,23 @@ O objetivo desse teste é avaliar o próprio planejamento, e analisar se a avali
 
 ## Coleta de Dados
 
-A avaliação propriamente dita será feita de forma online pela plataforma Teams, com a presença dos usuários selecionados e dos avaliadores. É papel dos avaliadores apresentar o termo de consentimento e explicar aos usuários como funcionará a avaliação e quais os pontos abordados. É importante que todo o processo seja gravado .
+A avaliação propriamente dita será feita de forma online pela plataforma Teams, com a presença dos usuários selecionados e do(s) avaliador(es). É papel dos avaliador apresentar o termo de consentimento e explicar aos usuários como funcionará a avaliação e quais os pontos abordados. É importante que todo o processo seja gravado. A Tabela 1 exemplifica o provável cronograma de realização da avaliação.
+
+<center>
+**Tabela 1** - Cronograma provável da Avaliação.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Geovanna Maciel](https://github.com/manuziny)  |   Lucas Maciel e Geovana Campeiro   |       13:00       |   13:30     | 07/06/2023 | Plataforma Microsoft Teams |
+
+</center>
+
+<center>
+
+**Fonte** - [Douglas Alves](https://github.com/dougAlvs).
+</center>
+
+
 
 ## Referências Bibliograficas
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
