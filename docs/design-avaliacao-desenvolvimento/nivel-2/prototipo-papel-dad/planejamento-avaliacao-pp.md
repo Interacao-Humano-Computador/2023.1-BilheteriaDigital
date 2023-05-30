@@ -86,7 +86,7 @@ A avaliação propriamente dita será feita de forma online pela plataforma Team
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Geovanna Maciel](https://github.com/manuziny)  |   Lucas Maciel e Geovana Campeiro   |       13:00       |   13:30     | 07/06/2023 | Plataforma Microsoft Teams |
+|  [Geovanna Maciel](https://github.com/manuziny) e [Douglas Alves](https://github.com/dougAlvs)  |   Lucas Maciel e Geovana Campeiro   |       13:00       |   13:30     | 07/06/2023 | Plataforma Microsoft Teams |
 
 </center>
 
