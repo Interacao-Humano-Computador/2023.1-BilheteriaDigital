@@ -6,13 +6,13 @@ Para a verificação do artefato, será feito uma checklist com base na literatu
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist artefato personas. </p></font>
 
-| ID  | Descrição                                                                                                       | Avaliação | Observações |
-| --- | --------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 1   | O artefato possui Introdução?                                                                          |           |             |
-| 2   | Todos os artefatos possuem uma Bibliografia/Referência Bibliográfica?                                           |           |             |
-| 3   | Todos os artefatos possuem um Histórico de Versões com o id e descrição das versões, data, autores e revisores? |           |             |
-| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?  | | |
-| 5   | Todos os textos estão na norma padrão? | | | 
+| ID  | Descrição     | Avaliação | Observações |
+| :---: | :---------------------------------------------------------------------------------------------------------------: | :---------: | :-----------: |
+| 1   | O artefato possui Introdução?     |          |             |
+| 2   | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?        |           |             |
+| 3   | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores? |           |            |
+| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?  |  |  |
+| 5   | Todos os textos estão na norma padrão? | |  |
 | 6 | A persona possui identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas? | | |
 | 7 | A persona primária possui elasticidade? | | | 
 | 8 | A persona primária é sólida e tangível o suficiente para colocar os pressupostos de design em perspectiva? | | |
@@ -27,10 +27,10 @@ Para a verificação do artefato, será feito uma checklist com base na literatu
 
 <font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny).</p></font>
 
-Na tabela 1, os campos de "Avaliação" e "Observações" serão preenchidos no desenvolvimento em que haverá uma discussão a respeito de cada item. Para tal será utilizado o ID da pergunta.
+Na tabela 1, os campos de "Avaliação" e "Observações" serão preenchidos no desenvolvimento em que haverá uma discussão a respeito de alguns itens. Para tal será utilizado o ID da pergunta.
 
 ## Desenvolvimento
-O artefato foi verificado e gerou os resultados da tabela 2, sendo possível identificar os tópicos faltantes e os concluídos.
+O artefato foi verificado e gerou os resultados da tabela 2, sendo possível identificar os tópicos faltantes e/ou concluídos.
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist preechido. </p></font> 
 

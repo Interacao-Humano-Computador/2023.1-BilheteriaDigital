@@ -210,18 +210,18 @@ Na Tabela 12, tem-se o cronograma executado para todas as atividades da quinta e
 
 | Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
 |---	|---	|---	|---	|---	|
-|   Verificação e Relato artefatos etapa 1 	| Início: 30/05<br>Fim: 31/05 	| Arthur 	| Início: 31/05<br>Fim: 01/06 	| Rafael 	|
-|   Verificação e Relato artefatos etapa 2 	| Início: 30/05<br>Fim: 31/05 	| Geovanna e Douglas 	| Início: 31/05<br>Fim: 01/06 	| Gabriel 	|
-|   Verificação e Relato artefatos etapa 3 	| Início: 30/05<br>Fim: 31/05 	| Rafael 	| Início: 31/05<br>Fim: 01/06 	| Geovanna e Douglas 	|
-|   Verificação e Relato artefatos etapa 4 	| Início: 30/05<br>Fim: 31/05 	| Gabriel 	| Início: 31/05<br>Fim: 01/06 	| Matheus 	|
-|   Verificação e Relato artefatos etapa 5 	| Início: 30/05<br>Fim: 31/05 	| Matheus 	| Início: 31/05<br>Fim: 01/06 	| Arthur 	|
+|   Verificação e Relato artefatos etapa 1 	| Início: 03/06<br>Fim: 04/06 	| Arthur 	| Início: 05/06<br>Fim: 05/06 	| Rafael 	|
+|   Verificação e Relato artefatos etapa 2 	| Início: 03/06<br>Fim: 03/06 	| Geovanna e Douglas 	| Início: 04/06<br>Fim: 04/06 	| Gabriel 	|
+|   Verificação e Relato artefatos etapa 3 	| Início: 03/06<br>Fim: 04/06 	| Rafael 	| Início: 05/06<br>Fim: 05/06 	| Geovanna e Douglas 	|
+|   Verificação e Relato artefatos etapa 4 	| Início: 04/06<br>Fim: 05/05 	| Gabriel 	| Início: 06/06<br>Fim: 06/06 	| Matheus 	|
+|   Verificação e Relato artefatos etapa 5 	| Início: 30/05<br>Fim: 03/06 	| Matheus 	| Início: 04/06<br>Fim: 0/06 	| Arthur 	|
 |   Ajustes artefatos etapa 1 	| Início: 02/06<br>Fim: 03/06 	| Arthur 	| Início: 04/06<br>Fim: 04/06 	| Geovanna e Douglas 	|
 |   Ajustes artefatos etapa 2 	| Início: 02/06<br>Fim: 03/06 	| Geovanna e Douglas 	| Início: 04/06<br>Fim: 04/06 	| Rafael 	|
 |   Ajustes artefatos etapa 3 	| Início: 02/06<br>Fim: 03/06 	| Rafael 	| Início: 04/06<br>Fim: 04/06 	| Gabriel 	|
 |   Ajustes artefatos etapa 4 	| Início: 02/06<br>Fim: 03/06 	| Gabriel 	| Início: 04/06<br>Fim: 04/06 	| Matheus 	|
-|   Ajustes artefatos etapa 5 	| Início: 02/06<br>Fim: 03/06 	| Matheus 	| Início: 04/06<br>Fim: 04/06 	| Arthur 	|
-|   Gravação da apresentação 	| Início: 04/06<br>Fim: 04/06 	| Todos 	| Início: 04/06<br>Fim: 05/06 	| Todos 	|
-|   Correção pós entrega  	| Início: 06/06<br>Fim: 07/06 	| Todos 	| Início: 08/06<br>Fim: 09/06 	| Todos 	|
+|   Ajustes artefatos etapa 5 	| Início: 03/06<br>Fim: 04/06 	| Matheus Rafael 	| Início: 05/06<br>Fim: 05/06 	| Arthur 	|
+|   Gravação da apresentação 	| Início: 05/06<br>Fim: 05/06 	| Todos 	| Início: 05/06<br>Fim: 05/06 	| Todos 	|
+|   Correção pós entrega  	| Início: 06/06<br>Fim: 10/06 	| Todos 	| Início: 11/06<br>Fim: 12/06 	| Todos 	|
 
 <font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/g16c).</p></font>
 
