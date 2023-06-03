@@ -2,7 +2,7 @@
 Este documento é de verificação do artefato [Personas](https://interacao-humano-computador.github.io/2023.1-Wikipedia/analise-de-requisitos/personas/) produzido pelo [Grupo 2](https://interacao-humano-computador.github.io/2023.1-Wikipedia/) que tem o projeto voltado ao site Wikipedia. Com base nisso, suas personas serão verificadas de acordo com a literatura Interação-Humano-Computador de Barbosa e Silva.
 
 ## Metodologia
-Para a verificação do artefato, será feito uma checklist com base na literatura já citada anteriormente. A mesma será composta por 5 perguntas que serão o padrão exigido para a documentação e em seguida perguntas envolvendo o conteúdo do artefato [Personas](https://interacao-humano-computador.github.io/2023.1-Wikipedia/analise-de-requisitos/personas/). Na tabela 1 estão expostos todas as perguntas abordadas para verficação do artefato.
+Para a verificação do artefato, será feito uma checklist com base na literatura já citada anteriormente. A mesma será composta por 5 perguntas que serão o padrão exigido para a documentação e em seguida perguntas envolvendo o conteúdo do artefato [Personas](https://interacao-humano-computador.github.io/2023.1-Wikipedia/analise-de-requisitos/personas/). Na tabela 1 estão expostos todas as perguntas abordadas para verficação do artefato, a versão utilizada para a verificação será a 1.1, feita no dia 04 de maio de 2023.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist artefato personas. </p></font>
 
@@ -57,9 +57,9 @@ O artefato foi verificado e gerou os resultados da tabela 2, sendo possível ide
 Com base na tabela preenchida, serão feitas considerações acerca de alguns itens da tabela.
 
 ### ID 7 - A persona primária possui elasticidade?
-Uma persona deve ser sólida e tangível, de forma que possa ser possível identificar os objetivos do design em perspectiva. As personas primárias definidas no grupo estão deixando espaços vazios, que tornam as personas um tanto elásticas. Essa elasticidade seria a generalização da persona, fazendo com que ela deixe de ser específica do projeto. Segundo Barbosa e Silva "Munidos desse conhecimento, podemos então examiná-la à luz do domínio do software para ver se ela realmente é um arquétipo de usuário."
+Uma persona deve ser sólida e tangível, de forma que possa ser possível identificar os objetivos do design em perspectiva. As personas primárias definidas no grupo estão deixando espaços vazios, que tornam as personas um tanto elásticas. Essa elasticidade seria a generalização da persona, fazendo com que ela deixe de ser específica do projeto. Segundo Barbosa e Silva "Uma persona assume uma solidez tangível que coloca os pressupostos de design em perspectiva. À medida que uma persona perde sua elasticidade, podemos identificar suas habilidades, suas motivações e o que ela quer alcançar."
 
-As personas estão com objetivos claros de pesquisa e estudo, mas não há uma clareza sobre qual delas será a mais satisfeita com o projeto. O elenco de 4 personas, possui 3 primárias, são muitos pontos de vista a serem atendidos de uma só vez, o que torna essa elasticidade mais evidente já que não há uma única persona a ser colocada em evidência para o software.
+As personas estão com objetivos claros de pesquisa e estudo, mas não há uma clareza sobre qual delas será a mais satisfeita com o projeto. O elenco de 4 personas, possui 3 primárias, são muitos pontos de vista a serem atendidos de uma só vez, o que torna essa elasticidade mais evidente já que não há somente uma ou duas personas a serem colocadas em evidência para o software.
 
 A persona [Rodrigo Lucas da Cunha](https://interacao-humano-computador.github.io/2023.1-Wikipedia/analise-de-requisitos/personas/#rodrigo-lucas-da-cunha), possui uma solidez maior em comparação às outras personas. O que é um ponto positivo, já que se torna evidente que ele seria um ponto de vista a ser considerado, ele tem características de uso do software mais específica que as demais personas.
 
@@ -73,6 +73,15 @@ O elenco é composto por 4 personas, sendo uma antipersona e 3 primárias. É um
 Os objetivos estão ali, mas estão gerais demais, não há uma especificidade do que seriam os objetivos pessoais, práticos ou corporativos. Por exemplo, [Luís Silva](https://interacao-humano-computador.github.io/2023.1-Wikipedia/analise-de-requisitos/personas/#luis-silva) é curioso e quer aprender coisas novas, mas não diz seus objetivos pessoais com o sistema, como ele quer que o sistema o corresponda ou se ele não quer cometer erros ao interagir, ou seja, questões que o usuário pode ter com o sistema. "Muitas pessoas não admitem o objetivo de “não se sentir estúpido”, pois são orgulhosas, inteligentes e costumam gostar de enfrentar desafios e dominar situações complexas. Mas esse é um dos principais objetivos pessoais." (Cooper, 1999).
 
 ## Sugestões e melhorias
+Antes de tudo, vale-se ressaltar que o artefato está bem estruturado, a abordagem do tema é bem pessoal, como um convite a conhecer cada persona do elenco, é uma boa abordagem. As personas montadas e suas imagens atreladas a elas combinam, é como se fossem pessoas reais retratadas no texto. A justificativa de [como as personas serão utilizadas](https://interacao-humano-computador.github.io/2023.1-Wikipedia/analise-de-requisitos/personas/#como-as-personas-serao-utilizadas-no-projeto) é um diferencial, nem sempre se tem elucidado o porquê ou como aplicar as personas e esse tópico no artefato mostra que os integrantes tinham ciência de como usariam as personas no grupo e como aplicá-las.
+
+De sugestões e melhorias ficam:
+
+* Especificar mais os objetivos do usuário com o sistema;
+* Diminuir o número de personas primárias;
+* Dar profundidade às personas, suas expectativas e objetivos mais específicos e não gerais;
+* Colocar as tabelas na forma da ABNT;
+* Adicionar o método em que as personas foram pensadas em sua criação. 
 
 ## Referências Bibliográficas
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -81,4 +90,5 @@ Os objetivos estão ali, mas estão gerais demais, não há uma especificidade d
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
- `1.0` | 03/06/2023 | Criação do documento | [Geovanna Maciel](https://github.com/manuziny) | [Douglas Alves](https://github.com/dougalvs)
+ `1.0` | 03/06/2023 | Criação do documento | [Geovanna Maciel](https://github.com/manuziny) | [Douglas Alves](https://github.com/dougalvs) |
+ `1.1` | 03/06/2023 | Adição de sugestões e melhorias | [Geovanna Maciel](https://github.com/manuziny) | [Douglas Alves](https://github.com/dougalvs) |
