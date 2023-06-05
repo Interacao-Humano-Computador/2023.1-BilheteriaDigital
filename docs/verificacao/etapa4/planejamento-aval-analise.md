@@ -6,7 +6,7 @@ Este documento tem como objetivo a verificação do artefato [Planejamento da Av
 
 ## Metdodologia
 
-A fim de verificar o artefato, será realizada uma checklist, assim como foi definido na literatura utilizada para a criação desse documento <a id="anchor_1" href="#REF1">^1^</a>. A checklist  será composta por 5 perguntas padrão para todos artefatos verificados seguidas por questões direcionadas ao artefato sendo avaliado no momento, nesse caso o [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-Wikipedia/design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoDaAvaliacaoTarefas/) . A seguir, a Tabela 1 estão registradas as perguntas que serão utilizadas como base para a verificação do artefato. Averificação está em acordo com a vesrão 1.0, concebida no dia 13 de maio de 2023.
+A fim de verificar o artefato, será realizada uma checklist, assim como foi definido na literatura utilizada para a criação desse documento <a id="anchor_1" href="#REF1">^1^</a>. A checklist  será composta por 5 perguntas padrão para todos artefatos verificados seguidas por questões direcionadas ao artefato sendo avaliado no momento, nesse caso o [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-Wikipedia/design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoDaAvaliacaoTarefas/) . A seguir, a Tabela 1 estão registradas as perguntas que serão utilizadas como base para a verificação do artefato. A verificação está em acordo com a vesrão 1.0, concebida no dia 13 de maio de 2023.
 
 <center>
 
@@ -14,14 +14,14 @@ A fim de verificar o artefato, será realizada uma checklist, assim como foi def
 
 | ID  | Descrição     | Avaliação |
 | :---: | --------------------------------------------------------------------------------------------------------------- | :---------: | 
-| 1  | O artefato possui Introdução ?                                                                                                                                      | Sim        |
-| 2  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica ?                                                                                              | Sim       |
-| 3  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores ?                                                             | Sim      |
-| 4  | Todos os textos estão na norma padrão ?                                                                                                                             | Sim        |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes ?                                                                                       | Sim      |
-| 6  |  O planejamento segue o Framework DECIDE? | Sim       |
-| 7  |  O planejamento descreve o(s) objetivos da avaliação? Apropriação de tecnologia pelos usuários, ideias e alternativas de design, conformidade como padrão de mercado, problemas na interação e na interface na fase do modelo conceitual? | Imcompleto       |
-| 8  |  O planejamento descreve os métodos de avaliação a serem utilizados?| Sim        |
+| 1  | O artefato possui Introdução ?                                                                                                                                      | -        |
+| 2  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica ?                                                                                              | -      |
+| 3  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores ?                                                             | -      |
+| 4  | Todos os textos estão na norma padrão ?                                                                                                                             | -       |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes ?                                                                                       | -      |
+| 6  |  O planejamento segue o Framework DECIDE? | -       |
+| 7  |  O planejamento descreve o(s) objetivos da avaliação? Apropriação de tecnologia pelos usuários, ideias e alternativas de design, conformidade como padrão de mercado, problemas na interação e na interface na fase do modelo conceitual? | -       |
+| 8  |  O planejamento descreve os métodos de avaliação a serem utilizados?| -       |
 | 9  |  O planejamento descreve as questões práticas da avaliação? Recrutamento de usuários (usuários devem estar dentro do perfil de usuários levantado.), quantidade de usuários, explicação do porque foi decidido por essa quantidade de usuários, o modo como será realizada essa reunião(presencial ou remota), como foi preparada essa avaliação (equipamentos utilizados, orçamento, recursos de mão-de-obra e a especificação do teste piloto (dia, horário, participantes).)                                                                          | -        |
 | 10 |  O planejamento apresenta os resultados obtidos pelo teste piloto? (A falta de algum recurso necessário para a avaliação, defeitos na metodologia adotada, falha de equipamentos.)                | -        |
 | 11 |  O planejamento define os prazos para serem realizadas as avaliações como os usuários?                                | -        |
