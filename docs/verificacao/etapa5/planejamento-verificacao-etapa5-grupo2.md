@@ -39,6 +39,7 @@ A verificação será realizada no período de 31 de maio de 2023 até dia 04 de
 | 02/06/2023 | Verificação do Relato dos Resultados das Análises de Tarefas.                                                               | [Matheus Henrique](https://github.com/mathonaut) |
 | 03/06/2023 | Verificação do Planejamento da Avaliação do Protótipo de Papel.                                                             | [Matheus Henrique](https://github.com/mathonaut) |
 | 04/06/2023 | Verificação do Planejamento do relato dos resultados da avaliação do protótipo de papel e adição da documentação na página. | [Matheus Henrique](https://github.com/mathonaut) |
+| 05/06/2023 | Adição da documentação na página do grupo.                                                                                  | [Matheus Henrique](https://github.com/mathonaut) |
 
 _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
@@ -46,7 +47,7 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 ## Checklists
 
-As checklists foram construídas levando em conta os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos. Além dos itens listados anteriormente, também será analisado o relatório referente à entrega 5 produzido pelo o monitor do grupo 2, [Davi Silva](https://github.com/daves22).
+As checklists foram construídas levando em conta os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos. Além dos itens listados anteriormente, também será analisado o relatório referente às entregas produzido pelo o monitor do grupo 2, [Davi Silva](https://github.com/daves22).
 
 Com o intuito de melhor organizar a verificação, a checklist será dividida em 4 checklists sendo que uma deverá estar presente em todas as etapas de verificação, no caso a geral. As checklists são as seguintes: Geral, Resultado da Avaliação do Storyboard, Resultado do Relato da Avaliação da Análise de Tarefa, Planejamento da Avaliação do Protótipo de Papel e Planejamento do Relato do Protótipo de Papel. As tabelas de 2 a 5 apresenta as checklists de verificação.
 
@@ -58,13 +59,13 @@ A tabela 2 a seguir apresenta a checklist referente aos aspectos gerais que os a
 
 **Tabela 2** - Checklist para os Itens Gerais.
 
-| ID  | Descrição                                                                                                       | Avaliação | Observações |
-| --- | --------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 1   | Todos os artefatos possuem introdução?                                                                          |           |             |
-| 2   | Todos os artefatos possuem uma bibliografia/referência bibliográfica?                                           |           |             |
-| 3   | Todos os artefatos possuem um histórico de versões com o id e descrição das versões, data, autores e revisores? |           |             |
-| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                    |           |             |
-| 5   | Todos os textos estão na norma padrão?                                                                          |           |             |
+| ID  | Descrição                                                                                              | Avaliação | Observações |
+| --- | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
+| 1   | O artefato possui introdução?                                                                          |           |             |
+| 2   | O artefato possui uma bibliografia/referência bibliográfica?                                           |           |             |
+| 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |           |             |
+| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |           |             |
+| 5   | Todos os textos estão na norma padrão?                                                                 |           |             |
 
 _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
