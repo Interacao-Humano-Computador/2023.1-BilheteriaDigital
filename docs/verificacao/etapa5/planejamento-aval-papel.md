@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Realizado o planejamento do que verificar, é o momento de realizar a inspeção em si. Esse documento apresenta os objetivos do relato, a metodologia utilizada e os dados da verificação. Além disso, os principais problemas encontrados são sumarizados e analisados obtendo informações valiosas que serão utilizadas para sugerir ações corretivas para os mesmos.
+Realizado o planejamento do que verificar, é o momento de realizar a inspeção em si. Esse documento apresenta os objetivos da verificação, a metodologia utilizada e os dados da verificação. Além disso, os principais problemas encontrados são sumarizados e analisados obtendo informações valiosas que serão utilizadas para sugerir ações corretivas para os mesmos.
 
 ## Objetivo
 
@@ -70,7 +70,7 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 ## Lista de Problemas e Análise
 
-Existem muitos pontos que necessitam de correção. Segundo
+Existem muitos pontos que necessitam de correção.
 
 ### ID 5 - Todos os textos estão na norma padrão?
 
@@ -123,6 +123,10 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 - Ajustar o planejamento para seguir o framework DECIDE;
 - Criar o protótipo de papel e ajustar as perguntas para verificar cada elemento do protótipo;
 - Criar uma seção separada de teste piloto com os itens necessários.
+
+## Bibliografia
+
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 

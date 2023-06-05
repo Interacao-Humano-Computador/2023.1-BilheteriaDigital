@@ -62,6 +62,10 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 
 - Corrigir as palavras escritas erradas mencionadas anteriormente.
 
+## Bibliografia
+
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                    |

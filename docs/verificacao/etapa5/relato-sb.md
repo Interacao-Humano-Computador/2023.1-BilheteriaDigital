@@ -73,6 +73,9 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 - Refatorar o texto do tópico Problemas encontrados e sugestões;
 - Colocar a sugestão de correção em um tópico separado.
 
+## Bibliografia
+
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 ## Histórico de Versões
 
 | Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                    |

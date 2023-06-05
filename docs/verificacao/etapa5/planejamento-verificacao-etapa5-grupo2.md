@@ -25,6 +25,14 @@ Os artefatos alvos dessa verificação são:
 - O [**Planejamento da Avaliação do Protótipo de Papel**](https://interacao-humano-computador.github.io/2023.1-Wikipedia/design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoDaAvaliacaoPrototipoDePapel/) na versão 1.0 de data 29/05/2023 produzido por [Lucas Lopes](https://github.com/LucasLopesFrazao), [Ana Luiza](https://github.com/analuizargds) e [Gabriel Ferreira](https://github.com/oo7gabriel) com revisão de [Pedro Henrique](https://github.com/PedroHenrique2077);
 - O [**Planejamento do relato dos resultados da avaliação do protótipo de papel**](https://interacao-humano-computador.github.io/2023.1-Wikipedia/design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoRelatoResultadosAvaliacaoPrototipoPapel/) na versão 1.0 de data 27/05/2023 produzido por [Chaydson Ferreira](https://github.com/chaydson), [Ana Luiza](https://github.com/analuizargds) e [Lucas Lopes](https://github.com/LucasLopesFrazao) com revisão de [Pedro Henrique](https://github.com/PedroHenrique2077).
 
+
+Os resultados das verificações em si serão apresentados em páginas separadas e que podem ser acessados através dos seguintes links:
+
+- [Resultados da Verificaçã do Relato dos Resultados do Storyboard](../relato-sb);
+- [Resultados da Verificaçã do Relato dos Resultados da Análise de Tarefas](../relato-analise);
+- [Resultados da Verificaçã do Planejamento da Avaliação do Protótipo de Papel](../planejamento-aval-papel);
+- [Resultados da Verificaçã do Planejamento do Relato dos Resultados do Protótipo de Papel](../planejamento-relato-papel).
+
 ### Cronograma
 
 A verificação será realizada no período de 31 de maio de 2023 até dia 04 de junho de 2023, com os resultados sendo relatados através da página de documentação do Grupo 1 no dia 04 de junho de 2023. A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
@@ -47,7 +55,7 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 ## Checklists
 
-As checklists foram construídas levando em conta os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos. Além dos itens listados anteriormente, também será analisado o relatório referente às entregas produzido pelo o monitor do grupo 2, [Davi Silva](https://github.com/daves22).
+As checklists foram construídas levando em conta os padrões esperados para cada artefato, as principais tarefas realizadas na elaboração dos mesmos e as sugestões de elementos de análise elaborada por Simone e Silva.<a id=anchor_1 href="#REF1"><sup>1</sup></a> Além dos itens listados anteriormente, também será analisado o relatório referente às entregas produzido pelo o monitor do grupo 2, [Davi Silva](https://github.com/daves22).
 
 Com o intuito de melhor organizar a verificação, a checklist será dividida em 4 checklists sendo que uma deverá estar presente em todas as etapas de verificação, no caso a geral. As checklists são as seguintes: Geral, Resultado da Avaliação do Storyboard, Resultado do Relato da Avaliação da Análise de Tarefa, Planejamento da Avaliação do Protótipo de Papel e Planejamento do Relato do Protótipo de Papel. As tabelas de 2 a 5 apresenta as checklists de verificação.
 
@@ -95,7 +103,7 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 ### Planejamento da Avaliação do Protótipo de Papel
 
-A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o documento de planejamento segundo Barbosa e Silva (2011, p.358-362).<a id=anchor_1 href="#REF1"><sup>1</sup></a>
+A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o documento de planejamento segundo Barbosa e Silva (2011, p.358-362).<a href="#REF1"><sup>1</sup></a>
 
 <center>
 
