@@ -214,7 +214,7 @@ Na Tabela 12, tem-se o cronograma executado para todas as atividades da quinta e
 |   Verificação e Relato artefatos etapa 2 	| Início: 03/06<br>Fim: 03/06 	| Geovanna e Douglas 	| Início: 04/06<br>Fim: 04/06 	| Gabriel 	|
 |   Verificação e Relato artefatos etapa 3 	| Início: 03/06<br>Fim: 04/06 	| Rafael 	| Início: 05/06<br>Fim: 05/06 	| Geovanna e Douglas 	|
 |   Verificação e Relato artefatos etapa 4 	| Início: 04/06<br>Fim: 05/05 	| Gabriel 	| Início: 06/06<br>Fim: 06/06 	| Matheus 	|
-|   Verificação e Relato artefatos etapa 5 	| Início: 30/05<br>Fim: 03/06 	| Matheus 	| Início: 04/06<br>Fim: 0/06 	| Arthur 	|
+|   Verificação e Relato artefatos etapa 5 	| Início: 30/05<br>Fim: 05/06 	| Matheus 	| Início: 05/06<br>Fim: 05/06 	| Arthur 	|
 |   Ajustes artefatos etapa 1 	| Início: 02/06<br>Fim: 03/06 	| Arthur 	| Início: 04/06<br>Fim: 04/06 	| Geovanna e Douglas 	|
 |   Ajustes artefatos etapa 2 	| Início: 02/06<br>Fim: 03/06 	| Geovanna e Douglas 	| Início: 04/06<br>Fim: 04/06 	| Rafael 	|
 |   Ajustes artefatos etapa 3 	| Início: 02/06<br>Fim: 03/06 	| Rafael 	| Início: 04/06<br>Fim: 04/06 	| Gabriel 	|
