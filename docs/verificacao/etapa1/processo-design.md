@@ -6,7 +6,7 @@ Este documento é de verificação do artefato [Processo de Design](https://inte
 
 Para a verificação do artefato, será feita uma checklist com base no que fora exigido pelo professor em sala de aula e, se possível, com pontos apontados pela literatura referida. Essa será composta por 4 perguntas que serão o padrão exigido para a documentação e, em seguida, perguntas envolvendo o conteúdo do artefato [Processo de Design](https://interacao-humano-computador.github.io/2023.1-Wikipedia/planejamento/processo/). A Tabela 1 explicita todas as perguntas abordadas para verficação do artefato, a versão utilizada para a verificação será a 1.1, feita no dia 29 de abril de 2023.
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do Cronograma. </p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Checklist do Processo de Design. </p></font>
 
 | ID  | Descrição     | Avaliação | Observação |
 |-----| --------------------------------------------------------------------------------------------------------------- | --------- | --------- |
