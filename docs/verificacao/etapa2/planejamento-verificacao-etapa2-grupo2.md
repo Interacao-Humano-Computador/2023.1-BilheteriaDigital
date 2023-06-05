@@ -163,4 +163,4 @@ _Fonte: [Douglas Alves](https://github.com/dougalvs)._
 
 | Versão | Data       | Descrição                                          | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | -------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
-| `1.0`  | 05/06/2023 | Criação do documento.                                 | [Douglas Alves](https://github.com/dougalvs) | [Geovanna Maciel](https://github.com/manuziny) |
+| `1.0`  | 05/06/2023 | Criação do documento.                                 | [Douglas Alves](https://github.com/dougalvs) | [Gabriel Campelo](https://github.com/g16c) |
