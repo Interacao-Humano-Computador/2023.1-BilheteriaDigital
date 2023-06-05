@@ -14,7 +14,7 @@ A metodologia escolhida para esta verificação é a inspeção. Desenvolvida or
 
 ### Participantes
 
-O responsável por essa verificação é o integrante do Grupo 1 [Matheus Henrique](https://github.com/mathonaut), que realiza tanto o planejamento quanto a inspeção e o relato de seus resultados. Em relação a revisão dos artefatos produzidos por essa verificação, fica a cargo do integrante do Grupo 1 [Arthur de Melo](https://github.com/arthurmlv).
+O responsável por essa verificação é o integrante do [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital) [Matheus Henrique](https://github.com/mathonaut), que realiza tanto o planejamento quanto a inspeção e o relato de seus resultados. Em relação a revisão dos artefatos produzidos por essa verificação, fica a cargo do integrante do mesmo grupo [Arthur de Melo](https://github.com/arthurmlv).
 
 ### Objetos de Verificação
 
@@ -35,7 +35,7 @@ Os resultados das verificações em si serão apresentados em páginas separadas
 
 ### Cronograma
 
-A verificação será realizada no período de 31 de maio de 2023 até dia 04 de junho de 2023, com os resultados sendo relatados através da página de documentação do Grupo 1 no dia 04 de junho de 2023. A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
+A verificação será realizada no período de 31 de maio de 2023 até dia 04 de junho de 2023, com os resultados sendo relatados através da página de documentação do [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital) no dia 05 de junho de 2023. A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 <center>
 
@@ -46,7 +46,7 @@ A verificação será realizada no período de 31 de maio de 2023 até dia 04 de
 | 31/05/2023 | Verificação do Relato de Resultados da Avaliação do Storyboard.                                                             | [Matheus Henrique](https://github.com/mathonaut) |
 | 02/06/2023 | Verificação do Relato dos Resultados das Análises de Tarefas.                                                               | [Matheus Henrique](https://github.com/mathonaut) |
 | 03/06/2023 | Verificação do Planejamento da Avaliação do Protótipo de Papel.                                                             | [Matheus Henrique](https://github.com/mathonaut) |
-| 04/06/2023 | Verificação do Planejamento do relato dos resultados da avaliação do protótipo de papel e adição da documentação na página. | [Matheus Henrique](https://github.com/mathonaut) |
+| 04/06/2023 | Verificação do Planejamento do relato dos resultados da avaliação do protótipo de papel.                                    | [Matheus Henrique](https://github.com/mathonaut) |
 | 05/06/2023 | Adição da documentação na página do grupo.                                                                                  | [Matheus Henrique](https://github.com/mathonaut) |
 
 _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
@@ -55,7 +55,7 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 ## Checklists
 
-As checklists foram construídas levando em conta os padrões esperados para cada artefato, as principais tarefas realizadas na elaboração dos mesmos e as sugestões de elementos de análise elaborada por Simone e Silva.<a id=anchor_1 href="#REF1"><sup>1</sup></a> Além dos itens listados anteriormente, também será analisado o relatório referente às entregas produzido pelo o monitor do grupo 2, [Davi Silva](https://github.com/daves22).
+As checklists foram construídas levando em conta os padrões esperados para cada artefato, as principais tarefas realizadas na elaboração dos mesmos e as sugestões de elementos de análise elaborada por Simone e Silva.<a id=anchor_1 href="#REF1"><sup>1</sup></a> Além dos itens listados anteriormente, também será analisado o relatório referente às entregas produzido pelo o monitor do [Grupo 2](https://interacao-humano-computador.github.io/2023.1-Wikipedia/), [Davi Silva](https://github.com/daves22).
 
 Com o intuito de melhor organizar a verificação, a checklist será dividida em 4 checklists sendo que uma deverá estar presente em todas as etapas de verificação, no caso a geral. As checklists são as seguintes: Geral, Resultado da Avaliação do Storyboard, Resultado do Relato da Avaliação da Análise de Tarefa, Planejamento da Avaliação do Protótipo de Papel e Planejamento do Relato do Protótipo de Papel. As tabelas de 2 a 5 apresenta as checklists de verificação.
 

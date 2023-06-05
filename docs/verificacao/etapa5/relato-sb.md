@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Realizado o planejamento do que verificar, é o momento de realizar a inspeção em si. Esse documento apresenta os objetivos do relato, a metodologia utilizada e os dados da verificação. Além disso, os principais problemas encontrados são sumarizados e analisados obtendo informações valiosas que serão utilizadas para sugerir ações corretivas para os mesmos.
+Realizado o planejamento do que verificar, é o momento de realizar a inspeção em si. Esse documento apresenta os objetivos da verificação, a metodologia utilizada e os dados da verificação. Além disso, os principais problemas encontrados são sumarizados e analisados obtendo informações valiosas que serão utilizadas para sugerir ações corretivas para os mesmos.
 
 ## Objetivo
 
@@ -14,7 +14,7 @@ Os resultados da verificação dos artefatos foram obtidos a partir das checklis
 
 ## Cronograma e Participantes
 
-Os participantes serão os integrantes do Grupo 1 [Matheus Henrique](https://github.com/mathonaut), que será responsável por realizar a avaliação, e o [Arthur de Melo](https://github.com/arthurmlv) que realizará a revisão do artefato produzido pelo avaliador. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](../planejamento-verificacao-etapa5-grupo2).
+Os participantes serão os integrantes do [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital) [Matheus Henrique](https://github.com/mathonaut), que será responsável por realizar a avaliação, e o [Arthur de Melo](https://github.com/arthurmlv) que realizará a revisão do artefato produzido pelo avaliador. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](../planejamento-verificacao-etapa5-grupo2).
 
 ## Sumário Dos Dados
 
