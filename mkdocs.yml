@@ -36,6 +36,7 @@ nav:
       - Ata 7: atas/IHC_Ata_07.md
       - Ata 8: atas/IHC_Ata_08.md
       - Ata 9: atas/IHC_Ata_09.md
+      - Ata 10: atas/IHC_Ata_10.md
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
@@ -83,6 +84,7 @@ nav:
           - Personas: verificacao/etapa2/personas.md
           - Pesquisa sobre Ética: verificacao/etapa2/pesquisa-sobre-etica.md
       - Etapa 3:
+          - Planejamento da Verificação: verificacao/etapa3/planejamento-verificacao-etapa3-grupo2.md
           - Guia de Estilo: verificacao/etapa3/guia-de-estilo.md
           - Metas de Usabilidade: verificacao/etapa3/metas-de-usabilidade.md
           - Princípios Gerais: verificacao/etapa3/principios-gerais.md
