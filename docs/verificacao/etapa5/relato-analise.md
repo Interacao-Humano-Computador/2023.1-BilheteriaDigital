@@ -47,9 +47,20 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 ## Lista de Problemas e Análise
 
+Os problemas encontrados são referentes somente à ortografia com algumas palavras escritas erradas ou fora de concordância, parabéns time. Segue a lista:
+
+- poder ao invés de pode no texto de Metodologia;
+- na telas ao invés de nas elas no texto de Objetivos;
+- feitam ao invés de fitas no texto de Dados obtidos;
+- influência-lo ao invés de influenciá-lo no texto de Dados obtidos;
+- forma ao invés de foram no texto de Termos de Consentimentos, além de uma partição de a;
+- video ao invés de vídeo nos textos de chamada.
+
 ## Sugestões de Correções
 
 Tendo em vista os problemas abordados anteriormente, fica como sugestão a realização das seguintes correções:
+
+- Corrigir as palavras escritas erradas mencionadas anteriormente.
 
 ## Histórico de Versões
 
