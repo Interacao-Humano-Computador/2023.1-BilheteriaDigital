@@ -49,7 +49,7 @@ _Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
 
 As checklists foram construídas levando em conta os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos. Além dos itens listados anteriormente, também será analisado o relatório referente às entregas produzido pelo o monitor do grupo 2, [Davi Silva](https://github.com/daves22).
 
-Com o intuito de melhor organizar a verificação, a checklist será dividida em 4 checklists sendo que uma deverá estar presente em todas as etapas de verificação, no caso a geral. As checklists são as seguintes: Guia de Estilo, Metas de Usabilidade, Princípios Gerais e Características Gerais. As tabelas de 2 a 5 apresenta as checklists de verificação.
+Com o intuito de melhor organizar a verificação, a checklist será dividida em 5 checklists sendo que uma deverá estar presente em todas as etapas de verificação, no caso a geral. As checklists são as seguintes: Guia de Estilo, Metas de Usabilidade, Princípios Gerais e Características Gerais. As tabelas de 2 a 6 apresenta as checklists de verificação.
 
 ### Geral
 
@@ -158,6 +158,26 @@ A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o re
 | 13 | Os princípios gerais do projeto contém visibilidade e reconhecimento ?                                  | -        |
 | 14 | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ?                        | -        |
 | 15 | Os princípios gerais do projeto contém projeto para erros ?                                             | -        |
+
+_Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
+
+</center>
+
+### Verificação das Características Gerais
+
+A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para a verificação.
+
+<center>
+
+**Tabela 6** - Checklist para a Verificação das Características Gerais.
+
+| ID  | Descrição     | Avaliação |
+| :---: | --------------------------------------------------------------------------------------------------------------- | :---------: | 
+| 5  | São identificadas as características da plataforma para o projeto ?                                     | -        |
+| 6  | São identificados os navegadores ou dispositivos que podem acessar a plataforma ?                       | -        |
+| 7  | São identificadas as limitações da plataforma ?                                                         | -        |
+| 8  | São identificadas as funcionalidades da plataforma ?                                                    | -        |
+| 9  | São identificadas as tecnologias que foram utilizadas ?                                                 | -        |
 
 _Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
 
