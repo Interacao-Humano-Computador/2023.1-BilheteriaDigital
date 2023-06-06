@@ -92,7 +92,7 @@ Falta, em momento algum é definido um tópico para a sumarização dos relatos 
 
 ## Sugestões
 
-Primeiro, gostaria de parabenizar o grupo, conceitualmente o documento estácorreto, mas o objetivo não é somente expor o conhecimento, mas também elaborar uma diretriz, a qual o avaliador deve seguir fielmente durante o Relato dos Resultados da avaliação.
+Primeiro, gostaria de parabenizar o grupo, conceitualmente o documento está correto, mas o objetivo não é somente expor o conhecimento, mas também elaborar uma diretriz, a qual o avaliador deve seguir fielmente durante o Relato dos Resultados da avaliação.
 
 
 ## Referências Bibliográficas
