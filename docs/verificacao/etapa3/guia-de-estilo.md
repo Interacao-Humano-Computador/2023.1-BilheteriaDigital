@@ -94,7 +94,7 @@ Primeiramente parabenizar pelo trabalho o artefato está bem escrito e detalhado
 Adicionei algumas sugestões para deixar o artefato ainda melhor:
 
 * ID 6: Descrever quais objetivos vocês utilizam um guia de estilo para o seu projeto de uma maneira mais objetiva e simplificada identificando os elementos analisados como no exemplos no [Grupo 1 - Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/guia-de-estilo/#introducao).
-* ID 13: ddicionar subtítulos para cada figura para uma melhor rastreabilidade.
+* ID 13: adicionar subtítulos para cada figura para uma melhor rastreabilidade.
 * ID 19, 20, 21: No repositório do [Grupo 6 Detran Go](https://interacao-humano-computador.github.io/2023.1-DetranGO/analise_requisitos/guia_estilo/) eles apresentaram esses três elementos de ação.
 * ID 22: Já que o site que vocês utilizaram é um portal de pesquisa indicar que os termos listados na terminologia são condizentes com um portal de pesquisa e edição de textos.
 * Ficou faltando a bibliografia do sítio utilizado no qual vocês retiraram as imagens.
