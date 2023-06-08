@@ -34,8 +34,8 @@ A plataforma Bilheteria Digital é predominantemente acessada por usuários por 
 
 ## Elementos de interface
 
-<p style="text-align: center">Figura 1 - Elementos da Interface.</p>
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FlkJqsPebEpckC0t6oat1MP%2FGuia-de-Estilo%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DZ5BeXjqZIgoiCZxP-1" allowfullscreen></iframe>
+<figure markdown><p style="text-align: center">Figura 1 - Elementos da Interface.</p>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FlkJqsPebEpckC0t6oat1MP%2FGuia-de-Estilo%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DZ5BeXjqZIgoiCZxP-1" allowfullscreen></iframe><figcaption> Fonte: [Geovanna Maciel](https://github.com/manuziny) e [Douglas Alves](https://github.com/dougAlvs).</figcaption></figure>
 
 - Preenchimento de Campos: os campos de preenchimento disponíveis na interface do sistema exigem que o usuário insira informações manualmente, de acordo com suas necessidades e objetivos. Esses campos podem incluir a barra de pesquisa e a caixa de texto dentro do perfil, que são exemplos de campos que exigem entrada de texto.
 
@@ -73,8 +73,8 @@ Para apresentar as propostas de intervenção de forma mais detalhada, será ela
 
 Essas intervenções têm como objetivo principal aprimorar a interação entre o usuário e o sistema da Bilheteria Digital, tornando-o mais fácil de usar, intuitivo e satisfatório. Ao considerar as Metas de Usabilidade e os Princípios Gerais, busca-se criar uma aplicação que atenda às necessidades e expectativas dos usuários, proporcionando uma experiência positiva e eficiente.
 
-<p style="text-align: center">Figura 2 - Proposta de intervenção.</p>
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FlkJqsPebEpckC0t6oat1MP%2FGuia-de-Estilo%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DZ5BeXjqZIgoiCZxP-1" allowfullscreen></iframe>
+
+<figure markdown><p style="text-align: center">Figura 2 - Proposta de intervenção.</p><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FJJw2kSxWEupjnGtTFChe4k%2FGuia-de-Estilo-Proposta-de-Interven%25C3%25A7%25C3%25A3o%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3D9UE7PHqPy00CYIRe-1" allowfullscreen></iframe><figcaption> Fonte: [Geovanna Maciel](https://github.com/manuziny) e [Douglas Alves](https://github.com/dougAlvs).</figcaption></figure>
 
 ## Referências Bibliográficas
 
@@ -87,3 +87,4 @@ Essas intervenções têm como objetivo principal aprimorar a interação entre 
 | `1.0`  | 13/05/2023 | Criação da página guia de estilo. | [Geovanna Maciel](https://github.com/manuziny)                                              | [Douglas Alves](https://github.com/dougAlvs)                                                        |
 | `1.1`  | 13/05/2023 | Adição dos tópicos.               | [Geovanna Maciel](https://github.com/manuziny) [Douglas Alves](https://github.com/dougAlvs) | [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0) |
 | `1.2`  | 27/05/2023 | Correções após apresentação              | [Geovanna Maciel](https://github.com/manuziny) [Douglas Alves](https://github.com/dougAlvs) | [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.2.1`  | 08/06/2023 |Adição proposta de intervenção atualizada figma  | [Douglas Alves](https://github.com/dougAlvs) | [Geovanna Maciel](https://github.com/manuziny) |
