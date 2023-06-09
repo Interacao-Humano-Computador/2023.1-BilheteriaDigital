@@ -39,8 +39,8 @@ O artefato foi verificado e gerou os resultados da tabela 2, sendo possível ide
 | 2  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica ?                                  | Sim       |
 | 3  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores ? | Sim       |
 | 4  | Todos os textos estão na norma padrão ?                                                                 | Sim       |
-| 5  | São identificados os princípios gerais do projeto que serão utilizados no projeto ?                     | Não       |
-| 6  | Foram identificadas violações dos princípios gerais do projeto ?                                        | Não       |
+| 5  | São identificados os princípios gerais do projeto que serão utilizados no projeto ?                     | Sim       |
+| 6  | Foram identificadas telas com problemas relacionados com os princípios gerais do projeto ?              | Não       |
 | 7  | Os princípios gerais do projeto contém correspondência com as expectativas dos usuários ?               | Sim       |
 | 8  | Os princípios gerais do projeto contém simplicidade nas estruturas das tarefas ?                        | Sim       |
 | 9  | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ?               | Sim       |
@@ -56,19 +56,15 @@ O artefato foi verificado e gerou os resultados da tabela 2, sendo possível ide
 ## Problemas encontrados
 Com base na tabela preenchida, serão feitas considerações acerca de alguns itens da tabela.
 
-### ID 5 - São identificados os princípios gerais do projeto que serão utilizados no projeto ?
-Foi apresentado os princípios gerais do projeto com as suas identificações, mas não como serão utilizadas no projeto.
-
-### ID 6 - Foram identificadas violações dos princípios gerais do projeto ?
-Não foram identificadas violações dos princípios gerais do projeto, indicando que o sítio não apresenta problema relacionado aos princípios.
+### ID 6 - Foram identificadas telas com problemas relacionados com os princípios gerais do projeto ?
+Não foram identificadas telas com problemas dos princípios gerais do projeto, indicando que o site análisado não apresenta problemas relacionados aos princípios.
 
 ## Sugestões
-Primeiramente parabenizar pelo trabalho o artefato está bem escrito e detalhado, os princípios gerais do projeto estão bem apresentados com suas devidas descrições demonstrando uma boa compreensão da criação desse artefato. 
+Primeiramente parabenizar pelo trabalho o artefato está bem escrito e detalhado, os princípios gerais do projeto estão bem apresentados com suas devidas descrições, demonstrando uma boa compreensão da criação desse artefato. 
 
 Adicionei algumas sugestões para deixar o artefato ainda melhor:
 
-* ID 5: Criar um tópico com os princípios que iram ser trabalhados no projeto.
-* ID 6: É importante fazer a verificação dessa aplicação para identificar problemas no site. Exemplo no ID 12 foi identificado que possuem link relacionados, mas que em alguns casos muitos links e pode acabar atrapalhando o usuário, esse não seria um problema de outro princípio.
+* ID 6: É importante fazer a verificação dessa aplicação para identificar problemas no site. Exemplo no ID 12 foi mencionado que possui um problema de em alguns casos possuir muitos links que acabam atrapalhando o usuário. Nesse exemplo já é um problema encontrado no site que se enquadraria no príncipio de Visibilidade e Reconhecimento.
 * Na conclusão, ajustar em relação a “o que você pode concluir com a criação desse artefato e como ele vai contribuir para o projeto”.
 
 ## Referências Bibliográficas
@@ -82,3 +78,4 @@ Adicionei algumas sugestões para deixar o artefato ainda melhor:
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
  `1.0` | 04/06/2023 | Criação do documento | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Douglas Alves](https://github.com/dougalvs) e [Geovanna Maciel](https://github.com/manuziny) |
+  `1.1` | 09/06/2023 | Correção de problemas encontrados | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Douglas Alves](https://github.com/dougalvs) e [Geovanna Maciel](https://github.com/manuziny) |

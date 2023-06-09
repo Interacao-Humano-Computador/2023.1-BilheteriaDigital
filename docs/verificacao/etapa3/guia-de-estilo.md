@@ -45,8 +45,8 @@ O artefato foi verificado e gerou os resultados da tabela 2, sendo possível ide
 | ID  | Descrição     | Avaliação |
 | :---: | --------------------------------------------------------------------------------------------------------------- | :---------: |
 | 1  | O artefato possui Introdução ?                                                                                                                                      | Sim        |
-| 2  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica ?                                                                                              | Sim        |
-| 3  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores ?                                                             | Sim        |
+| 2  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica ?                                                                                              | Não        |
+| 3  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores ?                                                             | Incompleto |
 | 4  | Todos os textos estão na norma padrão ?                                                                                                                             | Sim        |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes ?                                                                                       | Sim        |
 | 6  | O guia de estilo do projeto se estrutura a partir da introdução com o objetivo do guia de estilo ?                                                                  | Sim        |
@@ -75,6 +75,12 @@ O artefato foi verificado e gerou os resultados da tabela 2, sendo possível ide
 ## Problemas encontrados
 Com base na tabela preenchida, serão feitas considerações acerca de alguns itens da tabela.
 
+### ID 2 - O artefato artefato possui uma Bibliografia/Referência Bibliográfica ?
+Ficou faltando a bibliografia do site utilizado no qual vocês retiraram as imagens.
+
+### ID 3 - O artefato artefato possui uma Bibliografia/Referência Bibliográfica ?
+* Ficou faltando a parte da correção realizada no histórico de versão, pois na apresentação da entrega 3 não tinha como utilizar o guia de estilo, mas depois foi adicionado e não apresentou quem fez essa correção no histórico de versão do artefato.
+  
 ### ID 6 - O guia de estilo do projeto se estrutura a partir da introdução com o objetivo do guia de estilo ?
 Na parte do objetivo do guia de estilo vocês mencionaram qual é o objetivo de se utilizar um guia de estilo, mas não identifiquei a parte de “para o que” vocês utilizaram o guia de estilo.
 
@@ -88,18 +94,24 @@ Nos elementos de ação foram apresentados que existem, mas não apresentaram os
 ### ID 22 O guia de estilo do projeto se estrutura a partir do vocabulário e padrões, possuindo um terminologia ?
 Na parte de vocabulário e padrões criar uma pequena introdução sobre os terminologias indicando o motivo da utilização dessas terminologias.
 
+### ID 25 O guia de estilo apresenta como os princípios gerais serão adicionados no projeto ? 
+Não é apresentado os princípios gerais que são adicionados no projeto.
+
 ## Sugestões
-Primeiramente parabenizar pelo trabalho o artefato está bem escrito e detalhado, o guia de estilo está bem apresentados com suas devidas descrições demonstrando uma boa compreensão da criação desse artefato. 
+Primeiramente parabenizar pelo trabalho o artefato está bem escrito e detalhado, o guia de estilo está bem apresentados com suas devidas descrições, demonstrando uma boa compreensão da criação desse artefato. 
 
 Adicionei algumas sugestões para deixar o artefato ainda melhor:
 
+
+* ID 2: Adicionar a bibliografia do site que foi utilizado as imagens.
+* ID 3: Atualizar o histórico de versões com a modificações atuais realizadas.
 * ID 6: Descrever quais objetivos vocês utilizam um guia de estilo para o seu projeto de uma maneira mais objetiva e simplificada identificando os elementos analisados como no exemplos no [Grupo 1 - Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/guia-de-estilo/#introducao).
-* ID 13: ddicionar subtítulos para cada figura para uma melhor rastreabilidade.
+* ID 13: adicionar subtítulos para cada figura para uma melhor rastreabilidade.
 * ID 19, 20, 21: No repositório do [Grupo 6 Detran Go](https://interacao-humano-computador.github.io/2023.1-DetranGO/analise_requisitos/guia_estilo/) eles apresentaram esses três elementos de ação.
 * ID 22: Já que o site que vocês utilizaram é um portal de pesquisa indicar que os termos listados na terminologia são condizentes com um portal de pesquisa e edição de textos.
-* Ficou faltando a bibliografia do sítio utilizado no qual vocês retiraram as imagens.
+* ID 25: Identificar no guia de estilo os princípios gerais que estão de acordo com os elementos de interface, interação e ação presentes do guia de estilo.
 * Na tipografia pode remover o parêntese da [Figura 5](https://interacao-humano-computador.github.io/2023.1-Wikipedia/analise-de-requisitos/guiaDeEstilo/), basta chamá-la no texto, como no tópico das cores chamando a [Figura 6](https://interacao-humano-computador.github.io/2023.1-Wikipedia/analise-de-requisitos/guiaDeEstilo/).
-* Ficou faltando a parte da correção realizada no histórico de versão, pois na apresentação da entrega 3 não tinha como utilizar o guia de estilo, mas depois foi adicionado e não apresentou quem fez essa correção no histórico de versão do artefato.
+
 
 
 ## Referências Bibliográficas
@@ -115,3 +127,4 @@ Adicionei algumas sugestões para deixar o artefato ainda melhor:
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
  `1.0` | 04/06/2023 | Criação do documento | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Douglas Alves](https://github.com/dougalvs) e [Geovanna Maciel](https://github.com/manuziny) |
+  `1.1` | 09/06/2023 | Correções nos probremas encontrados | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Douglas Alves](https://github.com/dougalvs) e [Geovanna Maciel](https://github.com/manuziny) |
