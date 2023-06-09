@@ -26,6 +26,7 @@ nav:
       - Apresentação 3: apresentacao/apresentacao3.md
       - Apresentação 4: apresentacao/apresentacao4.md
       - Apresentação 5: apresentacao/apresentacao5.md
+      - Apresentação 6: apresentacao/apresentacao6.md
   - Atas:
       - Ata 1: atas/IHC_Ata_01.md
       - Ata 2: atas/IHC_Ata_02.md
@@ -71,34 +72,51 @@ nav:
           - Protótipo de Papel:
               - Planejamento da Avaliação do Protótipo de Papel: design-avaliacao-desenvolvimento/nivel-2/prototipo-papel-dad/planejamento-avaliacao-pp.md
               - Planejamento do Relato dos Resultados: design-avaliacao-desenvolvimento/nivel-2/prototipo-papel-dad/planejamento-relato-resultados-pp.md
-  - Verificação Grupo 2:
+      - Nível 3:
+          - Protótipo de Alta Fidelidade:
+              - Planejamento da Avaliação do Protótipo de Alta Fidelidade: design-avaliacao-desenvolvimento/nivel-3/planejamento-avaliacao-paf.md
+              - Planejamento do Relato dos Resultados: design-avaliacao-desenvolvimento/nivel-3/planejamento-relato-resultados-paf.md
+  - Verificação do Grupo 2:
       - Etapa 1:
-          - Cronograma: verificacao/etapa1/cronograma.md
-          - Ferramentas: verificacao/etapa1/ferramenta.md
-          - Metodologia: verificacao/etapa1/metodologia.md
-          - Processo de Design: verificacao/etapa1/processo-design.md
-          - Site escolhido: verificacao/etapa1/site-escolhido.md
+          - Planejamento da Verificação: verificacao/grupo2/etapa1/planejamento.md
+          - Cronograma: verificacao/grupo2/etapa1/cronograma.md
+          - Ferramentas: verificacao/grupo2/etapa1/ferramenta.md
+          - Processo de Design: verificacao/grupo2/etapa1/processo-design.md
+          - Site escolhido: verificacao/grupo2/etapa1/site-escolhido.md
       - Etapa 2:
-          - Análise de Tarefas: verificacao/etapa2/analise-de-tarefas.md
-          - Perfil de Usuário: verificacao/etapa2/perfil-de-usuario.md
-          - Personas: verificacao/etapa2/personas.md
-          - Pesquisa sobre Ética: verificacao/etapa2/pesquisa-sobre-etica.md
+          - Planejamento da Verificação: verificacao/grupo2/etapa2/planejamento-verificacao-etapa2-grupo2.md
+          - Análise de Tarefas: verificacao/grupo2/etapa2/analise-de-tarefas.md
+          - Perfil de Usuário: verificacao/grupo2/etapa2/perfil-de-usuario.md
+          - Personas: verificacao/grupo2/etapa2/personas.md
+          - Pesquisa sobre Ética: verificacao/grupo2/etapa2/pesquisa-sobre-etica.md
       - Etapa 3:
-          - Planejamento da Verificação: verificacao/etapa3/planejamento-verificacao-etapa3-grupo2.md
-          - Guia de Estilo: verificacao/etapa3/guia-de-estilo.md
-          - Metas de Usabilidade: verificacao/etapa3/metas-de-usabilidade.md
-          - Princípios Gerais: verificacao/etapa3/principios-gerais.md
-          - Características Gerais: verificacao/etapa3/caracteristicas-gerais.md
+          - Planejamento da Verificação: verificacao/grupo2/etapa3/planejamento-verificacao-etapa3-grupo2.md
+          - Guia de Estilo: verificacao/grupo2/etapa3/guia-de-estilo.md
+          - Metas de Usabilidade: verificacao/grupo2/etapa3/metas-de-usabilidade.md
+          - Princípios Gerais: verificacao/grupo2/etapa3/principios-gerais.md
+          - Características Gerais: verificacao/grupo2/etapa3/caracteristicas-gerais.md
       - Etapa 4:
-          - Planejamento da Avaliação da Análise de Tarefas: verificacao/etapa4/planejamento-aval-analise.md
-          - Planejamento do Relato dos Resultados da Avaliação: verificacao/etapa4/planejamento-relato-analise.md
-          - Planejamento da Avaliação do Storyboard: verificacao/etapa4/planejamento-aval-sb.md
-          - Planejamento do Relato dos Resultados do Storyboard: verificacao/etapa4/planejamento-relato-sb.md
+          - Planejamento da Avaliação da Análise de Tarefas: verificacao/grupo2/etapa4/planejamento-aval-analise.md
+          - Planejamento do Relato dos Resultados da Avaliação: verificacao/grupo2/etapa4/planejamento-relato-analise.md
+          - Planejamento da Avaliação do Storyboard: verificacao/grupo2/etapa4/planejamento-aval-sb.md
+          - Planejamento do Relato dos Resultados do Storyboard: verificacao/grupo2/etapa4/planejamento-relato-sb.md
       - Etapa 5:
-          - Planejamento da Avaliação do Protótipo de Papel: verificacao/etapa5/planejamento-aval-papel.md
-          - Planejamento do Relato dos Resultados do Protótipo de Papel: verificacao/etapa5/planejamento-relato-papel.md
-          - Relato dos Resultados da Análise de Tarefas: verificacao/etapa5/relato-analise.md
-          - Relato dos Resultados do Storyboard: verificacao/etapa5/relato-sb.md
+          - Planejamento da Verificação: verificacao/grupo2/etapa5/planejamento-verificacao-etapa5-grupo2.md
+          - Relato dos Resultados do Storyboard: verificacao/grupo2/etapa5/relato-sb.md
+          - Relato dos Resultados da Análise de Tarefas: verificacao/grupo2/etapa5/relato-analise.md
+          - Planejamento da Avaliação do Protótipo de Papel: verificacao/grupo2/etapa5/planejamento-aval-papel.md
+          - Planejamento do Relato dos Resultados do Protótipo de Papel: verificacao/grupo2/etapa5/planejamento-relato-papel.md
+  - Verificação do Grupo:
+      - Etapa 1:
+          - Planejamento da Verificação da Etapa 1: verificacao/grupo/etapa1/planejamento-verificacao-etapa1-grupo.md
+      - Etapa 2:
+          - Planejamento da Verificação da Etapa 2: verificacao/grupo/etapa2/planejamento-verificacao-etapa2-grupo.md
+      - Etapa 3:
+          - Planejamento da Verificação da Etapa 3: verificacao/grupo/etapa3/planejamento-verificacao-etapa3-grupo.md
+      - Etapa 4:
+          - Planejamento da Verificação da Etapa 4: verificacao/grupo/etapa4/planejamento-verificacao-etapa4-grupo.md
+      - Etapa 5:
+          - Planejamento da Verificação da Etapa 5: verificacao/grupo/etapa5/planejamento-verificacao-etapa5-grupo.md
 
 theme:
   name: material
