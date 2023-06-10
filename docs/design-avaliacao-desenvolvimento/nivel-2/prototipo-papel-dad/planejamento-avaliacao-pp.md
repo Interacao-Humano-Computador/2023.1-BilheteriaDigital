@@ -39,21 +39,21 @@ As tarefas abordadas na avaliação serão as seguintes:
 #### Buscar um evento
 
 <a id="met1"></a>
-Essa tarefa tem o intuito do participante realizar uma busca de um determinado evento selecionado pelo entrevistador apresentado no sistema.
+Essa tarefa tem o intuito do participante realizar uma busca de um determinado evento selecionado pelo entrevistador.
 
 O objetivo da tarefa consiste em verificar se o participante consegue realizar uma busca de um determinado evento sem problemas.
 
 Para a realização dessa tarefa o entrevistador fará uma apresentação da imagem da tela inicial e solicitará que o participante realize uma busca de um evento descrito pelo entrevistador. Nessa busca se o participante precisará utilizar o campo de pesquisa no qual o nome do evento será preenchido automaticamente, bastando selecionar o ícone de pesquisa para ser direcionado a uma nova tela do evento encontrado, no qual será indicado que selecione o evento com a localidade passada pelo entrevistador.  Durante a execução dessa tarefa o participante será analisada sua execução e caso o participante não consiga realizar essa tarefa identificar os problemas que o impossibilitaram.
 
 #### Comprar um ingresso
-Nessa tarefa o participante tem que realizar a compra de um ingresso de um evento selecionado na etapa anterior de [buscar um evento](#met1) utilizando o protótipo.
+Nessa tarefa o participante tem que realizar a compra de um ingresso de um evento selecionado na etapa anterior de [buscar um evento](#met1).
 
 O objetivo dessa tarefa consiste em determinar se o participante consegue comprar um ingresso seguindo os passos apresentados pelo protótipo.
 
 Para execução dessa tarefa, após o participante ter selecionado um evento com a tarefa de busca anteriormente, será orientado que realize a ação de comprar um ingresso. Para essa ação ela terá a possibilidade de selecionar 1 ingresso na área “Pista” e dar continuidade na ação Comprar Ingresso. Dando procedimento em uma nova tela precisará escolher a forma de pagamento “Pix” e concordar com os Termos de Uso e por fim finalizar a compra.  Durante a execução dessa tarefa o participante será analisada sua execução e caso o participante não consiga realizar essa tarefa identificar os problemas que o impossibilitaram.
 
 #### Visualizar meus pedidos
-Nessa tarefa o participante tem que acessar a parte de visualizar meus pedidos e encontrar pedidos já selecionados nas etapas anteriores ou não.
+Nessa tarefa o participante tem que acessar a parte de visualizar meus pedidos e encontrar pedidos já selecionados nas etapas anteriores.
 
 O objetivo dessa tarefa é analisar se o participante por meio do protótipo consegue se localizar no sistema acessando a parte de visualizar meus pedidos.
 
@@ -76,7 +76,7 @@ Deverão ser elaboradas as principais telas do sistema no protótipo de papel, d
 
 ### Executar um teste-piloto
 
-O objetivo desse teste piloto é em primeiro momento é avaliar a viabilidade e identificar problemas, ajustando o projeto antes da implementação em larga escala. Os resultados obtidos durante o teste piloto são utilizados para aprimorar o projeto e aumentar as chances de sucesso na implementação completa.
+O objetivo desse teste piloto é em primeiro momento é avaliar a viabilidade e identificar problemas, ajustando o projeto antes da implementação em larga escala. Os resultados obtidos durante o teste piloto são utilizados para aprimorar o projeto e aumentar as chances de sucesso na implementação completa. Dessa forma, ele tem oportunidade de verificar se a linguagem nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para orientar o participante durante a avaliação.
 
 O teste piloto foi feito no dia 10/06/2023 às 12:20 e com a presença dos integrantes [Douglas Alves](https://github.com/dougAlvs) e [Rafael Ferreira](https://github.com/RafaelCLG0).
 
