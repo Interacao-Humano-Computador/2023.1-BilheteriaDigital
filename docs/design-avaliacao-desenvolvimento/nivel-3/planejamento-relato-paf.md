@@ -10,8 +10,7 @@ Será utilizado como base os tópicos de um relato propostos por Barbosa e Silva
 - Metodologia;
 - Participantes;
 - Sumários dos Dados Encontrados;
-- Análise e Interpretação dos Dados;
-- Problemas Encontrados;
+- Problemas Encontrados e Análise dos Dados;
 - Sugestões de Correção.
 
 ## Estrutura do Relato
@@ -49,13 +48,9 @@ Este tópico apresenta quais foram os participantes da avaliação, com a motiva
 
 Este tópico apresenta de maneira clara e objetiva os dados (erros, obstáculos ou desafios) encontrados com a avaliação. Esses dados podem ser apresentados em forma de tabelas ou gráficos, criados a partir das checklists ou questionários utilizados durante a avaliação.
 
-### Análise e Interpretação dos Dados
+### Problemas Encontrados e Análise dos Dados
 
-Este tópico apresenta uma análise e interpretação dos resultados obtidos a partir da avaliação. Essa análise deve ser cuidadosamente realizada com os dados coletados, identificando problemas e extraindo conclusões relevantes para a melhora do artefato. Também será de grande recomendação, que o avaliador contextualize os resultados com os objetivos da avaliação.
-
-### Problemas Encontrados
-
-Este tópico apresenta uma lista de todos os problemas identificados se possível contextualizando-os de como eles ocorrem, onde eles ocorrem e o impacto na usabilidade e experiência do usuário na utilização do sistema.
+Este tópico apresenta uma análise e interpretação dos resultados obtidos a partir da avaliação. Essa análise deve ser cuidadosamente realizada com os dados coletados e extraindo conclusões relevantes para a melhora do artefato. Também será de grande recomendação, que o avaliador contextualize os resultados com os objetivos da avaliação. Além disso, deverá ser apresentada todos os problemas identificados se possível contextualizando-os de como eles ocorrem, onde eles ocorrem e o impacto na usabilidade e experiência do usuário na utilização do sistema.
 
 ### Sugestões de Correção
 
@@ -75,6 +70,7 @@ Este tópico apresenta as possíveis correções para os problemas listados no t
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                  |
-| ------ | ---------- | ------------------ | ------------------------------------------------ | -------------------------------------------- |
-| `1.0`  | 09/06/2023 | Criação da página. | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
+| Versão | Data       | Descrição             | Autor(es)                                        | Revisor(es)                                  |
+| ------ | ---------- | --------------------- | ------------------------------------------------ | -------------------------------------------- |
+| `1.0`  | 09/06/2023 | Criação da página.    | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
+| `1.1`  | 10/06/2023 | Alteração de tópicos. | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
