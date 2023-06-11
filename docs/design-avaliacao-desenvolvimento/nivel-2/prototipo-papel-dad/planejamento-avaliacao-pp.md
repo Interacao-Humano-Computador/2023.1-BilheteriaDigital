@@ -68,7 +68,7 @@ Na última tarefa será solicitada a partir da tela de “Meu Perfil” solicita
 
 ### Definir o perfil dos participantes e recrutá-los
 
-Para avaliação foram convidadas 2 pessoas que se encaixem no [perfil de usuário](/analise-de-requisitos/perfil-usuario). O motivo foi por ser uma combinação entre alcançar uma amostra representativa e utilizar recursos disponíveis de forma eficaz para identificar insights relevantes. Além disso, foi considerado o cronograma e a disponibilidade de tempo para execução das entrevistas. Em cada entrevista será apresentado a eles um [termo de consentimento](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/aspectos-eticos/#introducao) baseado no seguinte [modelo](/analise-de-requisitos/aspectos-eticos#termo-de-consentimento), e a avaliação continuará somente caso haja o consentimento destes.
+Para avaliação foram convidadas 5 pessoas que se encaixem no [perfil de usuário](/analise-de-requisitos/perfil-usuario). Recomenda-se ter entre 5 a 8 participantes para obter resultados significativos e identificar problemas recorrentes, selecionar um número suficiente de convidados permite obter uma amostra representativa e identificar insights relevantes. Além disso, foi considerado o cronograma e a disponibilidade de tempo para execução das entrevistas. Em cada entrevista será apresentado a eles um [termo de consentimento](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/aspectos-eticos/#introducao) baseado no seguinte [modelo](/analise-de-requisitos/aspectos-eticos#termo-de-consentimento), e a avaliação continuará somente caso haja o consentimento destes.
 
 ### Criar protótipos em papel da interface para executar as tarefas
 
