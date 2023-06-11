@@ -44,7 +44,7 @@ O objetivo da avaliação do protótipo de alta fidelidade é testar e obter fee
 
  Como definido na literatura de Barbosa e Silva <a id="anchor_2" href="#REF2">^2^</a> os testes de usabilidade devem seguir as [metas de usabilidade](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/metas-usabilidade/) definidas para o projeto, a fim de avaliar se o sistema as atingiu.  
 
-Essa avaliação seguirá uma adaptação seguintes atividades definidas por Barbosa e Silva:
+Essa avaliação seguirá uma adaptação das seguintes atividades definidas por Barbosa e Silva:
 
 * Preparação:
     * Definir tarefas para os participantes executarem.
