@@ -91,20 +91,25 @@ Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado an
 
 ## Coleta de Dados
 
-A avaliação propriamente dita será feita de forma online pela plataforma Teams, com a presença dos usuários selecionados e do(s) avaliador(es). É papel dos avaliador apresentar o termo de consentimento e explicar aos usuários como funcionará a avaliação e quais os pontos abordados. É importante que todo o processo seja gravado. A Tabela 1 exemplifica o provável cronograma de realização da avaliação.
+A avaliação propriamente dita será feita de forma online pela plataforma Discord, com a presença dos usuários selecionados e do(s) avaliador(es). É papel dos avaliador apresentar o termo de consentimento e explicar aos usuários como funcionará a avaliação e quais os pontos abordados. É importante que todo o processo seja gravado. A Tabela 1 exemplifica o provável cronograma de realização da avaliação.
 
 <center>
 **Tabela 1** - Cronograma provável da Avaliação.
 
-| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Geovanna Maciel](https://github.com/manuziny) e [Douglas Alves](https://github.com/dougAlvs)  |   Lucas Maciel e Geovana Campeiro   |       13:00       |   13:30     | 07/06/2023 | Plataforma Microsoft Teams |
+| Entrevistadores | Usuário | Data       | Início-Fim  | Local              |
+| ------------- | ------- | ---------- | ----------- | ------------------ |
+| [Douglas Alves](https://github.com/dougalvs) e [Geovanna Maciel](https://github.com/manuziny)  |<span style = "color: orange"> Nicolas Bomfim</span>| 10/06/2023 | 15:20-15:26 | Discord |
+| [Douglas Alves](https://github.com/dougalvs) e [Geovanna Maciel](https://github.com/manuziny)  |<span style = "color: orange"> Lucas Maciel</span>| 10/06/2023 | 15:32-15:37 | Discord |
+| [Douglas Alves](https://github.com/dougalvs) e [Geovanna Maciel](https://github.com/manuziny)  |<span style = "color: orange"> Rayssa Figueiredo</span>| 10/06/2023 | 15:49-15:55 | Discord |
+| [Douglas Alves](https://github.com/dougalvs) e [Geovanna Maciel](https://github.com/manuziny)  |<span style = "color: orange"> Sidney Fernando</span>| 10/06/2023 | 16:05-16:10 | Discord |
+| [Douglas Alves](https://github.com/dougalvs) e [Geovanna Maciel](https://github.com/manuziny)  |<span style = "color: orange"> Pedro Henrique</span>| 10/06/2023 | 16:14-16:20 | Discord |
 
 </center>
 
 <center>
 
-**Fonte** - [Douglas Alves](https://github.com/dougAlvs).
+**Fonte** - [Rafael Ferreira](https://github.com/RafaelCLG0).
+
 </center>
 
 

@@ -115,4 +115,4 @@ Isso posto, propõe-se as seguintes sugestões de correção:
 
 | Versão | Data       | Descrição            | Autor                                            | Revisor                                        |
 | ------ | ---------- | -------------------- | ------------------------------------------------ | ---------------------------------------------- |
-| 1.0    | 10/06/2023 | Criação da página e documentação dos resultados. | [Arthur de Melo](https://github.com/arthurmlv)   | [Geovanna Maciel](https://github.com/manuziny)    |
+| 1.0    | 10/06/2023 | Criação da página e documentação dos resultados. | [Arthur de Melo](https://github.com/arthurmlv)   | [Rafael Ferreira](https://github.com/RafaelCLG0)    |
