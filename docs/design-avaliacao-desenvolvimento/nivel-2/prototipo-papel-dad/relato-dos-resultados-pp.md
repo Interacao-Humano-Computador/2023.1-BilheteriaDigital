@@ -45,7 +45,7 @@ Caso queira conferir o protótipo de papel, <a href="https://marvelapp.com/proto
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
-A primeira entrevista foi feita com o usuário <span style = "color: orange"> Nicolas Bomfim</span>. O qual realizou as atividades rapidamente e apontou que a lupa na barra de pesquisa deveria ficar posicionada ao lado direito de tal.
+A primeira entrevista foi feita com o usuário <span style = "color: orange"> Nicolas Bomfim</span>. O qual realizou as atividades rapidamente e apontou que a lupa na barra de pesquisa deveria ficar posicionada ao lado direito de tal. Isso levantou também a possibilidade de outros elementos não estarem seguindo um padrão já comum em outros sites, por mais que não sejam de mesma natureza.
 
 #### Entrevista 2
 
