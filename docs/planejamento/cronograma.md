@@ -178,10 +178,10 @@ Na Tabela 10, tem-se o cronograma executado para todas as atividades da quinta e
 <font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/g16c).</p></font>
 
 
-## Entrega 6
+## Entrega 6.1
 
 ### Planejado
-Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sexta entrega.
+Na Tabela 11, tem-se o cronograma planejado para todas as atividades da primeira parte da sexta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 11</b> - Verificação de artefatos 1</p></font>
 
@@ -203,8 +203,8 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sexta en
 <font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/g16c).</p></font>
 
 
-## Executado 
-Na Tabela 12, tem-se o cronograma executado para todas as atividades da quinta entrega.
+### Executado 
+Na Tabela 12, tem-se o cronograma executado para todas as atividades da primeira parte da sexta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 12</b> - Verificação de artefatos 1</p></font>
 
@@ -225,12 +225,40 @@ Na Tabela 12, tem-se o cronograma executado para todas as atividades da quinta e
 
 <font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/g16c).</p></font>
 
+## Entrega 6.2
+
+### Planejado
+Na Tabela 13, tem-se o cronograma planejado para todas as atividades da segunda parte da sexta entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 13</b> - Verificação de artefatos 2</p></font>
+
+| Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
+|---	|---	|---	|---	|---	|
+|   Verificação e Relato artefatos etapa 1, 2 e 3 	| Início: 15/06<br>Fim: 18/06 	| Gabriel e Matheus 	| Início: 19/06<br>Fim: 20/06 	| Rafael 	|
+|   Verificação e Relato artefatos etapa 4, 5 e 6 	| Início: 15/06<br>Fim: 18/06 	| Arthur e Rafael 	| Início: 19/06<br>Fim: 20/06 	| Gabriel 	|
+|   Execução do protótipo de alta fidelidade 	| Início: 13/06<br>Fim: 18/06 	| Douglas e Geovanna	| Início: 19/06<br>Fim: 20/06 	| Matheus 	|
+
+<font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/g16c).</p></font>
+
+### Executado
+Na Tabela 14, tem-se o cronograma executado para todas as atividades da segunda parte da sexta entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 14</b> - Verificação de artefatos 2</p></font>
+
+| Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
+|---	|---	|---	|---	|---	|
+|   Verificação e Relato artefatos etapa 1, 2 e 3 	| Início: 15/06<br>Fim: 18/06 	| Gabriel e Matheus 	| Início: 19/06<br>Fim: 20/06 	| Rafael 	|
+|   Verificação e Relato artefatos etapa 4, 5 e 6 	| Início: 15/06<br>Fim: 18/06 	| Arthur e Rafael 	| Início: 19/06<br>Fim: 20/06 	| Gabriel 	|
+|   Execução do protótipo de alta fidelidade 	| Início: 13/06<br>Fim: 18/06 	| Douglas e Geovanna	| Início: 19/06<br>Fim: 20/06 	| Matheus 	|
+
+<font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/g16c).</p></font>
+
 ## Entrega 7
 
 ### Planejado
-Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sétima entrega.
+Na Tabela 15, tem-se o cronograma planejado para todas as atividades da sétima entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 13</b> - Relato dos resultados</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 15</b> - Relato dos resultados</p></font>
 
 | Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
 |---	|---	|---	|---	|---	|
@@ -242,13 +270,28 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sétima 
 
 <font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/g16c).</p></font>
 
+### Executado
+Na Tabela 16, tem-se o cronograma executado para todas as atividades da sétima entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 16</b> - Relato dos resultados</p></font>
+
+| Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
+|---	|---	|---	|---	|---	|
+| Protótipo de papel | Início: 06/06<br>Fim: 09/06 | Geovanna | Início: 10/06<br>Fim: 10/06 | Douglas |
+|   Relato dos resultados do Protótipo de Papel 	| Início: 10/06<br>Fim: 11/06 	| Arthur 	| Início: 12/06<br>Fim: 12/06 	| Geovanna 	|
+|   Planejamento da avaliação do protótipo de alta fidelidade 	| Início: 10/06<br>Fim: 10/06 	| Gabriel e Rafael 	| Início: 11/06<br>Fim: 11/06 	| Arthur 	|
+|   Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade 	| Início: 09/06<br>Fim: 10/06 	| Douglas e Matheus 	| Início: 11/06<br>Fim: 11/06 	| Geovanna 	|
+|   Gravação da apresentação	 	| Início: 11/06<br>Fim: 11/06 	| Todos 	| Início: 12/06<br>Fim: 12/06 	| Todos 	|
+|   Correção pós entrega          	| Início: 13/06<br>Fim: 13/06 	| Todos 	| Início: 14/06<br>Fim: 15/06 	| Todos 	|
+
+<font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/g16c).</p></font>
 
 ## Entrega 8
 
 ### Planejado
-Na Tabela 14, tem-se o cronograma planejado para todas as atividades da oitava entrega.
+Na Tabela 17, tem-se o cronograma planejado para todas as atividades da oitava entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 14</b> - Resultado protótipo alta fidelidade</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 17</b> - Resultado protótipo alta fidelidade</p></font>
 
 | Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
 |---	|---	|---	|---	|---	|
@@ -264,9 +307,9 @@ Na Tabela 14, tem-se o cronograma planejado para todas as atividades da oitava e
 ## Entrega final
 
 ### Planejado
-Na Tabela 15, tem-se o cronograma planejado para todas as atividades da última entrega.
+Na Tabela 18, tem-se o cronograma planejado para todas as atividades da última entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 15</b> - Entrega final</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 18</b> - Entrega final</p></font>
 
 | Atividade 	| Período de desenvolvimento 	| Responsáveis 	| Revisão 	| Revisores 	|
 |---	|---	|---	|---	|---	|
@@ -284,6 +327,7 @@ Versão  | Data | Descrição | Autor(es) | Revisor(es)
 `1.0` | 21/04/2023 | Criação do cronograma | [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/g16c) | [Matheus Henrique](https://github.com/mathonaut)
 `1.1` | 22/04/2023 | Correção da formatação | [Geovanna Maciel](https://github.com/manuziny) | [Matheus Henrique](https://github.com/mathonaut)
 `1.1.1` | 26/04/2023 | Ajustes pós apresentação |[Geovanna Maciel](https://github.com/manuziny) | [Gabriel Campello](https://github.com/g16c)
+`1.1.2` | 16/06/2023 | Adição da entrega faltante |[Geovanna Maciel](https://github.com/manuziny) | [Rafael Ferreira](https://github.com/RafaelCLG0)
 
 ## Referências
 >SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2530063/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 06 de abril de 2023.
