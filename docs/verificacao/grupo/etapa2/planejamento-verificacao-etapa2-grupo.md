@@ -64,7 +64,7 @@ A verificação será realizada no período de 17 de junho de 2023 até dia 18 d
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 17/06/2023 | Verificação do artefato de Perfil de Usuário.                                                                                 | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
 | 17/06/2023 | Verificação do artefato de Análise de Tarefas - Análise Hierárquica de Tarefas.                                               | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
-| 17/06/2023 | Relato da verificação do artefato de Perfil de Usuário e correção dos problemas.                                              | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
+| 18/06/2023 | Relato da verificação do artefato de Perfil de Usuário e correção dos problemas.                                              | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
 | 18/06/2023 | Verificação do artefato de Análise de Tarefas - GOMS.                                                                         | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
 | 18/06/2023 | Relato das verificações dos artefatos de Análise de Tarefas (Análise Hierárquica de Tarefas e GOMS) e correção dos problemas. | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
 | 19/06/2023 | Entrega final das verificações e correções na página do grupo.                                                                | [Douglas Alves](https://github.com/dougAlvs), [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut) |
@@ -75,9 +75,9 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 ## Checklists
 
-As checklists foram construídas levando em conta os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos tendo como referência básica o livro Interação Humano-Computador de Bruno Silva e Simone Barbosa.<a id=anchor_2 href="#REF2"><sup>2</sup></a> Além dos itens listados anteriormente, também, serão analisados o relatório referente às entregas produzido pelo o monitor do grupo ([Arthur Henrique](https://github.com/black258br)) e as checklist previamente construídas na [verificação do grupo 2 na etapa 2](../../../grupo2/etapa2/planejamento-verificacao-etapa2-grupo2).
+As checklists foram construídas levando em conta os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos tendo como referência básica o livro Interação Humano-Computador de Bruno Silva e Simone Barbosa.<a id=anchor_3 href="#REF3"><sup>3</sup></a> Além dos itens listados anteriormente, também, serão analisados o relatório referente às entregas produzido pelo o monitor do grupo ([Arthur Henrique](https://github.com/black258br)) e as checklist previamente construídas na [verificação do grupo 2 na etapa 2](../../../grupo2/etapa2/planejamento-verificacao-etapa2-grupo2).
 
-Com o intuito de melhor organizar a verificação, a checklist será dividida em 6 checklists sendo que uma deverá estar presente em todas as etapas de verificação, no caso a checklist geral. As checklists são as seguintes: Geral, Aspectos Éticos, Perfil de Usuário, Cenários, Personas e Análise de Tarefas. As tabelas de 3 a 8 apresenta as checklists de verificação.
+Com o intuito de melhor organizar a verificação, a checklist será dividida em 6 checklists sendo que uma deverá estar presente em todas as etapas de verificação, no caso a checklist geral. As checklists são as seguintes: Geral, Aspectos Éticos, Perfil de Usuário, Cenários, Personas, Análise de Tarefas - Análise Hierárquica de Tarefas e Análise de Tarefas - GOMS. As tabelas de 3 a 9 apresenta as checklists de verificação.
 
 ### Geral
 
@@ -88,12 +88,12 @@ A tabela 3 a seguir apresenta a checklist referente aos aspectos gerais que os a
 **Tabela 3** - Checklist para os Itens Gerais.
 
 | ID  | Descrição                                                                                              | Avaliação | Observações |
-| --- | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 1   | O artefato possui introdução?                                                                          |           |             |
-| 2   | O artefato possui uma bibliografia/referência bibliográfica?                                           |           |             |
-| 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |           |             |
-| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |           |             |
-| 5   | Todos os textos estão na norma padrão?                                                                 |           |             |
+| :-: | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
+|  1  | O artefato possui introdução?                                                                          |           |             |
+|  2  | O artefato possui uma bibliografia/referência bibliográfica?                                           |           |             |
+|  3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |           |             |
+|  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |           |             |
+|  5  | Todos os textos estão na norma padrão?                                                                 |           |             |
 
 _Fonte: Equipe do Projeto, 2023._
 
@@ -108,11 +108,11 @@ A tabela 4 a seguir apresenta a checklist referente ...
 **Tabela 4** - Checklist para o artefato de Aspectos Éticos.
 
 | ID  | Descrição | Avaliação | Observações |
-| --- | --------- | --------- | ----------- |
-| 6   |           |           |             |
-| 7   |           |           |             |
-| 8   |           |           |             |
-| 9   |           |           |             |
+| :-: | --------- | --------- | ----------- |
+|  6  |           |           |             |
+|  7  |           |           |             |
+|  8  |           |           |             |
+|  9  |           |           |             |
 | 10  |           |           |             |
 
 _Fonte: Autor, 2023._
@@ -121,34 +121,35 @@ _Fonte: Autor, 2023._
 
 ### Perfil de Usuário
 
-A tabela 5 a seguir apresenta a checklist referente ao artefato de perfil de usuário, ela foi construída tendo como base o [livro texto](#REF1) já apresentado e a checklist produzida pelo integrante do grupo [Douglas Alves](https://github.com/dougAlvs) no contexto da [verificação do mesmo artefato do grupo 2](../../../grupo2/etapa2/perfil-de-usuario).<a id=anchor_1 href="#REF1"><sup>1</sup></a>
+A tabela 5 a seguir apresenta a checklist referente ao artefato de perfil de usuário, ela foi construída tendo como base o no livro texto Interação Humano-Computador da autoria de Bruno Silva e Simone Barbosa e a checklist produzida pelo integrante do grupo [Douglas Alves](https://github.com/dougAlvs) no contexto da [verificação do mesmo artefato do grupo 2](../../../grupo2/etapa2/perfil-de-usuario).<a id=anchor_1 href="#REF1"><sup>1</sup></a>
 
-Em relação aos itens de verificação, a questão 6 foi construída adaptando uma questão da checklist elaborada pelo [Douglas Alves](https://github.com/dougAlvs) com as características mais esperadas num perfil de usuários trazida por Simone e Silva (2011, p. 174-176).<a href="#REF2"><sup>2</sup></a> A questão 7 foi retirada da checklist de [verificação da etapa 2 do grupo 2](../../../grupo2/etapa2/perfil-de-usuario).<a href="#REF1"><sup>1</sup></a> A questão 8 foi formulada tendo em vista os processos para a elaboração de um perfil de usuários segundo Simone e Silva (2011, p. 174-175).<a href="#REF2"><sup>2</sup></a>
+Em relação aos itens de verificação, a questão 6 foi retirada da checklist de [verificação da etapa 2 do grupo 2](../../../grupo2/etapa2/perfil-de-usuario).<a href="#REF1"><sup>1</sup></a>A questão 8 foi construída adaptando uma questão da checklist elaborada pelo [Douglas Alves](https://github.com/dougAlvs) com as características mais esperadas num perfil de usuários trazida por Simone e Silva (2011, p. 174-176).<a href="#REF3"><sup>3</sup></a> As questões 7, 9 e 10 foram formuladas tendo em vista os processos para a elaboração de um perfil de usuários segundo Simone e Silva (2011, p. 174-175).<a href="#REF2"><sup>2</sup></a>
 
 <center>
 
 **Tabela 5** - Checklist para o artefato de Perfil de Usuário.
 
 | ID  | Descrição                                                                                                      | Avaliação | Observações |
-| --- | -------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 6   | O perfil de usuário identifica características de interesse?                                                   |           |             |
-| 6.1 | O perfil de usuário identifica o cargo?                                                                        |           |             |
-| 6.2 | O perfil de usuário identifica a função?                                                                       |           |             |
-| 6.3 | O perfil de usuário identifica a experiência?                                                                  |           |             |
-| 6.4 | O perfil de usuário identifica o nível de instrução?                                                           |           |             |
-| 6.5 | O perfil de usuário identifica as atividades principais?                                                       |           |             |
-| 6.6 | O perfil de usuário identifica a faixa etária?                                                                 |           |             |
-| 6.7 | O perfil de usuário identifica a relação com a tecnologia?                                                     |           |             |
-| 6.8 | O perfil de usuário identifica a relação com o domínio do produto?                                             |           |             |
-| 6.9 | O perfil de usuário identifica a relação com o principais tarefas realizadas?                                  |           |             |
-| 7   | Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários? |           |             |
-| 8   | Os dados coletados são agregados por grupos e faixas na qual os usuarios se emcaixam?                          |           |             |
-| 8.1 | É traçados perfis de usuarios a partir deste dados agregados?                                                  |           |             |
-| 8.2 | A proporção de usuarios que se encaixam em cada perfil é calculada?                                            |           |             |
-| 9   |                                                                                                                |           |             |
-| 10  |                                                                                                                |           |             |
+| :-: | -------------------------------------------------------------------------------------------------------------- | :-------: | ----------- |
+|  6  | Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários? |           |             |
+|  7  | Os dados coletados são agregados por grupos e faixas na qual os usuários se encaixam?                          |           |             |
+| 7.1 | É traçado perfis de usuários a partir deste dados agregados?                                                   |           |             |
+| 7.2 | A proporção de usuários que se encaixam em cada perfil é calculada?                                            |           |             |
+| 7.3 | Os usuários são categorizados em grupos por idade, experiências, atitudes e tarefas primárias?                 |           |             |
+|  8  | O perfil de usuário identifica características de interesse?                                                   |           |             |
+| 8.1 | O perfil de usuário identifica o cargo?                                                                        |           |             |
+| 8.2 | O perfil de usuário identifica a função?                                                                       |           |             |
+| 8.3 | O perfil de usuário identifica a experiência?                                                                  |           |             |
+| 8.4 | O perfil de usuário identifica o nível de instrução?                                                           |           |             |
+| 8.5 | O perfil de usuário identifica as atividades principais?                                                       |           |             |
+| 8.6 | O perfil de usuário identifica a faixa etária?                                                                 |           |             |
+| 8.7 | O perfil de usuário identifica a relação com a tecnologia?                                                     |           |             |
+| 8.8 | O perfil de usuário identifica a relação com o domínio do produto?                                             |           |             |
+| 8.9 | O perfil de usuário identifica a relação com o principais tarefas realizadas?                                  |           |             |
+|  9  | As características dos perfis são priorizadas?                                                                 |           |             |
+| 10  | São apresentados os participantes e suas funções?                                                              |           |             |
 
-_Fonte: Autor, 2023._
+_Fonte: [Douglas Alves](https://github.com/dougAlvs) e [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 </center>
 
@@ -161,11 +162,11 @@ A tabela 6 a seguir apresenta a checklist referente ...
 **Tabela 6** - Checklist para o artefato de Cenários.
 
 | ID  | Descrição | Avaliação | Observações |
-| --- | --------- | --------- | ----------- |
-| 6   |           |           |             |
-| 7   |           |           |             |
-| 8   |           |           |             |
-| 9   |           |           |             |
+| :-: | --------- | --------- | ----------- |
+|  6  |           |           |             |
+|  7  |           |           |             |
+|  8  |           |           |             |
+|  9  |           |           |             |
 | 10  |           |           |             |
 
 _Fonte: Autor, 2023._
@@ -181,24 +182,58 @@ A tabela 7 a seguir apresenta a checklist referente ...
 **Tabela 7** - Checklist para o artefato de Personas.
 
 | ID  | Descrição | Avaliação | Observações |
-| --- | --------- | --------- | ----------- |
-| 6   |           |           |             |
-| 7   |           |           |             |
-| 8   |           |           |             |
-| 9   |           |           |             |
+| :-: | --------- | --------- | ----------- |
+|  6  |           |           |             |
+|  7  |           |           |             |
+|  8  |           |           |             |
+|  9  |           |           |             |
 | 10  |           |           |             |
 
 _Fonte: Autor, 2023._
 
 </center>
 
-### Análise de Tarefas
+### Análise de Tarefas - Análise Hierárquica de Tarefas
 
-A tabela 8 a seguir apresenta a checklist referente ...
+A tabela 8 a seguir apresenta a checklist referente a análise hierárquica de tarefas, ela foi construída com base no livro texto Interação Humano-Computador da autoria de Bruno Silva e Simone Barbosa.<a href="#REF3"><sup>3</sup></a> Foi utilizada também, a checklist elaborada pelo integrante do grupo [Douglas Alves](https://github.com/dougAlvs) no contexto da [verificação do mesmo artefato do grupo 2](../../../grupo2/etapa2/analise-de-tarefas).<a id=anchor_2 href="#REF2"><sup>2</sup></a>
+
+Em relação aos itens de verificação, as questões 7, 8 e 9 foram retiradas da checklist de [verificação da etapa 2 do grupo 2](../../../grupo2/etapa2/analise-de-tarefas).<a href="#REF2"><sup>2</sup></a> As questões 6, 10, 11, 12, 13, 14, 15 e 16 foram construídas levando em consideração os passos de uma análise hierárquica de tarefas propostos por Diaper (2003, p. 5-47)<a id=anchor_4 href="#REF4"><sup>4</sup></a> e por Simone e Silva (2011, p. 174-176).<a href="#REF3"><sup>3</sup></a>
 
 <center>
 
-**Tabela 8** - Checklist para o artefato de Análise de Tarefas.
+**Tabela 8** - Checklist para o artefato de Análise Hierárquica de Tarefas.
+
+|  ID  | Descrição                                                                                                                                                                              | Avaliação | Observações |
+| :--: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+|  6   | Os objetivos a serem alcançados são apresentados?                                                                                                                                      |           |             |
+|  7   | As tarefas foram descritas em termos de objetivos que os usuários precisam executar, evitando descrições vagas ou ambíguas? d                                                          |           |             |
+|  8   | As tarefas apresentadas são verossímeis? d                                                                                                                                             |           |             |
+|  9   | As tarefas foram formuladas de maneira conceitual e orientada ao usuário, focando nas ações que eles executam, em vez de detalhes técnicos ou da implementação/interface do sistema? d |           |             |
+|  10  | As tarefas são decompostas?                                                                                                                                                            |           |             |
+|  11  | As tarefas relacionam o que as pessoas fazem com o porquê o fazem e quais as consequências caso não façam corretamente?                                                                |           |             |
+|  12  | Os diagramas apresentam os elementos esperados (plano, objetivos, operações e as relações entre os subobjetivos)?                                                                      |           |             |
+|  13  | Os diagramas apresentam um plano com os seus subjetivos?                                                                                                                               |           |             |
+|  14  | As operações são especificadas?                                                                                                                                                        |           |             |
+| 14.1 | Elas possuem entradas?                                                                                                                                                                 |           |             |
+| 14.2 | Elas possuem ações?                                                                                                                                                                    |           |             |
+| 14.2 | Elas possuem _feedbacks_?                                                                                                                                                              |           |             |
+|  15  | A decomposição termina quando os objetivos são atingidos ou quando a origem de um erro é identificada?                                                                                 |           |             |
+|  16  | As tarefas são apresentadas em tabelas?                                                                                                                                                |           |             |
+| 16.1 | As tabelas apresentam os objetivos/operações?                                                                                                                                          |           |             |
+| 16.2 | As tabelas apresentam os problemas e recomendações?                                                                                                                                    |           |             |
+| 16.3 | As tabelas apresentam as entradas, ações, _feedbacks_ e os planos?                                                                                                                     |           |             |
+
+_Fonte: [Douglas Alves](https://github.com/dougAlvs) e [Matheus Henrique](https://github.com/mathonaut), 2023._
+
+</center>
+
+### Análise de Tarefas - GOMS
+
+A tabela 9 a seguir apresenta a checklist referente ...
+
+<center>
+
+**Tabela 9** - Checklist para o artefato de GOMS.
 
 | ID  | Descrição | Avaliação | Observações |
 | --- | --------- | --------- | ----------- |
@@ -216,12 +251,18 @@ _Fonte: Autor, 2023._
 
 ## Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a> ALVES, Douglas. Perfil de Usuário. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa2/perfil-de-usuario/>>. Acesso em: 17 maio 2023.
+> <a id="REF1" href="#anchor_1">1.</a> ALVES, Douglas. Perfil de Usuário. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa2/perfil-de-usuario>>. Acesso em: 17 maio 2023.
 
-> <a id="REF2" href="#anchor_2">2.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <a id="REF2" href="#anchor_2">2.</a> ALVES, Douglas. Análise de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa2/analise-de-tarefas>>. Acesso em: 17 maio 2023.
+
+> <a id="REF3" href="#anchor_3">3.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+> <a id="REF4" href="#anchor_4">4.</a> DIAPER, D.; STANTON, N. **The handbook of task analysis for human-computer interaction.** New Jersey: Lawrence Erlbaum Associates, 2003.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                  |
-| ------ | ---------- | ------------------ | ------------------------------------------------ | -------------------------------------------- |
-| `1.0`  | 17/06/2023 | Criação da página. | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
+| Versão | Data       | Descrição                                                                          | Autor(es)                                        | Revisor(es)                                  |
+| ------ | ---------- | ---------------------------------------------------------------------------------- | ------------------------------------------------ | -------------------------------------------- |
+| `1.0`  | 17/06/2023 | Criação da página.                                                                 | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
+| `1.1`  | 17/06/2023 | Adição das checklists do perfil de usuário.                                        | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
+| `1.2`  | 17/06/2023 | Adição das checklists da Análise Hierárquica de Tarefas e alteração do cronograma. | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
