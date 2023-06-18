@@ -123,7 +123,7 @@ _Fonte: Autor, 2023._
 
 A tabela 5 a seguir apresenta a checklist referente ao artefato de perfil de usuário, ela foi construída tendo como base o no livro texto Interação Humano-Computador da autoria de Bruno Silva e Simone Barbosa e a checklist produzida pelo integrante do grupo [Douglas Alves](https://github.com/dougAlvs) no contexto da [verificação do mesmo artefato do grupo 2](../../../grupo2/etapa2/perfil-de-usuario).<a id=anchor_1 href="#REF1"><sup>1</sup></a>
 
-Em relação aos itens de verificação, a questão 6 foi retirada da checklist de [verificação da etapa 2 do grupo 2](../../../grupo2/etapa2/perfil-de-usuario).<a href="#REF1"><sup>1</sup></a>A questão 8 foi construída adaptando uma questão da checklist elaborada pelo [Douglas Alves](https://github.com/dougAlvs) com as características mais esperadas num perfil de usuários trazida por Simone e Silva (2011, p. 174-176).<a href="#REF3"><sup>3</sup></a> As questões 7, 9 e 10 foram formuladas tendo em vista os processos para a elaboração de um perfil de usuários segundo Simone e Silva (2011, p. 174-175).<a href="#REF2"><sup>2</sup></a>
+Em relação aos itens de verificação, a questão 6 foi retirada da checklist de [verificação da etapa 2 do grupo 2](../../../grupo2/etapa2/perfil-de-usuario).<a href="#REF1"><sup>1</sup></a>A questão 8 foi construída adaptando uma questão da checklist elaborada pelo [Douglas Alves](https://github.com/dougAlvs) com as características mais esperadas num perfil de usuários trazida por Simone e Silva (2011, p. 174-176).<a href="#REF3"><sup>3</sup></a> As questões 7, 9 e 10 foram formuladas tendo em vista os processos para a elaboração de um perfil de usuários segundo Simone e Silva (2011, p. 174-176).<a href="#REF2"><sup>2</sup></a>
 
 <center>
 
@@ -197,7 +197,7 @@ _Fonte: Autor, 2023._
 
 A tabela 8 a seguir apresenta a checklist referente a análise hierárquica de tarefas, ela foi construída com base no livro texto Interação Humano-Computador da autoria de Bruno Silva e Simone Barbosa.<a href="#REF3"><sup>3</sup></a> Foi utilizada também, a checklist elaborada pelo integrante do grupo [Douglas Alves](https://github.com/dougAlvs) no contexto da [verificação do mesmo artefato do grupo 2](../../../grupo2/etapa2/analise-de-tarefas).<a id=anchor_2 href="#REF2"><sup>2</sup></a>
 
-Em relação aos itens de verificação, as questões 7, 8 e 9 foram retiradas da checklist de [verificação da etapa 2 do grupo 2](../../../grupo2/etapa2/analise-de-tarefas).<a href="#REF2"><sup>2</sup></a> As questões 6, 10, 11, 12, 13, 14, 15 e 16 foram construídas levando em consideração os passos de uma análise hierárquica de tarefas propostos por Diaper (2003, p. 5-47)<a id=anchor_4 href="#REF4"><sup>4</sup></a> e por Simone e Silva (2011, p. 174-176).<a href="#REF3"><sup>3</sup></a>
+Em relação aos itens de verificação, as questões 7, 8 e 9 foram retiradas da checklist de [verificação da etapa 2 do grupo 2](../../../grupo2/etapa2/analise-de-tarefas).<a href="#REF2"><sup>2</sup></a> As questões 6, 10, 11, 12, 13, 14, 15 e 16 foram construídas levando em consideração os passos de uma análise hierárquica de tarefas propostos por Diaper (2003, p. 5-47)<a id=anchor_4 href="#REF4"><sup>4</sup></a> e por Simone e Silva (2011, p. 191-196).<a href="#REF3"><sup>3</sup></a>
 
 <center>
 
@@ -229,35 +229,45 @@ _Fonte: [Douglas Alves](https://github.com/dougAlvs) e [Matheus Henrique](https:
 
 ### Análise de Tarefas - GOMS
 
-A tabela 9 a seguir apresenta a checklist referente ...
+A tabela 9 a seguir apresenta a checklist referente ao GOMS, ela foi construída com base no livro texto Interação Humano-Computador da autoria de Bruno Silva e Simone Barbosa.<a href="#REF3"><sup>3</sup></a> Foi utilizada também, a checklist elaborada pelo integrante do grupo [Douglas Alves](https://github.com/dougAlvs) no contexto da [verificação do mesmo artefato do grupo 2](../../../grupo2/etapa2/analise-de-tarefas).<a id=anchor_2 href="#REF2"><sup>2</sup></a>
+
+Em relação aos itens de verificação, as questões foram construídas levando em consideração os itens necessários para uma análise com o método GOMS proposto por Card et al. (1983)<a id=anchor_5 href="#REF5"><sup>5</sup></a> e por Simone e Silva (2011, p. 196-201).<a href="#REF3"><sup>3</sup></a>
 
 <center>
 
 **Tabela 9** - Checklist para o artefato de GOMS.
 
-| ID  | Descrição | Avaliação | Observações |
-| --- | --------- | --------- | ----------- |
-| 6   |           |           |             |
-| 7   |           |           |             |
-| 8   |           |           |             |
-| 9   |           |           |             |
-| 10  |           |           |             |
+| ID   | Descrição                                                               | Avaliação | Observações |
+| ---- | ----------------------------------------------------------------------- | --------- | ----------- |
+| 6    | As análises com o GOMS são realizadas a partir das tarefas da HTA?      |           |             |
+| 7    | Há uma hierarquia estrita entre os objetivos?                           |           |             |
+| 8    | Os operadores são executados em ordem sequencial?                       |           |             |
+| 9    | Os métodos GOMS são representados em notação semelhante a pseudocódigo? |           |             |
+| 10   | Os métodos GOMS possuem os quatros elementos principais?                |           |             |
+| 10.1 | Eles possuem os objetivos (_goals_)?                                    |           |             |
+| 10.2 | Eles possuem os operadores (_operators_)?                               |           |             |
+| 10.3 | Eles possuem os métodos (_methods_)?                                    |           |             |
+| 10.4 | Eles possuem as regras de seleção (_selection rules_)?                  |           |             |
 
-_Fonte: Autor, 2023._
+_Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 </center>
 
 ## Bibliografia
 
+> ALVES, CÉSAR, Júlio; VINICIUS, Marcus. Verificação Ponto de Controle 2 Bilheteria Digital. Repositório do Grupo ISSNet Online DF da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/pc2>>. Acesso em: 17 junho 2023.
+
 ## Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a> ALVES, Douglas. Perfil de Usuário. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa2/perfil-de-usuario>>. Acesso em: 17 maio 2023.
+> <a id="REF1" href="#anchor_1">1.</a> ALVES, Douglas. Perfil de Usuário. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa2/perfil-de-usuario>>. Acesso em: 17 junho 2023.
 
-> <a id="REF2" href="#anchor_2">2.</a> ALVES, Douglas. Análise de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa2/analise-de-tarefas>>. Acesso em: 17 maio 2023.
+> <a id="REF2" href="#anchor_2">2.</a> ALVES, Douglas. Análise de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa2/analise-de-tarefas>>. Acesso em: 17 junho 2023.
 
-> <a id="REF3" href="#anchor_3">3.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <a id="REF3" href="#anchor_3">3.</a> BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador.** Rio de Janeiro: Elsevier, 2011.
 
 > <a id="REF4" href="#anchor_4">4.</a> DIAPER, D.; STANTON, N. **The handbook of task analysis for human-computer interaction.** New Jersey: Lawrence Erlbaum Associates, 2003.
+
+> <a id="REF5" href="#anchor_5">5.</a> Card, S.; Moran, T.P.; Newell, A. **The Psychology of Human-Computer Interaction.** New Jersey: Lawrence Erlbaum Associates, 1983.
 
 ## Histórico de Versões
 
@@ -266,3 +276,4 @@ _Fonte: Autor, 2023._
 | `1.0`  | 17/06/2023 | Criação da página.                                                                 | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
 | `1.1`  | 17/06/2023 | Adição das checklists do perfil de usuário.                                        | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
 | `1.2`  | 17/06/2023 | Adição das checklists da Análise Hierárquica de Tarefas e alteração do cronograma. | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
+| `1.3`  | 18/06/2023 | Adição das checklists da Análise GOMS e correção nos textos.                       | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
