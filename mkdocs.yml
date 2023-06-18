@@ -118,14 +118,17 @@ nav:
       - Etapa 4:
           - Planejamento da Verificação da Etapa 4: verificacao/grupo/etapa4/planejamento-verificacao-etapa4-grupo.md
           - Planejamento da Avaliação da Análise de Tarefas: verificacao/grupo/etapa4/verificacao-planejamento-analise.md
+          - Planejamento da Avaliação do Storyboard: verificacao/grupo/etapa4/verificacao-planejamento-storyboard.md
       - Etapa 5:
           - Planejamento da Verificação da Etapa 5: verificacao/grupo/etapa5/planejamento-verificacao-etapa5-grupo.md
+          - Planejamento da Avaliação do Protótipo de Papel: verificacao/grupo/etapa5/verificacao-planejamento-prototipo.md
       - Etapa 6.1:
           - Planejamento da Verificação da Etapa 6.1: verificacao/grupo/etapa6.1/planejamento-verificacao-etapa6.1-grupo.md
       - Etapa 6.2:
           - Planejamento da Verificação da Etapa 6.2: verificacao/grupo/etapa6.2/planejamento-verificacao-etapa6.2-grupo.md
       - Etapa 7:
           - Planejamento da Verificação da Etapa 7: verificacao/grupo/etapa7/planejamento-verificacao-etapa7-grupo.md
+          - Planejamento da Avaliação do Protótipo de Alta Fidelidade: verificacao/grupo/etapa7/verificacao-planejamento-alta.md
 
 theme:
   name: material

@@ -24,36 +24,35 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
 **Tabela 1** - Checklist de Verificação.
 
-|        ID        | Descrição                                                                                              | Avaliação  | Observações                                                           |
-| :--------------: | ------------------------------------------------------------------------------------------------------ | :--------: | --------------------------------------------------------------------- |
+|        ID        | Descrição                                                                                                                                                                                                                                                                        | Avaliação  | Observações                                                                                         |
+| :--------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | --------------------------------------------------------------------------------------------------- |
 | **Padronização** |
-|        1         | O artefato possui introdução?                                                                          |    Sim     |                                                                       |
-|        2         | O artefato possui uma bibliografia/referência bibliográfica?                                           |    Sim     |                                                                       |
-|        3         | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |    Sim     |                                                                       |
-|        4         | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |    Sim     |                                                                       |
-|        5         | Todos os textos estão na norma padrão?                                                                 |    Incompleto     |   Algumas palavras estão erradas.                                                                    |
+|        1         | O artefato possui introdução?                                                                                                                                                                                                                                                    |    Sim     |                                                                                                     |
+|        2         | O artefato possui uma bibliografia/referência bibliográfica?                                                                                                                                                                                                                     |    Sim     |                                                                                                     |
+|        3         | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                                                                                                                                                                           |    Sim     |                                                                                                     |
+|        4         | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                                                                                                                                                                     |    Sim     |                                                                                                     |
+|        5         | Todos os textos estão na norma padrão?                                                                                                                                                                                                                                           | Incompleto | Algumas palavras estão escritas erradas.                                                            |
 | **Planejamento** |
-|        6         | O documento possui os objetivos do planejamento?                                                       |    Sim     |                                                                       |
-|        7         | O planejamento segue o framework DECIDE?                                                               |    Sim     |                                                                       |
-|       8        | O documento possui quais são os objetivos da avaliação?                                                |    Sim     |                                                                       |
-|       9        | O documento possui quais são as perguntas a serem respondidas com a avaliação?                         |    Sim     |                                                                       |
-|       10        | O documento possui quais são os métodos a serem utilizados na avaliação?                               |    Sim     |                                                                       |
-|       11        | O documento possui os participantes da avaliação?                                                      | Não | Não são apresentados os participantes escolhidos para avaliação.                                                   |
-|      12       | O documento apresenta o motivo do número da escolha dos participantes?                                                     |    Sim     |                                                                       |
-|      13       | O documento apresenta o perfil definido aos participantes está de acordo com o perfil de usuário?                                                                            |    Sim     |                                                                       |
-|      14       | O documento apresenta o papel desempenhado por cada participantes?                                                           | Incompleto | O artefato possui somente um template indicando como será apresentado o papel de cara participante.                                                   |
-|       15        | O documento possui um cronograma com data, hora e local da realiazação da avaliação?                                                         |    Incompleto     |                                                                      |
-|      16       | O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação?                                                     | Sim |                                                 |
-|       17        | O documento apresenta quais são os custos?                                                                                   |    Sim     |                                                                       |
-|       18        | O documento apresenta quais são os recursos de mão de obra necessários?                                                      |    Sim     |                                                                       |
-|       19        | O documento possui uma seção sobre como as questões éticas são lidadas?                                |    Sim     |                                                                       |
-|       20        | O documento possui uma seção sobre os dados (interpretação e apresentação)?                            |    Sim     |                                                                       |
-|       21         | O documento apresenta tarefas de como deve ser realizada a avaliação?                                           |    Sim     |                                                                       |
-|       22         | O documento possui os itens a serem avaliados?                                                         |    Sim     |                                                                       |                                                                   |
-|       21        | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto?                                                          |      Sim     |                                                                       |                                                                  |
-|       22       | Possui uma gravação do teste piloto?                                                                   |    Sim     |                                                                       |                                                                    |
-|       23       | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.)                                                                  |    Sim     |                                                                       |                                                                    |
-|       24       | Possui uma gravação do teste piloto?                                                                   |    Sim     |                                                                       |                                                                    |
+|        6         | O documento possui os objetivos do planejamento?                                                                                                                                                                                                                                 |    Sim     |                                                                                                     |
+|        7         | O planejamento segue o framework DECIDE?                                                                                                                                                                                                                                         |    Sim     |                                                                                                     |
+|        8         | O documento possui quais são os objetivos da avaliação?                                                                                                                                                                                                                          |    Sim     |                                                                                                     |
+|        9         | O documento possui quais são as perguntas a serem respondidas com a avaliação?                                                                                                                                                                                                   |    Sim     |                                                                                                     |
+|        10        | As perguntas selecionadas possuem fontes indicando de onde foram baseadas?                                                                                                                                                                                                       |    Não     |                                                                                                     |
+|        11        | O documento possui quais são os métodos a serem utilizados na avaliação?                                                                                                                                                                                                         |    Sim     |                                                                                                     |
+|        12        | O documento possui os participantes da avaliação?                                                                                                                                                                                                                                |    Não     | Não são apresentados os participantes escolhidos para avaliação.                                    |
+|        13        | O documento apresenta o motivo do número da escolha dos participantes?                                                                                                                                                                                                           |    Sim     |                                                                                                     |
+|        14        | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário?                                                                                                                                                                                |    Sim     |                                                                                                     |
+|        15        | O documento apresenta o papel desempenhado por cada participantes?                                                                                                                                                                                                               |    Não     | O artefato possui somente um template indicando como será apresentado o papel de cara participante. |
+|        16        | O documento possui um cronograma com data, hora e local da realização da avaliação?                                                                                                                                                                                             | Incompleto |                                                                                                     |
+|        17        | O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação?                                                                                                                                                                                      |    Sim     |                                                                                                     |
+|        18        | O documento apresenta quais são os custos?                                                                                                                                                                                                                                       |    Sim     |                                                                                                     |
+|        19        | O documento apresenta quais são os recursos de mão de obra necessários?                                                                                                                                                                                                          |    Sim     |                                                                                                     |
+|        20        | O documento possui uma seção sobre como as questões éticas são lidadas?                                                                                                                                                                                                          |    Sim     |                                                                                                     |
+|        21        | O documento possui uma seção sobre os dados (interpretação e apresentação)?                                                                                                                                                                                                      |    Sim     |                                                                                                     |
+|        22        | O documento apresenta tarefas de como deve ser realizada a avaliação?                                                                                                                                                                                                            |    Sim     |                                                                                                     |
+|        23        | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto?                                                                                                                                              |    Sim     |                                                                                                     |  |
+|        24        | Possui uma gravação do teste piloto?                                                                                                                                                                                                                                             |    Sim     |                                                                                                     |  |
+|        25        | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.) |    Sim     |                                                                                                     |  |
 
 
 _Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
@@ -74,15 +73,19 @@ Há erros ortográficos a serem corrigidos, segue a lista:
 - No mesmo tópico em seu parágrafo a palavra entrevistador está escrita errada 'entrevitador';
 - No tópico Resultado do Teste Piloto a palavra teste está escrita errada 'tste'.
 
-### ID 11 - O documento possui os participantes da avaliação?
+### ID 10 - As perguntas selecionadas possuem fontes indicando de onde foram baseadas?
+
+Não são apresentadas as fontes das perguntas selecionadas das tarefas. De onde elas foram tiradas?
+
+### ID 12 - O documento possui os participantes da avaliação?
 
 Não são apresentados os participantes escolhidos para a avaliação.
 
-### ID 14 - O documento apresenta o papel desempenhado por cada participantes?
+### ID 15 - O documento apresenta o papel desempenhado por cada participantes?
 
 O artefato possui somente um template indicando como será apresentado o papel de cara participante.
 
-### ID 15 - O documento possui um cronograma com data, hora e local da realiazação da avaliação? 
+### ID 16 - O documento possui um cronograma com data, hora e local da realiazação da avaliação? 
 
 O artefato não apresenta uma data e hora para realização da avaliação.
 
@@ -91,6 +94,7 @@ O artefato não apresenta uma data e hora para realização da avaliação.
 Tendo em vista os problemas abordados anteriormente, fica como sugestão a realização das seguintes correções:
 
 - Corrigir os erros ortográficos;
+- Citar as fontes de onde as perguntas foram baseadas;
 - Apresentar quais serão os participantes da avaliação;
 - Apresentar um cronograma da avaliação com data, hora, local e papel de cada participante.
 
@@ -100,17 +104,17 @@ A figura 1 é possível análisar um gráfico com o percentual de erros e acerto
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado da Checklist.</p></font>
-<iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWs8eg31c2-oQxuwxD9eeSYCMdpTouo8fxO41asW_45pB6Dxykjz4FRxfhHJITZ9BCShevDFBzLPo1/pubchart?oid=1088649009&amp;format=interactive"></iframe>
-<figcaption><font size="3">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0)</font></figcaption>
+<iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWs8eg31c2-oQxuwxD9eeSYCMdpTouo8fxO41asW_45pB6Dxykjz4FRxfhHJITZ9BCShevDFBzLPo1/pubchart?oid=1088649009&amp;format=interactive"></iframe><figcaption><font size="3">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0)</font></figcaption>
 </figure>
 
 
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> Verificação do Planejamento da Avaliação do Protótipo de Papel do Grupo 2. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa5/planejamento-aval-papel/>>.Acesso em 17 de junho de 2023.
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | ------------------ | ------------------------------------------------ | ---------------------------------------------- |
-| `1.0`  | 17/06/2023 | Criação da página. | [Rafael Ferreira](https://github.com/RafaelCLG0)| [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.0`  | 17/06/2023 | Criação da página. | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Arthur de Melo](https://github.com/arthurmlv) |
