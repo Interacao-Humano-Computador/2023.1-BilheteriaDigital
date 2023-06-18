@@ -101,7 +101,7 @@ _Fonte: Equipe do Projeto, 2023._
 
 ### Aspectos Éticos
 
-A tabela 4 a seguir apresenta a checklist referente ...
+A tabela 4 a seguir apresenta a checklist referente ao artefato Apectos Éticos, que foi contruída com base no livro Interação Humano-Computador de Bruno Silva e Simone Barbosa. A checklist produzida por [Marcus Vinicius](https://github.com/MarcusVcd), em que nela foi feita a verificação deste mesmo artefato, foi utilizada para consultar os tópicos faltantes.
 
 <center>
 
@@ -109,19 +109,22 @@ A tabela 4 a seguir apresenta a checklist referente ...
 
 | ID  | Descrição | Avaliação | Observações |
 | :-: | --------- | --------- | ----------- |
-|  6  |           |           |             |
-|  7  |           |           |             |
-|  8  |           |           |             |
-|  9  |           |           |             |
-| 10  |           |           |             |
+|  6  |   O documento possui o cuidado ético de evitar prejudicar ou causar dano a outras pessoas, seus bens, reputação ou emprego?    |      |      |
+|  7  |    O documento possui os princípios de autonomia, beneficiência, não maleficiência, justiça e equidade?   |        |         |
+|  8  |   No documento, há a explicação do objetivo da pesquisa e como ela será realizada aos participantes?    |       |             |
+|  9  |   Há a garantia de confidencialidade e a privacidade dos dados brutos?    |      |             |
+|  10 |   Garante o anonimato dos participantes, preservação das suas imagens e a utilização cuidadosa das informações coletadas?    |           |             |
+|  11 |   É explicitado um pedido de permissão para gravação? Seja de imagem ou voz do participante.   |         |           |
+|  12 |    Há esclarecido um consentimento livre de desistência do participante durante a pesquisa?   |      |        |
+| 13  | Há local de assinatura do entrevistador e do entrevsitado? |  |  |
 
-_Fonte: Autor, 2023._
+_Fonte: [Geovanna Maciel](https://github.com/manuziny), 2023._
 
 </center>
 
 ### Perfil de Usuário
 
-A tabela 5 a seguir apresenta a checklist referente ao artefato de perfil de usuário, ela foi construída tendo como base o no livro texto Interação Humano-Computador da autoria de Bruno Silva e Simone Barbosa e a checklist produzida pelo integrante do grupo [Douglas Alves](https://github.com/dougAlvs) no contexto da [verificação do mesmo artefato do grupo 2](../../../grupo2/etapa2/perfil-de-usuario).<a id=anchor_1 href="#REF1"><sup>1</sup></a>
+A tabela 5 a seguir apresenta a checklist referente ao artefato de perfil de usuário, ela foi construída tendo como base o livro Interação Humano-Computador da autoria de Bruno Silva e Simone Barbosa e a checklist produzida pelo integrante do grupo [Douglas Alves](https://github.com/dougAlvs) no contexto da [verificação do mesmo artefato do grupo 2](../../../grupo2/etapa2/perfil-de-usuario).<a id=anchor_1 href="#REF1"><sup>1</sup></a>
 
 Em relação aos itens de verificação, a questão 6 foi retirada da checklist de [verificação da etapa 2 do grupo 2](../../../grupo2/etapa2/perfil-de-usuario).<a href="#REF1"><sup>1</sup></a>A questão 8 foi construída adaptando uma questão da checklist elaborada pelo [Douglas Alves](https://github.com/dougAlvs) com as características mais esperadas num perfil de usuários trazida por Simone e Silva (2011, p. 174-176).<a href="#REF3"><sup>3</sup></a> As questões 7, 9 e 10 foram formuladas tendo em vista os processos para a elaboração de um perfil de usuários segundo Simone e Silva (2011, p. 174-176).<a href="#REF2"><sup>2</sup></a>
 
@@ -155,7 +158,7 @@ _Fonte: [Douglas Alves](https://github.com/dougAlvs) e [Matheus Henrique](https:
 
 ### Cenários
 
-A tabela 6 a seguir apresenta a checklist referente ...
+A tabela 6 a seguir apresenta a checklist referente aos cenários, que foi construída com base no livro Interação Humano-Computador de Bruno Silva e Simone Barbosa, usando especificamente o capítulo 6.
 
 <center>
 
@@ -163,13 +166,15 @@ A tabela 6 a seguir apresenta a checklist referente ...
 
 | ID  | Descrição | Avaliação | Observações |
 | :-: | --------- | --------- | ----------- |
-|  6  |           |           |             |
-|  7  |           |           |             |
-|  8  |           |           |             |
-|  9  |           |           |             |
-| 10  |           |           |             |
+|  6   | Os cenários possuem detalhes contextuais de uso da aplicação envolvendo o usuário? | |  |
+|  7   | Eles descrevem o comportamento e as experiência dos atores? |  |  |
+|  8   | Cada ator possui objetivos que dirigem as tarefas que ele realiza? |  |  |
+|  9   | Cada cenário tem um título que descreve brevemente a situação, os atores, referência a outro artefato? |  |  |
+|  10  | Há ambiente, planejamento, ações, eventos, avaliação? |  |  |
+|  11  | Os cenários são associados à alguma tarefa de uso diário do ator? |  |  |
+|  12  | Os atores são as personas feitas para o projeto? | |  |
 
-_Fonte: Autor, 2023._
+_Fonte: [Geovanna Maciel](https://github.com/manuziny), 2023._
 
 </center>
 
@@ -277,3 +282,4 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 | `1.1`  | 17/06/2023 | Adição das checklists do perfil de usuário.                                        | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
 | `1.2`  | 17/06/2023 | Adição das checklists da Análise Hierárquica de Tarefas e alteração do cronograma. | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
 | `1.3`  | 18/06/2023 | Adição das checklists da Análise GOMS e correção nos textos.                       | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
+| `1.4`  | 18/06/2023 | Adição das checklists de cenários e aspectos éticos.     | [Geovanna Maciel](https://github.com/manuziny) | [Matheus Henrique](https://github.com/mathonaut) |
