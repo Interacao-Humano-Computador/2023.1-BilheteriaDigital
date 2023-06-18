@@ -233,6 +233,8 @@ Após realizar o teste piloto deve ser postado abaixo.
 
 > Estruturado a partir do Planejamento da Avaliação da Análise de Tarefas. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-avaliavao-at/>>.Acesso em 18 de junho de 2023.
 
+> Planejamento da avaliação do protótipo de papel do Grupo do Detran GO. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-DetranGO/design_avaliacao/nivel2/prototipoPapel/planejamentoAvaliacao/>>.Acesso em 18 de junho de 2023.
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
