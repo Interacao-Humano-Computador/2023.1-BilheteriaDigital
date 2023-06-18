@@ -40,9 +40,9 @@ O objetivo da avaliação do protótipo de alta fidelidade é testar e obter fee
 
 ## Metodologia
 
- Para a confecção do artefato a seguir usaremos o teste de usabilidade, é um método empregado na ergonomia e na interação humano-computador, para avaliar e testar a usabilidade de produtos e sistemas, a partir da observação dos usuários durante a interação<a id="REF1" href="#anchor_1">^1^</a>.
+Para a confecção do artefato a seguir usaremos o teste de usabilidade, é um método empregado na ergonomia e na interação humano-computador, para avaliar e testar a usabilidade de produtos e sistemas, a partir da observação dos usuários durante a interação<a id="REF1" href="#anchor_1">^1^</a>.
 
- Como definido na literatura de Barbosa e Silva <a id="anchor_2" href="#REF2">^2^</a> os testes de usabilidade devem seguir as [metas de usabilidade](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/metas-usabilidade/) definidas para o projeto, a fim de avaliar se o sistema as atingiu.  
+Como definido na literatura de Barbosa e Silva <a id="anchor_2" href="#REF2">^2^</a> os testes de usabilidade devem seguir as [metas de usabilidade](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/metas-usabilidade/) definidas para o projeto, a fim de avaliar se o sistema as atingiu.  
 
 Essa avaliação seguirá uma adaptação das seguintes atividades definidas por Barbosa e Silva:
 

@@ -111,6 +111,7 @@ A figura 1 é possível análisar um gráfico com o percentual de erros e acerto
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 > Verificação do Planejamento da Avaliação do Protótipo de Papel do Grupo 2. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa5/planejamento-aval-papel/>>.Acesso em 17 de junho de 2023.
 
 ## Histórico de Versões
