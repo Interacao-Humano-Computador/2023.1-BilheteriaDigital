@@ -14,7 +14,7 @@ A metodologia escolhida para esta verificação é a inspeção. Desenvolvida or
 
 ### Participantes
 
-Os responsáveis por essa verificação foram os integrantes do grupo [Douglas Alves](https://github.com/dougAlvs), [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut), que realizaram o planejamento, a inspeção e o relato dos resultados. Em relação a validação dos artefatos produzidos por essa verificação, fica a cargo dos integrantes do mesmo grupo.
+Os responsáveis por essa verificação foram os integrantes do grupo [Douglas Alves](https://github.com/dougAlvs), [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut), que realizaram o planejamento, a inspeção, o relato dos resultados e a correção. Em relação a validação dos artefatos produzidos por essa verificação, fica a cargo dos integrantes do mesmo grupo.
 
 Cada participante será responsável por verificar um ou mais artefatos da entrega através do método de inspeção. A tabela 1 a seguir apresenta a relação de cada participante e o artefato verificado por ele.
 
