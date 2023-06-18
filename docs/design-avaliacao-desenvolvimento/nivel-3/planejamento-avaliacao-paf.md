@@ -4,6 +4,8 @@
 
 A avaliação é um processo essencial para que o processo de desenvolvimento consiga produzir um sistema com alta qualidade. Com base nisso, o artefato a seguir visa planejar a avaliação do protótipo de alta fidelidade. Para tanto, serão realizadas entrevistas com usuários reais do produto, tendo como base o [perfil de usuário](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/perfil-usuario/), assim será possível avaliar sua perspectiva de forma dinâmica.
 
+## Metodologia
+
 Para realizar esse planejamento será utilizado o framework DECIDE, onde cada letra da palavra é uma etapa a ser realizada no planejamento. A tabela 1 a seguir apresenta o significado de cada letra.
 
 <center>
@@ -23,58 +25,53 @@ Para realizar esse planejamento será utilizado o framework DECIDE, onde cada le
 
 </center>
 
-- Determinar: os objetivos gerais são determinados pelo avaliador, tal deve ser capaz de identificar as idiossincrasias que envolvem tais objetivos e o motivo de serem importantes. Os objetivos aqui determinados guiam os demais tópicos.
-
-- Explorar: para cada objetivo geral definido, deve-se elaborar perguntas com o intuito de explorar os tópicos definidos.
-
-- Escolher (Choose): tendo em vista os objetivos, o avaliador deve analisar e escolher as estratégias mais adequadas para alcançá-los
-
-- Identificar: no que tange à prática da avaliação, tem-se diversas variáveis envolvidas. Portanto, o avaliador deve ter em mente e planejar tudo o que for necessário para a realização da avaliação.
-
-- Decidir: as questões éticas são de suma importância quando se trata de pesquisas envolvendo pessoas. Sendo assim, as questões éticas precisam ser decididas.
-
-- Avaliar (Evaluate): os resultados devem ser repensados e reavaliados antes de serem divulgados, ou seja, os dados coletados devem ser observados de acordo com o grau de confiabilidade dos dados, a validade interna e externa do estudo e a validade ecológica.
-
 ## Objetivo 
-O objetivo da avaliação do protótipo de alta fidelidade é testar e obter feedback sobre a usabilidade, funcionalidade e aparência visual de um protótipo que se assemelha de forma mais precisa à versão final do produto ou serviço. A avaliação do protótipo de alta fidelidade busca identificar problemas, avaliar a eficácia do design e realizar ajustes antes da implementação completa.
+O objetivo da avaliação do protótipo de alta fidelidade é testar e obter feedback sobre a usabilidade, funcionalidade e aparência visual de um protótipo que se assemelha de forma mais precisa à versão final do produto ou serviço. A avaliação do protótipo de alta fidelidade busca identificar problemas, avaliar a eficácia do design e da interface além de realizar ajustes antes da implementação completa.
 
-## Metodologia
+<a id="met1"></a>
 
-Para a confecção do artefato a seguir usaremos o teste de usabilidade, é um método empregado na ergonomia e na interação humano-computador, para avaliar e testar a usabilidade de produtos e sistemas, a partir da observação dos usuários durante a interação<a id="REF1" href="#anchor_1">^1^</a>.
 
-Como definido na literatura de Barbosa e Silva <a id="anchor_2" href="#REF2">^2^</a> os testes de usabilidade devem seguir as [metas de usabilidade](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/metas-usabilidade/) definidas para o projeto, a fim de avaliar se o sistema as atingiu.  
+## E - Explorar Perguntas Respondidas com a Avaliação
 
-Essa avaliação seguirá uma adaptação das seguintes atividades definidas por Barbosa e Silva:
+Com base no objetivo da avaliação foram preparadas perguntas baseadas nos seguintes tópicos:
+- verificar a conformidade com um padrão;
+- comparar ideias e alternativas de design;
+- identificar problemas na interação e interface.
+As perguntas selecionadas tem o intuito de serem respondidas com essa avaliação e foram feitas com base no _Captítulo 11 da literatura de Barbosa e Silva (2011, p.266)_<a id="anchor_1" href="#REF1">^1^</a>  as perguntas selecionadas foram as seguintes:
 
-* Preparação:
-    * Definir tarefas para os participantes executarem.
-        * Script.
-    * Definir o perfil dos participantes e recrutá-los.
-    * Criar protótipos da interface para executar as tarefas.
-    * Perguntas.
-    * Materiais necessários.
-    * Executar um teste-piloto.
+- A interface segue o padrão do sistema operacional?
+- Foi possível testar a interação e a facilidade de uso do protótipo para identificar problemas de usabilidade?
+- Foi possível avaliar a aparência e o estilo visual do protótipo, garantindo que ele atenda às expectativas e necessidades dos usuários, transmita a identidade da marca e seja esteticamente agradável?
+- Foi possível verificar se todas as funcionalidades planejadas estão presentes e funcionam corretamente?
+- Foi possível obter opiniões, percepções e sugestões dos usuários em relação ao protótipo?
+- Foi possível identificar quaisquer problemas, erros ou áreas que precisam de ajustes no protótipo antes da implementação final?
 
-* Coleta de Dados:
-    * Cada usuário deve executar as tarefas propostas interagindo com o
-protótipo, mediado pelo avaliador sendo observador e registrado suas ações durante as sessões de uso controladas.
+## C - Escolher os Métodos de Avaliação
+
+Para a confecção do artefato a seguir usaremos o teste de usabilidade, é um método empregado na ergonomia e na interação humano-computador, para avaliar e testar a usabilidade de produtos e sistemas, a partir da observação dos usuários durante a interação<a id="anchor_2" href="#REF2">^2^</a>.
+Como definido na literatura de Barbosa e Silva <a id="anchor_1" href="#REF1">^1^</a> os testes de usabilidade devem seguir as [metas de usabilidade](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/metas-usabilidade/) definidas para o projeto, a fim de avaliar se o sistema as atingiu. 
+A escolha se dá pelo fato de ser um método que permite coletar muitas informações, além de ser flexível permite fazer perguntas que aprofundam ainda mais os objetivos a serem alcançados pelos usuários. Ademais, tal entrevista deve ser estritamente **gravada** e **documentada**.
+
+## I - Identificar Questões Práticas da Avaliação
+
+### Recrutamento
+Os participantes foram definidos com base no artefato [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/perfil-usuario/). Embora existam algumas divergências entre o número exato de participantes verifica-se que este número transita entre 3 e 10 participantes. Para Krug, com três ou quatro participantes a maioria dos problemas é detectada<a id="anchor_2" href="#REF2">^2^</a>. Portanto para os testes de usabilidade serão selecionados 3 participantes. 
+
+<a id="met2"></a>
 
 ## Preparação 
 
 Na atividade de preparação, são realizadas as atividades comuns aos métodos de observação.
 
-### Definir tarefas para os participantes executarem
-
-As tarefas abordadas na avaliação serão as seguintes:
-
 * Buscar um evento
 * Comprar um ingresso
 * Visualizar meus pedidos
 * Cancelar Compra
-
-<a id="met2"></a>
+  
+<a id="met3"></a>
 
 #### Script
+
 Para a realização dessas tarefas o entrevistador passará um script ao participante com as seguintes informações:
 
 * Opções que ele deve selecionar para buscar um evento, comprar um ingresso, visualizar pedido e cancelar compra.
@@ -83,11 +80,10 @@ Para a realização dessas tarefas o entrevistador passará um script ao partici
 
 Também será solicitado que a cada ação ele narre o que está fazendo.
 
-
+<a id="met7"></a>
 
 #### Buscar um evento
 
-<a id="met1"></a>
 Essa tarefa tem o intuito do participante realizar uma busca de um determinado evento selecionado pelo entrevistador.
 
 O objetivo da tarefa consiste em verificar se o participante consegue realizar uma busca de um determinado evento sem problemas.
@@ -95,7 +91,7 @@ O objetivo da tarefa consiste em verificar se o participante consegue realizar u
 Nessa tarefa o participante deverá realizar uma busca de um evento descrito no script, essa busca o participante precisará utilizar o campo de pesquisa no qual selecionado aparecerá uma lista de evento, bastando escolher o evento para ser direcionado a uma nova tela do evento encontrado, no qual será indicado que selecione o evento com a localidade passada. Durante a execução dessa tarefa o participante será observado e cada ação será computada em busca de identificar os problemas. Depois serão realizadas algumas perguntas relacionadas a um feedback da tarefa realizada, apresentadas mais abaixo.
 
 #### Comprar um ingresso
-Nessa tarefa o participante tem que realizar a compra de um ingresso do evento selecionado na etapa anterior de [buscar um evento](#met1).
+Nessa tarefa o participante tem que realizar a compra de um ingresso do evento selecionado na etapa anterior de [buscar um evento](#met7).
 
 O objetivo dessa tarefa consiste em determinar se o participante consegue comprar um ingresso seguindo os passos apresentados pelo script.
 
@@ -115,28 +111,57 @@ O objetivo dessa tarefa é verificar se o participante e capaz de executar a aç
 
 Na última tarefa será solicitada a partir da tela de “Meu Perfil” solicitando ao participante que realize a ação de Cancelar uma Compra. Para essa tarefa o participante precisará acessar a opção de “Ver Detalhes” sendo direcionado a uma nova tela com os detalhes do ingresso e com a opção de “Cancelar Comprar”, que selecionada aparecerá com modal para confirmar o cancelamento da compra. Durante a execução dessa tarefa o participante será observado e cada ação será computada em busca de identificar os problemas. Depois serão realizadas algumas perguntas relacionadas a um feedback da tarefa realizada, apresentadas mais abaixo.
 
-### Definir o perfil dos participantes e recrutá-los
+### Custos
 
-Os participantes foram definidos com base no artefato [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/perfil-usuario/). Embora existam algumas divergências entre o número exato de participantes verifica-se que este número transita entre 3 e 10 participantes. Para Krug, com três ou quatro participantes a maioria dos problemas é detectada<a id="REF1" href="#anchor_1">^1^</a>. Portanto para os testes de usabilidade serão selecionados 3 participantes. 
+A realização das entrevistas não pode gerar custos a equipe e ao usuário, portanto, elas deverão ser feitas utilizando as seguintes ferramentas:
 
-###  Criar protótipos da interface para executar as tarefas
+- [Perguntas para serem respondidas com a avaliação](#met1);
+- [Tarefas para os participantes executarem](#met2)
+- [Script](#met3)
+- [Perguntas para serem respondidas na entrevista](#met4);
+- [Protótipo de Alta Fidelidade](../);
+- [Figma](https://www.figma.com): ferramenta para criação do protótipo de alta;
+- [Termo de Consentimento](#met5);
+- [Teste Piloto](#met6).
 
-Para a criação dos protótipos de alta fidelidade usaremos a ferramenta [Figma](https://www.figma.com). A opção por essa ferramenta se deu por recomendação do professor disponível [aqui](https://www.iebschool.com/pt-br/blog/analitica-web/usabilidade-e-ux/20-ferramentas-de-prototipagem-e-usabilidade-na-web/). O Figma permite projetar e criar protótipos, além de coletar comentários ou anotações sobre os projetos. Essa é a primeira ferramenta de design de interface baseada em navegador, o que facilita a criação de software pela equipe.
+Vale resaltar que os equipamentos necessários serão quaisquer dispositivos com acesso a internet, aos aplicativos de comunicação e a um navegador de internet que os envolvidos possuírem.
+
+### Prazos
+
+Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo apresentado um cronograma com seus tópicos e logo abaixo a tabela 2 com as entrevistas:
+
+- Entrevistador;
+- Entrevistado;
+- Horário de início e fim;
+- Local e data que ocorreu a entrevista.
+
+As gravações e resultados de cada entrevista podem ser encontrandas [AQUI]()
+
+<center>
+
+**Tabela 2** - Cronograma provável da Avaliação.
+
+| Entrevistadores | Usuário | Data       | Início-Fim  | Local              |
+| ------------- | ------- | ---------- | ----------- | ------------------ |
+
+</center>
+
+<center>
+
+**Fonte** - [Rafael Ferreira](https://github.com/RafaelCLG0).
+
+</center>
 
 <a id="met4"></a>
 
-### Executar teste-piloto
+### Roteiro de Perguntas
 
-O objetivo desse teste piloto é em um primeiro momento avaliar a viabilidade e identificar problemas, ajustando o projeto antes da implementação em larga escala. Os resultados obtidos durante o teste piloto são utilizados para aprimorar o projeto e aumentar as chances de sucesso na implementação completa. Dessa forma, tem-se a oportunidade de verificar se a linguagem nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para orientar o participante durante a avaliação. Dito isso, a execução do teste-piloto deverá ser realizada (e gravada) para garantir que a avaliação possa ocorrer normalmente. 
+Na entrevista estarão disponíveis capturas de tela para que o usuário possa ver a tarefa da qual o entrevistador estará comentando e a tabela com o seu fluxo. A tabela 3 a seguir mostra o roteiro de perguntas a serem realizadas aos usuários após o termino da avaliação. Já as as perguntas da tabela 4 tem como objetivo guiar os avaliadores com relação aos principais pontos a serem levados em consideração. Essas perguntas foram baseadas nas perguntas a serem [repondidas na avaliação](#met1).
 
-### Perguntas
-
-<a id="met3"></a>
-
-As perguntas da Tabela 2 tem por objetivo angariar respostas dos usuários após o termino da avaliação. Já as perguntas da Tabela 3 tem como objetivo guiar os avaliadores com relação aos principais pontos a serem levados em consideração. 
 
 <center>
-**Tabela 2** - Perguntas ao usuário.
+
+**Tabela 3** - Perguntas ao usuário.
 
 | ID | Enunciado| Resposta| Justificativa |
 | :---: | :----------------------------------------------------------: | :-----------------:|:------------|
@@ -153,7 +178,7 @@ As perguntas da Tabela 2 tem por objetivo angariar respostas dos usuários após
 
 <center>
 
-**Tabela 3** - Diretriz.
+**Tabela 4** - Diretriz.
 
 | ID | Enunciado| Resposta| 
 | :---: | :----------------------------------------------------------: | :-----------------:|
@@ -169,28 +194,54 @@ As perguntas da Tabela 2 tem por objetivo angariar respostas dos usuários após
 
 </center>
 
-### Materiais necessários
-Para execução do protótipo de alta fidelidade foram listado alguns materiais necessários, são eles:
+### Execução do roteiro
 
-* [Script](#met2)
-* [Tarefas para os participantes executarem](#met1)
-* [Termo de Consentimento](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/aspectos-eticos/#termo-de-consentimento)
-* [Perguntas](#met3)
-* [Teste Piloto](#met4)
+O entrevistador precisa instigar o usuário a explicitar suas ideias, de maneira verbal ou ilustrativa, em caso de discordância. Além disso, toda alteração proposta pelo usuário precisa ser anotada pelo entrevistador e, posteriormente, avaliada em conjunto para ser validada junto ao usuário ao final da atividade.
 
-### Coleta de Dados
-A avaliação propriamente dita será feita de forma online pela plataforma Teams, com a presença dos usuários selecionados e do(s) avaliador(es) no período dos dias 10 até 25 de junho de 2023 e ela tem o intuito de coletar os dados referentes aos participantes e avaliadores mediante as perguntas, anotações, registros do vídeo e grau de sucesso da execução de cada tarefas proposta. Vale resalta que é papel dos avaliador apresentar o termo de consentimento e explicar aos usuários como funcionará a avaliação e quais os pontos abordados. É importante que todo o processo seja gravado. 
+<a id="met5"></a>
 
+## D - Lidando com as Questões Éticas
+Em cada entrevista será apresentado a eles um [termo de consentimento](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/aspectos-eticos/#introducao) baseado no seguinte [modelo](/analise-de-requisitos/aspectos-eticos#termo-de-consentimento), e a avaliação continuará somente caso haja o consentimento destes.
+
+## E - Avaliar, Interpretar e Apresentar os Dados
+
+Após a realização da avaliação, os dados serão documentados e tratados, levando em conta o contexto em que eles foram produzidos, julgando se possuem alto grau de confiabilidade e que podem ser generalizados para representar a população de usuários do site.
+
+O que envolve registrar os problemas, dificuldades durante a interação, podem envolver questões de usabilidade, funcionalidades ausentes e problemas de desempenho. Serão anotadas as descrições dos problemas, sua classificação, sugestões de melhoria, captar o feedback do usuário e ao fim da entrevistas documentar as observações gerais a serem feitas a cerca da entrevista realizada.
+
+Realizada a etapa anteriormente mencionada, os dados serão apresentados ao time de desenvolvimento, procurando com isso obter o máximo de informação relevante para o desenvolvimento do projeto.
+
+<a id="met6"></a>
+
+## Planejamento do Teste Piloto
+
+Segundo Barbosa e Silva (2011, p.276) o objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto como se fosse uma sessão normal de avaliação. Dessa forma, ele tem oportunidade de verificar se a linguagem nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para orientar o participante durante a avaliação.
+
+Dito isso, a execução do teste-piloto será feito no no período dos dias 10 até 25 de junho de 2023 e com a presença dos integrantes [Gabriel Campello](https://github.com/G16C) e [Rafael Ferreira](https://github.com/RafaelCLG0).
+
+## Resultado do Teste Piloto
+
+Após realizar o teste piloto deve ser postado abaixo.
+
+<p style="text-align: center"><a href="" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Campello](https://github.com/G16C) e [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
+
+## Bibliografia
+
+> Estruturado a partir do Planejamento da Avaliação da Análise de Tarefas. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-avaliavao-at/>>.Acesso em 18 de junho de 2023.
 
 ## Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a> Teste de Usabilidade (Objetivos, Planejamento, Número de Participantes, Especificação das tarefas e cenários e Relato)
+> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-> <a id="REF2" href="#anchor_2">2.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
-
+> <a id="REF2" href="#anchor_2">2.</a> Teste de Usabilidade (Objetivos, Planejamento, Número de Participantes, Especificação das tarefas e cenários e Relato)
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                                                                      | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 10/06/2023 | Criação da página.    | [Rafael Ferreira](https://github.com/RafaelCLG0) e [Gabriel Campello](https://github.com/G16C) | [Arthur de Melo](https://github.com/arthurmlv)   |
+| `2.0`  | 18/06/2023 | Padronização do planejamento conforme a verificação realizada no artefato | [Rafael Ferreira](https://github.com/RafaelCLG0)   | [Arthur de Melo](https://github.com/arthurmlv) |
