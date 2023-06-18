@@ -29,7 +29,7 @@ Os resultados das verificações em si serão apresentados em páginas separadas
 
 - [Relato dos Resultados do Protótipo de Papel](../);
 - [Planejamento da Avaliação do Protótipo de Alta Fidelidade](../verificacao/grupo/etapa7/verificacao-planejamento-alta);
-- [Planejamento do Relato dos Resultados](../);
+- [Planejamento do Relato dos Resultados](../verificacao-planejamento-relato-resultado-alta);
 
 ### Cronograma
 
@@ -142,6 +142,13 @@ A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o do
 
 | ID    | Descrição                                                                           | Avaliação | Observações |
 | ----- | ----------------------------------------------------------------------------------- | --------- | ----------- |
+| 6   | O documento possui um tópico sobre quais são os objetivos do relato?                                  |           |             |
+| 7   | O documento possui um tópico sobre a metodologia da prototipação de alta?                             |           |             |
+| 8   | O documento possui um tópico sobre quais foram os participantes e os seus perfis?                     |           |             |
+| 9   | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?                 |           |             |
+| 10  | O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?         |           |             |
+| 11  | O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas? |           |             |
+| 12  | O documento está estruturado conforme os relatos realizados anteriores?                               |           |             |
 
 <font size="3"><p style="text-align: center">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
 
@@ -165,4 +172,5 @@ A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o do
 | ------ | ---------- | -------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`  | 17/06/2023 | Criação da página.                                 | [Arthur de Melo](https://github.com/arthurmlv)   | [Matheus Henrique](https://github.com/mathonaut) |
 | `1.1`  | 18/06/2023 | Adição da checklist do planejamento da avaliação                                | [Rafael Ferreira](https://github.com/RafaelCLG0)   | [Matheus Henrique](https://github.com/mathonaut) |
+| `1.2`  | 18/06/2023 | Adição da checklist do planejamento do relato dos resultados da avaliação | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Matheus Henrique](https://github.com/mathonaut) |
 
