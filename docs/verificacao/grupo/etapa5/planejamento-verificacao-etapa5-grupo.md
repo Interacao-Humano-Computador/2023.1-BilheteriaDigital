@@ -101,7 +101,7 @@ A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o re
 | 16 | Considera um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">^1^</a> |  |
 | 17 | O relato segue um padrão consolidado para todos os outros relatos? |  |
 
-_Fonte: [Matheus Henrique](https://github.com/mathonaut) e [Arthur de Melo](https://github.com/arthurmlv), 2023._
+_Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 </center>
 
@@ -128,7 +128,7 @@ A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o re
 | 16 | Considera um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">^1^</a> |  |
 | 17 | O relato segue um padrão consolidado para todos os outros relatos? |  |
 
-_Fonte: [Matheus Henrique](https://github.com/mathonaut) e [Arthur de Melo](https://github.com/arthurmlv), 2023._
+_Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 </center>
 

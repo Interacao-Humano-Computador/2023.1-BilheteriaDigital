@@ -75,7 +75,7 @@ Há erros ortográficos a serem corrigidos, segue a lista:
 
 ### ID 8 - O documento do planejamento está estruturado de acordo com artefatos de planejamento anteriores (Ex: Utilizando o Framework DECIDE com seus tópicos)?
 
-O documento não segue o tópico E - Avaliar, Interpretar e Apresentar os Dados apresentado pelo Framework DECIDE e presente no [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-avaliavao-at/).
+O documento não segue o tópico E - Avaliar, Interpretar e Apresentar os Dados apresentado pelo Framework DECIDE e presente no [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-avaliavao-sb/).
 
 ### ID 10 - O documento possui quais são as perguntas a serem respondidas com a avaliação?
 
