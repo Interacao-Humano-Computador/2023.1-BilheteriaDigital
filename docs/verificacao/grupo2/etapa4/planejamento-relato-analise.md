@@ -1,10 +1,10 @@
 # Planejamento do Relato dos Resultados da Avaliação
 
-## Intodução
+## Introdução
 
 Este documento tem como objetivo a verificação do artefato [Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-Wikipedia/design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoResultadosAnalisesTarefas/) produzido pelo [Grupo 2](https://interacao-humano-computador.github.io/2023.1-Wikipedia/). O projeto em questão tem como foco de estudo o site [Wikipedia](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal). A verificação a seguir tem como alicerce a literatura Interação-Human-Computador de Barbosa e Silva <a id="anchor_1" href="#REF1">^1^</a>.
 
-## Metdodologia
+## Metodologia
 
 A fim de verificar o artefato, será realizada uma checklist, assim como foi definido na literatura utilizada para a criação desse documento <a id="anchor_1" href="#REF1">^1^</a>. A checklist  será composta por 5 perguntas padrão para todos artefatos verificados seguidas por questões direcionadas ao artefato sendo avaliado no momento, nesse caso o [Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-Wikipedia/design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoResultadosAnalisesTarefas/) . A seguir, a Tabela 1 estão registradas as perguntas que serão utilizadas como base para a verificação do artefato. A verificação está em acordo com a vesrão 1.0, concebida no dia 13 de maio de 2023.
 
@@ -35,8 +35,6 @@ A fim de verificar o artefato, será realizada uma checklist, assim como foi def
 </center>
 
 Na Tabela 1, o campo de "Avaliação" será preenchido durante o "Desenvolvimento".
-
-
 
 ## Desenvolvimento
 

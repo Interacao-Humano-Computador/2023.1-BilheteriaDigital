@@ -22,16 +22,16 @@ Os artefatos alvos dessa verificação são:
 
 - O [**Planejamento da Avaliação da Análise de Tarefas**](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-avaliavao-at/) na versão 1.2 de data 21/05/2023 produzida por [Geovanna Maciel](https://github.com/manuziny) e revisada por [Matheus Henrique](https://github.com/mathonaut).
 - O [**Planejamento do Relato dos Resultados da Análise de Tarefas**](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-relato-resultados-at/) na versão 1.0 de data 21/05/2023 produzida por [Geovanna Maciel](https://github.com/manuziny) e revisada por [Matheus Henrique](https://github.com/mathonaut).
-- O [**Planejamento da Avaliação do Storyboard**](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-relato-resultados-at/) na versão 1.1 de data 27/05/2023 produzida por [Rafael Ferreira](https://github.com/RafaelCLG0) e revisada por [Arthur de Melo](https://github.com/arthurmlv).
-- O [**Planejamento do Relato dos Resultados do Storyboard**](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-relato-resultados-at/) na versão 1.2 de data 21/05/2023 produzida por [Douglas Alves](https://github.com/dougalvs) e revisada por [Gabriel Campello](https://github.com/G16C).
+- O [**Planejamento da Avaliação do Storyboard**](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-avaliavao-sb/) na versão 1.1 de data 27/05/2023 produzida por [Rafael Ferreira](https://github.com/RafaelCLG0) e revisada por [Arthur de Melo](https://github.com/arthurmlv).
+- O [**Planejamento do Relato dos Resultados do Storyboard**](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-relato-resultados-sb/) na versão 1.2 de data 21/05/2023 produzida por [Douglas Alves](https://github.com/dougalvs) e revisada por [Gabriel Campello](https://github.com/G16C).
 
 
 Os resultados das verificações em si serão apresentados em páginas separadas e que podem ser acessados através dos seguintes links:
 
 - [Planejamento da Avaliação da Análise de Tarefas](../verificacao-planejamento-analise);
-- [Planejamento do Relato dos Resultados da Análise de Tarefas](../);
+- [Planejamento do Relato dos Resultados da Análise de Tarefas](../verificacao-planejamento-relato-analise);
 - [Planejamento da Avaliação do Storyboard](../verificacao-planejamento-storyboard);
-- [Planejamento do Relato dos Resultados do Storyboard](../).
+- [Planejamento do Relato dos Resultados do Storyboard](../verificacao-planejamento-relato-sb).
 
 ### Cronograma
 
@@ -124,16 +124,20 @@ A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o do
 
 | ID    | Descrição                                                                           | Avaliação | Observações |
 | ----- | ----------------------------------------------------------------------------------- | --------- | ----------- |
-| 6 | O planejamento define objetivo e escopo de avalição dos resultados? |  |
-| 7 | O planejamento define método de avaliação dos resultados? |  |
-| 8 | O planejamento define os participantes  selecionados (com base no perfil de usuário traçado.)? |  |
-| 9 | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados? |  |
-| 10 |O planejamento apresenta instruções com relação às sugestões de melhorias? |  |
-| 11 | O planejamento apresenta uma seção para o feedback dos usuários? |  |
-| 12 | O planejamento aborda como será realizada a análise e interpretação dos usuários quanto ao artefato exposto? |  |
-| 13 | O planejamento define tópico para sumarizar os principais resultados? |  |
+| 6 | O planejamento define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 7 | O planejamento define método de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 8 | O planejamento apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 9 | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 10 | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados? |  |
+| 11 | O planejamento apresenta instruções com relação às sugestões de melhorias?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 12 | O planejamento apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 13 | O planejamento aborda como será realizada a análise da interação do usuário com o artefato? |  |
+| 14 | O planejamento define tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 15 | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 16 | O planejamento considera no resultado um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 17 | O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato? |  |
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Campello](https://github.com/G16C).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv).</p></font>
 
 </center>
 
@@ -184,16 +188,20 @@ A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 | ID   | Descrição                                                                                             | Avaliação | Observações |
 | ---- | ----------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 6 | O planejamento define objetivo e escopo de avalição dos resultados? |  |
-| 7 | O planejamento define método de avaliação dos resultados? |  |
-| 8 | O planejamento define os participantes  selecionados (com base no perfil de usuário traçado.)? |  |
-| 9 | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados? |  |
-| 10 |O planejamento apresenta instruções com relação às sugestões de melhorias? |  |
-| 11 | O planejamento apresenta uma seção para o feedback dos usuários? |  |
-| 12 | O planejamento aborda como será realizada a análise e interpretação dos usuários quanto ao artefato exposto? |  |
-| 13 | O planejamento define tópico para sumarizar os principais resultados? |  |
+| 6 | O planejamento define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 7 | O planejamento define método de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 8 | O planejamento apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 9 | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 10 | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados? |  |
+| 11 | O planejamento apresenta instruções com relação às sugestões de melhorias?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 12 | O planejamento apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 13 | O planejamento aborda como será realizada a análise da interação do usuário com o artefato? |  |
+| 14 | O planejamento define tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 15 | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 16 | O planejamento considera no resultado um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 17 | O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato? |  |
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Campello](https://github.com/G16C).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv).</p></font>
 
 </center>
 
@@ -216,4 +224,4 @@ A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para o re
 | ------ | ---------- | -------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`  | 17/06/2023 | Criação da página.                                 | [Arthur de Melo](https://github.com/arthurmlv)   | [Matheus Henrique](https://github.com/mathonaut) |
 | `1.1`  | 17/06/2023 | Adição da checklist do planejamento da avaliação                              | [Rafael Ferreira](https://github.com/RafaelCLG0)   | [Matheus Henrique](https://github.com/mathonaut) |
-
+| `1.2`  | 18/06/2023 | Att checklists dos planejamentos dos relatos | [Arthur de Melo](https://github.com/arthurmlv) | [Matheus Henrique](https://github.com/mathonaut) |
