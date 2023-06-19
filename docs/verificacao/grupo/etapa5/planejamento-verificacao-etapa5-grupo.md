@@ -1,4 +1,4 @@
-# Planejamento da Verificação da Etapa 4 do Grupo 2
+# Planejamento da Verificação da Etapa 5 do Grupo 2
 
 ## Introdução
 
@@ -27,8 +27,8 @@ Os artefatos alvos dessa verificação são:
 
 Os resultados das verificações em si serão apresentados em páginas separadas e que podem ser acessados através dos seguintes links:
 
-- [Resultados da Verificação do Relato dos Resultados do Storyboard](../);
-- [Resultados da Verificação do Relato dos Resultados da Análise de Tarefas](../);
+- [Resultados da Verificação do Relato dos Resultados do Storyboard](../verificacao-relato-resultados-sb);
+- [Resultados da Verificação do Relato dos Resultados da Análise de Tarefas](../verificacao-relato-resultados-at);
 - [Resultados da Verificação do Planejamento da Avaliação do Protótipo de Papel](../verificacao-planejamento-prototipo);
 - [Resultados da Verificação do Planejamento do Relato dos Resultados do Protótipo de Papel](../verificacao-planejamento-relato-resultado-pp).
 
@@ -88,14 +88,18 @@ A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 | ID  | Descrição                                                         | Avaliação | Observações |
 | --- | ----------------------------------------------------------------- | --------- | ----------- |
-| 6   | Os objetivos do relato são apresentados?                          |           |             |
-| 7   | A metodologia do relato é apresentada?                            |           |             |
-| 8   | Os participantes estão documentados?                              |           |             |
-| 9   | O sumário dos dados é apresentado?                                |           |             |
-| 10  | Existe uma análise e interpretação dos dados?                     |           |             |
-| 11  | Os problemas encontrados estão listados?                          |           |             |
-| 12  | Existe sugestões e/ou planejamento de correção para os problemas? |           |             |
-| 13  | O relato dos resultados segue a estrutura do planejamento?        |           |             |
+| 6 | Define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 7 | Define o método de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 8 | O relato apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 9 | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 10 | Apresenta como foram abordados os problemas e dificuldades presentes nos resultados? |  |
+| 11 | Apresenta as sugestões de melhorias?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 12 | Apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 13 | Aborda como foi realizada a análise da interação do usuário com o artefato? |  |
+| 14 | Define um tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 15 | O resultado relembra quais foram os motivos para a realização do estudo?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 16 | Considera um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 17 | O relato segue um padrão consolidado para todos os outros relatos? |  |
 
 _Fonte: [Matheus Henrique](https://github.com/mathonaut) e [Arthur de Melo](https://github.com/arthurmlv), 2023._
 
@@ -107,18 +111,22 @@ A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 <center>
 
-**Tabela 4** - Checklist para o Resultado da Avaliação do Storyboard.
+**Tabela 4** - Checklist para o Resultado da Avaliação da Análise de Tarefas.
 
 | ID  | Descrição                                                         | Avaliação | Observações |
 | --- | ----------------------------------------------------------------- | --------- | ----------- |
-| 6   | Os objetivos do relato são apresentados?                          |           |             |
-| 7   | A metodologia do relato é apresentada?                            |           |             |
-| 8   | Os participantes estão documentados?                              |           |             |
-| 9   | O sumário dos dados é apresentado?                                |           |             |
-| 10  | Existe uma análise e interpretação dos dados?                     |           |             |
-| 11  | Os problemas encontrados estão listados?                          |           |             |
-| 12  | Existe sugestões e/ou planejamento de correção para os problemas? |           |             |
-| 13  | O relato dos resultados segue a estrutura do planejamento?        |           |             |
+| 6 | Define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 7 | Define o método de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 8 | O relato apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 9 | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 10 | Apresenta como foram abordados os problemas e dificuldades presentes nos resultados? |  |
+| 11 | Apresenta as sugestões de melhorias?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 12 | Apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 13 | Aborda como foi realizada a análise da interação do usuário com o artefato? |  |
+| 14 | Define um tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 15 | O resultado relembra quais foram os motivos para a realização do estudo?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 16 | Considera um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 17 | O relato segue um padrão consolidado para todos os outros relatos? |  |
 
 _Fonte: [Matheus Henrique](https://github.com/mathonaut) e [Arthur de Melo](https://github.com/arthurmlv), 2023._
 
@@ -202,4 +210,4 @@ _Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
 | `1.0`  | 17/06/2023 | Criação da página.                               | [Arthur de Melo](https://github.com/arthurmlv)   | [Matheus Henrique](https://github.com/mathonaut) |
 | `1.1`  | 17/06/2023 | Adição da checklist do planejamento da avaliação | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Matheus Henrique](https://github.com/mathonaut) |
 | `1.2`  | 18/06/2023 | Adição da checklist do planejamento do relato dos resultados da avaliação | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Matheus Henrique](https://github.com/mathonaut) |
-
+| `1.3`  | 18/06/2023 | Att checklists dos relatos | [Arthur de Melo](https://github.com/arthurmlv) | [Matheus Henrique](https://github.com/mathonaut) |

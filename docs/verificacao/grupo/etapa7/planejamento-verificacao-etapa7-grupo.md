@@ -27,8 +27,8 @@ Os artefatos alvos dessa verificação são:
 
 Os resultados das verificações em si serão apresentados em páginas separadas e que podem ser acessados através dos seguintes links:
 
-- [Relato dos Resultados do Protótipo de Papel](../);
-- [Planejamento da Avaliação do Protótipo de Alta Fidelidade](../verificacao/grupo/etapa7/verificacao-planejamento-alta);
+- [Relato dos Resultados do Protótipo de Papel](../verificacao-relato-resultados-pp);
+- [Planejamento da Avaliação do Protótipo de Alta Fidelidade](../verificacao-planejamento-alta);
 - [Planejamento do Relato dos Resultados](../verificacao-planejamento-relato-resultado-alta);
 
 ### Cronograma
@@ -86,7 +86,18 @@ A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 | ID  | Descrição                                                         | Avaliação | Observações |
 | --- | ----------------------------------------------------------------- | --------- | ----------- |
-
+| 6 | Define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 7 | Define o método de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 8 | O relato apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 9 | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 10 | Apresenta como foram abordados os problemas e dificuldades presentes nos resultados? |  |
+| 11 | Apresenta as sugestões de melhorias?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 12 | Apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 13 | Aborda como foi realizada a análise da interação do usuário com o artefato? |  |
+| 14 | Define um tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 15 | O resultado relembra quais foram os motivos para a realização do estudo?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 16 | Considera um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">^1^</a> |  |
+| 17 | O relato segue um padrão consolidado para todos os outros relatos? |  |
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv).</p></font>
 

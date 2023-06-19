@@ -24,8 +24,8 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação,
 
 **Tabela 1** - Checklist de Verificação.
 
-| ID  | Descrição     | Avaliação |
-| :---: | --------------------------------------------------------------------------------------------------------------- | :---------: | 
+| ID  | Descrição     | Avaliação | Observações |
+| :---: | --------------------------------------------------------------------------------------------------------------- | :---------: |  --------- | 
 | 1  | O artefato possui Introdução?                                                                                                                                      | Sim        |
 | 2  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                                                                              | Sim       |
 | 3  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?                                                             | Sim      |
@@ -36,10 +36,10 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação,
 | 8 | O planejamento apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">^1^</a> | Não |
 | 9 | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a> | Não |
 | 10 | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados? | Não |
-| 11 | O planejamento apresenta instruções com relação às sugestões de melhorias?<a id="anchor_1" href="#REF1">^1^</a> | Sim |
+| 11 | O planejamento apresenta instruções com relação às sugestões de melhorias?<a id="anchor_1" href="#REF1">^1^</a> | Sim | 
 | 12 | O planejamento apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">^1^</a> | Sim |
 | 13 | O planejamento aborda como será realizada a análise da interação do usuário com o artefato? | Não |
-| 14 | O planejamento define tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">^1^</a> | Sim |
+| 14 | O planejamento define tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">^1^</a> | Sim | 
 | 15 | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?<a id="anchor_1" href="#REF1">^1^</a> | Não |
 | 16 | O planejamento considera no resultado um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">^1^</a> | Não |
 | 17 | O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato? | Não |

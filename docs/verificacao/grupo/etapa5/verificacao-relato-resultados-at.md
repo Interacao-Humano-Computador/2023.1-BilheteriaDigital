@@ -24,8 +24,8 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação,
 
 **Tabela 1** - Checklist de Verificação.
 
-| ID  | Descrição     | Avaliação |
-| :---: | --------------------------------------------------------------------------------------------------------------- | :---------: | 
+| ID  | Descrição     | Avaliação |  Observações |
+| :---: | --------------------------------------------------------------------------------------------------------------- | :---------: | --------- | 
 | 1  | O artefato possui Introdução?                                                                                                                                      | Não        |
 | 2  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                                                                              | Não se Aplica       |
 | 3  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?                                                             | Sim      |

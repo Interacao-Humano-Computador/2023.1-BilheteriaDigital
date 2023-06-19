@@ -24,8 +24,8 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação,
 
 **Tabela 1** - Checklist de Verificação.
 
-| ID  | Descrição     | Avaliação |
-| :---: | --------------------------------------------------------------------------------------------------------------- | :---------: | 
+| ID  | Descrição     | Avaliação |  Observações |
+| :---: | --------------------------------------------------------------------------------------------------------------- | :---------: | --------- | 
 | 1  | O artefato possui Introdução?                                                                                                                                      | Sim        |
 | 2  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                                                                              | Sim       |
 | 3  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?                                                             | Sim      |
@@ -34,7 +34,7 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação,
 | 6 | Define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a> | Sim |
 | 7 | Define o método de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a> | Sim |
 | 8 | O relato apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">^1^</a> | Sim |
-| 9 | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a> | Não |
+| 9 | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a> | Não | Não é citado o perfil de usuário ao falar dos participantes.
 | 10 | Apresenta como foram abordados os problemas e dificuldades presentes nos resultados? | Sim |
 | 11 | Apresenta as sugestões de melhorias?<a id="anchor_1" href="#REF1">^1^</a> | Sim |
 | 12 | Apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">^1^</a> | Sim |

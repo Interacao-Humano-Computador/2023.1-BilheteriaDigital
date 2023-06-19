@@ -24,13 +24,13 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação,
 
 **Tabela 1** - Checklist de Verificação.
 
-| ID  | Descrição     | Avaliação |
-| :---: | --------------------------------------------------------------------------------------------------------------- | :---------: | 
+| ID  | Descrição     | Avaliação | Observações |
+| :---: | --------------------------------------------------------------------------------------------------------------- | :---------: | --------- | 
 | 1  | O artefato possui Introdução?                                                                                                                                      | Sim        |
 | 2  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                                                                              | Sim       |
 | 3  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?                                                             | Sim      |
 | 4  | Todos os textos estão na norma padrão?                                                                                                                             | Sim       |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                                                       | Não      |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                                                       | Não      | Tabela 1 |
 | 6 | Define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a> | Sim |
 | 7 | Define o método de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a> | Sim |
 | 8 | O relato apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">^1^</a> | Sim |
