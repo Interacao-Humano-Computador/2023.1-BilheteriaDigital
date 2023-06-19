@@ -23,7 +23,7 @@ Para a verificação do artefato, será feita uma checklist com base no que fora
 |  6  |   As ferramentas presentes no artefato são usadas no projeto?        |    Sim       |             |
 |  7  |   Na descrição, está explicito o uso daquela ferramenta dentro do projeto?        |      Sim     |             |
 |  8  |   O artefato foi atualizado em caso de adição de uma nova ferramenta?        |     Não     |      Será explicado no texto.      |
-|  9  |   As ferrentas são referenciadas no artefato e tem seus links disponibilizados na referência?         |       Incompleto    |    Como resultado de estarem faltando 2 ferramentas seus links não estão disponibilizados.         |
+|  9  |   As ferramentas são referenciadas no artefato e tem seus links disponibilizados na referência?         |       Incompleto    |    Como resultado de estarem faltando 2 ferramentas seus links não estão disponibilizados.         |
 | 10  |   As ferramentas apresentam uma breve descrição de suas funcionalidades?        |     Sim      |             |
 
 _Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Gabriel Campello](https://github.com/G16C), 2023._

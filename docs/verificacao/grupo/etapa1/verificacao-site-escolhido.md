@@ -3,7 +3,7 @@
 
 ## Introdução
 
-Este documento é de verificação do artefato [Site Escolhido](../../../../planejamento/site-escolhido) produzido pelo [Grupo da disciplina de IHC](https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital) que tem o projeto voltado ao site Bilheteria Digital. Com base nisso, o artefato [Site Escolhido](../../../../planejamento/site-escolhido) será verificado de acordo com a literatura Interação-Humano-Computador de Barbosa e Silvareferida<a id=anchor_1 href="#REF1"><sup>1</sup></a>.
+Este documento é de verificação do artefato [Site Escolhido](../../../../planejamento/site-escolhido) produzido pelo [Grupo da disciplina de IHC](https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital) que tem o projeto voltado ao site Bilheteria Digital. Com base nisso, o artefato [Site Escolhido](../../../../planejamento/site-escolhido) será verificado de acordo com a literatura Interação-Humano-Computador de Barbosa e Silva referida<a id=anchor_1 href="#REF1"><sup>1</sup></a>.
 
 ## Metodologia
 

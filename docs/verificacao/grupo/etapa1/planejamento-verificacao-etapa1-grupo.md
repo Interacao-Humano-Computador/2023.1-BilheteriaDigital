@@ -24,7 +24,7 @@ Cada participante será responsável por verificar um ou mais artefatos da entre
 
 | Artefato                                                                                                                                                                                                                        | Responsável                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| [Cronogrma](../../../../planejamento/cronograma)                                                                                                                                                                          | [Gabriel Campello](https://github.com/G16C)     |
+| [Cronograma](../../../../planejamento/cronograma)                                                                                                                                                                          | [Gabriel Campello](https://github.com/G16C)     |
 | [Ferramentas](../../../../planejamento/ferramenta) e [Processo de Design](../../../../planejamento/processo-design)                                                                                                   | [Gabriel Campello](https://github.com/G16C)   |
 | [Site escolhido](../../../../planejamento/site-escolhido)  | [Gabriel Campello](https://github.com/G16C) |
 
@@ -43,10 +43,10 @@ Os artefatos alvos dessa verificação são:
 
 Os resultados das verificações em si serão apresentados em páginas separadas e podem ser acessados através dos seguintes links:
 
-- [Resultados da Verificação do Cronograma]();
-- [Resultados da Verificação das Ferramentas]();
-- [Resultados da Verificação do Processo de Design]();
-- [Resultados da Verificação do Site escolhido]();
+- [Resultados da Verificação do Cronograma](../etapa1/verificacao-cronogrma.md);
+- [Resultados da Verificação das Ferramentas](../etapa1/verificacao-ferramentas.md);
+- [Resultados da Verificação do Processo de Design](../etapa1/verificacao-processo-design.md);
+- [Resultados da Verificação do Site escolhido](../etapa1/verificacao-site-escolhido.md);
 
 ### Cronograma
 
@@ -109,7 +109,7 @@ Em relação aos itens de verificação, a questão 10 e 11 foram retiradas da c
 | :-: | -------------------------------------------------------------------------------------------------------------- | :-------: | ----------- |
 |  6  |     O cronograma contém  autores, revisores, datas de execução e revisão?       |           |             |
 |  7  |     O cronograma foi elaborado em tabelas?        |           |            |
-|  8  |     O cronogrma apresenta o planejado e o executado?        |           |            |
+|  8  |     O cronograma apresenta o planejado e o executado?        |           |            |
 |  9  |     O cronograma foi atualizado conforme as entregas foram sendo executadas?        |           |            |
 | 10  |     Os revisores são pessoas diferentes dos autores?        |           |            |
 | 11  |     Existem atividades redundantes dentro do cronograma?        |           |            |
@@ -133,7 +133,7 @@ Em relação aos itens de verificação, a questão 7 foi retirada da checklist 
 |  6  |   As ferramentas presentes no artefato são usadas no projeto?        |           |             |
 |  7  |   Na descrição, está explicito o uso daquela ferramenta dentro do projeto?        |           |             |
 |  8  |   O artefato foi atualizado em caso de adição de uma nova ferramenta?        |           |             |
-|  9  |   As ferrentas são referenciadas no artefato e tem seus links disponibilizados na referência?         |           |             |
+|  9  |   As ferramentas são referenciadas no artefato e tem seus links disponibilizados na referência?         |           |             |
 | 10  |   As ferramentas apresentam uma breve descrição de suas funcionalidades?        |           |             |
 
 _Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Gabriel Campello](https://github.com/G16C), 2023._
@@ -176,8 +176,8 @@ Em relação aos itens de verificação, as questões 8 e 10 foram retiradas da 
 | :--: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
 |  6   |   O motivo da escolha do site foi definido?    |           |             |
 |  7   |   O artefato apresenta quais fatores foram determinantes para escolha do site?    |           |             |
-|  8   |   Na avaliação eurística, todas as heurísticas foram detalhadas apropriadamente?   |           |             |
-|  9   |    As eurísticas apresentam imagens, a fim de ilustrar os problemas encontrados?   |           |             |
+|  8   |   Na avaliação heurística, todas as heurísticas foram detalhadas apropriadamente?   |           |             |
+|  9   |    As heurísticas apresentam imagens, a fim de ilustrar os problemas encontrados?   |           |             |
 |  10  |    Os problemas encontrados nas heurísticas possuem suas tabelas de detalhamento da heurística?   |           |             |
 
 
