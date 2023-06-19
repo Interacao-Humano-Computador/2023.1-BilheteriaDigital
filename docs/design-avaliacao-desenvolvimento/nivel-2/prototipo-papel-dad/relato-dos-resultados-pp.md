@@ -1,4 +1,4 @@
-# Planejamento do Relato dos Resultados
+# Relato dos Resultados do Protótipo de Papel
 
 ## Introdução
 
@@ -8,19 +8,21 @@ Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela 
 
 A referida avaliação objetivou a obtenção de uma análise de usuários reais a fim de reelaborar os fluxos ou as ações. Além disso, também é de suma importância a questão da organização dos elementos da página, tais como a barra de pesquisa e a disposição dos eventos publicados na tela, por mais que não haja um detalhamento em um protótipo de baixa fidelidade.
 
-### Metodologia Utilizada
+### Método de avaliação
 
 Os dados foram coletados por meio de cinco entrevistas. No início de todas as entrevistas foi apresentado o termo de consentimento para que o entrevistado dê sua resposta, sempre reforçando o fato de que está sendo gravado e de que a gravação será publicada. As reuniões foram feitas no Discord, e o método para a realização das entrevistas foi o citado no [planejamento](../planejamento-avaliacao-pp). Portanto, fez-se a parte de preparação, e depois a coleta de dados. Antes do usuário interagir com o protótipo de papel, o entrevistador instruiu as ações que o entrevistado deve realizar, e que esse deve falar em voz alta o que está fazendo. 
 
 A primeira atividade a ser realizada foi a de compra. Para realizar a compra, o usuário se encontrava na página inicial, na qual faria a busca de um evento específico, sem a necessidade de digitar, o evento já apareceria na página de busca. Após isso, selecionaria o segundo evento da primeira coluna e selecionaria a quantidade de ingressos. Depois de confirmar a quantidade de ingressos, na página de confirmar compra, ele escolheria a forma de pagamento, aceitaria os termos de uso e confirmaria a compra, o que faria voltar para a página inicial. Por fim, seria feito o cancelamento da referida compra. Para isso, ele clicaria em "Meu Perfil" e, em seguida, em "Ver detalhes". Ao clicar em cancelar, apareceria uma janela na qual ele confirmaria o cancelamento. Ao findar essa atividade, ele receberia o comprovante de seu cancelamento. 
 
-### Participantes
+Caso queira conferir o protótipo de papel, <a href="https://marvelapp.com/prototype/9i40deb" target="blanket">clique aqui</a>.
 
-O número de participantes foi de sete pessoas, sendo dois entrevistadores e cinco usuários. A escolha desse número se deu por conta da ausência de relato de problemas em caso de poucas entrevistas, como havia sido planejado. A escolha dos participantes levou em conta o [perfil de usuário](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/perfil-usuario/#conclusao), tendo estes entre 20 e 35 anos e também são, de certa forma, tecnófilos.
+<p style="text-align: center"><iframe width="560" height="315" src="https://marvelapp.com/prototype/9i40deb"></iframe></p>
+
+O cronograma planejado para as entrevistas está presente na Tabela 1.
 
 <center>
 
-**Tabela 1** - Template para o cronograma.
+**Tabela 1** - Cronograma Planejado.
 
 | Entrevistadores | Usuário | Data       | Início-Fim  | Local              |
 | ------------- | ------- | ---------- | ----------- | ------------------ |
@@ -35,11 +37,49 @@ Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Matheus Henrique](https
 
 </center>
 
-### Sumário dos Dados
+### Seleção dos participantes 
 
-Caso queira conferir o protótipo de papel, <a href="https://marvelapp.com/prototype/9i40deb" target="blanket">clique aqui</a>.
+O número de participantes foi de sete pessoas, sendo dois entrevistadores e cinco usuários. A escolha desse número se deu por conta da ausência de relato de problemas em caso de poucas entrevistas, como havia sido planejado. A escolha dos participantes levou em conta o [perfil de usuário](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/perfil-usuario/#conclusao), tendo estes entre 20 e 35 anos e também são, de certa forma, tecnófilos.
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://marvelapp.com/prototype/9i40deb"></iframe></p>
+### Problemas e dificuldades encontradas
+
+A princípio as entrevistas ocorreram de forma fluida e sem gargalos. O usuários conseguiram identificar rapidamente o que devia ser feito em cada tela. No entanto, o preocupante foi a ausência de críticas ao protótipo criado. Sendo assim, teve-se que fazer uma análise de cada entrevista, por meio da gravação, após a realização dessas para identificar mais erros e possíveis entraves de acordo com as ações dos usuários.
+
+### Sugestões de melhoria 
+
+Sendo assim, um dos entrevistados sugeriu a lupa da barra de pesquisa ser posicionada à direita. No entanto, essa foi uma das poucas críticas feitas e documentáveis. Além disso, foi feita uma análise das gravações e pode-se inferir que a ação de cancelar compra ausenta de métodos de segurança, dado que é uma ação crítica e sem retorno. Portanto, deve-se adicionar uma opção a mais para confirmar o cancelamento de alguma forma.
+
+### Feedback dos usuários
+
+A primeira entrevista foi feita com o usuário <span style = "color: orange"> Nicolas Bomfim</span>. O qual realizou as atividades rapidamente e apontou que a lupa na barra de pesquisa deveria ficar posicionada ao lado direito de tal. Isso levantou também a possibilidade de outros elementos não estarem seguindo um padrão já comum em outros sites, por mais que não sejam de mesma natureza.
+
+A segunda entrevista foi feita com o usuário <span style = "color: orange"> Lucas Maciel</span>. Da mesma forma, realizou as atividades rapidamente e elogiou a barra de porcentagem de ingressos restantes.
+
+A terceira entrevista foi feita com a usuária <span style = "color: orange"> Rayssa Figueiredo</span>. Da mesma forma, realizou as atividades rapidamente e apontou que a interface lhe fora apresentada de forma simples.
+
+A quarta entrevista foi feita com o usuário <span style = "color: orange"> Sidney Fernando</span>. O qual também realizou as atividades rapidamente em menos de 4 minutos e apontou que os elementos da interface foram dispostos de forma intuitiva e que achou fácil de se utilizar.
+
+A quinta entrevista foi feita com o usuário <span style = "color: orange"> Pedro Henrique</span>. O qual também realizou as atividades rapidamente em menos de 4 minutos e apontou que os elementos da interface foram dispostos de forma intuitiva e que achou fácil de se utilizar.
+
+### Análise e interpretação dos resultados
+
+Esse tópico apresenta uma análise dos dados obtidos e quais foram os problemas encontrados em cada tarefa, contendo uma descrição breve de como o problema ocorreu. Além disso, o tempo médio das entrevistas, sem o tempo de apresentação e de introdução da atividade incluso, foi de 3 minutos. Portanto, infere-se que a interface está, de modo geral, intuitiva e as ações condizem até certo ponto com a expectativa do usuário.
+
+Os entraves encontrados a partir da análise das entrevista estão listados a seguir:
+
+- Na barra de pesquisa, a lupa está posicionada à esquerda.
+- Ao cancelar a compra, seria interessante uma checkbox para confirmar se a pessoa realmente quer cancelar a compra para liberar o botão de cancelamento definitivo.
+- A disposição dos botões de cancelar a compra não segue um padrão já esperado para ações similares.
+- O botão "cancelar", que se refere ao botão de cancelar a atividade de cancelar compra, pode causar confusão.
+
+### Sumário dos principais resultados
+
+Isso posto, propõe-se as seguintes sugestões de correção:
+
+- Reposicionar a lupa na barra de pesquisa para a direita.
+- Reforçar contra erros a ação de cancelamento.
+- Reestruturar a posição dos botões na ação de cancelar.
+- Remover a ambiguidade do botão "cancelar" na ação de cancelar compra, por meio da escolha de outros termos.
 
 #### Entrevista 1
 
@@ -49,8 +89,6 @@ Caso queira conferir o protótipo de papel, <a href="https://marvelapp.com/proto
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
-A primeira entrevista foi feita com o usuário <span style = "color: orange"> Nicolas Bomfim</span>. O qual realizou as atividades rapidamente e apontou que a lupa na barra de pesquisa deveria ficar posicionada ao lado direito de tal. Isso levantou também a possibilidade de outros elementos não estarem seguindo um padrão já comum em outros sites, por mais que não sejam de mesma natureza.
-
 #### Entrevista 2
 
 <p style="text-align: center"><a href="https://www.youtube.com/embed/6zlfjwXuqHM" target="blanket">Entrevista 2</a></p>
@@ -58,8 +96,6 @@ A primeira entrevista foi feita com o usuário <span style = "color: orange"> Ni
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/6zlfjwXuqHM"></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
-
-A segunda entrevista foi feita com o usuário <span style = "color: orange"> Lucas Maciel</span>. Da mesma forma, realizou as atividades rapidamente e elogiou a barra de porcentagem de ingressos restantes.
 
 #### Entrevista 3
 
@@ -69,8 +105,6 @@ A segunda entrevista foi feita com o usuário <span style = "color: orange"> Luc
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
-A terceira entrevista foi feita com a usuária <span style = "color: orange"> Rayssa Figueiredo</span>. Da mesma forma, realizou as atividades rapidamente e apontou que a interface lhe fora apresentada de forma simples.
-
 #### Entrevista 4
 
 <p style="text-align: center"><a href="https://www.youtube.com/embed/DDR0PUKf4YQ" target="blanket">Entrevista 4</a></p>
@@ -78,8 +112,6 @@ A terceira entrevista foi feita com a usuária <span style = "color: orange"> Ra
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/DDR0PUKf4YQ"></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
-
-A quarta entrevista foi feita com o usuário <span style = "color: orange"> Sidney Fernando</span>. O qual também realizou as atividades rapidamente em menos de 4 minutos e apontou que os elementos da interface foram dispostos de forma intuitiva e que achou fácil de se utilizar.
 
 #### Entrevista 5
 
@@ -89,27 +121,19 @@ A quarta entrevista foi feita com o usuário <span style = "color: orange"> Sidn
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
-A quinta entrevista foi feita com o usuário <span style = "color: orange"> Pedro Henrique</span>. O qual também realizou as atividades rapidamente em menos de 4 minutos e apontou que os elementos da interface foram dispostos de forma intuitiva e que achou fácil de se utilizar.
+### Planejamento de Reprojeto
 
-### Interpretação e Problemas Encontrados
+As mudanças sugeridas e os outras vicissitudes encontradas ao se fazer a análise do artefato especificado devem ser consideradas para a realização de um reprojeto. No entanto, tal reprojeto deve manter a base do projeto original e realizar somente as alterações necessárias de fato. Logo, a Tabela 2 explicita um cronograma de reprojeto para realizar as mudanças sugeridas e analisadas.
 
-Esse tópico apresenta uma análise dos dados obtidos e quais foram os problemas encontrados em cada tarefa, contendo uma descrição breve de como o problema ocorreu. Além disso, o tempo médio das entrevistas, sem o tempo de apresentação e de introdução da atividade incluso, foi de 3 minutos. Portanto, infere-se que a interface está, de modo geral, intuitiva e as ações condizem até certo ponto com a expectativa do usuário.
+<center>
+**Tabela 2** - Cronograma de Reprojeto.
 
-Os entraves encontrados a partir da análise das entrevista estão listados a seguir:
+| Executores do Reprojeto  | Horário de Início | Horário de Fim |    Data    |
+| :----------------:  | :---------------: | :------------: | :--------: |
+| [Douglas Alves](https://github.com/dougalvs) e [Geovanna Maciel](https://github.com/manuziny)  | 19:00 | 19:30 | 11/06/2023 |
 
-- Na barra de pesquisa, a lupa está posicionada à esquerda.
-- Ao cancelar a compra, seria interessante uma etapa de segurança a mais.
-- A disposição dos botões de cancelar a compra não segue um padrão já esperado para ações similares.
-- O botão "cancelar", que se refere ao botão de cancelar a atividade de cancelar compra, pode causar confusão.
-
-### Propostas de Correções
-
-Isso posto, propõe-se as seguintes sugestões de correção:
-
-- Reposicionar a lupa na barra de pesquisa para a direita.
-- Reforçar contra erros a ação de cancelamento.
-- Reestruturar a posição dos botões na ação de cancelar.
-- Remover a ambiguidade do botão "cancelar" na ação de cancelar compra, por meio da escolha de outros termos.
+**Fonte** - [Arthur de Melo](https://github.com/arthurmlv).
+</center>
 
 ## Bibliografia
 
