@@ -58,8 +58,10 @@ A verificação será realizada no período de 17 de junho de 2023 até dia 18 d
 
 | Data       | Descrição                                                      | Responsável                                                                                                                                     |
 | ---------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 18/06/2023 | Verificação do artefato de Guia de Estilo.                     | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
-| 18/06/2023 | Relato da verificação do artefato de Guia de Estilo.           | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
+| 18/06/2023 | Verificação do artefato de Guia de Estilo.                     | [Matheus Henrique](https://github.com/mathonaut)   |
+| 18/06/2023 | Relato da verificação do artefato de Guia de Estilo.           | [Matheus Henrique](https://github.com/mathonaut)  |
+| 18/06/2023 | Relato da verificação do artefato de Princípios Gerais.           | [Douglas Alves](https://github.com/dougAlvs)  |
+| 18/06/2023 | Relato da verificação do artefato de Características Gerais.           | [Douglas Alves](https://github.com/dougAlvs)  |
 | 19/06/2023 | Entrega final das verificações e correções na página do grupo. | [Douglas Alves](https://github.com/dougAlvs), [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut) |
 
 _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
@@ -233,3 +235,5 @@ _Fonte: [Arthur Henrique](https://github.com/black258br), [Matheus Henrique](htt
 | ------ | ---------- | -------------------------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------- |
 | `1.0`  | 18/06/2023 | Criação da página.                     | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)                                                  |
 | `1.1`  | 18/06/2023 | Adição da checklist do Guia de Estilo. | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) |
+| `1.2`  | 19/06/2023 | Adição da checklist dos Princípios Gerais. | [Douglas Alves](https://github.com/dougAlvs) | [Matheus Henrique](https://github.com/mathonaut) e [Geovanna Maciel](https://github.com/manuziny) |
+| `1.3`  | 19/06/2023 | Adição da checklist das Características Gerais. | [Douglas Alves](https://github.com/dougAlvs) | [Matheus Henrique](https://github.com/mathonaut) e [Geovanna Maciel](https://github.com/manuziny) |
