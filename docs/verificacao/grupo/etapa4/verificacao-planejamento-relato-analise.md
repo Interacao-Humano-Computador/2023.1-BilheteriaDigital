@@ -86,6 +86,34 @@ A figura 1 é possível análisar um gráfico com o percentual de erros e acerto
 <iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vShKnaPTezRS2ZpplH7ZgryWI9V2PJmKEd7U7_mjfp2rioJiHRcj5NdFOPz1Wx2ldVIyLjD3qiWjOJC/pubchart?oid=1804249118&format=interactive"></iframe><figcaption><font size="3">Fonte: [Arthur de Melo](https://github.com/arthurmlv)</font></figcaption>
 </figure>
 
+Antes dos ajustes, a divisão dos tópicos para o referido artefato era a seguinte:
+
+* Introdução
+* Metodologia
+* Tópicos
+* Objetivo e escopo da avaliação
+* Método de avaliação
+* Seleção dos participantes
+* Problemas e dificuldades encontradas
+* Sugestões de melhoria
+* Feedback dos usuários
+* Análise e interpretação dos usuários
+* Sumários dos principais resultados
+
+Sendo assim, a definição para o padrão dos tópicos do planejamento dos relatos é a seguinte<a id="anchor_1" href="#REF1">^1^</a>:
+
+* Introdução
+* Metodologia
+* Tópicos
+* Objetivo e escopo da avaliação
+* Método de avaliação
+* Seleção dos participantes
+* Problemas e dificuldades encontradas
+* Sugestões de melhoria
+* Feedback dos usuários
+* Análise e interpretação dos usuários
+* Sumários dos principais resultados
+* Planejamento de reprojeto
 
 ## Referências Bibliográficas
 
