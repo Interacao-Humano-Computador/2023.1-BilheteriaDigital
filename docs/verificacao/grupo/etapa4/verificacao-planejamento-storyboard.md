@@ -122,34 +122,6 @@ A figura 1 é possível análisar um gráfico com o percentual de erros e acerto
 <iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWs8eg31c2-oQxuwxD9eeSYCMdpTouo8fxO41asW_45pB6Dxykjz4FRxfhHJITZ9BCShevDFBzLPo1/pubchart?oid=1992690896&amp;format=interactive"></iframe><figcaption><font size="3">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0)</font></figcaption>
 </figure>
 
-Antes dos ajustes, a divisão dos tópicos para o referido artefato era a seguinte:
-
-* Introdução
-* Metodologia
-* Tópicos
-* Objetivos da Avaliação
-* Método
-* Avaliadores e Participantes
-* Sumário dos Dados
-* Problemas Relatados
-* Sugestões dos Usuários
-
-
-Sendo assim, a definição para o padrão dos tópicos do planejamento dos relatos é a seguinte<a id="anchor_1" href="#REF1">^1^</a>:
-
-* Introdução
-* Metodologia
-* Tópicos
-* Objetivo e escopo da avaliação
-* Método de avaliação
-* Seleção dos participantes
-* Problemas e dificuldades encontradas
-* Sugestões de melhoria
-* Feedback dos usuários
-* Análise e interpretação dos usuários
-* Sumários dos principais resultados
-* Planejamento de reprojeto
-
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
