@@ -169,13 +169,16 @@ A tabela 6 a seguir apresenta a checklist referente ...
 |  9  |           |           |             |
 | 10  |           |           |             |
 
+
 _Fonte: Autor, 2023._
 
 </center>
 
 ### Personas
+A tabela 7 a seguir apresenta a checklist referenteao artefato das [personas](../../../../analise-de-requisitos/personas), ela foi construída tendo como base o livro texto Interação Humano-Computador da autoria de Bruno Silva e Simone Barbosa e a checklist produzida pelo integrante do grupo [Geovanna Maciel](https://github.com/manuziny) no contexto da [verificação do mesmo artefato do grupo 2](../../../grupo2/etapa2/personas).<a id=anchor_6 href="#REF6"><sup>6</sup></a>
 
-A tabela 7 a seguir apresenta a checklist referente ...
+Em relação aos itens de verificação, as questões 6 a 15 foram retiradas da checklist de [verificação da etapa 2 do grupo 2](../../../grupo2/etapa2/perfil-de-usuario).<a href="#REF6"><sup>6</sup></a>A questão 16 foi baseada na [checklist](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/pc2/#verificacao-personas) que o grupo 8 elaborou na verificação do nosso grupo e se baseia na definição de persona de Cooper (2007, p. 75)<a href="#REF5"><sup>5</sup></a>.
+
 
 <center>
 
@@ -183,13 +186,19 @@ A tabela 7 a seguir apresenta a checklist referente ...
 
 | ID  | Descrição | Avaliação | Observações |
 | :-: | --------- | --------- | ----------- |
-|  6  |           |           |             |
-|  7  |           |           |             |
-|  8  |           |           |             |
-|  9  |           |           |             |
-| 10  |           |           |             |
+| 6 | A persona possui identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas? | | |
+| 7 | A persona primária possui elasticidade? | | | 
+| 8 | A persona primária é sólida e tangível o suficiente para colocar os pressupostos de design em perspectiva? | | |
+| 9 | O elenco de personas torna evidente quais são os objetivos dos usuários? | | |
+| 10 | O elenco de personas tem entre 3 a 12 personas? | | |
+| 11 | Possui justificativa do número? | | |
+| 12 | Possui uma antipersona definida? | | |
+| 13 | Há algum método para descobrir o objetivo das personas? | | |
+| 14 | Possui objetivos pessoais, corporativos e práticos? | | |
+| 15 | Há algum objetivo de experiência da persona? | | |
+| 16 | O elenco de personas é definido a partir do perfil de usuário? | | |
 
-_Fonte: Autor, 2023._
+_Fonte: [Geovanna Maciel](https://github.com/manuziny), [Douglas Alves](https://github.com/dougAlvs) e [Marcus Vinicius](https://github.com/MarcusVcd), 2023._
 
 </center>
 
@@ -259,6 +268,9 @@ _Fonte: Autor, 2023._
 
 > <a id="REF4" href="#anchor_4">4.</a> DIAPER, D.; STANTON, N. **The handbook of task analysis for human-computer interaction.** New Jersey: Lawrence Erlbaum Associates, 2003.
 
+> <a id="REF5" href="#anchor_5">5.</a> Cooper, A.; Reimann, R.; Cronin, D. About Face 3: The Essentials of Interaction Design. New York, NY: John Wiley & Sons, 2007.
+
+> <a id="REF6" href="#anchor_6">6.</a> MACIEL, Geovanna. Personas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa2/personas>>. Acesso em: 19 maio 2023.
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                                                          | Autor(es)                                        | Revisor(es)                                  |
