@@ -116,8 +116,11 @@ nav:
           - Aspectos éticos: verificacao/grupo/etapa2/aspectos-eticos.md
           - Cenários: verificacao/grupo/etapa2/cenarios.md
           - Perfil de Usuário: verificacao/grupo/etapa2/perfil-de-usuario.md
+          - Análise de Tarefas - Análise Hierárquica de Tarefas: verificacao/grupo/etapa2/at-hta.md
+          - Análise de Tarefas - GOMS: verificacao/grupo/etapa2/at-goms.md
       - Etapa 3:
           - Planejamento da Verificação da Etapa 3: verificacao/grupo/etapa3/planejamento-verificacao-etapa3-grupo.md
+          - Guia de Estilo: verificacao/grupo/etapa3/guia-de-estilo.md
       - Etapa 4:
           - Planejamento da Verificação da Etapa 4: verificacao/grupo/etapa4/planejamento-verificacao-etapa4-grupo.md
       - Etapa 5:

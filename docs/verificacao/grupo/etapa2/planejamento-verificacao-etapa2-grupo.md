@@ -49,8 +49,8 @@ Os resultados das verificações em si serão apresentados em páginas separadas
 - [Resultados da Verificaçã do Perfil de Usuário](../perfil-de-usuario);
 - [Resultados da Verificaçã do Cenários](../cenarios);
 - [Resultados da Verificaçã do Personas]();
-- [Resultados da Verificaçã do Análise de Tarefas - Análise Hierárquica de Tarefas]();
-- [Resultados da Verificaçã do Análise de Tarefas - GOMS]().
+- [Resultados da Verificaçã do Análise de Tarefas - Análise Hierárquica de Tarefas](../at-hta);
+- [Resultados da Verificaçã do Análise de Tarefas - GOMS](../at-goms).
 
 ### Cronograma
 
@@ -60,14 +60,14 @@ A verificação será realizada no período de 17 de junho de 2023 até dia 18 d
 
 **Tabela 2** - Cronograma das Atividades.
 
-| Data       | Descrição                                                                                                                     | Responsável                                                                                                                                     |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 17/06/2023 | Verificação do artefato de Perfil de Usuário.                                                                                 | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
-| 17/06/2023 | Verificação do artefato de Análise de Tarefas - Análise Hierárquica de Tarefas.                                               | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
-| 18/06/2023 | Relato da verificação do artefato de Perfil de Usuário e correção dos problemas.                                              | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
-| 18/06/2023 | Verificação do artefato de Análise de Tarefas - GOMS.                                                                         | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
-| 18/06/2023 | Relato das verificações dos artefatos de Análise de Tarefas (Análise Hierárquica de Tarefas e GOMS) e correção dos problemas. | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
-| 19/06/2023 | Entrega final das verificações e correções na página do grupo.                                                                | [Douglas Alves](https://github.com/dougAlvs), [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut) |
+| Data       | Descrição                                                                                            | Responsável                                                                                                                                     |
+| ---------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 17/06/2023 | Verificação do artefato de Perfil de Usuário.                                                        | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
+| 17/06/2023 | Verificação do artefato de Análise de Tarefas - Análise Hierárquica de Tarefas.                      | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
+| 18/06/2023 | Relato da verificação do artefato de Perfil de Usuário e correção dos problemas.                     | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
+| 18/06/2023 | Verificação do artefato de Análise de Tarefas - GOMS.                                                | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
+| 18/06/2023 | Relato das verificações dos artefatos de Análise de Tarefas (Análise Hierárquica de Tarefas e GOMS). | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
+| 19/06/2023 | Entrega final das verificações e correções na página do grupo.                                       | [Douglas Alves](https://github.com/dougAlvs), [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut) |
 
 _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
@@ -208,24 +208,24 @@ Em relação aos itens de verificação, as questões 7, 8 e 9 foram retiradas d
 
 **Tabela 8** - Checklist para o artefato de Análise Hierárquica de Tarefas.
 
-|  ID  | Descrição                                                                                                                                                                              | Avaliação | Observações |
-| :--: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-|  6   | Os objetivos a serem alcançados são apresentados?                                                                                                                                      |           |             |
-|  7   | As tarefas foram descritas em termos de objetivos que os usuários precisam executar, evitando descrições vagas ou ambíguas? d                                                          |           |             |
-|  8   | As tarefas apresentadas são verossímeis? d                                                                                                                                             |           |             |
-|  9   | As tarefas foram formuladas de maneira conceitual e orientada ao usuário, focando nas ações que eles executam, em vez de detalhes técnicos ou da implementação/interface do sistema? d |           |             |
-|  10  | As tarefas são decompostas?                                                                                                                                                            |           |             |
-|  11  | As tarefas relacionam o que as pessoas fazem com o porquê o fazem e quais as consequências caso não façam corretamente?                                                                |           |             |
-|  12  | Os diagramas apresentam os elementos esperados (plano, objetivos, operações e as relações entre os subobjetivos)?                                                                      |           |             |
-|  13  | As operações são especificadas?                                                                                                                                                        |           |             |
-| 13.1 | Elas possuem entradas?                                                                                                                                                                 |           |             |
-| 13.2 | Elas possuem ações?                                                                                                                                                                    |           |             |
-| 13.2 | Elas possuem _feedbacks_?                                                                                                                                                              |           |             |
-|  14  | A decomposição termina quando os objetivos são atingidos ou quando a origem de um erro é identificada?                                                                                 |           |             |
-|  15  | As tarefas são apresentadas em tabelas?                                                                                                                                                |           |             |
-| 15.1 | As tabelas apresentam os objetivos/operações?                                                                                                                                          |           |             |
-| 15.2 | As tabelas apresentam os problemas e recomendações?                                                                                                                                    |           |             |
-| 15.3 | As tabelas apresentam as entradas, ações, _feedbacks_ e os planos?                                                                                                                     |           |             |
+|  ID  | Descrição                                                                                                                                                                            | Avaliação | Observações |
+| :--: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ----------- |
+|  6   | Os objetivos a serem alcançados são apresentados?                                                                                                                                    |           |             |
+|  7   | As tarefas foram descritas em termos de objetivos que os usuários precisam executar, evitando descrições vagas ou ambíguas?                                                          |           |             |
+|  8   | As tarefas apresentadas são verossímeis?                                                                                                                                             |           |             |
+|  9   | As tarefas foram formuladas de maneira conceitual e orientada ao usuário, focando nas ações que eles executam, em vez de detalhes técnicos ou da implementação/interface do sistema? |           |             |
+|  10  | As tarefas são decompostas?                                                                                                                                                          |           |             |
+|  11  | As tarefas relacionam o que as pessoas fazem com o porquê o fazem e quais as consequências caso não façam corretamente?                                                              |           |             |
+|  12  | Os diagramas apresentam os elementos esperados (plano, objetivos, operações e as relações entre os subobjetivos)?                                                                    |           |             |
+|  13  | As operações são especificadas?                                                                                                                                                      |           |             |
+| 13.1 | Elas possuem entradas?                                                                                                                                                               |           |             |
+| 13.2 | Elas possuem ações?                                                                                                                                                                  |           |             |
+| 13.3 | Elas possuem _feedbacks_?                                                                                                                                                            |           |             |
+|  14  | A decomposição termina quando os objetivos são atingidos ou quando a origem de um erro é identificada?                                                                               |           |             |
+|  15  | As tarefas são apresentadas em tabelas?                                                                                                                                              |           |             |
+| 15.1 | As tabelas apresentam os objetivos/operações?                                                                                                                                        |           |             |
+| 15.2 | As tabelas apresentam os problemas e recomendações?                                                                                                                                  |           |             |
+| 15.3 | As tabelas apresentam as entradas, ações, _feedbacks_ e os planos?                                                                                                                   |           |             |
 
 _Fonte: [Douglas Alves](https://github.com/dougAlvs) e [Matheus Henrique](https://github.com/mathonaut), 2023._
 
@@ -241,17 +241,17 @@ Em relação aos itens de verificação, as questões foram construídas levando
 
 **Tabela 9** - Checklist para o artefato de GOMS.
 
-| ID   | Descrição                                                               | Avaliação | Observações |
-| ---- | ----------------------------------------------------------------------- | --------- | ----------- |
-| 6    | As análises com o GOMS são realizadas a partir das tarefas da HTA?      |           |             |
-| 7    | Há uma hierarquia estrita entre os objetivos?                           |           |             |
-| 8    | Os operadores são executados em ordem sequencial?                       |           |             |
-| 9    | Os métodos GOMS são representados em notação semelhante a pseudocódigo? |           |             |
-| 10   | Os métodos GOMS possuem os quatros elementos principais?                |           |             |
-| 10.1 | Eles possuem os objetivos (_goals_)?                                    |           |             |
-| 10.2 | Eles possuem os operadores (_operators_)?                               |           |             |
-| 10.3 | Eles possuem os métodos (_methods_)?                                    |           |             |
-| 10.4 | Eles possuem as regras de seleção (_selection rules_)?                  |           |             |
+| ID   | Descrição                                                                 | Avaliação | Observações |
+| ---- | ------------------------------------------------------------------------- | --------- | ----------- |
+| 6    | As análises com o GOMS são realizadas a partir das tarefas da HTA?        |           |             |
+| 7    | Há uma hierarquia estrita entre os objetivos?                             |           |             |
+| 8    | Os operadores são executados em ordem sequencial?                         |           |             |
+| 9    | Os métodos GOMS são representados em notação semelhante a pseudocódigo?   |           |             |
+| 10   | Os métodos GOMS possuem os quatros elementos principais?                  |           |             |
+| 10.1 | Eles possuem os objetivos (_goals_)?                                      |           |             |
+| 10.2 | Eles possuem os operadores (_operators_) primitivos internos ou externos? |           |             |
+| 10.3 | Eles possuem os métodos (_methods_)?                                      |           |             |
+| 10.4 | Eles possuem as regras de seleção (_selection rules_)?                    |           |             |
 
 _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
