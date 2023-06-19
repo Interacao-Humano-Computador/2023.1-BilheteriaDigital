@@ -147,7 +147,7 @@ _Fonte: [Rafael Ferreira](https://github.com/rafaelCLG0), 2023._
 
 ### Metas de Usabilidade
 
-A tabela 6 a seguir apresenta a checklist referente ...
+A tabela 6 a seguir apresenta a checklist referente às metas de usabilidade, que foi construída com base no livro de Interação Humano-Computador de Bruno Silva e Simone Barbosa, usando especificamente o capítulo 4.
 
 <center>
 
@@ -155,13 +155,13 @@ A tabela 6 a seguir apresenta a checklist referente ...
 
 | ID  | Descrição | Avaliação | Observações |
 | :-: | --------- | --------- | ----------- |
-|  6  |           |           |             |
-|  7  |           |           |             |
-|  8  |           |           |             |
-|  9  |           |           |             |
-| 10  |           |           |             |
+| 6 | São apresentados quais fatores de qualidade de uso serão priorizados no projeto? | |  |
+| 7 | Há algum indicador de interesse baseado no desempenho dos usuários? |  |  |
+| 8 | As metas foram definidas através do perfil de usuário? |  |  |
+| 9 | Foram definidas as usabilidades em 6 metas? |  |  |
+| 10 | As metas são representadas como "guias de estilos"? |  |  |
 
-_Fonte: Autor, 2023._
+_Fonte: [Geovanna Maciel](https://github.com/manuziny), 2023._
 
 </center>
 
