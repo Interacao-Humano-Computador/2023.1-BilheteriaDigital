@@ -45,9 +45,9 @@ Os artefatos alvos dessa verificação são:
 
 Os resultados das verificações em si serão apresentados em páginas separadas e podem ser acessados através dos seguintes links:
 
-- [Resultados da Verificaçã do Aspectos Éticos]();
-- [Resultados da Verificaçã do Perfil de Usuário]();
-- [Resultados da Verificaçã do Cenários]();
+- [Resultados da Verificaçã do Aspectos Éticos](../aspectos-eticos);
+- [Resultados da Verificaçã do Perfil de Usuário](../perfil-de-usuario);
+- [Resultados da Verificaçã do Cenários](../cenarios);
 - [Resultados da Verificaçã do Personas]();
 - [Resultados da Verificaçã do Análise de Tarefas - Análise Hierárquica de Tarefas]();
 - [Resultados da Verificaçã do Análise de Tarefas - GOMS]().
@@ -107,16 +107,16 @@ A tabela 4 a seguir apresenta a checklist referente ao artefato Apectos Éticos,
 
 **Tabela 4** - Checklist para o artefato de Aspectos Éticos.
 
-| ID  | Descrição | Avaliação | Observações |
-| :-: | --------- | --------- | ----------- |
-|  6  |   O documento possui o cuidado ético de evitar prejudicar ou causar dano a outras pessoas, seus bens, reputação ou emprego?    |      |      |
-|  7  |    O documento possui os princípios de autonomia, beneficiência, não maleficiência, justiça e equidade?   |        |         |
-|  8  |   No documento, há a explicação do objetivo da pesquisa e como ela será realizada aos participantes?    |       |             |
-|  9  |   Há a garantia de confidencialidade e a privacidade dos dados brutos?    |      |             |
-|  10 |   Garante o anonimato dos participantes, preservação das suas imagens e a utilização cuidadosa das informações coletadas?    |           |             |
-|  11 |   É explicitado um pedido de permissão para gravação? Seja de imagem ou voz do participante.   |         |           |
-|  12 |    Há esclarecido um consentimento livre de desistência do participante durante a pesquisa?   |      |        |
-| 13  | Há local de assinatura do entrevistador e do entrevsitado? |  |  |
+| ID  | Descrição                                                                                                                 | Avaliação | Observações |
+| :-: | ------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+|  6  | O documento possui o cuidado ético de evitar prejudicar ou causar dano a outras pessoas, seus bens, reputação ou emprego? |           |             |
+|  7  | O documento possui os princípios de autonomia, beneficiência, não maleficiência, justiça e equidade?                      |           |             |
+|  8  | No documento, há a explicação do objetivo da pesquisa e como ela será realizada aos participantes?                        |           |             |
+|  9  | Há a garantia de confidencialidade e a privacidade dos dados brutos?                                                      |           |             |
+| 10  | Garante o anonimato dos participantes, preservação das suas imagens e a utilização cuidadosa das informações coletadas?   |           |             |
+| 11  | É explicitado um pedido de permissão para gravação? Seja de imagem ou voz do participante.                                |           |             |
+| 12  | Há esclarecido um consentimento livre de desistência do participante durante a pesquisa?                                  |           |             |
+| 13  | Há local de assinatura do entrevistador e do entrevsitado?                                                                |           |             |
 
 _Fonte: [Geovanna Maciel](https://github.com/manuziny), 2023._
 
@@ -164,15 +164,15 @@ A tabela 6 a seguir apresenta a checklist referente aos cenários, que foi const
 
 **Tabela 6** - Checklist para o artefato de Cenários.
 
-| ID  | Descrição | Avaliação | Observações |
-| :-: | --------- | --------- | ----------- |
-|  6   | Os cenários possuem detalhes contextuais de uso da aplicação envolvendo o usuário? | |  |
-|  7   | Eles descrevem o comportamento e as experiência dos atores? |  |  |
-|  8   | Cada ator possui objetivos que dirigem as tarefas que ele realiza? |  |  |
-|  9   | Cada cenário tem um título que descreve brevemente a situação, os atores, referência a outro artefato? |  |  |
-|  10  | Há ambiente, planejamento, ações, eventos, avaliação? |  |  |
-|  11  | Os cenários são associados à alguma tarefa de uso diário do ator? |  |  |
-|  12  | Os atores são as personas feitas para o projeto? | |  |
+| ID  | Descrição                                                                                              | Avaliação | Observações |
+| :-: | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
+|  6  | Os cenários possuem detalhes contextuais de uso da aplicação envolvendo o usuário?                     |           |             |
+|  7  | Eles descrevem o comportamento e as experiência dos atores?                                            |           |             |
+|  8  | Cada ator possui objetivos que dirigem as tarefas que ele realiza?                                     |           |             |
+|  9  | Cada cenário tem um título que descreve brevemente a situação, os atores, referência a outro artefato? |           |             |
+| 10  | Há ambiente, planejamento, ações, eventos, avaliação?                                                  |           |             |
+| 11  | Os cenários são associados à alguma tarefa de uso diário do ator?                                      |           |             |
+| 12  | Os atores são as personas feitas para o projeto?                                                       |           |             |
 
 _Fonte: [Geovanna Maciel](https://github.com/manuziny), 2023._
 
@@ -217,16 +217,15 @@ Em relação aos itens de verificação, as questões 7, 8 e 9 foram retiradas d
 |  10  | As tarefas são decompostas?                                                                                                                                                            |           |             |
 |  11  | As tarefas relacionam o que as pessoas fazem com o porquê o fazem e quais as consequências caso não façam corretamente?                                                                |           |             |
 |  12  | Os diagramas apresentam os elementos esperados (plano, objetivos, operações e as relações entre os subobjetivos)?                                                                      |           |             |
-|  13  | Os diagramas apresentam um plano com os seus subjetivos?                                                                                                                               |           |             |
-|  14  | As operações são especificadas?                                                                                                                                                        |           |             |
-| 14.1 | Elas possuem entradas?                                                                                                                                                                 |           |             |
-| 14.2 | Elas possuem ações?                                                                                                                                                                    |           |             |
-| 14.2 | Elas possuem _feedbacks_?                                                                                                                                                              |           |             |
-|  15  | A decomposição termina quando os objetivos são atingidos ou quando a origem de um erro é identificada?                                                                                 |           |             |
-|  16  | As tarefas são apresentadas em tabelas?                                                                                                                                                |           |             |
-| 16.1 | As tabelas apresentam os objetivos/operações?                                                                                                                                          |           |             |
-| 16.2 | As tabelas apresentam os problemas e recomendações?                                                                                                                                    |           |             |
-| 16.3 | As tabelas apresentam as entradas, ações, _feedbacks_ e os planos?                                                                                                                     |           |             |
+|  13  | As operações são especificadas?                                                                                                                                                        |           |             |
+| 13.1 | Elas possuem entradas?                                                                                                                                                                 |           |             |
+| 13.2 | Elas possuem ações?                                                                                                                                                                    |           |             |
+| 13.2 | Elas possuem _feedbacks_?                                                                                                                                                              |           |             |
+|  14  | A decomposição termina quando os objetivos são atingidos ou quando a origem de um erro é identificada?                                                                                 |           |             |
+|  15  | As tarefas são apresentadas em tabelas?                                                                                                                                                |           |             |
+| 15.1 | As tabelas apresentam os objetivos/operações?                                                                                                                                          |           |             |
+| 15.2 | As tabelas apresentam os problemas e recomendações?                                                                                                                                    |           |             |
+| 15.3 | As tabelas apresentam as entradas, ações, _feedbacks_ e os planos?                                                                                                                     |           |             |
 
 _Fonte: [Douglas Alves](https://github.com/dougAlvs) e [Matheus Henrique](https://github.com/mathonaut), 2023._
 
@@ -258,10 +257,6 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 </center>
 
-## Bibliografia
-
-> ALVES, CÉSAR, Júlio; VINICIUS, Marcus. Verificação Ponto de Controle 2 Bilheteria Digital. Repositório do Grupo ISSNet Online DF da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/pc2>>. Acesso em: 17 junho 2023.
-
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> ALVES, Douglas. Perfil de Usuário. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa2/perfil-de-usuario>>. Acesso em: 17 junho 2023.
@@ -274,12 +269,16 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 > <a id="REF5" href="#anchor_5">5.</a> Card, S.; Moran, T.P.; Newell, A. **The Psychology of Human-Computer Interaction.** New Jersey: Lawrence Erlbaum Associates, 1983.
 
+## Bibliografia
+
+> ALVES, CÉSAR, Júlio; VINICIUS, Marcus. Verificação Ponto de Controle 2 Bilheteria Digital. Repositório do Grupo ISSNet Online DF da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/pc2>>. Acesso em: 17 junho 2023.
+
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                                                          | Autor(es)                                        | Revisor(es)                                  |
-| ------ | ---------- | ---------------------------------------------------------------------------------- | ------------------------------------------------ | -------------------------------------------- |
-| `1.0`  | 17/06/2023 | Criação da página.                                                                 | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
-| `1.1`  | 17/06/2023 | Adição das checklists do perfil de usuário.                                        | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
-| `1.2`  | 17/06/2023 | Adição das checklists da Análise Hierárquica de Tarefas e alteração do cronograma. | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
-| `1.3`  | 18/06/2023 | Adição das checklists da Análise GOMS e correção nos textos.                       | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
-| `1.4`  | 18/06/2023 | Adição das checklists de cenários e aspectos éticos.     | [Geovanna Maciel](https://github.com/manuziny) | [Matheus Henrique](https://github.com/mathonaut) |
+| Versão | Data       | Descrição                                                                          | Autor(es)                                        | Revisor(es)                                      |
+| ------ | ---------- | ---------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`  | 17/06/2023 | Criação da página.                                                                 | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)     |
+| `1.1`  | 17/06/2023 | Adição das checklists do perfil de usuário.                                        | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)     |
+| `1.2`  | 17/06/2023 | Adição das checklists da Análise Hierárquica de Tarefas e alteração do cronograma. | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)     |
+| `1.3`  | 18/06/2023 | Adição das checklists da Análise GOMS e correção nos textos.                       | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)     |
+| `1.4`  | 18/06/2023 | Adição das checklists de cenários e aspectos éticos.                               | [Geovanna Maciel](https://github.com/manuziny)   | [Matheus Henrique](https://github.com/mathonaut) |
