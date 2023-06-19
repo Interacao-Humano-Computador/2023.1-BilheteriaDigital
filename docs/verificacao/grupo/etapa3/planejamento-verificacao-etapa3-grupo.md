@@ -94,7 +94,10 @@ _Fonte: Equipe do Projeto, 2023._
 
 ### Princípios Gerais
 
-A tabela 4 a seguir apresenta a checklist referente ...
+A tabela 4 a seguir apresenta a checklist referente ao artefato dos [Princípios Gerais](../../../../analise-de-requisitos/principios), ela foi construída tendo como base o livro texto Interação Humano-Computador da autoria de Bruno Silva e Simone Barbosa e a checklist produzida pelo integrante do grupo [Rafael Ferreira](https://github.com/rafaelCLG0) no contexto da [verificação do mesmo artefato do grupo 2](../../../grupo2/etapa2/principios-gerais).<a id=anchor_5 href="#REF5"><sup>5</sup></a>
+
+Em relação aos itens de verificação, as questões 6 a 16 foram retiradas da checklist de [verificação da etapa 2 do grupo 2](../../../grupo2/etapa2/principios-geraiso).<a id=anchor_5 href="#REF5"><sup>5</sup></a>Contudo, as questões 6 e 7 foram modificas para melhor atender a verificação, a primeira baseando-se na definição de principios gerais dada por Barbosa e Silva (2011, p.264)<a id=anchor_1 href="#REF1"><sup>1</sup></a> e a segunda por um feedback dado pelo professor (Os princípios gerais deixarem explicitas as violações encontradas).
+
 
 <center>
 
@@ -102,19 +105,27 @@ A tabela 4 a seguir apresenta a checklist referente ...
 
 | ID  | Descrição | Avaliação | Observações |
 | :-: | --------- | --------- | ----------- |
-|  6  |           |           |             |
-|  7  |           |           |             |
-|  8  |           |           |             |
-|  9  |           |           |             |
-| 10  |           |           |             |
+| 6  | Os princípios gerais do projeto apresentam embasamento teórico? Por exemplo: Norman, 1988; Tognazzini, online; Nielsen, 1993; Shneiderman, 1998; Cooper, 1999;                    |         |
+| 7  | Foram identificadas violações dos princípios gerais definidos no projeto? Caso sim, essas violações foram explicitadas?                                        |         |
+| 8  | Os princípios gerais do projeto contém correspondência com as expectativas dos usuários ?               |         |
+| 9  | Os princípios gerais do projeto contém simplicidade nas estruturas das tarefas ?                        |         |
+| 10  | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ?               |         |
+| 11 | Os princípios gerais do projeto contém consistência e padronização ?                                    |         |
+| 12 | Os princípios gerais do projeto contém promoção da eficiência do usuário ?                              |         |
+| 13 | Os princípios gerais do projeto contém antecipação das necessidades do usuário ?                        |         |
+| 14 | Os princípios gerais do projeto contém visibilidade e reconhecimento ?                                  |         |
+| 15 | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ?                        |         |
+| 16 | Os princípios gerais do projeto contém projeto para erros ?                                             |         |
 
-_Fonte: Autor, 2023._
+_Fonte: [Rafael Ferreira](https://github.com/rafaelCLG0) e [Douglas Alves](https://github.com/dougAlvs), 2023._
 
 </center>
 
 ### Características Gerais
 
-A tabela 5 a seguir apresenta a checklist referente ...
+A tabela 5 a seguir apresenta a checklist referente ao artefato das [Características Gerais](../../../../analise-de-requisitos/caracteristicas gerais), ela foi construída tendo como base o livro texto Interação Humano-Computador da autoria de Bruno Silva e Simone Barbosa e a checklist produzida pelo integrante do grupo [Rafael Ferreira](https://github.com/rafaelCLG0) no contexto da [verificação do mesmo artefato do grupo 2](../../../grupo2/etapa2/caracteristicas-gerais).<a id=anchor_6 href="#REF6"><sup>6</sup></a>
+
+Em relação aos itens de verificação, as questões 6 a 10 foram retiradas da checklist de [verificação da etapa 2 do grupo 2](../../../grupo2/etapa2/principios-geraiso)<a id=anchor_6 href="#REF6"><sup>6</sup></a>.
 
 <center>
 
@@ -122,13 +133,13 @@ A tabela 5 a seguir apresenta a checklist referente ...
 
 | ID  | Descrição | Avaliação | Observações |
 | :-: | --------- | :-------: | ----------- |
-|  6  |           |           |             |
-|  7  |           |           |             |
-|  8  |           |           |             |
-|  9  |           |           |             |
-| 10  |           |           |             |
+| 6  | São identificadas as características da plataforma para o projeto ?                                     |         |
+| 7  | São identificados os navegadores ou dispositivos que podem acessar a plataforma ?                       |         |
+| 8  | São identificadas as limitações da plataforma ?                                                         |         |
+| 9  | São identificadas as funcionalidades da plataforma ?                                                    |         |
+| 10  | São identificadas as tecnologias que foram utilizadas ?                                                 |         |
 
-_Fonte: Autor, 2023._
+_Fonte: [Rafael Ferreira](https://github.com/rafaelCLG0), 2023._
 
 </center>
 
@@ -211,6 +222,10 @@ _Fonte: [Arthur Henrique](https://github.com/black258br), [Matheus Henrique](htt
 > <a id="REF3" href="#anchor_3">3.</a> HENRIQUE, Arthur. **Atividade avaliativa Grupo 1 - IHC - Etapa 3.** Brasília, 2023.
 
 > <a id="REF4" href="#anchor_4">4.</a> Mayhew, Deborah. **The Usability Engineering Lifecycle: a practitioner’s handbook for user interface design.** San Francisco: Morgan Kaufmann, 1999.
+
+> <a id="REF5" href="#anchor_5">5.</a> FERREIRA, Rafael. **Princípios Gerais.** Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa3/principios-gerais>>. Acesso em: 19 junho 2023.
+
+> <a id="REF6" href="#anchor_6">6.</a> FERREIRA, Rafael. **Características Gerais.** Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa3/caracteristicas-gerais>>. Acesso em: 19 junho 2023.
 
 ## Histórico de Versões
 
