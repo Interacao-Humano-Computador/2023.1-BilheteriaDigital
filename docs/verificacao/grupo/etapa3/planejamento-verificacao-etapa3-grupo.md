@@ -38,15 +38,15 @@ Os artefatos alvos dessa verificação são:
 
 - O [**Princípios Gerais**](../../../../analise-de-requisitos/principios) na versão 1.2 de data 20/05/2023 produzido por [Arthur de Melo](https://github.com/arthurmlv) e [Gabriel Campello](https://github.com/G16C) com revisão de [Arthur de Melo](https://github.com/arthurmlv), [Gabriel Campello](https://github.com/G16C) e [Geovanna Maciel](https://github.com/manuziny);
 - O [**Características Gerais**](../../../../analise-de-requisitos/caracteristicas) na versão 1.0 de data 14/05/2023 produzido por [Arthur de Melo](https://github.com/arthurmlv) e [Matheus Henrique](https://github.com/mathonaut) com revisão de [Rafael Ferreira](https://github.com/RafaelCLG0);
-- O [**Metas de Usabilidade**](../../../analise-de-requisitos/metas-de-usabilidade) na versão 1.3 de data 13/05/2023 produzido por [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0) com revisão dos mesmos;
-- O [**Guia de Estilo**](../../../analise-de-requisitos/guia-de-estilo) na versão 1.1 de data 13/05/2023 produzido por [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) com revisão de [Douglas Alves](https://github.com/dougAlvs), [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0).
+- O [**Metas de Usabilidade**](../../../../analise-de-requisitos/metas-usabilidade) na versão 1.3 de data 13/05/2023 produzido por [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0) com revisão dos mesmos;
+- O [**Guia de Estilo**](../../../../analise-de-requisitos/guia-de-estilo) na versão 1.1 de data 13/05/2023 produzido por [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) com revisão de [Douglas Alves](https://github.com/dougAlvs), [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0).
 
 Os resultados das verificações em si serão apresentados em páginas separadas e podem ser acessados através dos seguintes links:
 
 - [Resultados da Verificaçã do Princípios Gerais]();
 - [Resultados da Verificaçã do Características Gerais]();
 - [Resultados da Verificaçã do Metas de Usabilidade]();
-- [Resultados da Verificaçã do Guia de Estilo]();
+- [Resultados da Verificaçã do Guia de Estilo](../guia-de-estilo);
 
 ### Cronograma
 
@@ -56,11 +56,11 @@ A verificação será realizada no período de 17 de junho de 2023 até dia 18 d
 
 **Tabela 2** - Cronograma das Atividades.
 
-| Data       | Descrição                                                                     | Responsável                                                                                                                                     |
-| ---------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 18/06/2023 | Verificação do artefato de Guia de Estilo.                                    | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
-| 18/06/2023 | Relato da verificação do artefato de Guia de Estilo e correção dos problemas. | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
-| 19/06/2023 | Entrega final das verificações e correções na página do grupo.                | [Douglas Alves](https://github.com/dougAlvs), [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut) |
+| Data       | Descrição                                                      | Responsável                                                                                                                                     |
+| ---------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 18/06/2023 | Verificação do artefato de Guia de Estilo.                     | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
+| 18/06/2023 | Relato da verificação do artefato de Guia de Estilo.           | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
+| 19/06/2023 | Entrega final das verificações e correções na página do grupo. | [Douglas Alves](https://github.com/dougAlvs), [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut) |
 
 _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
@@ -68,7 +68,7 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 ## Checklists
 
-As checklists foram construídas levando em conta os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos tendo como referência básica o livro Interação Humano-Computador de Bruno Silva e Simone Barbosa.<a id=anchor_1 href="#REF1"><sup>1</sup></a> Além dos itens listados anteriormente, também, serão analisados o relatório referente às entregas produzido pelo o monitor do grupo ([Arthur Henrique](https://github.com/black258br)) e as checklist previamente construídas na [verificação do grupo 2 na etapa 3](../../../grupo2/etapa3/planejamento-verificacao-etapa3-grupo2).
+As checklists foram construídas levando em conta os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos tendo como referência básica o livro Interação Humano-Computador de Bruno Silva e Simone Barbosa.<a id=anchor_1 href="#REF1"><sup>1</sup></a> Além dos itens listados anteriormente, também, serão analisados o relatório referente às entregas produzido pelo o monitor do grupo [Arthur Henrique](https://github.com/black258br) e as checklist previamente construídas na [verificação do grupo 2 na etapa 3](../../../grupo2/etapa3/planejamento-verificacao-etapa3-grupo2).
 
 Com o intuito de melhor organizar a verificação, a checklist será dividida em 5 checklists sendo que uma deverá estar presente em todas as etapas de verificação, no caso a checklist geral. As checklists são as seguintes: Geral, Princípios Gerais, Características Gerais, Metas de Usabilidade e Guia de Estilo. As tabelas de 3 a 7 apresenta as checklists de verificação.
 

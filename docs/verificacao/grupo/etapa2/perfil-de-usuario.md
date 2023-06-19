@@ -6,15 +6,15 @@ Realizado o planejamento do que verificar, é o momento de realizar a inspeção
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de Perfil de Usuário da Etapa 2 do Grupo 1.
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de [Perfil de Usuário](../../../../analise-de-requisitos/perfil-usuario) da Etapa 2 do [grupo](https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital).
 
 ## Metodologia
 
-Os resultados da verificação do artefato foram obtidos a partir das checklists elaboradas na página de planejamento. Para responder às perguntas apresentadas nas checklist o avaliador usará as opções Sim, Não, Incompleto ou Não se aplica. O avaliador poderá também escrever observações em cada pergunta detalhando pontos que achar necessários.
+Os resultados da verificação do artefato foram obtidos a partir das checklists elaboradas na página de [planejamento](../etapa2/planejamento-verificacao-etapa2-grupo). Para responder às perguntas apresentadas nas checklist o avaliador usará as opções **Sim**, **Não**, **Incompleto** ou **Não se aplica**. O avaliador poderá também escrever observações em cada pergunta detalhando pontos que achar necessários.
 
 ## Cronograma e Participantes
 
-Os participantes são os integrantes do Grupo 1 Matheus Henrique, que será responsável por realizar a verificação e a correção dos problemas encontrados. Além disso, o integrante do grupo [Rafael Ferreira](https://github.com/RafaelCLG0) realizará a revisão do artefato produzido pelo avaliador. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](../etapa2/planejamento-verificacao-etapa2-grupo).
+Os participantes são os integrantes do grupo [Matheus Henrique](https://github.com/mathonaut), que será responsável por realizar a verificação e a correção dos problemas encontrados. Além disso, o integrante do grupo [Rafael Ferreira](https://github.com/RafaelCLG0) realizará a revisão do artefato produzido pelo avaliador. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](../etapa2/planejamento-verificacao-etapa2-grupo).
 
 <center>
 
@@ -31,7 +31,7 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 ### Sumários dos Dados Encontrados
 
-A tabela 2 a seguir apresenta a checklist com os dados obtidos a partir da verificação. As fontes de cada pergunta foi apresentdada na pagina de [planejamento](../planejamento-verificacao-etapa2-grupo/#perfil-de-usuario).
+A tabela 2 a seguir apresenta a checklist com os dados obtidos a partir da verificação. As fontes de cada pergunta foram apresentadas na página de [planejamento](../planejamento-verificacao-etapa2-grupo/#perfil-de-usuario).
 
 <center>
 
@@ -78,13 +78,13 @@ A tabela 1 não está legendada.
 
 - No tópico de "Metodologia" existe uma repetição da palavra **para**;
 - No tópico de "Metodologia" existe um **a** sem motivação no trecho _"...no entanto suas respostas estão elencadas a abaixo."_;
-- No item 2 do topico "Resultado do Grupo de Foco" a palavra **dificuldade** está escrita errada;
-- No item 5 do topico "Resultado do Grupo de Foco" a palavra **experiência** e **ocorre** estão escritas erradas;
-- No item 6 do topico "Resultado do Grupo de Foco" a palavra **dificuldades** está escrita errada.
+- No item 2 do tópico "Resultado do Grupo de Foco" a palavra **dificuldade** está escrita errada;
+- No item 5 do tópico "Resultado do Grupo de Foco" a palavra **experiência** e **ocorre** estão escritas erradas;
+- No item 6 do tópico "Resultado do Grupo de Foco" a palavra **dificuldades** está escrita errada.
 
 ### ID 6 - Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários?
 
-Na metodologia é falado que foi realizada uma pesquisa, mas os resultados dela não são mostrados com clareza e nem se há uma certeza do que foi realizado/alcançado com ela.
+Na metodologia é falado que foi realizada uma pesquisa, mas os resultados dela não são mostrados com clareza e não se há uma certeza do que foi realizado/alcançado com ela.
 
 Em relação ao grupo de foco, o resultado foi decepcionante, faltaram perguntas para enriquecer ainda mais o estudo. Além disso, os entrevistadores foram muito passivos, não conseguindo extrair informações valiosas dos usuários e deixaram os entrevistados responderem perguntas de maneira vaga. Como exemplo, podemos citar a pergunta 1 no qual o usuário 3 responde que é experiente no uso de sites de compras de ingresso, mas o mesmo responde que não utiliza esses sites frequentemente. Como isso é possível?
 
@@ -142,6 +142,8 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 - Incluir as características faltosas;
 - Refazer a priorização dos perfis a fim de incluir mais informações.
 
+A correção dos erros será realizada após uma discussão e validação dos problemas encontrados com o grupo e apresentação dos resultados para o professor da disciplina.
+
 ## Acompanhamento
 
 A figura 1 apresenta um gráfico com o percentual de respostas sim, não, incompleto ou não se aplica, obtidas através da checklist de verificação.
@@ -150,7 +152,7 @@ A figura 1 apresenta um gráfico com o percentual de respostas sim, não, incomp
 
 **Figura 1** - Gráfico do resultado da verificação.
 
-<iframe style="border-radius: 5px; border:3px solid red"width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQnfNsjYgFO41FTklkiZumb3OIGCMd_eIAWa-DcA9dD4GiXztP_THgdUYnWyTvA7cdPiJ2vf1TiYUbZ/pubchart?oid=1987558934&amp;format=interactive"></iframe>
+<iframe style="border-radius: 5px; border:3px solid red" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQnfNsjYgFO41FTklkiZumb3OIGCMd_eIAWa-DcA9dD4GiXztP_THgdUYnWyTvA7cdPiJ2vf1TiYUbZ/pubchart?oid=1987558934&amp;format=interactive"></iframe>
 
 _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
