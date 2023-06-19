@@ -45,12 +45,12 @@ Os artefatos alvos dessa verificação são:
 
 Os resultados das verificações em si serão apresentados em páginas separadas e podem ser acessados através dos seguintes links:
 
-- [Resultados da Verificaçã do Aspectos Éticos]();
-- [Resultados da Verificaçã do Perfil de Usuário]();
-- [Resultados da Verificaçã do Cenários]();
-- [Resultados da Verificaçã do Personas]();
-- [Resultados da Verificaçã do Análise de Tarefas - Análise Hierárquica de Tarefas]();
-- [Resultados da Verificaçã do Análise de Tarefas - GOMS]().
+- [Resultados da Verificação do Aspectos Éticos]();
+- [Resultados da Verificação do Perfil de Usuário]();
+- [Resultados da Verificação do Cenários]();
+- [Resultados da Verificação do Personas](../personas);
+- [Resultados da Verificação do Análise de Tarefas - Análise Hierárquica de Tarefas]();
+- [Resultados da Verificação do Análise de Tarefas - GOMS]().
 
 ### Cronograma
 
@@ -67,6 +67,7 @@ A verificação será realizada no período de 17 de junho de 2023 até dia 18 d
 | 18/06/2023 | Relato da verificação do artefato de Perfil de Usuário e correção dos problemas.                                              | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
 | 18/06/2023 | Verificação do artefato de Análise de Tarefas - GOMS.                                                                         | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
 | 18/06/2023 | Relato das verificações dos artefatos de Análise de Tarefas (Análise Hierárquica de Tarefas e GOMS) e correção dos problemas. | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
+| 19/06/2023 | Relato das verificações das Personas. | [Douglas Alves](https://github.com/dougAlvs)                                                                                                |
 | 19/06/2023 | Entrega final das verificações e correções na página do grupo.                                                                | [Douglas Alves](https://github.com/dougAlvs), [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut) |
 
 _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
@@ -175,6 +176,7 @@ _Fonte: Autor, 2023._
 </center>
 
 ### Personas
+
 A tabela 7 a seguir apresenta a checklist referenteao artefato das [personas](../../../../analise-de-requisitos/personas), ela foi construída tendo como base o livro texto Interação Humano-Computador da autoria de Bruno Silva e Simone Barbosa e a checklist produzida pelo integrante do grupo [Geovanna Maciel](https://github.com/manuziny) no contexto da [verificação do mesmo artefato do grupo 2](../../../grupo2/etapa2/personas).<a id=anchor_6 href="#REF6"><sup>6</sup></a>
 
 Em relação aos itens de verificação, as questões 6 a 15 foram retiradas da checklist de [verificação da etapa 2 do grupo 2](../../../grupo2/etapa2/perfil-de-usuario).<a href="#REF6"><sup>6</sup></a>A questão 16 foi baseada na [checklist](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/pc2/#verificacao-personas) que o grupo 8 elaborou na verificação do nosso grupo e se baseia na definição de persona de Cooper (2007, p. 75)<a href="#REF5"><sup>5</sup></a>.
@@ -186,17 +188,17 @@ Em relação aos itens de verificação, as questões 6 a 15 foram retiradas da 
 
 | ID  | Descrição | Avaliação | Observações |
 | :-: | --------- | --------- | ----------- |
-| 6 | A persona possui identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas? | | |
-| 7 | A persona primária possui elasticidade? | | | 
-| 8 | A persona primária é sólida e tangível o suficiente para colocar os pressupostos de design em perspectiva? | | |
-| 9 | O elenco de personas torna evidente quais são os objetivos dos usuários? | | |
-| 10 | O elenco de personas tem entre 3 a 12 personas? | | |
-| 11 | Possui justificativa do número? | | |
-| 12 | Possui uma antipersona definida? | | |
-| 13 | Há algum método para descobrir o objetivo das personas? | | |
-| 14 | Possui objetivos pessoais, corporativos e práticos? | | |
-| 15 | Há algum objetivo de experiência da persona? | | |
-| 16 | O elenco de personas é definido a partir do perfil de usuário? | | |
+| 6 | A persona possui identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas? | Sim | |
+| 7 | A persona primária possui elasticidade? (Uma persona assume uma solidez tangível que coloca os pressupostos de design em perspectiva. À medida que uma persona perde sua elasticidade, podemos identificar suas habilidades, suas motivações e o que ela quer alcançar.)| Não | | 
+| 8 | A persona primária é sólida e tangível o suficiente para colocar os pressupostos de design em perspectiva? | Sim | |
+| 9 | O elenco de personas torna evidente quais são os objetivos dos usuários? |Sim| |
+| 10 | O elenco de personas tem entre 3 a 12 personas? | | Sim |
+| 11 | Possui justificativa do número? | Sim | Contudo, vale citar por quem esse intervalo é recomendado |
+| 12 | Possui uma antipersona definida? | Sim | |
+| 13 | Há algum método para descobrir o objetivo das personas? | Não | Se foi utilizado, não foi evidenciado no texto. |
+| 14 | Possui objetivos pessoais, corporativos e práticos? | Incompleto | Eles estão misturados, caberia subdividi-los melhor |
+| 15 | Há algum objetivo de experiência da persona? | Não | Adicioná-los enriqueceria o artefato |
+| 16 | O elenco de personas é definido a partir do perfil de usuário? |Sim | |
 
 _Fonte: [Geovanna Maciel](https://github.com/manuziny), [Douglas Alves](https://github.com/dougAlvs) e [Marcus Vinicius](https://github.com/MarcusVcd), 2023._
 
@@ -278,3 +280,4 @@ _Fonte: Autor, 2023._
 | `1.0`  | 17/06/2023 | Criação da página.                                                                 | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
 | `1.1`  | 17/06/2023 | Adição das checklists do perfil de usuário.                                        | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
 | `1.2`  | 17/06/2023 | Adição das checklists da Análise Hierárquica de Tarefas e alteração do cronograma. | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
+| `1.3`  | 19/06/2023 | Adição das checklists das Personas e alteração do cronograma. | [Douglas Alves](https://github.com/dougAlvs) | [Matheus Henrique](https://github.com/mathonaut) |
