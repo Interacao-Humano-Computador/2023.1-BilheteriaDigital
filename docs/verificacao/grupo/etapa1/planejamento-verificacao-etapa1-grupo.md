@@ -144,7 +144,7 @@ _Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Gabriel Campello](http
 
 A tabela 6 a seguir apresenta a checklist referente ao artefato processo de design, ela foi construida tendo como base o livro texto Interação Humano-Computador da autoria de Bruno Silva e Simone Barbosa, e a checklist produzida pelo integrante do grupo [Arthur de Melo](https://github.com/arthurmlv) no contexto da [verificação do mesmo artefato do grupo 2](../../../grupo2/etapa1/processo-design).<a id=anchor_5 href="#REF5"><sup>5</sup></a>
 
-Em relação aos itens de verificação, a questão 7 foi retirada da checklist de [verificação da etapa 2 do grupo 2](../../../grupo2/etapa1/processo-design).<a href="#REF5"><sup>5</sup></a>
+Em relação aos itens de verificação, a questão 6 foi retirada da checklist de [verificação da etapa 2 do grupo 2](../../../grupo2/etapa1/processo-design).<a href="#REF5"><sup>5</sup></a>
 
 <center>
 
@@ -152,11 +152,10 @@ Em relação aos itens de verificação, a questão 7 foi retirada da checklist 
 
 | ID  | Descrição | Avaliação | Observações |
 | :-: | --------- | --------- | ----------- |
-|  6  |          |           |             |
-|  7  |          |           |             |
-|  8  |          |           |             |
-|  9  |          |           |             |
-| 10  |          |           |             |
+|  6  |    A escolha do ciclo de vida foi justificada?      |           |             |
+|  7  |    O ciclo de vida escolhido tem suas etapas detalhadas?      |           |             |
+|  8  |    A forma como será executado o ciclo de vida é detalhada?      |           |             |
+|  9  |    O ciclo de vida selecionado é condizente com o escopo do projeto?      |           |             |
 
 _Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Gabriel Campello](https://github.com/G16C), 2023._
 
@@ -165,18 +164,22 @@ _Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Gabriel Campello](http
 
 ### Site Escolhido
 
+A tabela 7 a seguir apresenta a checklist referente ao artefato site escolhido, ela foi construida tendo como base o livro texto Interação Humano-Computador da autoria de Bruno Silva e Simone Barbosa, e a checklist produzida pelo integrante do grupo [Arthur de Melo](https://github.com/arthurmlv) no contexto da [verificação do mesmo artefato do grupo 2](../../../grupo2/etapa1/site-escolhido).<a id=anchor_6 href="#REF6"><sup>6</sup></a>
+
+Em relação aos itens de verificação, as questões 8 e 10 foram retiradas da checklist de [verificação da etapa 2 do grupo 2](../../../grupo2/etapa1/site-escolhido).<a href="#REF6"><sup>6</sup></a>
+
 <center>
 
 **Tabela 7** - Checklist para o artefato Site escolhido.
 
 |  ID  | Descrição                                                                                                                                                                              | Avaliação | Observações |
 | :--: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-|  6   |       |           |             |
-|  7   |       |           |             |
-|  8   |       |           |             |
-|  9   |       |           |             |
-|  10  |       |           |             |
-|  11  |       |           |             |
+|  6   |   O motivo da escolha do site foi definido?    |           |             |
+|  7   |   O artefato apresenta quais fatores foram determinantes para escolha do site?    |           |             |
+|  8   |   Na avaliação eurística, todas as eurísticas foram detalhadas apropriadamente?   |           |             |
+|  9   |    As eurísticas apresentam imagens, a fim de ilustrar os problemas encontrados?   |           |             |
+|  10  |    Os problemas encontrados nas heurísticas possuem suas tabelas de detalhamento da heurística?   |           |             |
+
 
 
 _Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Gabriel Campello](https://github.com/G16C), 2023._
@@ -187,17 +190,19 @@ _Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Gabriel Campello](http
 
 ## Bibliografia
 
-## Referências Bibliográficas
-
-> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
-
-> <a id="REF2" href="#anchor_2">2.</a> DIAPER, D.; STANTON, N. **The handbook of task analysis for human-computer interaction.** New Jersey: Lawrence Erlbaum Associates, 2003.
-
 > <a id="REF3" href="#anchor_3">3.</a> DE MELO, Arthur. Cronograma. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/cronograma>>. Acesso em: 17 maio 2023.
 
 > <a id="REF4" href="#anchor_4">4.</a> DE MELO, Arthur. Ferramentas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/ferramenta>>. Acesso em: 17 maio 2023.
 
 > <a id="REF5" href="#anchor_5">5.</a> DE MELO, Arthur. Processo de Design. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/processo-design>>. Acesso em: 17 maio 2023.
+
+> <a id="REF6" href="#anchor_6">6.</a> DE MELO, Arthur. Site Escolhido. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/site-escolhido>>. Acesso em: 17 maio 2023.
+
+## Referências Bibliográficas
+
+> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+> <a id="REF2" href="#anchor_2">2.</a> DIAPER, D.; STANTON, N. **The handbook of task analysis for human-computer interaction.** New Jersey: Lawrence Erlbaum Associates, 2003.
 
 ## Histórico de Versões
 
