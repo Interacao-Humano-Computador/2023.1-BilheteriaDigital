@@ -41,6 +41,20 @@ Esse artefato está em acordo com os padrões do projeto definidos pelo grupo.
 
 - ID 4: Trocar a posição do histórico de versões. Ele deve estar após todos os tópicos.
 
+## Acompanhamento
+
+A figura 1 apresenta um gráfico com o percentual de respostas sim, não ou incompleto , obtidas através da checklist de verificação.
+
+<center>
+
+**Figura 1** - Gráfico do resultado da verificação.
+
+<iframe style="border-radius: 5px; border:3px solid red" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1u778_uBF8ysB7UJIrCEDfhJ3_XVT6UlYs16bx5cNGVU/edit?hl=pt-br#gid=1148475357"></iframe>
+
+_Fonte: [Gabriel Campello](https://github.com/G16C), 2023._
+
+</center>
+
 ## Bibliografia
 
 > MACIEL, Geovanna. Cronograma.Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma>>. Acesso em: 18 maio 2023.

@@ -51,6 +51,20 @@ Novamente, como foi exposto no ID 9, a fim de evitar redundância no trabalho, s
 
 - ID 10: Assim como sugerido no ID 9, já que mas a frente no projeto temos um artefato específico para definir as heurísticas que foram violadas pelo site, devemos relacionar os dois artefatos: [Site Escolhido](../../../../planejamento/site-escolhido) e [Princípios Gerais](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/)
 
+## Acompanhamento
+
+A figura 1 apresenta um gráfico com o percentual de respostas sim, não ou incompleto , obtidas através da checklist de verificação.
+
+<center>
+
+**Figura 1** - Gráfico do resultado da verificação.
+
+<iframe style="border-radius: 5px; border:3px solid red" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1NBqGlLu3EX781qafrjQMpgLK8gU0o40sUG4XrGD1_20/edit#gid=489075947"></iframe>
+
+_Fonte: [Gabriel Campello](https://github.com/G16C), 2023._
+
+</center>
+
 ## Bibliografia
 
 > ALVES, Douglas. Site Escolhido.Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/site-escolhido>>. Acesso em: 18 maio 2023.

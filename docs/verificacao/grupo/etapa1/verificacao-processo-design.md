@@ -16,7 +16,7 @@ Para a verificação do artefato, será feita uma checklist com base no que fora
 | ID  | Descrição                                                                                              | Avaliação | Observações |
 | :-: | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
 |  1  | O artefato possui introdução?                                                                          |    Sim       |             |
-|  2  | O artefato possui uma bibliografia/referência bibliográfica?   |       Sim          |         |
+|  2  | O artefato possui uma bibliografia/referência bibliográfica?   |       Incompleto         |         |
 |  3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?               |     Sim        |             |
 |  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?     |    Sim       |             |
 |  5  | Todos os textos estão na norma padrão?                                                                 |    Sim       |             |
@@ -42,6 +42,20 @@ Não é bem um problema grave. No entanto, o artefato podria ter uma maior espec
 - ID 2: Falta adicionar o anchor na Bibliografia.
 
 - ID 8: Especificar mais como cada etapa do ciclo de vida vai se relacionar com o projeto.
+
+## Acompanhamento
+
+A figura 1 apresenta um gráfico com o percentual de respostas sim, não ou incompleto , obtidas através da checklist de verificação.
+
+<center>
+
+**Figura 1** - Gráfico do resultado da verificação.
+
+<iframe style="border-radius: 5px; border:3px solid red" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1GIdaZJflwlvuCjWvXe1brFzB7eMsz-zsKZ_UyFYowKE/edit#gid=1281628992"></iframe>
+
+_Fonte: [Gabriel Campello](https://github.com/G16C), 2023._
+
+</center>
 
 ## Bibliografia
 
