@@ -176,7 +176,7 @@ Em relação aos itens de verificação, as questões 8 e 10 foram retiradas da 
 | :--: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
 |  6   |   O motivo da escolha do site foi definido?    |           |             |
 |  7   |   O artefato apresenta quais fatores foram determinantes para escolha do site?    |           |             |
-|  8   |   Na avaliação eurística, todas as eurísticas foram detalhadas apropriadamente?   |           |             |
+|  8   |   Na avaliação eurística, todas as heurísticas foram detalhadas apropriadamente?   |           |             |
 |  9   |    As eurísticas apresentam imagens, a fim de ilustrar os problemas encontrados?   |           |             |
 |  10  |    Os problemas encontrados nas heurísticas possuem suas tabelas de detalhamento da heurística?   |           |             |
 
@@ -208,4 +208,4 @@ _Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Gabriel Campello](http
 
 | Versão | Data       | Descrição                                                                          | Autor(es)                                        | Revisor(es)                                  |
 | ------ | ---------- | ---------------------------------------------------------------------------------- | ------------------------------------------------ | -------------------------------------------- |
-| `1.0`  | 17/06/2023 | Criação da página.                                                                 | [Gabriel Campello](https://github.com/G16C) | [Douglas Alves](https://github.com/RafaelCLG0) |
+| `1.0`  | 17/06/2023 | Criação da página.                                                                 | [Gabriel Campello](https://github.com/G16C) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
