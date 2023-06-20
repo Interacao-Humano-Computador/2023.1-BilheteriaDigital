@@ -48,7 +48,7 @@ Os resultados das verificações em si serão apresentados em páginas separadas
 - [Resultados da Verificaçã do Aspectos Éticos](../aspectos-eticos);
 - [Resultados da Verificaçã do Perfil de Usuário](../perfil-de-usuario);
 - [Resultados da Verificaçã do Cenários](../cenarios);
-- [Resultados da Verificaçã do Personas]();
+- [Resultados da Verificaçã do Personas](../personas);
 - [Resultados da Verificaçã do Análise de Tarefas - Análise Hierárquica de Tarefas](../at-hta);
 - [Resultados da Verificaçã do Análise de Tarefas - GOMS](../at-goms).
 
@@ -67,6 +67,7 @@ A verificação será realizada no período de 17 de junho de 2023 até dia 18 d
 | 18/06/2023 | Relato da verificação do artefato de Perfil de Usuário e correção dos problemas.                     | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
 | 18/06/2023 | Verificação do artefato de Análise de Tarefas - GOMS.                                                | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
 | 18/06/2023 | Relato das verificações dos artefatos de Análise de Tarefas (Análise Hierárquica de Tarefas e GOMS). | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
+| 19/06/2023 | Relato das verificações das Personas. | [Douglas Alves](https://github.com/dougAlvs)                                                                                                |
 | 19/06/2023 | Entrega final das verificações e correções na página do grupo.                                       | [Douglas Alves](https://github.com/dougAlvs), [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut) |
 
 _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
@@ -180,7 +181,10 @@ _Fonte: [Geovanna Maciel](https://github.com/manuziny), 2023._
 
 ### Personas
 
-A tabela 7 a seguir apresenta a checklist referente ...
+A tabela 7 a seguir apresenta a checklist referenteao artefato das [personas](../../../../analise-de-requisitos/personas), ela foi construída tendo como base o livro texto Interação Humano-Computador da autoria de Bruno Silva e Simone Barbosa e a checklist produzida pelo integrante do grupo [Geovanna Maciel](https://github.com/manuziny) no contexto da [verificação do mesmo artefato do grupo 2](../../../grupo2/etapa2/personas).<a id=anchor_6 href="#REF6"><sup>6</sup></a>
+
+Em relação aos itens de verificação, as questões 6 a 15 foram retiradas da checklist de [verificação da etapa 2 do grupo 2](../../../grupo2/etapa2/perfil-de-usuario).<a href="#REF6"><sup>6</sup></a>A questão 16 foi baseada na [checklist](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/pc2/#verificacao-personas) que o grupo 8 elaborou na verificação do nosso grupo e se baseia na definição de persona de Cooper (2007, p. 75)<a id=anchor_5  href="#REF5"><sup>5</sup></a>.
+
 
 <center>
 
@@ -188,13 +192,19 @@ A tabela 7 a seguir apresenta a checklist referente ...
 
 | ID  | Descrição | Avaliação | Observações |
 | :-: | --------- | --------- | ----------- |
-|  6  |           |           |             |
-|  7  |           |           |             |
-|  8  |           |           |             |
-|  9  |           |           |             |
-| 10  |           |           |             |
+| 6 | A persona possui identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas? | Sim | |
+| 7 | A persona primária possui elasticidade? (Uma persona assume uma solidez tangível que coloca os pressupostos de design em perspectiva. À medida que uma persona perde sua elasticidade, podemos identificar suas habilidades, suas motivações e o que ela quer alcançar.)| Não | | 
+| 8 | A persona primária é sólida e tangível o suficiente para colocar os pressupostos de design em perspectiva? | Sim | |
+| 9 | O elenco de personas torna evidente quais são os objetivos dos usuários? |Sim| |
+| 10 | O elenco de personas tem entre 3 a 12 personas? | | Sim |
+| 11 | Possui justificativa do número? | Sim | Contudo, vale citar por quem esse intervalo é recomendado |
+| 12 | Possui uma antipersona definida? | Sim | |
+| 13 | Há algum método para descobrir o objetivo das personas? | Não | Se foi utilizado, não foi evidenciado no texto. |
+| 14 | Possui objetivos pessoais, corporativos e práticos? | Incompleto | Eles estão misturados, caberia subdividi-los melhor |
+| 15 | Há algum objetivo de experiência da persona? | Não | Adicioná-los enriqueceria o artefato |
+| 16 | O elenco de personas é definido a partir do perfil de usuário? |Sim | |
 
-_Fonte: Autor, 2023._
+_Fonte: [Geovanna Maciel](https://github.com/manuziny), [Douglas Alves](https://github.com/dougAlvs) e [Marcus Vinicius](https://github.com/MarcusVcd), 2023._
 
 </center>
 
@@ -235,7 +245,7 @@ _Fonte: [Douglas Alves](https://github.com/dougAlvs) e [Matheus Henrique](https:
 
 A tabela 9 a seguir apresenta a checklist referente ao GOMS, ela foi construída com base no livro texto Interação Humano-Computador da autoria de Bruno Silva e Simone Barbosa.<a href="#REF3"><sup>3</sup></a> Foi utilizada também, a checklist elaborada pelo integrante do grupo [Douglas Alves](https://github.com/dougAlvs) no contexto da [verificação do mesmo artefato do grupo 2](../../../grupo2/etapa2/analise-de-tarefas).<a id=anchor_2 href="#REF2"><sup>2</sup></a>
 
-Em relação aos itens de verificação, as questões foram construídas levando em consideração os itens necessários para uma análise com o método GOMS proposto por Card et al. (1983)<a id=anchor_5 href="#REF5"><sup>5</sup></a> e por Simone e Silva (2011, p. 196-201).<a href="#REF3"><sup>3</sup></a>
+Em relação aos itens de verificação, as questões foram construídas levando em consideração os itens necessários para uma análise com o método GOMS proposto por Card et al. (1983)<a id=anchor_7 href="#REF7"><sup>7</sup></a> e por Simone e Silva (2011, p. 196-201).<a href="#REF3"><sup>3</sup></a>
 
 <center>
 
@@ -267,7 +277,11 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 > <a id="REF4" href="#anchor_4">4.</a> DIAPER, D.; STANTON, N. **The handbook of task analysis for human-computer interaction.** New Jersey: Lawrence Erlbaum Associates, 2003.
 
-> <a id="REF5" href="#anchor_5">5.</a> Card, S.; Moran, T.P.; Newell, A. **The Psychology of Human-Computer Interaction.** New Jersey: Lawrence Erlbaum Associates, 1983.
+> <a id="REF5" href="#anchor_5">5.</a> Cooper, A.; Reimann, R.; Cronin, D. About Face 3: The Essentials of Interaction Design. New York, NY: John Wiley & Sons, 2007.
+
+> <a id="REF6" href="#anchor_6">6.</a> MACIEL, Geovanna. Personas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa2/personas>>. Acesso em: 19 maio 2023.
+
+> <a id="REF7" href="#anchor_7">7.</a> Card, S.; Moran, T.P.; Newell, A. **The Psychology of Human-Computer Interaction.** New Jersey: Lawrence Erlbaum Associates, 1983.
 
 ## Bibliografia
 
