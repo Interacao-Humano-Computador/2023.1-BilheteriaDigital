@@ -59,7 +59,7 @@ A figura 1 apresenta um gráfico com o percentual de respostas sim, não ou inco
 
 **Figura 1** - Gráfico do resultado da verificação.
 
-<iframe style="border-radius: 5px; border:3px solid red" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS7pbcgtrzSbjW6IvlacbY9-rsPhNvXTd3tHBJ91nPOa-13zQeHgeg_2XCy9ZKNrC2GTgQULkLPrvsJ/pubhtml?gid=489075947&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe style="border-radius: 5px; border:3px solid red" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS7pbcgtrzSbjW6IvlacbY9-rsPhNvXTd3tHBJ91nPOa-13zQeHgeg_2XCy9ZKNrC2GTgQULkLPrvsJ/pubchart?oid=1743269453&amp;format=interactive"></iframe>
 
 _Fonte: [Gabriel Campello](https://github.com/G16C), 2023._
 
