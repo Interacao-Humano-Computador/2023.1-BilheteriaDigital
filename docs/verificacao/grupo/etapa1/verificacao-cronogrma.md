@@ -24,7 +24,7 @@ Para a verificação do artefato, será feita uma checklist com base no que fora
 |  8  | O cronogrma apresenta o planejado e o executado?                                                       | Sim       |             |
 |  9  | O cronograma foi atualizado conforme as entregas foram sendo executadas?                               | Sim       |             |
 | 10  | Os revisores são pessoas diferentes dos autores?                                                       | Sim       |             |
-| 11  | Existem atividades redundantes dentro do cronograma?                                                   | Não       |             |
+| 11  | As atividades definidas se complementam, mas não são redundantes?                                                   | Sim       |             |
 
 _Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Gabriel Campello](https://github.com/G16C), 2023._
 
