@@ -1,13 +1,12 @@
 # Verificação Cronograma
 
-
 ## Introdução
 
 Este documento é de verificação do artefato [Cronograma](../../../../planejamento/cronograma) produzido pelo [Grupo da disciplina de IHC](https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital) que tem o projeto voltado ao site Bilheteria Digital. Com base nisso, o artefato [Cronograma](../../../../planejamento/cronograma) será verificado de acordo com a literatura Interação-Humano-Computador de Barbosa e Silvareferida<a id=anchor_1 href="#REF1"><sup>1</sup></a>.
 
 ## Metodologia
 
-Para a verificação do artefato, será feita uma checklist com base no que fora exigido pelo professor em sala de aula e, se possível, com pontos apontados pela literatura referida<a id=anchor_1 href="#REF1"><sup>1</sup></a>. Essa será composta por 5 perguntas que serão o padrão exigido para a documentação e, em seguida, perguntas envolvendo o conteúdo do artefato [Cronograma](../../../../planejamento/cronograma). A Tabela 1, a seguir, apresenta os resultados para a versão do artefato definida no [Planejamento da Verificacao](../etapa1/planejamento-verificacao-etapa1-grupo.md). 
+Para a verificação do artefato, será feita uma checklist com base no que fora exigido pelo professor em sala de aula e, se possível, com pontos apontados pela literatura referida<a id=anchor_1 href="#REF1"><sup>1</sup></a>. Essa será composta por 5 perguntas que serão o padrão exigido para a documentação e, em seguida, perguntas envolvendo o conteúdo do artefato [Cronograma](../../../../planejamento/cronograma). A Tabela 1, a seguir, apresenta os resultados para a versão do artefato definida no [Planejamento da Verificacao](../etapa1/planejamento-verificacao-etapa1-grupo.md).
 
 <center>
 
@@ -15,17 +14,17 @@ Para a verificação do artefato, será feita uma checklist com base no que fora
 
 | ID  | Descrição                                                                                              | Avaliação | Observações |
 | :-: | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-|  1  | O artefato possui introdução?                                                                          |    Sim       |             |
-|  2  | O artefato possui uma bibliografia/referência bibliográfica?   |       Sim          |         |
-|  3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?               |     Sim        |             |
-|  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?     |    Sim       |             |
-|  5  | Todos os textos estão na norma padrão?                                                                 |    Sim       |             |
-|  6  |     O cronograma contém  autores, revisores, datas de execução e revisão?       |    Sim       |             |
-|  7  |     O cronograma foi elaborado em tabelas?        |      Sim     |            |
-|  8  |     O cronogrma apresenta o planejado e o executado?        |      Sim     |            |
-|  9  |     O cronograma foi atualizado conforme as entregas foram sendo executadas?        |    Sim       |            |
-| 10  |     Os revisores são pessoas diferentes dos autores?        |    Sim       |            |
-| 11  |     Existem atividades redundantes dentro do cronograma?        |     Não      |            |
+|  1  | O artefato possui introdução?                                                                          | Sim       |             |
+|  2  | O artefato possui uma bibliografia/referência bibliográfica?                                           | Sim       |             |
+|  3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim       |             |
+|  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           | Sim       |             |
+|  5  | Todos os textos estão na norma padrão?                                                                 | Sim       |             |
+|  6  | O cronograma contém autores, revisores, datas de execução e revisão?                                   | Sim       |             |
+|  7  | O cronograma foi elaborado em tabelas?                                                                 | Sim       |             |
+|  8  | O cronogrma apresenta o planejado e o executado?                                                       | Sim       |             |
+|  9  | O cronograma foi atualizado conforme as entregas foram sendo executadas?                               | Sim       |             |
+| 10  | Os revisores são pessoas diferentes dos autores?                                                       | Sim       |             |
+| 11  | Existem atividades redundantes dentro do cronograma?                                                   | Não       |             |
 
 _Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Gabriel Campello](https://github.com/G16C), 2023._
 
@@ -67,6 +66,6 @@ _Fonte: [Gabriel Campello](https://github.com/G16C), 2023._
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                                                          | Autor(es)                                        | Revisor(es)                                  |
-| ------ | ---------- | ---------------------------------------------------------------------------------- | ------------------------------------------------ | -------------------------------------------- |
-| `1.0`  | 18/06/2023 | Criação da página.                                                                 | [Gabriel Campello](https://github.com/G16C) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| Versão | Data       | Descrição          | Autor(es)                                   | Revisor(es)                                      |
+| ------ | ---------- | ------------------ | ------------------------------------------- | ------------------------------------------------ |
+| `1.0`  | 18/06/2023 | Criação da página. | [Gabriel Campello](https://github.com/G16C) | [Rafael Ferreira](https://github.com/RafaelCLG0) |

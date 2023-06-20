@@ -6,7 +6,9 @@
 
 ## Ferramentas Utilizadas
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p></font>
+<center>
+
+**Tabela 1** - Ferramentas Utilizadas no Projeto
 
 |                                                                                                                                                                                                       | Ferramenta                | Finalidade                                                                                                  |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -21,9 +23,13 @@
 |                                                       ![Logo do Google Docs](../assets/ferramentas/gdocs.png){: style="height:96px;width:96px"}                                                       | Google Docs               | Criação e edição de tabelas e arquivos. <a id="anchor_9" href="#FRM9">^9^</a>                               |
 |                                                      ![Logo do Google Drive](../assets/ferramentas/gdrive.png){: style="height:90px;width:90px"}                                                      | Google Drive              | Compartilhamento de arquivos. <a id="anchor_10" href="#FRM10">^10^</a>                                      |
 |                                       ![Logo do This Person Doesn't Exist](../assets/ferramentas/thispersondoesntexist.png){: style="height:100px;width:100px"}                                       | This Person Doesn't Exist | Criação de imagens falsas para as personas. <a id="anchor_11" href="#FRM11">^11^</a>                        |
-|                                       ![Logo do Storyboard That](../assets/ferramentas/storyboardthat.png){: style="height:100px;width:100px"}                                       | Storyboard That | Criação de imagens para os storyboards. <a id="anchor_12" href="#FRM12">^12^</a>                        |
+|                                               ![Logo do Storyboard That](../assets/ferramentas/storyboardthat.png){: style="height:100px;width:100px"}                                                | Storyboard That           | Criação de imagens para os storyboards. <a id="anchor_12" href="#FRM12">^12^</a>                            |
+|                                                          ![Logo do Miro](../assets/ferramentas/miro.png){: style="height:100px;width:100px"}                                                          | Miro                      | Realizar troca de ideias com usuários. <a id="anchor_13" href="#FRM13">^13^</a>                             |
+|                                                      ![Logo do Marvel App](../assets/ferramentas/marvel.png){: style="height:100px;width:150px"}                                                      | Marvel App                | Criação do protótipo de papel. <a id="anchor_14" href="#FRM13">^14^</a>                                     |
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+_Fonte: Autores._
+
+</center>
 
 ## Bibliografia
 
@@ -51,9 +57,14 @@
 
 > <a id="FRM12" href="#anchor_12">12.</a> Storyboard That. Disponível em: [https://www.storyboardthat.com/pt](). Acesso em: 21 de maio de 2023.
 
+> <a id="FRM13" href="#anchor_13">13.</a> Miro. Disponível em: [https://miro.com/pt/](). Acesso em: 19 de junho de 2023.
+
+> <a id="FRM14" href="#anchor_14">14.</a> Marvel App. Disponível em: [https://marvelapp.com/](). Acesso em: 19 de junho de 2023.
+
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                         | Autor(es)                                                                                         | Revisor(es)                                    |
-| ------ | ---------- | --------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| `1.0`  | 21/04/2023 | Criação da página de ferramentas. | [Matheus Henrique](https://github.com/mathonaut) e [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) |
-| `1.1`  | 26/04/2023 | Adicão das referências.           | [Matheus Henrique](https://github.com/mathonaut)                                                  | [Arthur de Melo](https://github.com/arthurmlv) |
+| Versão | Data       | Descrição                                 | Autor(es)                                                                                         | Revisor(es)                                    |
+| ------ | ---------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| `1.0`  | 21/04/2023 | Criação da página de ferramentas.         | [Matheus Henrique](https://github.com/mathonaut) e [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) |
+| `1.1`  | 26/04/2023 | Adicão das referências.                   | [Matheus Henrique](https://github.com/mathonaut)                                                  | [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.2`  | 19/06/2023 | Adicão das ferramentas Miro e Marvel App. | [Matheus Henrique](https://github.com/mathonaut)                                                  | [Arthur de Melo](https://github.com/arthurmlv) |

@@ -22,7 +22,7 @@ O integrante do grupo [Douglas Alves](https://github.com/dougAlvs) será respons
 
 |                   Participante                   |   Papel   |
 | :----------------------------------------------: | :-------: |
-| [Douglas Alves](https://github.com/dougAlvs) | Avaliador |
+|   [Douglas Alves](https://github.com/dougAlvs)   | Avaliador |
 | [Rafael Ferreira](https://github.com/RafaelCLG0) |  Revisor  |
 
 _Fonte: [Douglas Alves](https://github.com/dougAlvs), 2023._
@@ -37,29 +37,28 @@ A tabela 2 a seguir apresenta a checklist com os dados obtidos a partir da verif
 
 **Tabela 2** - Checklist de Verificação.
 
-| ID  | Descrição | Avaliação | Observações |
-| :-: | --------- | :-------: | :-----------:|
-|  1  | O artefato possui introdução? |     Sim      |      -       |
-|  2  | O artefato possui uma bibliografia/referência bibliográfica?   |     Sim      |       -      |
-|  3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |   Sim       |      -       |
-|  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?|   Sim        |      -      |
-|  5  | Todos os textos estão na norma padrão? | Sim
-| 6  | Os princípios gerais do projeto apresentam embasamento teórico? Por exemplo: Norman, 1988; Tognazzini, online; Nielsen, 1993; Shneiderman, 1998; Cooper, 1999;  |    Sim     |
-| 7  | Foram identificadas violações dos princípios gerais definidos no projeto? Caso sim, essas violações foram explicitadas?  |   Sim      |
-| 8  | Os princípios gerais do projeto contém correspondência com as expectativas dos usuários ?   |     Sim    |
-| 9  | Os princípios gerais do projeto contém simplicidade nas estruturas das tarefas ?  |     Sim    |
-| 10  | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ? |     Sim    |
-| 11 | Os princípios gerais do projeto contém consistência e padronização ?  |     Sim    |
-| 12 | Os princípios gerais do projeto contém promoção da eficiência do usuário ?  |   Sim      |
-| 13 | Os princípios gerais do projeto contém antecipação das necessidades do usuário ?    |     Sim    |
-| 14 | Os princípios gerais do projeto contém visibilidade e reconhecimento ?   |     Sim    |
-| 15 | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ?   |     Sim    |
-| 16 | Os princípios gerais do projeto contém projeto para erros ?     |   Sim      |
+| ID  | Descrição                                                                                                                                                      | Avaliação | Observações |
+| :-: | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
+|  1  | O artefato possui introdução?                                                                                                                                  |    Sim    |      -      |
+|  2  | O artefato possui uma bibliografia/referência bibliográfica?                                                                                                   |    Sim    |      -      |
+|  3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                                                         |    Sim    |      -      |
+|  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                                                   |    Sim    |      -      |
+|  5  | Todos os textos estão na norma padrão?                                                                                                                         |    Sim    |      -      |
+|  6  | Os princípios gerais do projeto apresentam embasamento teórico? Por exemplo: Norman, 1988; Tognazzini, online; Nielsen, 1993; Shneiderman, 1998; Cooper, 1999; |    Sim    |      -      |
+|  7  | Foram identificadas violações dos princípios gerais definidos no projeto? Caso sim, essas violações foram explicitadas?                                        |    Sim    |      -      |
+|  8  | Os princípios gerais do projeto contém correspondência com as expectativas dos usuários ?                                                                      |    Sim    |      -      |
+|  9  | Os princípios gerais do projeto contém simplicidade nas estruturas das tarefas ?                                                                               |    Sim    |      -      |
+| 10  | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ?                                                                      |    Sim    |      -      |
+| 11  | Os princípios gerais do projeto contém consistência e padronização ?                                                                                           |    Sim    |      -      |
+| 12  | Os princípios gerais do projeto contém promoção da eficiência do usuário ?                                                                                     |    Sim    |      -      |
+| 13  | Os princípios gerais do projeto contém antecipação das necessidades do usuário ?                                                                               |    Sim    |      -      |
+| 14  | Os princípios gerais do projeto contém visibilidade e reconhecimento ?                                                                                         |    Sim    |      -      |
+| 15  | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ?                                                                               |    Sim    |      -      |
+| 16  | Os princípios gerais do projeto contém projeto para erros ?                                                                                                    |    Sim    |      -      |
 
 _Fonte: [Rafael Ferreira](https://github.com/rafaelCLG0) e [Douglas Alves](https://github.com/dougAlvs), 2023._
 
 </center>
-
 
 ## Sugestões de Correção
 
@@ -81,10 +80,10 @@ _Fonte: [Douglas Alves](https://github.com/dougAlvs), 2023._
 
 ## Bibliografia
 
->  BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador.** Rio de Janeiro: Elsevier, 2011.
+> BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador.** Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                      |
-| ------ | ---------- | ------------------ | ------------------------------------------------ | ------------------------------------------------ |
+| Versão | Data       | Descrição          | Autor(es)                                    | Revisor(es)                                      |
+| ------ | ---------- | ------------------ | -------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 19/06/2023 | Criação da página. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
