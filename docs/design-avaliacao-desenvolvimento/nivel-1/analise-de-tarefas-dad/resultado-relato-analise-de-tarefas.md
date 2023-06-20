@@ -1,5 +1,9 @@
 # Relato do Resultado - Análise de Tarefas
 
+## Introdução
+
+Esse artefato tem o objetivo de documentar um planejamento para o relato dos resultados obtidos pela avaliação da Análise de Tarefas. O relato dos resultados é uma forma de explicitar a análise feita por uma determinada atividade. Nele serão abordados os tópicos necessários para a construção de tal relato.
+
 ## Entrevista - Visualizar meus pedidos
 
 ### Objetivo e escopo da avaliação
@@ -13,7 +17,7 @@ O método utilizado foi de entrevista e observação do usuário com a interface
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Douglas Alves](https://github.com/dougAlvs) |    Ana Luiza Nobre    |       22:00       |     22:10      | 27/05/2023 | Plataforma Discord |
+|  [Douglas Alves](https://github.com/dougAlvs) |    <span style = "color: orange">Ana Luiza Nobre</span>    |       22:00       |     22:10      | 27/05/2023 | Plataforma Discord |
 
 *Fonte* - [Douglas Alves](https://github.com/dougAlvs)
 </center>
@@ -65,7 +69,7 @@ O método utilizado foi a entrevista e de observação da interação do usuári
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Rafael Ferreira](https://github.com/RafaelCLG0) |    Paulo   |       12:30       |     12:38      | 28/05/2023 | Plataforma Teams |
+|  [Rafael Ferreira](https://github.com/RafaelCLG0) |    <span style = "color: orange">Paulo</span>   |       12:30       |     12:38      | 28/05/2023 | Plataforma Teams |
 
 **Fonte** - [Rafael Ferreira](https://github.com/RafaelCLG0).
 </center>
@@ -99,7 +103,7 @@ De modo geral, na análise da tarefa, o participante conseguiu realizar a tarefa
 
 <font size="3"><p style="text-align: center">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
 
-## Entrevista - Buscar um Evento
+## Entrevista - Buscar Evento
 
 ### Objetivo e escopo da avaliação
 
@@ -114,7 +118,7 @@ O método utilizado foi a entrevista e de observação da interação do usuári
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Rafael Ferreira](https://github.com/RafaelCLG0) |    Marcos   |       11:40       |     11:48      | 28/05/2023 | Plataforma Teams |
+|  [Rafael Ferreira](https://github.com/RafaelCLG0) |    <span style = "color: orange">Marcos</span>   |       11:40       |     11:48      | 28/05/2023 | Plataforma Teams |
 
 **Fonte** - [Rafael Ferreira](https://github.com/RafaelCLG0).
 </center>
@@ -161,7 +165,7 @@ O método utilizado foi de entrevista e observação do usuário com a interface
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Geovanna Maciel](https://github.com/manuziny) |    Lucas Maciel    |       20:40       |     20:50      | 27/05/2023 | Plataforma Google Meets |
+|  [Geovanna Maciel](https://github.com/manuziny) |    <span style = "color: orange">Lucas Maciel</span>    |       20:40       |     20:50      | 27/05/2023 | Plataforma Google Meets |
 
 **Fonte** - [Geovanna Maciel](https://github.com/manuziny).
 </center>
@@ -216,7 +220,7 @@ O método utilizado foi a entrevista e de observação da interação do usuári
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Arthur de Melo](https://github.com/arthurmlv) |    João Victor    |       22:00       |     22:50      | 27/05/2023 | Plataforma Discord |
+|  [Arthur de Melo](https://github.com/arthurmlv) |    <span style = "color: orange">João Victor</span>    |       22:00       |     22:50      | 27/05/2023 | Plataforma Discord |
 
 **Fonte** - [Arthur de Melo](https://github.com/arthurmlv).
 </center>
@@ -270,7 +274,7 @@ Foi realizada uma entrevista com um usuário, nessa entrevista foram apresentada
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Gabriel Campello](https://github.com/G16C)  |   Arthur Grandão     |       16:40       |     16:45      | 27/05/2023 | Plataforma Google Meet |
+|  [Gabriel Campello](https://github.com/G16C)  |   <span style = "color: orange">Arthur Grandão</span>     |       16:40       |     16:45      | 27/05/2023 | Plataforma Google Meet |
 
 *Fonte* - [Gabriel Campello](https://github.com/G16C).
 </center>
@@ -296,18 +300,34 @@ Durante a entrevista, o usuário não encontrou nenhuma dificuldade em relação
 A avaliação do HTA de Cancelamento de Compra da Bilheteria Digital foi conduzida com sucesso e resultou em feedback positivo por parte do usuário entrevistado. Os principais resultados obtidos são os seguintes:
 
 * O participante selecionado se encaixou no perfil de usuário, possuindo experiência em tecnologia e familiaridade com o site.
-
-*Durante a entrevista, o usuário não encontrou dificuldades ou problemas em relação ao storyboard, indicando que a sequência de eventos e a representação visual foram claras e compreensíveis.
-
-*Não foram identificadas sugestões de melhoria ou falhas que necessitassem de correção no HTA.
-
+* Durante a entrevista, o usuário não encontrou dificuldades ou problemas em relação ao storyboard, indicando que a sequência de eventos e a representação visual foram claras e compreensíveis.
+* Não foram identificadas sugestões de melhoria ou falhas que necessitassem de correção no HTA.
 * O usuário validou a qualidade do storyboard, afirmando que está bem montado e coerente com a tarefa de acessar o Cancelamento de Compra.
-
-*A experiência prévia do usuário com storyboards fortalece a validação do trabalho realizado.
+* A experiência prévia do usuário com storyboards fortalece a validação do trabalho realizado.
 
 <p style="text-align: center"><a href="https://www.youtube.com/embed/pIi7bGCn27g" target="blanket">Clique aqui</a></p>
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/pIi7bGCn27g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+
+## Planejamento de Reprojeto
+
+As mudanças sugeridas e os outras vicissitudes encontradas ao se fazer a análise do artefato especificado devem ser consideradas para a realização de um reprojeto. No entanto, tal reprojeto deve manter a base do projeto original e realizar somente as alterações necessárias de fato. Logo, a Tabela 3 explicita um cronograma de reprojeto para realizar as mudanças sugeridas e analisadas.
+
+<center>
+**Tabela 2** - Cronograma de Reprojeto.
+
+| Executor(a) do Reprojeto  | Horário de Início | Horário de Fim |    Data    |
+| :----------------:  | :---------------: | :------------: | :--------: |
+|  [Gabriel Campello](https://github.com/G16C)  |          20:00       |     20:30       | 28/05/2023 |
+|  [Arthur de Melo](https://github.com/arthurmlv)  |          19:00       |     19:30      | 28/05/2023 |
+|  [Geovanna Maciel](https://github.com/manuziny)  |         20:00       |     20:30      | 28/05/2023 |
+|  [Douglas Alves](https://github.com/dougAlvs) |          22:00       |     22:10      | 28/05/2023 |
+|  [Rafael Ferreira](https://github.com/RafaelCLG0) |         19:40       |     20:20      | 29/05/2023 |
+|  [Rafael Ferreira](https://github.com/RafaelCLG0) |        19:40      |     20:20      | 29/05/2023 |
+
+**Fonte** - [Arthur de Melo](https://github.com/arthurmlv).
+</center>
 
 ## Histórico de Versões
 
@@ -319,4 +339,5 @@ A avaliação do HTA de Cancelamento de Compra da Bilheteria Digital foi conduzi
 | `1.2`  | 27/05/2023 | Adição do Relato de Compartilhar Evento | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny) | 
 | `1.3`  | 28/05/2023 | Adição da entrevista e relato visualizar meus pedidos e organização da sequência   | [Geovanna Maciel](https://github.com/manuziny) | [Douglas Alves](https://github.com/dougAlvs) e [Rafael Ferreira](https://github.com/RafaelCLG0) | 
 | `1.4`  | 29/05/2023 | Adição da entrevista e relato cancelar compra   | [Geovanna Maciel](https://github.com/manuziny) | [Douglas Alves](https://github.com/dougAlvs) e [Rafael Ferreira](https://github.com/RafaelCLG0) | 
+| `1.5`  | 19/06/2023 | Ajustes da Verificação   | [Arthur de Melo](https://github.com/arthurmlv) | [Matheus Henrique](https://github.com/mathonaut) | 
 
