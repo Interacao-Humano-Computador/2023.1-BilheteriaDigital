@@ -6,11 +6,11 @@ No intuito de se conhecer melhor os usuários do aplicativo é necessário elabo
 
 ## Metodologia
 
-A técnica utilizada para para traçar o perfil de usuário foi o Grupo de Foco e pesquisas feitas nas mídias sociais do aplicativo. Para aplicar essa técnica do grupo de foco foi necessário marcar uma reunião via Discord, realizada no dia 03/05/2023, das 20:00 às 20:19. Os alunos [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/G16C) ficaram responsáveis por executar o papel de moderadora e secretário, respectivamente, como mostrado na tabela 1. Dois dos usuários não quiseram se identificar, no entanto suas respostas estão elencadas a abaixo. A partir das respostas obtidas traçamos o perfil dos usuários do nosso site. A pesquisa nas mídias sociais foi a partir do Instagram e do Facebook, ali foi possível identificar as interações e quais são os usuários que estão envolvidos no uso do site. Foi uma pesquisa a parte do grupo de foco para podermos identificar quais usuários entrevistar.
+A técnica utilizada para traçar o perfil de usuário foi o Grupo de Foco e pesquisas feitas nas mídias sociais do aplicativo. Para aplicar essa técnica do grupo de foco foi necessário marcar uma reunião via Discord, realizada no dia 03/05/2023, das 20:00 às 20:19. Os alunos [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/G16C) ficaram responsáveis por executar o papel de moderadora e secretário, respectivamente, como mostrado na tabela 1. Dois dos usuários não quiseram se identificar, no entanto suas respostas estão elencadas abaixo. A partir das respostas obtidas traçamos o perfil dos usuários do nosso site. A pesquisa nas mídias sociais foi a partir do Instagram e do Facebook, ali foi possível identificar as interações e quais são os usuários que estão envolvidos no uso do site. Foi uma pesquisa a parte do grupo de foco para podermos identificar quais usuários entrevistar.
 
 <center>
 
-<p style="text-align: center;"> Tabela 1 </p>
+**Tabela 1** - Participantes do Grupo de Foco.
 
 | Participante                                            | Função       |
 | ------------------------------------------------------- | ------------ |
@@ -20,7 +20,7 @@ A técnica utilizada para para traçar o perfil de usuário foi o Grupo de Foco 
 | <span style = "color: orange"> Usuário 2 </span>        | Entrevistada |
 | <span style = "color: orange"> Usuário 3 </span>        | Entrevistada |
 
-Fonte: [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/G16C)
+_Fonte: [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/G16C)._
 
 </center>
 
@@ -40,7 +40,7 @@ Os resultados do Grupo de Foco foram bem variados, levando em consideração a d
 
 <span style = "color: orange"> Geovana Campeiro </span>: O site atende o usuário de forma eficiente, não tive problemas no processo de compra.
 
-<span style = "color: orange">Usuário 2 </span>: Encontrei certa dificulade no uso do site. No momento da compra dos ingressos houve um cancelamento inesperado.
+<span style = "color: orange">Usuário 2 </span>: Encontrei certa dificuldade no uso do site. No momento da compra dos ingressos houve um cancelamento inesperado.
 
 <span style = "color: orange">Usuário 3 </span>: O site até que atinge as expectativas, mas pode ser um pouco ineficiente as vezes.
 
@@ -62,9 +62,9 @@ Os resultados do Grupo de Foco foram bem variados, levando em consideração a d
 
 ### 5 - Em geral, como você avaliaria a sua experiência com este produto/serviço? Há algo que você mudaria ou melhoraria se pudesse?
 
-<span style = "color: orange"> Geovana Campeiro </span>: Minha experiencia foi normal, não gosto muito da interface do site, acho ela muito carregada.
+<span style = "color: orange"> Geovana Campeiro </span>: Minha experiência foi normal, não gosto muito da interface do site, acho ela muito carregada.
 
-<span style = "color: orange">Usuário 2 </span>: Minha experiência não foi muito boa, gostaria que o aplicativo fosse mais explicativo em momentos que ocerre algum erro.
+<span style = "color: orange">Usuário 2 </span>: Minha experiência não foi muito boa, gostaria que o aplicativo fosse mais explicativo em momentos que ocorre algum erro.
 
 <span style = "color: orange">Usuário 3 </span>: Durante o uso tudo ocorreu bem, acredito que o site poderia receber algumas funcionalidades a mais.
 
@@ -74,7 +74,7 @@ Os resultados do Grupo de Foco foram bem variados, levando em consideração a d
 
 <span style = "color: orange">Usuário 2 </span>: Eu pesquiso os eventos antes de comprar. O processo de compra dentro do aplicativo.
 
-<span style = "color: orange">Usuário 3 </span>: Não tive dificulades. Uso o site só para comprar ingressos.
+<span style = "color: orange">Usuário 3 </span>: Não tive dificuldades. Uso o site só para comprar ingressos.
 
 ### Perfil dos usuários entrevistados
 
@@ -105,3 +105,4 @@ Também foi possível inferir que a atitude dos usuários é de gostar de tecnol
 | Versão | Data       | Descrição                            | Autor(es)                                                                                    | Revisor(es)                                                                                         |
 | ------ | ---------- | ------------------------------------ | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | `1.0`  | 06/05/2023 | Criação da página Perfil de Usuário. | [Geovanna Maciel](https://github.com/manuziny) e [Gabriel Campello](https://github.com/G16C) | [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.1`  | 19/06/2023 | Correção ortográfica.                | [Matheus Henrique](https://github.com/mathonaut)                                             | [Geovanna Maciel](https://github.com/manuziny)                                                      |

@@ -22,7 +22,7 @@ O integrante do grupo [Douglas Alves](https://github.com/dougAlvs) será respons
 
 |                   Participante                   |   Papel   |
 | :----------------------------------------------: | :-------: |
-| [Douglas Alves](https://github.com/dougAlvs) | Avaliador |
+|   [Douglas Alves](https://github.com/dougAlvs)   | Avaliador |
 | [Rafael Ferreira](https://github.com/RafaelCLG0) |  Revisor  |
 
 _Fonte: [Douglas Alves](https://github.com/dougAlvs), 2023._
@@ -37,18 +37,18 @@ A tabela 2 a seguir apresenta a checklist com os dados obtidos a partir da verif
 
 **Tabela 2** - Checklist de Verificação.
 
-| ID  | Descrição | Avaliação | Observações |
-| :-: | --------- | :-------: | :-----------:|
-|  1  | O artefato possui introdução? |     Sim      |      -       |
-|  2  | O artefato possui uma bibliografia/referência bibliográfica?   |     Sim      |       -      |
-|  3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |   Sim       |      -       |
-|  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?|   Não se aplica        |      -      |
-|  5  | Todos os textos estão na norma padrão? | Sim
-| 6  | São identificadas as características da plataforma para o projeto ?  |    Sim     | -
-| 7  | São identificados os navegadores ou dispositivos que podem acessar a plataforma ? |   Sim      | -
-| 8  | São identificadas as limitações da plataforma ? |   Sim      | -
-| 9  | São identificadas as funcionalidades da plataforma ? |   Incompleto | Falta detalhamento
-| 10  | São identificadas as tecnologias que foram utilizadas ? |   Não      | - 
+| ID  | Descrição                                                                                              |   Avaliação   |    Observações     |
+| :-: | ------------------------------------------------------------------------------------------------------ | :-----------: | :----------------: |
+|  1  | O artefato possui introdução?                                                                          |      Sim      |         -          |
+|  2  | O artefato possui uma bibliografia/referência bibliográfica?                                           |      Sim      |         -          |
+|  3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |      Sim      |         -          |
+|  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           | Não se aplica |         -          |
+|  5  | Todos os textos estão na norma padrão?                                                                 |      Sim      |
+|  6  | São identificadas as características da plataforma para o projeto ?                                    |      Sim      |         -          |
+|  7  | São identificados os navegadores ou dispositivos que podem acessar a plataforma ?                      |      Sim      |         -          |
+|  8  | São identificadas as limitações da plataforma ?                                                        |      Sim      |         -          |
+|  9  | São identificadas as funcionalidades da plataforma ?                                                   |  Incompleto   | Falta detalhamento |
+| 10  | São identificadas as tecnologias que foram utilizadas ?                                                |      Não      |         -          |
 
 _Fonte: [Rafael Ferreira](https://github.com/rafaelCLG0), 2023._
 
@@ -63,7 +63,6 @@ O artefato aborda de maneira muito breve quais são as funcionalidades da plataf
 ### ID 10 - São identificadas as tecnologias que foram utilizadas?
 
 O documento em nenhum momento aborda quais tecnologias foram/são usadas no desenvolvimento e manutenção da aplicação.
-
 
 ## Sugestões de Correção
 
@@ -90,10 +89,10 @@ _Fonte: [Douglas Alves](https://github.com/dougAlvs), 2023._
 
 ## Bibliografia
 
->  BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador.** Rio de Janeiro: Elsevier, 2011.
+> BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador.** Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                      |
-| ------ | ---------- | ------------------ | ------------------------------------------------ | ------------------------------------------------ |
+| Versão | Data       | Descrição          | Autor(es)                                    | Revisor(es)                                      |
+| ------ | ---------- | ------------------ | -------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 19/06/2023 | Criação da página. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) |

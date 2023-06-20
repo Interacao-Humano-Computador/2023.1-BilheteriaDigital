@@ -58,10 +58,10 @@ A verificação será realizada no período de 17 de junho de 2023 até dia 18 d
 
 | Data       | Descrição                                                      | Responsável                                                                                                                                     |
 | ---------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 18/06/2023 | Verificação do artefato de Guia de Estilo.                     | [Matheus Henrique](https://github.com/mathonaut)   |
-| 18/06/2023 | Relato da verificação do artefato de Guia de Estilo.           | [Matheus Henrique](https://github.com/mathonaut)  |
-| 18/06/2023 | Relato da verificação do artefato de Princípios Gerais.           | [Douglas Alves](https://github.com/dougAlvs)  |
-| 18/06/2023 | Relato da verificação do artefato de Características Gerais.           | [Douglas Alves](https://github.com/dougAlvs)  |
+| 18/06/2023 | Verificação do artefato de Guia de Estilo.                     | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
+| 18/06/2023 | Relato da verificação do artefato de Guia de Estilo.           | [Matheus Henrique](https://github.com/mathonaut)                                                                                                |
+| 18/06/2023 | Relato da verificação do artefato de Princípios Gerais.        | [Douglas Alves](https://github.com/dougAlvs)                                                                                                    |
+| 18/06/2023 | Relato da verificação do artefato de Características Gerais.   | [Douglas Alves](https://github.com/dougAlvs)                                                                                                    |
 | 19/06/2023 | Entrega final das verificações e correções na página do grupo. | [Douglas Alves](https://github.com/dougAlvs), [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut) |
 
 _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
@@ -100,24 +100,23 @@ A tabela 4 a seguir apresenta a checklist referente ao artefato dos [Princípios
 
 Em relação aos itens de verificação, as questões 6 a 16 foram retiradas da checklist de [verificação da etapa 2 do grupo 2](../../../grupo2/etapa2/principios-geraiso).<a id=anchor_5 href="#REF5"><sup>5</sup></a>Contudo, as questões 6 e 7 foram modificas para melhor atender a verificação, a primeira baseando-se na definição de principios gerais dada por Barbosa e Silva (2011, p.264)<a id=anchor_1 href="#REF1"><sup>1</sup></a> e a segunda por um feedback dado pelo professor (Os princípios gerais deixarem explicitas as violações encontradas).
 
-
 <center>
 
 **Tabela 4** - Checklist para o artefato de Princípios Gerais.
 
-| ID  | Descrição | Avaliação | Observações |
-| :-: | --------- | --------- | ----------- |
-| 6  | Os princípios gerais do projeto apresentam embasamento teórico? Por exemplo: Norman, 1988; Tognazzini, online; Nielsen, 1993; Shneiderman, 1998; Cooper, 1999;                    |         |
-| 7  | Foram identificadas violações dos princípios gerais definidos no projeto? Caso sim, essas violações foram explicitadas?                                        |         |
-| 8  | Os princípios gerais do projeto contém correspondência com as expectativas dos usuários ?               |         |
-| 9  | Os princípios gerais do projeto contém simplicidade nas estruturas das tarefas ?                        |         |
-| 10  | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ?               |         |
-| 11 | Os princípios gerais do projeto contém consistência e padronização ?                                    |         |
-| 12 | Os princípios gerais do projeto contém promoção da eficiência do usuário ?                              |         |
-| 13 | Os princípios gerais do projeto contém antecipação das necessidades do usuário ?                        |         |
-| 14 | Os princípios gerais do projeto contém visibilidade e reconhecimento ?                                  |         |
-| 15 | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ?                        |         |
-| 16 | Os princípios gerais do projeto contém projeto para erros ?                                             |         |
+| ID  | Descrição                                                                                                                                                      | Avaliação | Observações |
+| :-: | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+|  6  | Os princípios gerais do projeto apresentam embasamento teórico? Por exemplo: Norman, 1988; Tognazzini, online; Nielsen, 1993; Shneiderman, 1998; Cooper, 1999; |           |
+|  7  | Foram identificadas violações dos princípios gerais definidos no projeto? Caso sim, essas violações foram explicitadas?                                        |           |
+|  8  | Os princípios gerais do projeto contém correspondência com as expectativas dos usuários ?                                                                      |           |
+|  9  | Os princípios gerais do projeto contém simplicidade nas estruturas das tarefas ?                                                                               |           |
+| 10  | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ?                                                                      |           |
+| 11  | Os princípios gerais do projeto contém consistência e padronização ?                                                                                           |           |
+| 12  | Os princípios gerais do projeto contém promoção da eficiência do usuário ?                                                                                     |           |
+| 13  | Os princípios gerais do projeto contém antecipação das necessidades do usuário ?                                                                               |           |
+| 14  | Os princípios gerais do projeto contém visibilidade e reconhecimento ?                                                                                         |           |
+| 15  | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ?                                                                               |           |
+| 16  | Os princípios gerais do projeto contém projeto para erros ?                                                                                                    |           |
 
 _Fonte: [Rafael Ferreira](https://github.com/rafaelCLG0) e [Douglas Alves](https://github.com/dougAlvs), 2023._
 
@@ -133,13 +132,13 @@ Em relação aos itens de verificação, as questões 6 a 10 foram retiradas da 
 
 **Tabela 5** - Checklist para o artefato de Características Gerais.
 
-| ID  | Descrição | Avaliação | Observações |
-| :-: | --------- | :-------: | ----------- |
-| 6  | São identificadas as características da plataforma para o projeto ?                                     |         |
-| 7  | São identificados os navegadores ou dispositivos que podem acessar a plataforma ?                       |         |
-| 8  | São identificadas as limitações da plataforma ?                                                         |         |
-| 9  | São identificadas as funcionalidades da plataforma ?                                                    |         |
-| 10  | São identificadas as tecnologias que foram utilizadas ?                                                 |         |
+| ID  | Descrição                                                                         | Avaliação | Observações |
+| :-: | --------------------------------------------------------------------------------- | :-------: | ----------- |
+|  6  | São identificadas as características da plataforma para o projeto ?               |           |
+|  7  | São identificados os navegadores ou dispositivos que podem acessar a plataforma ? |           |
+|  8  | São identificadas as limitações da plataforma ?                                   |           |
+|  9  | São identificadas as funcionalidades da plataforma ?                              |           |
+| 10  | São identificadas as tecnologias que foram utilizadas ?                           |           |
 
 _Fonte: [Rafael Ferreira](https://github.com/rafaelCLG0), 2023._
 
@@ -153,13 +152,13 @@ A tabela 6 a seguir apresenta a checklist referente às metas de usabilidade, qu
 
 **Tabela 6** - Checklist para o artefato de Metas de Usabilidade.
 
-| ID  | Descrição | Avaliação | Observações |
-| :-: | --------- | --------- | ----------- |
-| 6 | São apresentados quais fatores de qualidade de uso serão priorizados no projeto? | |  |
-| 7 | Há algum indicador de interesse baseado no desempenho dos usuários? |  |  |
-| 8 | As metas foram definidas através do perfil de usuário? |  |  |
-| 9 | Foram definidas as usabilidades em 6 metas? |  |  |
-| 10 | As metas são representadas como "guias de estilos"? |  |  |
+| ID  | Descrição                                                                        | Avaliação | Observações |
+| :-: | -------------------------------------------------------------------------------- | --------- | ----------- |
+|  6  | São apresentados quais fatores de qualidade de uso serão priorizados no projeto? |           |             |
+|  7  | Há algum indicador de interesse baseado no desempenho dos usuários?              |           |             |
+|  8  | As metas foram definidas através do perfil de usuário?                           |           |             |
+|  9  | Foram definidas as usabilidades em 6 metas?                                      |           |             |
+| 10  | As metas são representadas como "guias de estilos"?                              |           |             |
 
 _Fonte: [Geovanna Maciel](https://github.com/manuziny), 2023._
 
@@ -231,9 +230,9 @@ _Fonte: [Arthur Henrique](https://github.com/black258br), [Matheus Henrique](htt
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                              | Autor(es)                                        | Revisor(es)                                                                                   |
-| ------ | ---------- | -------------------------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| `1.0`  | 18/06/2023 | Criação da página.                     | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)                                                  |
-| `1.1`  | 18/06/2023 | Adição da checklist do Guia de Estilo. | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny) |
-| `1.2`  | 19/06/2023 | Adição da checklist dos Princípios Gerais. | [Douglas Alves](https://github.com/dougAlvs) | [Matheus Henrique](https://github.com/mathonaut) e [Geovanna Maciel](https://github.com/manuziny) |
-| `1.3`  | 19/06/2023 | Adição da checklist das Características Gerais. | [Douglas Alves](https://github.com/dougAlvs) | [Matheus Henrique](https://github.com/mathonaut) e [Geovanna Maciel](https://github.com/manuziny) |
+| Versão | Data       | Descrição                                       | Autor(es)                                        | Revisor(es)                                                                                       |
+| ------ | ---------- | ----------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| `1.0`  | 18/06/2023 | Criação da página.                              | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs)                                                      |
+| `1.1`  | 18/06/2023 | Adição da checklist do Guia de Estilo.          | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny)     |
+| `1.2`  | 19/06/2023 | Adição da checklist dos Princípios Gerais.      | [Douglas Alves](https://github.com/dougAlvs)     | [Matheus Henrique](https://github.com/mathonaut) e [Geovanna Maciel](https://github.com/manuziny) |
+| `1.3`  | 19/06/2023 | Adição da checklist das Características Gerais. | [Douglas Alves](https://github.com/dougAlvs)     | [Matheus Henrique](https://github.com/mathonaut) e [Geovanna Maciel](https://github.com/manuziny) |
