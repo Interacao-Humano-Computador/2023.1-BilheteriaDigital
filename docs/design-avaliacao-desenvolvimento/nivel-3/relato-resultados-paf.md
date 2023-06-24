@@ -37,7 +37,7 @@ Fonte: [Gabriel Campello](https://github.com/G16C) e [Matheus Henrique](https://
 
 ## Seleção dos participantes
 
-O número de participantes foi de 7 pessoas, sendo um entrevistador, um escriba, um responsável pela gravação e quatro usuários. A escolha desse número foi baseada na recomendação de Krug (2010, p. 157)<a id="anchor_1" href="#REF1">1</a> para testes de usabilidade. A escolha dos participantes levou em conta as carcaterísticas definidas no [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/perfil-usuario/), tendo estes entre 20 e 35 anos e também sendo, de certa forma, tecnófilos. A Tabela 2 apresenta os participantes da avaliação e suas funções.
+O número de participantes foi de 7 pessoas, sendo um entrevistador, um escriba, um responsável pela gravação e quatro usuários. A escolha desse número foi baseada na recomendação de Krug (2010, p. 157)<a id="anchor_1" href="#REF1">1</a> para testes de usabilidade. A escolha dos participantes levou em conta as carcaterísticas definidas no [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/perfil-usuario/), tendo estes entre 20 e 35 anos e também sendo, de certa forma, tecnófilos. A Tabela 2 apresenta os participantes ativos da avaliação e suas funções. No entanto, vale ressaltar que todos os membros do grupo participaram da preparação do teste de usabilidade e também todos estavam presentes presencialmente.
 
 <center>
 
@@ -45,7 +45,7 @@ O número de participantes foi de 7 pessoas, sendo um entrevistador, um escriba,
 
 | Participantes | Função |
 | ------------- | ------- | 
-| [Douglas Alves](https://github.com/dougalvs) |Entrevistador | 
+| [Douglas Alves](https://github.com/dougalvs) | Entrevistador | 
 | [Matheus Henrique](https://github.com/mathonaut) | Escriba |
 | [Rafael Ferreira](https://github.com/RafaelCLG0)  | Gravação |
 | <span style = "color: orange"> Josué</span>, <span style = "color: orange"> Abdul</span>, <span style = "color: orange"> Karen Júlia</span> e <span style = "color: orange"> Sidney Fernando</span>| Entrevistados|
@@ -56,17 +56,66 @@ Fonte: [Gabriel Campello](https://github.com/G16C) e [Matheus Henrique](https://
 
 <span style = "color: orange"> **Corrigir a Tabela com os nomes completos.**</span>
 
-## Problemas e dificuldades encontradas 
+### Problemas e dificuldades encontradas
 
-## Sugestões de melhoria
 
-## Feedback dos usuários
+### Sugestões de melhoria 
 
-## Análise e interpretação dos usuários
 
-## Sumário dos principais resultados
+### Feedback dos usuários
 
-## Planejamento e reprojeto
+
+
+### Análise e interpretação dos resultados
+
+### Sumário dos principais resultados
+
+
+#### Entrevista 1
+
+<p style="text-align: center"><a href="" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src=""></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+#### Entrevista 2
+
+<p style="text-align: center"><a href="" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src=""></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+#### Entrevista 3
+
+<p style="text-align: center"><a href="" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src=""></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+#### Entrevista 4
+
+<p style="text-align: center"><a href="" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src=""></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+### Planejamento de Reprojeto
+
+
+
+<center>
+**Tabela 3** - Cronograma de Reprojeto.
+
+| Executores do Reprojeto  | Horário de Início | Horário de Fim |    Data    |
+| :----------------:  | :---------------: | :------------: | :--------: |
+| [Douglas Alves](https://github.com/dougalvs) e [Geovanna Maciel](https://github.com/manuziny)  | 14:00 | 15:30 | 24/06/2023 |
+
+**Fonte** - [Arthur de Melo](https://github.com/arthurmlv).
+</center>
 
 ## Referências Bibliográficas
 
@@ -77,3 +126,4 @@ Fonte: [Gabriel Campello](https://github.com/G16C) e [Matheus Henrique](https://
 | Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------ | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 23/06/2023 | Criação da página. | [Gabriel Campello](https://github.com/G16C) | [Matheus Henrique](https://github.com/mathonaut) |
+| `1.1`  | 24/06/2023 | Padronização de tópicos e add tabelas. | [Arthur de Melo](https://github.com/arthurmlv) | [Matheus Henrique](https://github.com/mathonaut) |
