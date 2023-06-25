@@ -131,7 +131,7 @@ Em relação ao problema de funcionalidade, ele ocorreu na página inicial no mo
 | Item de Análise                      | Descrição                                                        |
 | ------------------------------------ | ---------------------------------------------------------------- |
 | Local:                               | Tela inicial da aplicação.                                       |
-| Contexto:                            | O usuario entra na aplicação com a intenção de procurar um show. |
+| Contexto:                            | O usuário entra na aplicação com a intenção de procurar um show. |
 | Causa:                               | Botão com a função não apresetntou a ação esperada.              |
 | Ação Realizada pelo Usuário:         | Clique no botão "Localização".                                   |
 | Resposta do Sistema Esperada:        | Apresentação do menu com uma lista de localidades.               |
@@ -142,7 +142,7 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 </center>
 
-Sobre o problema de interface, os usuários Josué e Karen acharam o botão de visualizar detalhes do pedido muito pequeno. Já os usuários Sidney e Abdul notaram que a cor e o tamanho do botão de cancelar pedido eram pouco chamativas. As tabelas 4 e 5 a seguir apresenta as avaliações dos problemas.
+Sobre o problema de interface, os usuários Josué e Karen acharam o botão de visualizar detalhes do pedido muito pequeno. Todos os usuários notaram também, que a cor e o tamanho do botão de cancelar pedido eram pouco chamativas. As tabelas 4 e 5 a seguir apresenta as avaliações dos problemas.
 
 <center>
 
@@ -202,7 +202,7 @@ Somado a isso, foi observado uma atitude confiante na realização das tarefas d
 
 O usuário não encontrou muitas dificuldades na realização das tarefas. A tarefa de busca ocorreu com 1 clique e um scroll down da página, a de compra com 5 cliques, a de visualizar pedido com 3 cliques e a de cancelamento com 3 cliques.
 
-Outrossim, o design dos botões de cancelamento e visualização de pedido se demonstraram insuficiente em fornecer ao usuário uma eficiencia na realização das tarefas. Além disso, foi observado novamente uma dificuldade ao confirmar a compra sem uma indicação clara sobre o que deve ser feito para se finalizar.
+Outrossim, o design dos botões de cancelamento e visualização de pedido se demonstraram insuficiente em fornecer ao usuário uma eficiência na realização das tarefas. Além disso, foi observado novamente uma dificuldade ao confirmar a compra sem uma indicação clara sobre o que deve ser feito para se finalizar.
 
 Somado a isso, não foi observado uma mudança significativa nas expressões faciais sendo elas de demonstração de confiança nas ações sendo realizadas.
 
@@ -238,7 +238,7 @@ Sim, foi possível identificar problemas de ao atingir as metas de usabilidade p
 
 - Foi possível avaliar a aparência e o estilo visual do protótipo, garantindo que ele atenda às expectativas e necessidades dos usuários, transmita a identidade da marca e seja estéticamente agradável?
 
-Sim, os usuários demonstraram seus pontos de vistas dissonantes da equipe em relação a aparência dos botões de cancelar e visualizar pedidos.
+Sim, os usuários demonstraram seus pontos de vista dissonantes da equipe em relação a aparência dos botões de cancelar e visualizar pedidos.
 
 - Foi possível verificar se todas as funcionalidades planejadas estão presentes e funcionam corretamente?
 
@@ -254,7 +254,11 @@ Sim, foi observado problemas que deverão ser corrigidos no reprojeto.
 
 ## Sumário dos Principais Resultados
 
-Desse modo, em relação às metas de usabilidade priorizadas é perceptível que o sistema ainda não fornece um boa eficiência aos usuários, eles ainda se sentem perdidos em determinadas situações gerando perda de produtividade. O mesmo vale para a segurança, o sistema ainda não fornece uma boa segurança aos usuário principalmente na tela de confirmação de compra, não é mostrado claramente o que deve ser feito para se concluir uma compra e falta informação sobre taxas, porém houve uma melhora com o usuário tendo que confirmar suas intenções ao realizar ações críticas. Na utilidade também ocorreu melhoras, mas ainda existe funcionalidade ausente como a busca por localidade. Os vídeos de 2 a 5 apresentam os testes realizados.
+Desse modo, em relação às metas de usabilidade priorizadas é perceptível que o sistema consegue fornecer um boa eficiência aos usuários em determinadas situações, sendo que a maioria das tarefas foram realizadas com menos de 5 cliques. Mas, ainda há problemas em relação aos elementos de interações na interface.
+
+Em relação a segurança, o sistema ainda não fornece uma boa segurança aos usuário principalmente na tela de confirmação de compra, não é mostrado claramente os passos que devem ser feitos para se concluir uma compra e falta informação sobre taxas, porém houve uma melhora com o usuário tendo que confirmar suas intenções ao realizar ações críticas.
+
+Na utilidade ocorreu melhorias, funcionalidades que auxiliam os usuários na realização das tarefas foram adicionadas como a busca por localidade, permitindo concluir que essa meta foi completamente atingida. Os vídeos de 2 a 5 apresentam os testes realizados.
 
 <center>
 
@@ -335,3 +339,4 @@ _Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Matheus Henrique](http
 | `1.3`   | 24/06/2023 | Adição do tópico Sugestões de Melhoria.                                                                                                        | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
 | `1.4`   | 24/06/2023 | Adição dos tópicos Feedback dos Usuários, Análise e Interpretação dos Usuários, Sumário dos Principais Resultados e Planejamento do Reprojeto. | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
 | `1.5`   | 25/06/2023 | Atualização do cronograma de rerprojeto.                                                                                                       | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
+| `1.6`   | 25/06/2023 | Ajustes no texto de sumário dos dados e correções ortográficas.                                                                                | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougalvs)     |
