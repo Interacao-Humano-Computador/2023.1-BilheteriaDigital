@@ -87,7 +87,7 @@ A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o re
 **Tabela 3** - Checklist para o Planejamento do Avaliação da Análise de Tarefas.
 
 | ID  | Descrição                                                                                                                                                                                                                                                                        | Avaliação | Observações |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | --- |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
 | 6   | O documento possui os objetivos do planejamento?                                                                                                                                                                                                                                 |           |             |
 | 7   | O planejamento segue o framework DECIDE?                                                                                                                                                                                                                                         |           |             |
 | 8   | O documento possui quais são os objetivos da avaliação?                                                                                                                                                                                                                          |           |             |
@@ -105,9 +105,9 @@ A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o re
 | 20  | O documento possui uma seção sobre como as questões éticas são lidadas?                                                                                                                                                                                                          |           |             |
 | 21  | O documento possui uma seção sobre os dados (interpretação e apresentação)?                                                                                                                                                                                                      |           |             |
 | 22  | O documento apresenta tarefas de como deve ser realizada a avaliação?                                                                                                                                                                                                            |           |             |
-| 23  | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto?                                                                                                                                              |           |             |     |
-| 24  | Possui uma gravação do teste piloto?                                                                                                                                                                                                                                             |           |             |     |
-| 25  | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.) |           |             |     |
+| 23  | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto?                                                                                                                                              |           |             |
+| 24  | Possui uma gravação do teste piloto?                                                                                                                                                                                                                                             |           |             |
+| 25  | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.) |           |             |
 
 <font size="3"><p style="text-align: center">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
 
@@ -123,18 +123,18 @@ A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o do
 
 | ID  | Descrição                                                                                                                          | Avaliação | Observações |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 6   | O planejamento define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                          |           |
-| 7   | O planejamento define método de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                                     |           |
-| 8   | O planejamento apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">^1^</a>                                       |           |
-| 9   | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a>         |           |
-| 10  | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados?                                |           |
-| 11  | O planejamento apresenta instruções com relação às sugestões de melhorias?<a id="anchor_1" href="#REF1">^1^</a>                    |           |
-| 12  | O planejamento apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">^1^</a>                              |           |
-| 13  | O planejamento aborda como será realizada a análise da interação do usuário com o artefato?                                        |           |
-| 14  | O planejamento define tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">^1^</a>                         |           |
-| 15  | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?<a id="anchor_1" href="#REF1">^1^</a> |           |
-| 16  | O planejamento considera no resultado um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">^1^</a>            |           |
-| 17  | O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato?              |           |
+| 6   | O planejamento define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                          |           |             |
+| 7   | O planejamento define método de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                                     |           |             |
+| 8   | O planejamento apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">^1^</a>                                       |           |             |
+| 9   | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a>         |           |             |
+| 10  | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados?                                |           |             |
+| 11  | O planejamento apresenta instruções com relação às sugestões de melhorias?<a id="anchor_1" href="#REF1">^1^</a>                    |           |             |
+| 12  | O planejamento apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">^1^</a>                              |           |             |
+| 13  | O planejamento aborda como será realizada a análise da interação do usuário com o artefato?                                        |           |             |
+| 14  | O planejamento define tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">^1^</a>                         |           |             |
+| 15  | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?<a id="anchor_1" href="#REF1">^1^</a> |           |             |
+| 16  | O planejamento considera no resultado um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">^1^</a>            |           |             |
+| 17  | O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato?              |           |             |
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv).</p></font>
 
@@ -149,12 +149,12 @@ A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o re
 **Tabela 5** - Checklist para o Planejamento da Avaliação do Storyboard.
 
 | ID  | Descrição                                                                                                                                                                                                                                                                        | Avaliação | Observações |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | --- |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
 | 6   | O documento possui os objetivos do planejamento?                                                                                                                                                                                                                                 |           |             |
 | 7   | O planejamento segue o framework DECIDE?                                                                                                                                                                                                                                         |           |             |
 | 8   | O documento do planejamento está estruturado de acordo com artefatos de planejamento anteriores (Ex: Utilizando o Framework DECIDE com seus tópicos)?                                                                                                                            |           |             |
 | 9   | O documento possui quais são os objetivos da avaliação?                                                                                                                                                                                                                          |           |             |
-| 10  | O documento possui quais são as perguntas a serem respondidas com a avaliação?                                                                                                                                                                                                   |           |             |     |
+| 10  | O documento possui quais são as perguntas a serem respondidas com a avaliação?                                                                                                                                                                                                   |           |             |
 | 11  | As perguntas selecionadas possuem fontes indicando de onde foram baseadas?                                                                                                                                                                                                       |           |             |
 | 12  | O documento possui quais são os métodos a serem utilizados na avaliação?                                                                                                                                                                                                         |           |             |
 | 13  | O documento possui os participantes da avaliação?                                                                                                                                                                                                                                |           |             |
@@ -167,11 +167,11 @@ A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o re
 | 20  | O documento apresenta quais são os recursos de mão de obra necessários?                                                                                                                                                                                                          |           |             |
 | 21  | O documento possui uma seção sobre como as questões éticas são lidadas?                                                                                                                                                                                                          |           |             |
 | 22  | O documento possui uma seção sobre os dados (interpretação e apresentação)?                                                                                                                                                                                                      |           |             |
-| 23  | O documento apresenta tarefas de como deve ser realizada a avaliação?                                                                                                                                                                                                            |           |             |     |
-| 24  | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto?                                                                                                                                              |           |             |     |
-| 25  | Possui uma gravação do teste piloto?                                                                                                                                                                                                                                             |           |             |     |
-| 26  | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.) |           |             |     |
-| 27  | Os storyboards estão relacionados com o artefato da Análise de Tarefas?                                                                                                                                                                                                          |           |             |     |
+| 23  | O documento apresenta tarefas de como deve ser realizada a avaliação?                                                                                                                                                                                                            |           |             |
+| 24  | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto?                                                                                                                                              |           |             |
+| 25  | Possui uma gravação do teste piloto?                                                                                                                                                                                                                                             |           |             |
+| 26  | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.) |           |             |
+| 27  | Os storyboards estão relacionados com o artefato da Análise de Tarefas?                                                                                                                                                                                                          |           |             |
 
 <font size="3"><p style="text-align: center">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
 
@@ -186,19 +186,19 @@ A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para o re
 **Tabela 6** - Checklist para o Planejamento do Relato dos Resultados do Storyboard.
 
 | ID  | Descrição                                                                                                                          | Avaliação | Observações |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 6   | O planejamento define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                          |           |
-| 7   | O planejamento define método de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                                     |           |
-| 8   | O planejamento apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">^1^</a>                                       |           |
-| 9   | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a>         |           |
-| 10  | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados?                                |           |
-| 11  | O planejamento apresenta instruções com relação às sugestões de melhorias?<a id="anchor_1" href="#REF1">^1^</a>                    |           |
-| 12  | O planejamento apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">^1^</a>                              |           |
-| 13  | O planejamento aborda como será realizada a análise da interação do usuário com o artefato?                                        |           |
-| 14  | O planejamento define tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">^1^</a>                         |           |
-| 15  | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?<a id="anchor_1" href="#REF1">^1^</a> |           |
-| 16  | O planejamento considera no resultado um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">^1^</a>            |           |
-| 17  | O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato?              |           |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
+| 6   | O planejamento define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                          |     -     |      -      |
+| 7   | O planejamento define método de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                                     |     -     |      -      |
+| 8   | O planejamento apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">^1^</a>                                       |     -     |      -      |
+| 9   | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a>         |     -     |      -      |
+| 10  | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados?                                |     -     |      -      |
+| 11  | O planejamento apresenta instruções com relação às sugestões de melhorias?<a id="anchor_1" href="#REF1">^1^</a>                    |     -     |      -      |
+| 12  | O planejamento apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">^1^</a>                              |     -     |      -      |
+| 13  | O planejamento aborda como será realizada a análise da interação do usuário com o artefato?                                        |     -     |      -      |
+| 14  | O planejamento define tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">^1^</a>                         |     -     |      -      |
+| 15  | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?<a id="anchor_1" href="#REF1">^1^</a> |     -     |      -      |
+| 16  | O planejamento considera no resultado um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">^1^</a>            |     -     |      -      |
+| 17  | O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato?              |     -     |      -      |
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv).</p></font>
 

@@ -24,25 +24,25 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação,
 
 **Tabela 1** - Checklist de Verificação.
 
-| ID  | Descrição     | Avaliação | Observações |
-| :---: | --------------------------------------------------------------------------------------------------------------- | :---------: |  --------- | 
-| 1  | O artefato possui Introdução?                                                                                                                                      | Sim        |
-| 2  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                                                                              | Sim       |
-| 3  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?                                                             | Sim      |
-| 4  | Todos os textos estão na norma padrão?                                                                                                                             | Sim        | No entanto, com alguns erros gramaticais
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                                                       | Sim      |
-| 6 | O planejamento define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a> | Sim |
-| 7 | O planejamento define método de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a> | Sim |
-| 8 | O planejamento apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">^1^</a> | Não |
-| 9 | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a> | Não |
-| 10 | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados? | Sim |
-| 11 | O planejamento apresenta instruções com relação às sugestões de melhorias?<a id="anchor_1" href="#REF1">^1^</a> | Sim |
-| 12 | O planejamento apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">^1^</a> | Sim |
-| 13 | O planejamento aborda como será realizada a análise da interação do usuário com o artefato? | Sim |
-| 14 | O planejamento define tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">^1^</a> | Sim |
-| 15 | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?<a id="anchor_1" href="#REF1">^1^</a> | Sim |
-| 16 | O planejamento considera no resultado um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">^1^</a> | Não |
-| 17 | O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato? | Não |
+| ID  | Descrição                                                                                                                          | Avaliação | Observações                              |
+| :-: | ---------------------------------------------------------------------------------------------------------------------------------- | :-------: | ---------------------------------------- |
+|  1  | O artefato possui Introdução?                                                                                                      |    Sim    |                                          |
+|  2  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                                              |    Sim    |                                          |
+|  3  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?                             |    Sim    |                                          |
+|  4  | Todos os textos estão na norma padrão?                                                                                             |    Sim    | No entanto, com alguns erros gramaticais |
+|  5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                       |    Sim    |                                          |
+|  6  | O planejamento define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                          |    Sim    |                                          |
+|  7  | O planejamento define método de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                                     |    Sim    |                                          |
+|  8  | O planejamento apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">^1^</a>                                       |    Não    |                                          |
+|  9  | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a>         |    Não    |                                          |
+| 10  | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados?                                |    Sim    |                                          |
+| 11  | O planejamento apresenta instruções com relação às sugestões de melhorias?<a id="anchor_1" href="#REF1">^1^</a>                    |    Sim    |                                          |
+| 12  | O planejamento apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">^1^</a>                              |    Sim    |                                          |
+| 13  | O planejamento aborda como será realizada a análise da interação do usuário com o artefato?                                        |    Sim    |                                          |
+| 14  | O planejamento define tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">^1^</a>                         |    Sim    |                                          |
+| 15  | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?<a id="anchor_1" href="#REF1">^1^</a> |    Sim    |                                          |
+| 16  | O planejamento considera no resultado um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">^1^</a>            |    Não    |                                          |
+| 17  | O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato?              |    Não    |                                          |
 
 _Fonte: [Arthur de Melo](https://github.com/arthurmlv), 2023._
 
@@ -88,32 +88,32 @@ A figura 1 é possível análisar um gráfico com o percentual de erros e acerto
 
 Antes dos ajustes, a divisão dos tópicos para o referido artefato era a seguinte:
 
-* Introdução
-* Metodologia
-* Tópicos
-* Objetivo e escopo da avaliação
-* Método de avaliação
-* Seleção dos participantes
-* Problemas e dificuldades encontradas
-* Sugestões de melhoria
-* Feedback dos usuários
-* Análise e interpretação dos usuários
-* Sumários dos principais resultados
+- Introdução
+- Metodologia
+- Tópicos
+- Objetivo e escopo da avaliação
+- Método de avaliação
+- Seleção dos participantes
+- Problemas e dificuldades encontradas
+- Sugestões de melhoria
+- Feedback dos usuários
+- Análise e interpretação dos usuários
+- Sumários dos principais resultados
 
 Sendo assim, a definição para o padrão dos tópicos do planejamento dos relatos é a seguinte<a id="anchor_1" href="#REF1">^1^</a>:
 
-* Introdução
-* Metodologia
-* Tópicos
-* Objetivo e escopo da avaliação
-* Método de avaliação
-* Seleção dos participantes
-* Problemas e dificuldades encontradas
-* Sugestões de melhoria
-* Feedback dos usuários
-* Análise e interpretação dos usuários
-* Sumários dos principais resultados
-* Planejamento de reprojeto
+- Introdução
+- Metodologia
+- Tópicos
+- Objetivo e escopo da avaliação
+- Método de avaliação
+- Seleção dos participantes
+- Problemas e dificuldades encontradas
+- Sugestões de melhoria
+- Feedback dos usuários
+- Análise e interpretação dos usuários
+- Sumários dos principais resultados
+- Planejamento de reprojeto
 
 ## Retrabalho
 
@@ -123,8 +123,8 @@ Como proposto por Fagan, para o retrabalho os autores do artefato ([Arthur de Me
 
 **Tabela 3** - Cronograma de Correções.
 
-| Data de Correção | Descrição                                                                                                         |                 Responsável(eis)                 |                   Revisor(es)                    |      Status      |
-| ---------------- | :---------------------------------------------------------------------------------------------------------------- | :----------------------------------------------: | :----------------------------------------------: | :--------------: |
+| Data de Correção | Descrição                           |                Responsável(eis)                |                   Revisor(es)                    |  Status   |
+| ---------------- | :---------------------------------- | :--------------------------------------------: | :----------------------------------------------: | :-------: |
 | 19/06/2023       | Realizar os ajustes da verificação. | [Arthur de Melo](https://github.com/arthurmlv) | [Matheus Henrique](https://github.com/mathonaut) | CORRIGIDO |
 
 _Fonte: Elaborado por [Arthur de Melo](https://github.com/arthurmlv), 2023._
@@ -132,7 +132,7 @@ _Fonte: Elaborado por [Arthur de Melo](https://github.com/arthurmlv), 2023._
 </center>
 
 !!! info
-    O cronograma apresentado na tabela 3 pode ser alterado.
+O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Referências Bibliográficas
 
@@ -140,7 +140,7 @@ _Fonte: Elaborado por [Arthur de Melo](https://github.com/arthurmlv), 2023._
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                    |
-| ------ | ---------- | ------------------ | ------------------------------------------------ | ---------------------------------------------- |
+| Versão | Data       | Descrição          | Autor(es)                                      | Revisor(es)                                    |
+| ------ | ---------- | ------------------ | ---------------------------------------------- | ---------------------------------------------- |
 | `1.0`  | 18/06/2023 | Criação da página. | [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) |
-| `1.1`  | 25/06/2023 | Add retrabalho. | [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) |
+| `1.1`  | 25/06/2023 | Add retrabalho.    | [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) |

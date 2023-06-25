@@ -24,23 +24,22 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
 **Tabela 1** - Checklist de Verificação.
 
-|        ID        | Descrição                                                                                              |   Avaliação   | Observações                                              |
-| :--------------: | ------------------------------------------------------------------------------------------------------ | :-----------: | -------------------------------------------------------- |
-| **Padronização** |
-|        1         | O artefato possui introdução?                                                                          |      Sim      |                                                          |
-|        2         | O artefato possui uma bibliografia/referência bibliográfica?                                           |      Sim      |                                                          |
-|        3         | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |      Sim      |                                                          |
-|        4         | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           | Sim |                                               |
-|        5         | Todos os textos estão na norma padrão?                                                                 |      Sim      |                                                          |
-|    **Relato**    |
-|        6         | O documento possui um tópico sobre quais são os objetivos do relato?                                   |      Sim      |                                                          |
-|        7         | O documento possui um tópico sobre a metodologia de prototipação de papel?                             |      Sim      |                                                          |
-|        8         | O documento possui um tópico sobre quais foram os participantes e os seus perfis?                      |      Incompleto      |                                                          | Não são apresentando os participantes.
-|        9         | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?                  |      Incompleto      |                                                          | Não são apresentado as tarefas.
-|        10        | O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?          |  Incompleto   | Existe um tópico sobre a lista de problemas encontrados. |
-|        11        | O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas?  |      Sim      |                   |
-|        12        | O documento está estruturado conforme os relatos realizados anteriores?  |      Não     |                   |
-
+|        ID        | Descrição                                                                                              | Avaliação  | Observações                                              |
+| :--------------: | ------------------------------------------------------------------------------------------------------ | :--------: | -------------------------------------------------------- |
+| **Padronização** |                                                                                                        |            |                                                          |
+|        1         | O artefato possui introdução?                                                                          |    Sim     |                                                          |
+|        2         | O artefato possui uma bibliografia/referência bibliográfica?                                           |    Sim     |                                                          |
+|        3         | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |    Sim     |                                                          |
+|        4         | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |    Sim     |                                                          |
+|        5         | Todos os textos estão na norma padrão?                                                                 |    Sim     |                                                          |
+|    **Relato**    |                                                                                                        |            |                                                          |
+|        6         | O documento possui um tópico sobre quais são os objetivos do relato?                                   |    Sim     |                                                          |
+|        7         | O documento possui um tópico sobre a metodologia de prototipação de papel?                             |    Sim     |                                                          |
+|        8         | O documento possui um tópico sobre quais foram os participantes e os seus perfis?                      | Incompleto | Não são apresentando os participantes.                   |
+|        9         | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?                  | Incompleto | Não são apresentado as tarefas.                          |
+|        10        | O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?          | Incompleto | Existe um tópico sobre a lista de problemas encontrados. |
+|        11        | O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas?  |    Sim     |                                                          |
+|        12        | O documento está estruturado conforme os relatos realizados anteriores?                                |    Não     |                                                          |
 
 _Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
 
@@ -48,7 +47,7 @@ _Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
 
 ## Lista de Problemas e Análise
 
-### ID 8 - O documento possui um tópico sobre quais foram os participantes e os seus perfis? 
+### ID 8 - O documento possui um tópico sobre quais foram os participantes e os seus perfis?
 
 Não são apresentando os participantes que participaram do relato de acordo com o planejamento.
 
@@ -56,7 +55,7 @@ Não são apresentando os participantes que participaram do relato de acordo com
 
 Não são apresentado as tarefas que os participantes realizaram de acordo com o planejamento.
 
-### ID 10 - O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos? 
+### ID 10 - O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?
 
 De acordo com Simone e Silva (p. 361, 2011), no relato dos resultados os avaliadores devem informar uma lista de problemas de usabilidades.
 
@@ -91,8 +90,8 @@ Como proposto por Fagan, para o retrabalho os autores do artefato ([Arthur de Me
 
 **Tabela 3** - Cronograma de Correções.
 
-| Data de Correção | Descrição                                                                                                         |                 Responsável(eis)                 |                   Revisor(es)                    |      Status      |
-| ---------------- | :---------------------------------------------------------------------------------------------------------------- | :----------------------------------------------: | :----------------------------------------------: | :--------------: |
+| Data de Correção | Descrição                           |                 Responsável(eis)                 |                   Revisor(es)                    |  Status   |
+| ---------------- | :---------------------------------- | :----------------------------------------------: | :----------------------------------------------: | :-------: |
 | 18/06/2023       | Realizar os ajustes da verificação. | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Matheus Henrique](https://github.com/mathonaut) | CORRIGIDO |
 
 _Fonte: Elaborado por [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
@@ -100,8 +99,7 @@ _Fonte: Elaborado por [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
 </center>
 
 !!! info
-    O cronograma apresentado na tabela 3 pode ser alterado.
-
+O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Referências Bibliográficas
 
@@ -112,4 +110,4 @@ _Fonte: Elaborado por [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
 | Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | ------------------ | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`  | 18/06/2023 | Criação da página. | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Arthur de Melo](https://github.com/arthurmlv) |
-| `1.1`  | 25/06/2023 | Add retrabalho. | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny) |
+| `1.1`  | 25/06/2023 | Add retrabalho.    | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny) |
