@@ -307,8 +307,8 @@ Para o reprojeto, as correções devem ser realizadas seguindo a lista de sugest
 | Data de Correção | Descrição                                                                                                    |               Responsável(eis)               |                   Revisor(es)                    |      Status      |
 | ---------------- | :----------------------------------------------------------------------------------------------------------- | :------------------------------------------: | :----------------------------------------------: | :--------------: |
 | 21/26/2023       | Incluir a funcionalidade de pesquisa por localidade em todas as páginas onde o recurso se mostra necessário. | [Douglas Alves](https://github.com/dougalvs) |  [Geovanna Maciel](https://github.com/manuziny)  | :material-check: |
-| 28/06/2023       | Alterar o design do botão de cancelamento.                                                                   | [Douglas Alves](https://github.com/dougalvs) |  [Geovanna Maciel](https://github.com/manuziny)  | :material-close: |
-| 28/06/2023       | Alterar o design do botão de visualizar detalhes.                                                            | [Douglas Alves](https://github.com/dougalvs) | [Matheus Henrique](https://github.com/mathonaut) | :material-close: |
+| 25/06/2023       | Alterar o design do botão de cancelamento.                                                                   | [Douglas Alves](https://github.com/dougalvs) |  [Geovanna Maciel](https://github.com/manuziny)  | :material-check: |
+| 25/06/2023       | Alterar o design do botão de visualizar detalhes.                                                            | [Douglas Alves](https://github.com/dougalvs) | [Matheus Henrique](https://github.com/mathonaut) | :material-check: |
 
 _Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Matheus Henrique](https://github.com/mathonaut), 2023._
 
@@ -334,3 +334,4 @@ _Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Matheus Henrique](http
 | `1.2`   | 24/06/2023 | Adição do tópico Problemas e Dificuldades encontradas.                                                                                         | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
 | `1.3`   | 24/06/2023 | Adição do tópico Sugestões de Melhoria.                                                                                                        | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
 | `1.4`   | 24/06/2023 | Adição dos tópicos Feedback dos Usuários, Análise e Interpretação dos Usuários, Sumário dos Principais Resultados e Planejamento do Reprojeto. | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
+| `1.5`   | 25/06/2023 | Atualização do cronograma de rerprojeto.                                                                                                       | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
