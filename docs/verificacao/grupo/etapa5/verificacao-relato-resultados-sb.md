@@ -111,6 +111,26 @@ Sendo assim, a definição para o padrão dos tópicos dos relatos é a seguinte
 * Sumários dos principais resultados
 * Planejamento de reprojeto
 
+## Retrabalho
+
+Como proposto por Fagan, para o retrabalho os autores do artefato ([Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0)) corrigiram os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+
+<center>
+
+**Tabela 3** - Cronograma de Correções.
+
+| Data de Correção | Descrição                                                                                                         |                 Responsável(eis)                 |                   Revisor(es)                    |      Status      |
+| ---------------- | :---------------------------------------------------------------------------------------------------------------- | :----------------------------------------------: | :----------------------------------------------: | :--------------: |
+| 19/06/2023       | Realizar os ajustes da verificação. | [Arthur de Melo](https://github.com/arthurmlv) | [Matheus Henrique](https://github.com/mathonaut) | CORRIGIDO |
+
+_Fonte: Elaborado por [Arthur de Melo](https://github.com/arthurmlv), 2023._
+
+</center>
+
+!!! info
+    O cronograma apresentado na tabela 3 pode ser alterado.
+
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -120,3 +140,4 @@ Sendo assim, a definição para o padrão dos tópicos dos relatos é a seguinte
 | Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | ------------------ | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`  | 18/06/2023 | Criação da página. | [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) |
+| `1.1`  | 25/06/2023 | Add retrabalho. | [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) |

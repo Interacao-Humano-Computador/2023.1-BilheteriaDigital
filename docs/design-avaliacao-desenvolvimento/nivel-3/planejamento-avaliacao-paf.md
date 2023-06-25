@@ -119,7 +119,7 @@ A realização das entrevistas não pode gerar custos a equipe e ao usuário, po
 - [Tarefas para os participantes executarem](#met2)
 - [Script](#met3)
 - [Perguntas para serem respondidas na entrevista](#met4);
-- [Protótipo de Alta Fidelidade](../);
+- [Protótipo de Alta Fidelidade](../relato-resultados-paf);
 - [Figma](https://www.figma.com): ferramenta para criação do protótipo de alta;
 - [Termo de Consentimento](#met5);
 - [Teste Piloto](#met6).
@@ -135,7 +135,7 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 - Horário de início e fim;
 - Local e data que ocorreu a entrevista.
 
-As gravações e resultados de cada entrevista podem ser encontrandas [AQUI]()
+As gravações e resultados de cada entrevista podem ser encontrandas [AQUI](../relato-resultados-paf)
 
 <center>
 
@@ -143,10 +143,10 @@ As gravações e resultados de cada entrevista podem ser encontrandas [AQUI]()
 
 | Entrevistadores | Usuário | Data       | Início-Fim  | Local              |
 | ------------- | ------- | ---------- | ----------- | ------------------ |
-
-</center>
-
-<center>
+| [Douglas Alves](https://github.com/dougalvs) | <span style = "color: orange">Josué Teixeira</span>  | 21/06/2023 | 12:40-12:47 | FGA - Sala I2 |
+| [Douglas Alves](https://github.com/dougalvs) | <span style = "color: orange">Abdul Hannan</span>    | 21/06/2023 | 12:50-12:57 | FGA - Sala I2 |
+| [Douglas Alves](https://github.com/dougalvs) | <span style = "color: orange">Karen Júlia</span>     | 21/06/2023 | 13:00-13:07 | FGA - Sala I2 |
+| [Douglas Alves](https://github.com/dougalvs) | <span style = "color: orange">Sidney Fernando</span> | 21/06/2023 | 13:10-13:17 | FGA - Sala I2 |
 
 **Fonte** - [Rafael Ferreira](https://github.com/RafaelCLG0).
 
@@ -217,17 +217,17 @@ Realizada a etapa anteriormente mencionada, os dados serão apresentados ao time
 
 Segundo Barbosa e Silva (2011, p.276) o objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto como se fosse uma sessão normal de avaliação. Dessa forma, ele tem oportunidade de verificar se a linguagem nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para orientar o participante durante a avaliação.
 
-Dito isso, a execução do teste-piloto será feito no no período dos dias 10 até 25 de junho de 2023 e com a presença dos integrantes [Gabriel Campello](https://github.com/G16C) e [Rafael Ferreira](https://github.com/RafaelCLG0).
+Dito isso, a execução do teste-piloto será realizado no dia 20 de junho de 2023 e com a presença dos integrantes [Douglas Alves](https://github.com/dougalvs) e [Rafael Ferreira](https://github.com/RafaelCLG0).
 
 ## Resultado do Teste Piloto
 
 Após realizar o teste piloto deve ser postado abaixo.
 
-<p style="text-align: center"><a href="" target="blanket">Clique aqui</a></p>
+<p style="text-align: center"><a href="https://youtube.com/embed/xJH60b30GJQ" target="blanket">Clique aqui</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/xJH60b30GJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Campello](https://github.com/G16C) e [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Douglas Alves](https://github.com/dougalvs) e [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
 
 ## Bibliografia
 
