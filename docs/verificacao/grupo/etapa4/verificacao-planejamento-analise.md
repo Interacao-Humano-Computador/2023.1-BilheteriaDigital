@@ -107,6 +107,25 @@ A figura 1 é possível análisar um gráfico com o percentual de erros e acerto
 <iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWs8eg31c2-oQxuwxD9eeSYCMdpTouo8fxO41asW_45pB6Dxykjz4FRxfhHJITZ9BCShevDFBzLPo1/pubchart?oid=1088649009&amp;format=interactive"></iframe><figcaption><font size="3">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0)</font></figcaption>
 </figure>
 
+## Retrabalho
+
+Como proposto por Fagan, para o retrabalho os autores do artefato ([Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0)) corrigiram os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+
+<center>
+
+**Tabela 3** - Cronograma de Correções.
+
+| Data de Correção | Descrição                                                                                                         |                 Responsável(eis)                 |                   Revisor(es)                    |      Status      |
+| ---------------- | :---------------------------------------------------------------------------------------------------------------- | :----------------------------------------------: | :----------------------------------------------: | :--------------: |
+| 18/06/2023       | Realizar os ajustes da verificação. | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Matheus Henrique](https://github.com/mathonaut) | CORRIGIDO |
+
+_Fonte: Elaborado por [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
+
+</center>
+
+!!! info
+    O cronograma apresentado na tabela 3 pode ser alterado.
+
 
 ## Bibliografia
 
@@ -119,3 +138,4 @@ A figura 1 é possível análisar um gráfico com o percentual de erros e acerto
 | Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | ------------------ | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`  | 17/06/2023 | Criação da página. | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.1`  | 25/06/2023 | Add retrabalho. | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny) |
