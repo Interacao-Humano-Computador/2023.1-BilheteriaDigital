@@ -28,12 +28,30 @@ Nesse tópico, o avaliador deverá explicar quais foram os objetivos da avaliaç
 ### Método de avaliação
 
 O relato deve conter uma explicação da metodologia utilizada para a coleta dos dados, que será por meio de entrevistas presenciais com observação. Essa explicação deve demonstrar os motivos que levaram a escolha, se é uma modificação de alguma metodologia já consolidada na literatura, se ela está de acordo com o que foi descrito no [planejamento](../planejamento-relato-paf) e como a avaliação ocorreu. Deve conter também, a descrição do ambiente de avaliação contendo quais ferramentas e equipamentos foram utilizados. O método escolhido foi o de observação e entrevista aos usuários, portanto segue-se o modelo. O entrevistador deve seguir o seguinte cronograma para as entrevistas. O padrão será usado por todos os entrevistadores em seu relato, com a finalidade de manter um documento harmônico e conciso. No entanto, cada entrevista deve apresentar uma tabela somente com as entrevistas relacionadas à análise feita.
-### Seleção dos participantes
 
-Este tópico apresenta quais foram os participantes da avaliação, com a motivação da escolha do número e os papéis desempenhados por cada um dos participantes. Vale lembrar que os perfis devem corresponder ao [perfil de usuário](../../../analise-de-requisitos/perfil-usuario). A Tabela 1 apresenta os participantes do grupo que se prontificam a realizar as determinadas funções especificadas. A Tabela 2 também já planeja um cronograma a ser seguido para as entrevistas. 
+Além disso, para a entrevista em si, deve-se apresentar uma tabela, também é importante especificar a sala na qual a entrevista foi feita. Portanto, a Tabela 1 apresenta o cronograma planejado para as atividades.
 
 <center>
-**Tabela 1** - Possíveis Participantes da Avaliação e suas Funções.
+
+**Tabela 1** - Cronograma Planejado.
+
+| Entrevistador | Usuário | Data       | Início-Fim  | Local              |
+| ------------- | ------- | ---------- | ----------- | ------------------ |
+| [Douglas Alves](https://github.com/dougalvs) |<span style = "color: orange"> Nicolas Bomfim</span>| 22/06/2023 | 12:20-12:35 | FGA Presencial |
+| [Arthur de Melo](https://github.com/arthurmlv)  |<span style = "color: orange"> Sidney Fernando</span>| 22/06/2023 | 12:40-12:55 | FGA Presencial |
+| [Rafael Ferreira](https://github.com/RafaelCLG0)  |<span style = "color: orange"> Arthur Grandão</span>| 22/06/2023 | 13:00-13:15 | FGA Presencial |
+
+
+Fonte: [Arthur de Melo](https://github.com/arthurmlv).
+
+</center>
+
+### Seleção dos participantes
+
+Este tópico apresenta quais foram os participantes da avaliação, com a motivação da escolha do número e os papéis desempenhados por cada um dos participantes. Vale lembrar que os perfis devem corresponder ao [perfil de usuário](../../../analise-de-requisitos/perfil-usuario). A Tabela 2 apresenta os participantes do grupo que se prontificam a realizar as determinadas funções especificadas.
+
+<center>
+**Tabela 2** - Possíveis Participantes da Avaliação e suas Funções.
 
 | Participantes |          Função        |
 | :----------: | :---------------------: |
@@ -46,22 +64,6 @@ Este tópico apresenta quais foram os participantes da avaliação, com a motiva
 
 </center>
 
-Além disso, para a entrevista em si, deve-se apresentar uma outra tabela, também é importante especificar a sala na qual a entrevista foi feita.
-
-<center>
-
-**Tabela 2** - Cronograma Planejado.
-
-| Entrevistador | Usuário | Data       | Início-Fim  | Local              |
-| ------------- | ------- | ---------- | ----------- | ------------------ |
-| [Douglas Alves](https://github.com/dougalvs) |<span style = "color: orange"> Nicolas Bomfim</span>| 22/06/2023 | 12:20-12:35 | FGA Presencial |
-| [Arthur de Melo](https://github.com/arthurmlv)  |<span style = "color: orange"> Sidney Fernando</span>| 22/06/2023 | 12:40-12:55 | FGA Presencial |
-| [Rafael Ferreira](https://github.com/RafaelCLG0)  |<span style = "color: orange"> Arthur Grandão</span>| 22/06/2023 | 13:00-13:15 | FGA Presencial |
-
-
-Fonte: [Arthur de Melo](https://github.com/arthurmlv).
-
-</center>
 
 ### Problemas e dificuldades encontradas
 

@@ -6,7 +6,7 @@ Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela 
 
 ## Objetivo e Escopo da Avaliação
 
-A avaliação tem o objetivo de obter a opinião de usuários reais da aplicação [Bilheteria Digital](https://www.bilheteriadigital.com/) sobre a usabilidade, funcionalidade e aparência visual de um protótipo de alta fidelidade que se assemelha de forma mais precisa à versão final do produto ou serviço. Além disso, a avaliação tentará identificar problemas no design da interface e conformidade com padrões. As seguintes perguntas resume os objetivos a serem alcançados:
+A avaliação tem o objetivo de obter a opinião de usuários reais da aplicação [Bilheteria Digital](https://www.bilheteriadigital.com/) sobre a usabilidade, funcionalidade e aparência visual de um protótipo de alta fidelidade que se assemelha de forma mais precisa à versão final do produto ou serviço. Além disso, a avaliação objetiva identificar problemas no design da interface e conformidade com padrões. As seguintes perguntas apresentam formas de verificar se os referidos objetivos foram alcançados:
 
 - A interface segue o padrão do sistema operacional?
 - Foi possível testar a interação e a facilidade de uso do protótipo para identificar problemas de usabilidade?
@@ -17,7 +17,22 @@ A avaliação tem o objetivo de obter a opinião de usuários reais da aplicaç�
 
 ## Método de Avaliação
 
-A metodologia utilizada foi o teste de usabilidade, no qual visa avaliar a usabilidade de um sistema interativo a partir de experiências de uso reais dos seus usuários-alvo (Rubin, 1994<a id="anchor2" href="#REF2"><sup>2</sup></a>; Rubin e Chisnell, 2008<a id="anchor3" href="#REF3"><sup>3</sup></a>). Nesses testes, um grupo de usuários realiza um conjunto de tarefas usando o sistema num ambiente controlado, sendo registrado as experiências de uso, dados sobre o desempenho dos participantes na realização das tarefas propostas e suas opiniões/sentimentos sobre essas experiências. Vale ressaltar que esse método foi escolhido, pois permite a identificação de problemas reais enfrentados pelos usuários do sistema e não apenas problemas previstos pelos desenvolvedores.
+A metodologia utilizada foi o teste de usabilidade, no qual visa avaliar a usabilidade de um sistema interativo a partir de experiências de uso reais dos seus usuários-alvo (Rubin, 1994<a id="anchor2" href="#REF2"><sup>2</sup></a>; Rubin e Chisnell, 2008<a id="anchor3" href="#REF3"><sup>3</sup></a>). Nesses testes, um grupo de usuários realiza um conjunto de tarefas usando o sistema num ambiente controlado, sendo registrado as experiências de uso, dados sobre o desempenho dos participantes na realização das tarefas propostas e suas opiniões/sentimentos sobre essas experiências. Vale ressaltar que esse método foi escolhido, pois permite a identificação de problemas reais enfrentados pelos usuários do sistema e não apenas problemas previstos pelos desenvolvedores. A tabela 1 apresenta o cronograma executado do teste de usabilidade, com o avaliador mediador, o usuário, a data, o horário de início e de fim e, por fim, o local. No entanto, vale ressaltar que todos os membros do grupo participaram do teste de usabilidade.
+
+<center>
+
+**Tabela 1** - Cronograma Executado.
+
+| Avaliador                                    | Usuário                                              | Data       | Início-Fim  | Local         |
+| -------------------------------------------- | ---------------------------------------------------- | ---------- | ----------- | ------------- |
+| [Douglas Alves](https://github.com/dougalvs) | <span style = "color: orange">Josué Teixeira</span>  | 21/06/2023 | 12:40-12:47 | FGA - Sala I2 |
+| [Douglas Alves](https://github.com/dougalvs) | <span style = "color: orange">Abdul Hannan</span>    | 21/06/2023 | 12:50-12:57 | FGA - Sala I2 |
+| [Douglas Alves](https://github.com/dougalvs) | <span style = "color: orange">Karen Júlia</span>     | 21/06/2023 | 13:00-13:07 | FGA - Sala I2 |
+| [Douglas Alves](https://github.com/dougalvs) | <span style = "color: orange">Sidney Fernando</span> | 21/06/2023 | 13:10-13:17 | FGA - Sala I2 |
+
+Fonte: [Gabriel Campello](https://github.com/G16C) e [Matheus Henrique](https://github.com/mathonaut).
+
+</center>
 
 ### Local
 
@@ -80,11 +95,11 @@ _<font size="3">Fonte: [Douglas Alves](https://github.com/dougalvs) e [Matheus H
 
 ## Seleção dos Participantes
 
-O número de participantes foi de 7 pessoas, sendo dois avaliadores, dois coordenadores, um captador de áudio, um cinegrafista e quatro usuários. A escolha desse número de usuários foi baseada na recomendação de Krug (2010, p. 157)<a id="anchor1" href="#REF1"><sup>1</sup></a> para testes de usabilidade. Além disso, os usuários foram escolhidos levando em conta as características definidas no [perfil de usuário](../../../analise-de-requisitos/perfil-usuario), sendo elas: idade entre 20 e 35 anos, experiência e afinidade com tecnologia e tarefas primárias de compra e consulta. A tabela 1 apresenta os participantes da avaliação com suas funções e a tabela 2 apresenta o cronograma planejado.
+O número de participantes foi de 7 pessoas, sendo dois avaliadores, dois coordenadores, um captador de áudio, um cinegrafista e quatro usuários. A escolha desse número de usuários foi baseada na recomendação de Krug (2010, p. 157)<a id="anchor1" href="#REF1"><sup>1</sup></a> para testes de usabilidade. Além disso, os usuários foram escolhidos levando em conta as características definidas no [perfil de usuário](../../../analise-de-requisitos/perfil-usuario), sendo elas: idade entre 20 e 35 anos, experiência e afinidade com tecnologia e tarefas primárias de compra e consulta. A tabela 1 apresenta os participantes da avaliação e suas respectivas funções.
 
 <center>
 
-**Tabela 1** - Participantes da Avaliação e Suas Funções.
+**Tabela 2** - Participantes da Avaliação e Suas Funções.
 
 | Participantes                                        | Função                   |
 | ---------------------------------------------------- | ------------------------ |
@@ -103,20 +118,7 @@ _Fonte: [Gabriel Campello](https://github.com/G16C) e [Matheus Henrique](https:/
 
 </center>
 
-<center>
 
-**Tabela 2** - Cronograma Planejado.
-
-| Avaliador                                    | Usuário                                              | Data       | Início-Fim  | Local         |
-| -------------------------------------------- | ---------------------------------------------------- | ---------- | ----------- | ------------- |
-| [Douglas Alves](https://github.com/dougalvs) | <span style = "color: orange">Josué Teixeira</span>  | 21/06/2023 | 12:40-12:47 | FGA - Sala I2 |
-| [Douglas Alves](https://github.com/dougalvs) | <span style = "color: orange">Abdul Hannan</span>    | 21/06/2023 | 12:50-12:57 | FGA - Sala I2 |
-| [Douglas Alves](https://github.com/dougalvs) | <span style = "color: orange">Karen Júlia</span>     | 21/06/2023 | 13:00-13:07 | FGA - Sala I2 |
-| [Douglas Alves](https://github.com/dougalvs) | <span style = "color: orange">Sidney Fernando</span> | 21/06/2023 | 13:10-13:17 | FGA - Sala I2 |
-
-Fonte: [Gabriel Campello](https://github.com/G16C) e [Matheus Henrique](https://github.com/mathonaut).
-
-</center>
 
 ## Problemas e Dificuldades Encontradas
 
@@ -132,7 +134,7 @@ Em relação ao problema de funcionalidade, ele ocorreu na página inicial no mo
 | ------------------------------------ | ---------------------------------------------------------------- |
 | Local:                               | Tela inicial da aplicação.                                       |
 | Contexto:                            | O usuário entra na aplicação com a intenção de procurar um show. |
-| Causa:                               | Botão com a função não apresetntou a ação esperada.              |
+| Causa:                               | Botão com a função não apresentou a ação esperada.               |
 | Ação Realizada pelo Usuário:         | Clique no botão "Localização".                                   |
 | Resposta do Sistema Esperada:        | Apresentação do menu com uma lista de localidades.               |
 | Resposta do Aprsentada pelo Sistema: | Não foi apresentado o menu com uma lista de localidades.         |
@@ -340,3 +342,4 @@ _Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Matheus Henrique](http
 | `1.4`   | 24/06/2023 | Adição dos tópicos Feedback dos Usuários, Análise e Interpretação dos Usuários, Sumário dos Principais Resultados e Planejamento do Reprojeto. | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
 | `1.5`   | 25/06/2023 | Atualização do cronograma de rerprojeto.                                                                                                       | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
 | `1.6`   | 25/06/2023 | Ajustes no texto de sumário dos dados e correções ortográficas.                                                                                | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougalvs)     |
+| `1.7`   | 29/06/2023 | Padronização, ajustes e conclusão dos objetivos.                                                                                | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougalvs)     |

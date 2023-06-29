@@ -6,7 +6,14 @@ Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela 
 
 ### Objetivos
 
-A referida avaliação objetivou a obtenção de uma análise de usuários reais a fim de reelaborar os fluxos ou as ações. Além disso, também é de suma importância a questão da organização dos elementos da página, tais como a barra de pesquisa e a disposição dos eventos publicados na tela, por mais que não haja um detalhamento em um protótipo de baixa fidelidade.
+A referida avaliação objetivou a obtenção de uma análise de usuários reais a fim de reelaborar os fluxos ou as ações. Além disso, também é de suma importância a questão da organização dos elementos da página, tais como a barra de pesquisa e a disposição dos eventos publicados na tela, por mais que não haja um detalhamento em um protótipo de baixa fidelidade. Portanto, os objetivos da avaliação são, de acordo com o planejamento: verificar a conformidade com um padrão, comparar ideias e alternativas de design e identificar problemas na interação e na interface.
+
+Além disso, deve-se responder as seguintes perguntas por meio da análise da avaliação, a fim de verificar se os objetivos foram alcançados<a id="anchor_1" href="#REF1">^1^</a>:
+
+- Com o protótipo de papel foi possível explorar conceitos de design?
+- Foi observado alguma sugestão de melhoria para o protótipo proposto?
+- Foi possível identificar problemas de usabilidade preliminares?
+- Foi possível identificar ideias principais de design?
 
 ### Método de avaliação
 
@@ -22,7 +29,7 @@ O cronograma planejado para as entrevistas está presente na Tabela 1.
 
 <center>
 
-**Tabela 1** - Cronograma Planejado.
+**Tabela 1** - Cronograma Executado.
 
 | Entrevistadores | Usuário | Data       | Início-Fim  | Local              |
 | ------------- | ------- | ---------- | ----------- | ------------------ |
@@ -65,12 +72,21 @@ A quinta entrevista foi feita com o usuário <span style = "color: orange"> Pedr
 
 Esse tópico apresenta uma análise dos dados obtidos e quais foram os problemas encontrados em cada tarefa, contendo uma descrição breve de como o problema ocorreu. Além disso, o tempo médio das entrevistas, sem o tempo de apresentação e de introdução da atividade incluso, foi de 3 minutos. Portanto, infere-se que a interface está, de modo geral, intuitiva e as ações condizem até certo ponto com a expectativa do usuário.
 
-Os entraves encontrados a partir da análise das entrevista estão listados a seguir:
+- Com o protótipo de papel foi possível explorar conceitos de design?
 
-- Na barra de pesquisa, a lupa está posicionada à esquerda.
-- Ao cancelar a compra, seria interessante uma checkbox para confirmar se a pessoa realmente quer cancelar a compra para liberar o botão de cancelamento definitivo.
-- A disposição dos botões de cancelar a compra não segue um padrão já esperado para ações similares.
-- O botão "cancelar", que se refere ao botão de cancelar a atividade de cancelar compra, pode causar confusão.
+Sim, dado que alguns padrões foram seguidos de forma natural. No entanto, alguns aspectos básicos representados no protótipo causaram estranhesa.
+
+- Foi observado alguma sugestão de melhoria para o protótipo proposto?
+
+Sim, foi apontada a lupa posicionada à esquerda da barra de pesquisa, algo que pode ser repensado. Visto que, em alguns sites famosos, a barra é posicionada à direita, mas em outros, na esquerda.
+
+- Foi possível identificar problemas de usabilidade preliminares?
+
+Sim, o processo de cancelar compra não possui segurança suficiente para uma ação tão crítica e que não pode ser desfeita.
+
+- Foi possível identificar ideias principais de design?
+
+Sim, percebeu-se que a equipe não analisou sites concorrentes para atender à uma conformidade com o padrão. No entanto, o fluxo das atividades está intuitivo.
 
 ### Sumário dos principais resultados
 
@@ -135,12 +151,14 @@ As mudanças sugeridas e os outras vicissitudes encontradas ao se fazer a análi
 **Fonte** - [Arthur de Melo](https://github.com/arthurmlv).
 </center>
 
-## Bibliografia
+## Referências Bibliográficas
 
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <a id="REF1" href="#anchor_1">1.</a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor                                            | Revisor                                        |
 | ------ | ---------- | -------------------- | ------------------------------------------------ | ---------------------------------------------- |
-| 1.0    | 10/06/2023 | Criação da página e documentação dos resultados. | [Arthur de Melo](https://github.com/arthurmlv)   | [Rafael Ferreira](https://github.com/RafaelCLG0)    |
+| `1.0`    | 10/06/2023 | Criação da página e documentação dos resultados. | [Arthur de Melo](https://github.com/arthurmlv)   | [Rafael Ferreira](https://github.com/RafaelCLG0)    |
+| `1.1`    | 19/06/2023 | Ajustes da verificação. | [Arthur de Melo](https://github.com/arthurmlv)   | [Rafael Ferreira](https://github.com/RafaelCLG0)    |
+| `1.2`    | 29/06/2023 | Padronização e ajuste dos objetivos. | [Arthur de Melo](https://github.com/arthurmlv)   | [Rafael Ferreira](https://github.com/RafaelCLG0)    |

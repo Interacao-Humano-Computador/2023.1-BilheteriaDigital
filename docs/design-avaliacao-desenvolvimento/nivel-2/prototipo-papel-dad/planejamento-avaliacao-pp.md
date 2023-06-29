@@ -34,9 +34,11 @@ Esta avaliação tem como objetivo, por meio do método de prototipação em pap
 ## E - Explorar Perguntas Respondidas com a Avaliação
 
 Com base no objetivo da avaliação foram preparadas perguntas baseadas nos seguintes tópicos:
+
 - verificar a conformidade com um padrão;
 - comparar ideias e alternativas de design;
 - identificar problemas na interação e interface.
+
 As perguntas selecionadas tem o intuito de serem respondidas com essa avaliação e foram feitas com base no _Captítulo 11 da literatura de Barbosa e Silva (2011, p.266)_<a id="anchor_1" href="#REF1">^1^</a>  as perguntas selecionadas foram as seguintes:
 
 - Com o protótipo de papel foi possível explorar conceitos de design?
@@ -192,6 +194,7 @@ Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado an
 > Estruturado a partir do Planejamento da Avaliação da Análise de Tarefas. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-avaliavao-at/>>.Acesso em 18 de junho de 2023.
 
 ## Referências Bibliograficas
+
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versão

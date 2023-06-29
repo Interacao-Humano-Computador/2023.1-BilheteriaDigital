@@ -5,7 +5,7 @@
 Esse artefato tem o objetivo de documentar um planejamento para o relato dos resultados obtidos pela avaliação do protótipo de papel. Nele serão abordados os tópicos necessários para a construção de tal relato.
 
 ## Metodologia
-Tendo como base os tópicos relatados por Barbosa e Silva (2011, p.279)<a id="anchor_1" href="#REF1">^1^</a> e adaptando-os para o documento a ser desenvolvido pela equipe, esses vão incluir:
+Tendo como base os tópicos relatados por Barbosa e Silva (2021, p.312)<a id="anchor_1" href="#REF1">^1^</a> e adaptando-os para o documento a ser desenvolvido pela equipe, esses vão incluir:
 
 * Objetivo e escopo da avaliação
 * Método de avaliação
@@ -23,7 +23,19 @@ A documentação do relato da avaliação deverá conter os tópicos citados aba
 
 ### Objetivo e escopo da avaliação
 
-Nesta etapa, o redator do documento deverá explicar a razão pela qual a avaliação está sendo realizada e descrever o objetivo que o grupo pretende alcançar com a análise de tarefas. Isso envolve justificar a importância da avaliação, esclarecer as expectativas e as metas estabelecidas, e fornecer uma visão geral do propósito e do contexto da avaliação.
+Nesta etapa, o redator do documento deverá explicar a razão pela qual a avaliação está sendo realizada e descrever o objetivo que o grupo pretende alcançar com o protótipo de papel. Isso envolve justificar a importância da avaliação, esclarecer as expectativas e as metas estabelecidas, e fornecer uma visão geral do propósito e do contexto da avaliação. No caso, os objetivos são<a id="anchor_1" href="#REF1">^1^</a>:
+
+- verificar a conformidade com um padrão;
+- comparar ideias e alternativas de design;
+- identificar problemas na interação e interface.
+
+Além disso, deve-se responder as seguintes perguntas por meio da análise da avaliação, a fim de verificar se os objetivos foram alcançados<a id="anchor_1" href="#REF1">^1^</a>:
+
+- Com o protótipo de papel foi possível explorar conceitos de design?
+- Foi observado alguma sugestão de melhoria para o protótipo proposto?
+- Foi possível identificar problemas de usabilidade preliminares?
+- Foi possível identificar ideias principais de design?
+
 
 ### Método de avaliação
 
@@ -68,7 +80,8 @@ Nessa seção do documento, o entrevistador deve detalhadamente listar os proble
 É essencial que o entrevistador capte o feedback dos usuários que foram entrevistados durante a avaliação de tarefas. Isso envolve ouvir atentamente as opiniões, sugestões e comentários expressos pelos usuários durante a interação com o sistema ou produto avaliado. O entrevistador deve registrar de forma completa e precisa o feedback fornecido pelos usuários, levando em consideração suas percepções, experiências e necessidades. Essas informações são valiosas para compreender as expectativas dos usuários, identificar pontos fortes e fracos do sistema, e obter insights sobre possíveis melhorias. 
 
 ### Análise e interpretação dos resultados
-O entrevistador deve realizar uma análise e interpretação dos resultados obtidos a partir da avaliação de tarefas. Isso envolve examinar cuidadosamente os dados coletados durante a avaliação, identificar padrões, tendências e insights relevantes, e extrair conclusões significativas a partir dessas informações.  Contextualizar os resultados dentro do objetivo da avaliação e considerar o impacto dos problemas identificados na usabilidade, na experiência do usuário e nos objetivos estabelecidos.
+
+O entrevistador deve realizar uma análise e interpretação dos resultados obtidos a partir da avaliação de tarefas. Isso envolve examinar cuidadosamente os dados coletados durante a avaliação, identificar padrões, tendências e insights relevantes, e extrair conclusões significativas a partir dessas informações.  Contextualizar os resultados dentro do objetivo da avaliação e considerar o impacto dos problemas identificados na usabilidade, na experiência do usuário e nos objetivos estabelecidos. Além disso, deve responder as perguntas levantadas inicialmente.
 
 ### Sumário dos principais resultados
 Serão apresentados de forma resumida e objetiva os dados obtidos com avaliação de cada tarefa, contendo uma descrição breve se os participantes conseguiram realizá-la com êxito ou não. A apresentação dos dados pode ser feita por meio de uma tabela ou por meio de um texto. No entanto, deve-se disponibilizar a gravação da seguinte forma:
@@ -96,12 +109,12 @@ Por fim, como o propósito da referida atividade está quase sempre relacionada 
 
 ## Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor                                            | Revisor                                        |
 | ------ | ---------- | -------------------- | ------------------------------------------------ | ---------------------------------------------- |
-| `1.0`    | 28/05/2023 | Criação do documento | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) |
-| `1.1`    | 28/05/2023 | Incrementando alguns tópicos | [Arthur de Melo](https://github.com/arthurmlv)   | [Gabriel Campello](https://github.com/G16C)    |
-| `1.2`  | 19/06/2023 | Ajustes da Verificação   | [Arthur de Melo](https://github.com/arthurmlv) | [Matheus Henrique](https://github.com/mathonaut) | 
+| `1.0`    | 28/05/2023 | Criação do documento. | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.1`    | 28/05/2023 | Incrementando alguns tópicos. | [Arthur de Melo](https://github.com/arthurmlv)   | [Gabriel Campello](https://github.com/G16C)    |
+| `1.2`  | 19/06/2023 | Ajustes da Verificação.   | [Arthur de Melo](https://github.com/arthurmlv) | [Matheus Henrique](https://github.com/mathonaut) | 
