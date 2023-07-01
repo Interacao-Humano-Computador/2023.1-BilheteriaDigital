@@ -45,7 +45,7 @@ A tabela 2 a seguir apresenta a checklist com os dados obtidos a partir da verif
 |  3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |    Sim     |                     -                     |
 |  4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |    Sim     |                     -                     |
 |  5   | Todos os textos estão na norma padrão?                                                                 |    Não     |                     -                     |
-|      | **Análise Hierárquica de Tarefas**                                                                     |            |                                           |
+|      | **Guia de Estilo**                                                                                     |            |                                           |
 |  6   | Existe um tópico de introdução?                                                                        | Incompleto |                     -                     |
 | 6.1  | Existe um subtópico de objetivo do guia de estilo?                                                     |    Sim     |                     -                     |
 | 6.2  | Existe um subtópico de organização e conteúdo do guia de estilo?                                       |    Sim     |                     -                     |
@@ -204,9 +204,9 @@ Como proposto por Fagan, para o retrabalho os autores do artefato (Arthur de Mel
 | Data de Correção | Descrição                                                                      |                 Responsável(eis)                 |                  Revisor(es)                   |      Status      |
 | ---------------- | :----------------------------------------------------------------------------- | :----------------------------------------------: | :--------------------------------------------: | :--------------: |
 | 30/06/2023       | Corrigir os erros ortográficos.                                                | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
-| 31/06/2023       | Adicionar os tópicos e subtópicos faltantes.                                   | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
-| 32/06/2023       | Explicar como os princípios gerais será utilizado no guia.                     | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-close: |
-| 32/06/2023       | Apresentar tratamentos para os problemas nas metas de usabilidade priorizadas. | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-close: |
+| 01/06/2023       | Adicionar os tópicos e subtópicos faltantes.                                   | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
+| 01/06/2023       | Explicar como os princípios gerais será utilizado no guia.                     | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
+| 01/06/2023       | Apresentar tratamentos para os problemas nas metas de usabilidade priorizadas. | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
 
 _Fonte: Elaborado por [Matheus Henrique](https://github.com/mathonaut), 2023._
 
@@ -231,3 +231,4 @@ O cronograma apresentado na tabela 3 pode ser alterado.
 | ------ | ---------- | ----------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 19/06/2023 | Criação da página.      | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
 | `1.1`  | 30/06/2023 | Adicionando retrabalho. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.2`  | 01/07/2023 | Concluído o retrabalho. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
