@@ -97,13 +97,16 @@ No que diz respeito as tarefas para análise com o método HTA, foram escolhidas
 
 ### Busca de Evento
 
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Figura 5</b> - Diagrama HTA da Busca de Evento.</p></font>
+<center>
+
+**Figura 5** - Diagrama HTA da Busca de Evento.
 
 ![Diagrama HTA da Busca de Ingressso no Modo Claro](../../assets/analise-de-tarefas/hta4.png#only-light){width: 300}
 ![Diagrama HTA da Busca de Ingressso no Modo Escuro](../../assets/analise-de-tarefas/hta4e.png#only-dark){width: 300}
 
-<font size="3"><p style="text-align: center">Fonte: [Matheus Henrique](https://github.com/mathonaut).</p></font>
+<font size="3">_Fonte: [Matheus Henrique](https://github.com/mathonaut)._</font>
+
+</center>
 
 </figure>
 
