@@ -39,7 +39,7 @@ A tabela 2 a seguir apresenta a checklist com os dados obtidos a partir da verif
 
 | ID  | Descrição                                                                                                      | Avaliação  |         Observações          |
 | :-: | -------------------------------------------------------------------------------------------------------------- | :--------: | :--------------------------: |
-|     | **Padronização**                                                                                               |
+|     | **Padronização**                                                                                               |            |                              |
 |  1  | O artefato possui introdução?                                                                                  |    Sim     |              -               |
 |  2  | O artefato possui uma bibliografia/referência bibliográfica?                                                   |    Sim     |              -               |
 |  3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?         |    Sim     |              -               |
@@ -157,6 +157,31 @@ A figura 1 apresenta um gráfico com o percentual de respostas sim, não, incomp
 _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 </center>
+
+## Retrabalho
+
+Como proposto por Fagan, para o retrabalho os autores do artefato ([Gabriel Campello](https://github.com/G16C) e [Geovanna Maciel](https://github.com/manuziny)) serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente, porém há a possibilidade de outros integrantes do grupo realizarem as correções propostas. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+
+<center>
+
+**Tabela 3** - Cronograma de Correções.
+
+| Data de Correção | Descrição                                                           |                 Responsável(eis)                 |                  Revisor(es)                   |      Status      |
+| ---------------- | :------------------------------------------------------------------ | :----------------------------------------------: | :--------------------------------------------: | :--------------: |
+| 02/07/2023       | Legendar a tabela 1.                                                | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
+| 02/07/2023       | Corrigir os erros ortográficos.                                     | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
+| 02/07/2023       | Apresentar os resultados da pesquisa realizada.                     | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
+| 02/07/2023       | Agregar os dados em mais de uma faixa/perfil.                       | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
+| 02/07/2023       | Calcular a quantidade de usuário que se encaixam nesses perfis.     | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
+| 02/07/2023       | Incluir as características faltosas.                                | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
+| 02/07/2023       | Refazer a priorização dos perfis a fim de incluir mais informações. | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
+
+_Fonte: Elaborado por [Matheus Henrique](https://github.com/mathonaut), 2023._
+
+</center>
+
+!!! info
+O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Referências Bibliográficas
 

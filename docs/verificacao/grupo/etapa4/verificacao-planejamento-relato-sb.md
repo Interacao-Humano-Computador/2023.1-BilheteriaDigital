@@ -131,9 +131,9 @@ Como proposto por Fagan, para o retrabalho os autores do artefato ([Arthur de Me
 
 **Tabela 3** - Cronograma de Correções.
 
-| Data de Correção | Descrição                           |                Responsável(eis)                |                   Revisor(es)                    |  Status   |
-| ---------------- | :---------------------------------- | :--------------------------------------------: | :----------------------------------------------: | :-------: |
-| 19/06/2023       | Realizar os ajustes da verificação. | [Arthur de Melo](https://github.com/arthurmlv) | [Matheus Henrique](https://github.com/mathonaut) | CORRIGIDO |
+| Data de Correção | Descrição                           |                Responsável(eis)                |                   Revisor(es)                    |      Status      |
+| ---------------- | :---------------------------------- | :--------------------------------------------: | :----------------------------------------------: | :--------------: |
+| 19/06/2023       | Realizar os ajustes da verificação. | [Arthur de Melo](https://github.com/arthurmlv) | [Matheus Henrique](https://github.com/mathonaut) | :material-check: |
 
 _Fonte: Elaborado por [Arthur de Melo](https://github.com/arthurmlv), 2023._
 

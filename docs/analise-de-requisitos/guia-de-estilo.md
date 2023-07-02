@@ -116,7 +116,7 @@ As propostas de intervenção foram desenvolvidas com base nas [Metas de Usabili
 
 ### Metas de Usabilidade
 
-Com base nas [metas prorizadas](../../analise-de-requisitos/metas-usabilidade/#conclusao) (eficiência, segurança e utilidade) foram levantados pontos específicos que podem ser aprimorados no sistema. Para a meta de utilidade, foi proposto o botão de filtro em que o usuário verá eventos do próprio estado com mais facilidade de acordo com data, localidade, público alvo e preço. Para a meta de segurança, será pedida para o usuário confirmar ações consideradas críticas, como cancelar um pedido. Para a meta de eficiência, serão introduzidos elementos que auxiliem os usuários a realizarem as suas tarefas como a quantidade de ingressos restantes.
+Com base nas [metas priorizadas](../../analise-de-requisitos/metas-usabilidade/#conclusao) (eficiência, segurança e utilidade) foram levantados pontos específicos que podem ser aprimorados no sistema. Para a meta de utilidade, foi proposto o botão de filtro em que o usuário verá eventos do próprio estado com mais facilidade de acordo com data, localidade, público alvo e preço. Para a meta de segurança, será pedida para o usuário confirmar ações consideradas críticas, como cancelar um pedido. Para a meta de eficiência, serão introduzidos elementos que auxiliem os usuários a realizarem as suas tarefas como a quantidade de ingressos restantes.
 
 ### Princípios Gerais
 

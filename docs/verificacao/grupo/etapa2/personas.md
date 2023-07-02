@@ -22,7 +22,7 @@ O integrante do grupo [Douglas Alves](https://github.com/dougAlvs) será respons
 
 |                   Participante                   |   Papel   |
 | :----------------------------------------------: | :-------: |
-| [Douglas Alves](https://github.com/dougAlvs) | Avaliador |
+|   [Douglas Alves](https://github.com/dougAlvs)   | Avaliador |
 | [Rafael Ferreira](https://github.com/RafaelCLG0) |  Revisor  |
 
 _Fonte: [Douglas Alves](https://github.com/dougAlvs), 2023._
@@ -37,24 +37,24 @@ A tabela 2 a seguir apresenta a checklist com os dados obtidos a partir da verif
 
 **Tabela 2** - Checklist de Verificação.
 
-| ID  | Descrição | Avaliação | Observações |
-| :-: | --------- | :-------: | :-----------:|
-|  1  | O artefato possui introdução? |     Sim      |             |
-|  2  | O artefato possui uma bibliografia/referência bibliográfica?   |     Sim      |             |
-|  3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |   Sim       |             |
-|  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?|   Sim        |            |
-|  5  | Todos os textos estão na norma padrão? | Sim
-| 6 | A persona possui identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas? | Sim | |
-| 7 | A persona primária possui elasticidade? (Uma persona assume uma solidez tangível que coloca os pressupostos de design em perspectiva. À medida que uma persona perde sua elasticidade, podemos identificar suas habilidades, suas motivações e o que ela quer alcançar.)| Não | | 
-| 8 | A persona primária é sólida e tangível o suficiente para colocar os pressupostos de design em perspectiva? | Sim | |
-| 9 | O elenco de personas torna evidente quais são os objetivos dos usuários? |Sim| |
-| 10 | O elenco de personas tem entre 3 a 12 personas? |Sim |  |
-| 11 | Possui justificativa do número? | Sim | Contudo, vale citar por quem esse intervalo é recomendado |
-| 12 | Possui uma antipersona definida? | Sim | |
-| 13 | Há algum método para descobrir o objetivo das personas? | Não | Se foi utilizado, não foi evidenciado no texto. |
-| 14 | Possui objetivos pessoais, corporativos e práticos? | Incompleto | Eles estão misturados, caberia subdividi-los melhor |
-| 15 | Há algum objetivo de experiência da persona? | Não | Adicioná-los enriqueceria o artefato |
-| 16 | O elenco de personas é definido a partir do perfil de usuário? |Sim | |
+| ID  | Descrição                                                                                                                                                                                                                                                                | Avaliação  |                        Observações                        |
+| :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :-------------------------------------------------------: |
+|  1  | O artefato possui introdução?                                                                                                                                                                                                                                            |    Sim     |                                                           |
+|  2  | O artefato possui uma bibliografia/referência bibliográfica?                                                                                                                                                                                                             |    Sim     |                                                           |
+|  3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                                                                                                                                                                   |    Sim     |                                                           |
+|  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                                                                                                                                                             |    Sim     |                                                           |
+|  5  | Todos os textos estão na norma padrão?                                                                                                                                                                                                                                   |    Sim     |
+|  6  | A persona possui identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas?                                                                                                                                                        |    Sim     |                                                           |
+|  7  | A persona primária possui elasticidade? (Uma persona assume uma solidez tangível que coloca os pressupostos de design em perspectiva. À medida que uma persona perde sua elasticidade, podemos identificar suas habilidades, suas motivações e o que ela quer alcançar.) |    Não     |                                                           |
+|  8  | A persona primária é sólida e tangível o suficiente para colocar os pressupostos de design em perspectiva?                                                                                                                                                               |    Sim     |                                                           |
+|  9  | O elenco de personas torna evidente quais são os objetivos dos usuários?                                                                                                                                                                                                 |    Sim     |                                                           |
+| 10  | O elenco de personas tem entre 3 a 12 personas?                                                                                                                                                                                                                          |    Sim     |                                                           |
+| 11  | Possui justificativa do número?                                                                                                                                                                                                                                          |    Sim     | Contudo, vale citar por quem esse intervalo é recomendado |
+| 12  | Possui uma antipersona definida?                                                                                                                                                                                                                                         |    Sim     |                                                           |
+| 13  | Há algum método para descobrir o objetivo das personas?                                                                                                                                                                                                                  |    Não     |      Se foi utilizado, não foi evidenciado no texto.      |
+| 14  | Possui objetivos pessoais, corporativos e práticos?                                                                                                                                                                                                                      | Incompleto |    Eles estão misturados, caberia subdividi-los melhor    |
+| 15  | Há algum objetivo de experiência da persona?                                                                                                                                                                                                                             |    Não     |           Adicioná-los enriqueceria o artefato            |
+| 16  | O elenco de personas é definido a partir do perfil de usuário?                                                                                                                                                                                                           |    Sim     |                                                           |
 
 _Fonte: [Geovanna Maciel](https://github.com/manuziny), [Douglas Alves](https://github.com/dougAlvs) e [Marcus Vinicius](https://github.com/MarcusVcd), 2023._
 
@@ -66,7 +66,6 @@ _Fonte: [Geovanna Maciel](https://github.com/manuziny), [Douglas Alves](https://
 
 De maneira geral, a maior parte dos problemas do artefato envolvem a questão dos objetivos das personas. Barbosa e Silva (2011, p. 180-182)<a id="anchor_1 "href="#REF1"><sup>1</sup></a> definem diversas categorias diferentes de objetivos para um elenco de personas e, por mais que o artefato apresente alguns deles, não é feita uma separação entre cada tipo, o que deixa a leitura um pouco confusa. Dessa forma cabe fazer uma melhor especificação dos objetivos das personas, equilibrando a quantidade de cada tipo e deixando sua descrição mais clara.
 
-
 ## Sugestões de Correção
 
 Tendo em vista os problemas abordados anteriormente, fica como sugestão a realização das seguintes correções:
@@ -75,7 +74,6 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 - Detalhar da onde vem a recomendação da quantidade de personas;
 - Documentar qual foi o método utilizado para definição dos objetivos das personas;
 - Detalhar os objetivos com objetivos de experiência;
-
 
 A correção dos erros será realizada após uma discussão e validação dos problemas encontrados com o grupo e apresentação dos resultados para o professor da disciplina.
 
@@ -95,11 +93,10 @@ _Fonte: [Douglas Alves](https://github.com/dougAlvs), 2023._
 
 ## Referências Bibliograficas
 
-
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                      |
-| ------ | ---------- | ------------------ | ------------------------------------------------ | ------------------------------------------------ |
+| Versão | Data       | Descrição          | Autor(es)                                    | Revisor(es)                                      |
+| ------ | ---------- | ------------------ | -------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 19/06/2023 | Criação da página. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) |

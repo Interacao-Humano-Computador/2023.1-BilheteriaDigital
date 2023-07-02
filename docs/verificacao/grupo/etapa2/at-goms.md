@@ -95,13 +95,33 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 </center>
 
+## Retrabalho
+
+Como proposto por Fagan, para o retrabalho os autores do artefato ([Douglas Alves](https://github.com/dougAlvs), [Gabriel Campello](https://github.com/G16C), [Geovanna Maciel](https://github.com/manuziny) e [Rafael Ferreira](https://github.com/RafaelCLG0)) serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente, porém há a possibilidade de outros integrantes do grupo realizarem as correções propostas. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+
+<center>
+
+**Tabela 3** - Cronograma de Correções.
+
+| Data de Correção | Descrição                                      |                 Responsável(eis)                 |                  Revisor(es)                   |      Status      |
+| ---------------- | :--------------------------------------------- | :----------------------------------------------: | :--------------------------------------------: | :--------------: |
+| 02/07/2023       | Corrigir os erros ortográficos.                | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
+| 02/07/2023       | Adicionar uma descrição para cada tarefa GOMS. | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
+
+_Fonte: Elaborado por [Matheus Henrique](https://github.com/mathonaut), 2023._
+
+</center>
+
+!!! info
+O cronograma apresentado na tabela 3 pode ser alterado.
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> CARD, S.; MORAN, T.P.; NEWELL, A. **The Psychology of Human-Computer Interaction.** New Jersey: Lawrence Erlbaum Associates, 1983.
 
 ## Bibliografia
 
-> FERREIRA, Rafael. **Verificação do Planejamento da Avaliação da Análise de Tarefas.** Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<>>. Acesso em: 18 junho 2023.
+> FERREIRA, Rafael. **Verificação do Planejamento da Avaliação da Análise de Tarefas.** Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa4/verificacao-planejamento-analise/>>. Acesso em: 18 junho 2023.
 
 ## Histórico de Versões
 
