@@ -191,6 +191,25 @@ _Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
 
 </center>
 
+### Planejamento do Relato do Protótipo de Papel
+
+A tabela 7 a seguir apresenta a checklist referente aos itens exigidos para a representação correta de um protótipo em papel segundo Barbosa e Silva (2011, p.358-362).<a href="#REF1"><sup>1</sup></a>
+
+<center>
+
+**Tabela 7** - Checklist para o Protótipo em Papel.
+
+| ID  | Descrição                                                                                             | Avaliação | Observações |
+| --- | ----------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| 6   | O protótipo permite avaliar soluções parciais para o sistema, de baixa e média fidelidade?            |           |             |
+| 7   | O protótipo simula o sistema, de forma que as ações a serem realizadas por seu intermédio sejam reais?|           |             |
+| 8   | O protótipo destaca os elementos principais da interface com os quais o usuário vai interagir durante a simulação da interação?                                                                                                    |           |             |
+| 9   | O protótipo apresenta, também, pedaços de papel com partes da interface que se modificam durante a interação, como menus, dicas sobre elementos de interface, itens de alguma lista, resultados de busca e diálogos?                          |           |             |
+
+_Fonte: [Gabriel Campello](https://github.com/G16C), 2023._
+
+</center>
+
 ## Bibliografia
 
 > ESTEVES, Luíza. Planejamento da Verificação da Etapa 5. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/verifica%C3%A7%C3%A3o_dos_artefatos/etapa_5/planejamento/>>. Acesso em: 30 maio 2023.
@@ -211,3 +230,5 @@ _Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
 | `1.1`  | 17/06/2023 | Adição da checklist do planejamento da avaliação                          | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Matheus Henrique](https://github.com/mathonaut) |
 | `1.2`  | 18/06/2023 | Adição da checklist do planejamento do relato dos resultados da avaliação | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Matheus Henrique](https://github.com/mathonaut) |
 | `1.3`  | 18/06/2023 | Att checklists dos relatos                                                | [Arthur de Melo](https://github.com/arthurmlv)   | [Matheus Henrique](https://github.com/mathonaut) |
+| `1.4`  | 02/07/2023 | Adição da verificação para o rpotótipo de papel                           | [Gabriel Campello](https://github.com/G16C)    | [Matheus Henrique](https://github.com/mathonaut) |
+
