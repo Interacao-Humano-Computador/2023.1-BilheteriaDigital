@@ -157,8 +157,18 @@ nav:
               - Relato dos Resultados da Análise de Tarefas: verificacao/grupo2/etapa5/relato-analise.md
               - Planejamento da Avaliação do Protótipo de Papel: verificacao/grupo2/etapa5/planejamento-aval-papel.md
               - Planejamento do Relato dos Resultados do Protótipo de Papel: verificacao/grupo2/etapa5/planejamento-relato-papel.md
-  - Entrega final:
-       - Cronograma: entrega-final/cronograma.md 
+  - Entrega Final:
+      - Site Selecionado: entrega-final/site-selecionado.md
+      - Ciclo de Vida Utilizado: entrega-final/ciclo-de-vida.md
+      - Planejamento dos Recursos e das Entregas (Cronograma): entrega-final/cronograma-projeto.md
+      - Execução do Projeto: entrega-final/execucao-projeto.md
+      - Resultados Alcançados com a Execução do Projeto: entrega-final/resultados-execucao.md
+      - Ferramentas Utilizadas: entrega-final/ferramentas-utilizadas.md
+      - Técnicas Utilizadas: entrega-final/tecnicas-utilizadas.md
+      - Artefatos Criados: entrega-final/artefatos-criados.md
+      - Síntese das Avaliações: entrega-final/sintese-avaliacao.md
+      - Síntese das Verificações: entrega-final/sintese-verificacoes.md
+      - Síntese das Apresentações: entrega-final/sintese-apresentacao.md
 
 theme:
   name: material
