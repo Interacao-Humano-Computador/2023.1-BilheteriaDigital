@@ -24,13 +24,15 @@ Os artefatos alvos dessa verificação são:
 - O [**Relato dos Resultados das Análises de Tarefas**](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/resultado-relato-analise-de-tarefas/) na versão 1.4 de data 29/05/2023 produzida por [Geovanna Maciel](https://github.com/manuziny) e revisada por [Douglas Alves](https://github.com/dougalvs) e [Rafael Ferreira](https://github.com/RafaelCLG0);
 - O [**Planejamento da Avaliação do Protótipo de Papel**](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-2/prototipo-papel-dad/planejamento-avaliacao-pp/) na versão 1.2 de data 10/06/2023 produzida por [Rafael Ferreira](https://github.com/RafaelCLG0) e revisada por [Douglas Alves](https://github.com/dougalvs);
 - O [**Planejamento do relato dos resultados da avaliação do protótipo de papel**](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-2/prototipo-papel-dad/planejamento-relato-resultados-pp/) na versão 1.1 de data 28/05/2023 produzido por [Arthur de Melo](https://github.com/arthurmlv) e revisada por [Gabriel Campello](https://github.com/G16C).
+- O [**Protótipo de Papel**](https://marvelapp.com/prototype/9i40deb/screen/91947044) na versão 1.1 de data 27/05/2023 produzido por [Geovanna Maciel](https://github.com/manuziny) e [Douglas Alves](https://github.com/dougAlvs) e revisada por [Matheus Henrique](https://github.com/mathonaut).
 
 Os resultados das verificações em si serão apresentados em páginas separadas e que podem ser acessados através dos seguintes links:
 
 - [Resultados da Verificação do Relato dos Resultados do Storyboard](../verificacao-relato-resultados-sb);
 - [Resultados da Verificação do Relato dos Resultados da Análise de Tarefas](../verificacao-relato-resultados-at);
 - [Resultados da Verificação do Planejamento da Avaliação do Protótipo de Papel](../verificacao-planejamento-prototipo);
-- [Resultados da Verificação do Planejamento do Relato dos Resultados do Protótipo de Papel](../verificacao-planejamento-relato-resultado-pp).
+- [Resultados da Verificação do Planejamento do Relato dos Resultados do Protótipo de Papel](../verificacao-planejamento-relato-resultado-pp);
+- [Protótipo de Papel](../prototipo-de-papel).
 
 ### Cronograma
 
@@ -45,10 +47,11 @@ A verificação será realizada no período de 17 de junho de 2023 até dia 18 d
 | 17/05/2023 | Verificação do Relato de Resultados da Avaliação do Storyboard.                          | [Arthur de Melo](https://github.com/arthurmlv)                                                    |
 | 17/06/2023 | Verificação do Relato dos Resultados das Análises de Tarefas.                            | [Arthur de Melo](https://github.com/arthurmlv)                                                    |
 | 17/06/2023 | Verificação do Planejamento da Avaliação do Protótipo de Papel.                          | [Rafael Ferreira](https://github.com/RafaelCLG0)                                                  |
-| 17/06/2023 | Verificação do Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel. | [Rafael Ferreira](https://github.com/RafaelCLG0)                                                  |
-| 17/06/2023 | Adição da documentação na página do grupo.                                               | [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| 17/06/2023 | Verificação do Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel. | [Rafael Ferreira](https://github.com/RafaelCLG0)  |
+| 02/07/2023 | Verificação do protótipo de papel. | [Gabriel Campello](https://github.com/G16C) |
+| 17/06/2023 | Adição da documentação na página do grupo. | [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0) |
 
-_Fonte: [Arthur de Melo](https://github.com/arthurmlv), 2023._
+_Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Gabriel Campello](https://github.com/G16C), 2023._
 
 </center>
 
@@ -191,6 +194,25 @@ _Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
 
 </center>
 
+### Planejamento do Relato do Protótipo de Papel
+
+A tabela 7 a seguir apresenta a checklist referente aos itens exigidos para a representação correta de um protótipo em papel segundo Barbosa e Silva (2011, p.358-362).<a href="#REF1"><sup>1</sup></a>
+
+<center>
+
+**Tabela 7** - Checklist para o Protótipo em Papel.
+
+| ID  | Descrição                                                                                             | Avaliação | Observações |
+| --- | ----------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| 6   | O protótipo permite avaliar soluções parciais para o sistema, de baixa e média fidelidade?            |           |             |
+| 7   | O protótipo simula o sistema, de forma que as ações a serem realizadas por seu intermédio sejam reais?|           |             |
+| 8   | O protótipo destaca os elementos principais da interface com os quais o usuário vai interagir durante a simulação da interação?                                                                                                    |           |             |
+| 9   | O protótipo apresenta, também, pedaços de papel com partes da interface que se modificam durante a interação, como menus, dicas sobre elementos de interface, itens de alguma lista, resultados de busca e diálogos?                          |           |             |
+
+_Fonte: [Gabriel Campello](https://github.com/G16C), 2023._
+
+</center>
+
 ## Bibliografia
 
 > ESTEVES, Luíza. Planejamento da Verificação da Etapa 5. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/verifica%C3%A7%C3%A3o_dos_artefatos/etapa_5/planejamento/>>. Acesso em: 30 maio 2023.
@@ -211,3 +233,5 @@ _Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
 | `1.1`  | 17/06/2023 | Adição da checklist do planejamento da avaliação                          | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Matheus Henrique](https://github.com/mathonaut) |
 | `1.2`  | 18/06/2023 | Adição da checklist do planejamento do relato dos resultados da avaliação | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Matheus Henrique](https://github.com/mathonaut) |
 | `1.3`  | 18/06/2023 | Att checklists dos relatos                                                | [Arthur de Melo](https://github.com/arthurmlv)   | [Matheus Henrique](https://github.com/mathonaut) |
+| `1.4`  | 02/07/2023 | Adição da verificação para o protótipo de papel                           | [Gabriel Campello](https://github.com/G16C)    | [Matheus Henrique](https://github.com/mathonaut) |
+

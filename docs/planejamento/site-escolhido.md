@@ -7,9 +7,12 @@ No início do processo da disciplina, alguns integrantes do grupo apresentaram p
 ## Critérios para escolha
 * Site não ter sido trabalhado na disciplina.
 * Facilidade de contato com o público-alvo.
-* Interface fora dos padrões estudados na disciplina até então.
+* Interface fora dos padrões estudados na disciplina até então. 
 * Complexidade do site.
 * Disponibilidade de informações.
+
+### Acompanhamento
+No que se refere aos padrões estudados na disciplina, decidimos por adicionar nesse tópico o link da página de [princípios gerias do projeto](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/), este artefato foi elaborado anteriromente à criação dos princípios gerais, no entanto ao longo da disciplina mostrou-se de suma importância o maior detalhamento de cada artefato para um melhor entendimento do projeto. Portanto, os padrões estudados, referidos anteriormente neste artefato, estão ligados aos [princípios gerais do projeto](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/). 
 
 ## Motivações de escolha
 Baseado nos critérios anteriores, o site [Bilheteria Digital](https://play.google.com/store/apps/details?id=com.bilheteriadigital.mobile&hl=pt_BR&gl=US) foi o escolhido para o projeto. Com as principais motivações sendo:
@@ -34,4 +37,5 @@ A avaliação de IHC executada pelo grupo, guiada pelo framework DECIDE e pelas 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
  `1.0` | 22/04/2023 | Criação do documento | [Douglas Alves](https://github.com/dougalvs) e [Rafael Ferreira](https://github.com/RafaelCLG0)| [Gabriel Campello](https://github.com/g16c)
- `1.1` | 23/04/2023 | Adição do preâmbulo | [Douglas Alves](https://github.com/dougalvs)| [Arthur de Melo](https://github.com/arthurmlv)
+ `1.1` | 23/04/2023 | Adição do preâmbulo | [Douglas Alves](https://github.com/dougalvs)| [Arthur de Melo](https://github.com/arthurmlv)|
+ `1.2` | 02/07/2023 | Adição do tópico de acompanhamento | [Gabriel Campello](https://github.com/G16C)| [Rafael Ferreira](https://github.com/RafaelCLG0)|

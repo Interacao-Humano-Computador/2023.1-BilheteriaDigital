@@ -81,7 +81,7 @@ Por não seguir o Framework DECIDE o artefato não está estruturado de acordo c
 
 ### ID 10 - O documento possui quais são as perguntas a serem respondidas com a avaliação?
 
-Não são apresentados as perguntas a serem respondidas com avaliação.
+Não são apresentadas as perguntas a serem respondidas com avaliação.
 
 ### ID 11 - As perguntas selecionadas possuem fontes indicando de onde foram baseadas?
 
