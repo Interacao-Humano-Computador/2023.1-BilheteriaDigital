@@ -233,5 +233,5 @@ _Fonte: [Gabriel Campello](https://github.com/G16C), 2023._
 | `1.1`  | 17/06/2023 | Adição da checklist do planejamento da avaliação                          | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Matheus Henrique](https://github.com/mathonaut) |
 | `1.2`  | 18/06/2023 | Adição da checklist do planejamento do relato dos resultados da avaliação | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Matheus Henrique](https://github.com/mathonaut) |
 | `1.3`  | 18/06/2023 | Att checklists dos relatos                                                | [Arthur de Melo](https://github.com/arthurmlv)   | [Matheus Henrique](https://github.com/mathonaut) |
-| `1.4`  | 02/07/2023 | Adição da verificação para o rpotótipo de papel                           | [Gabriel Campello](https://github.com/G16C)    | [Matheus Henrique](https://github.com/mathonaut) |
+| `1.4`  | 02/07/2023 | Adição da verificação para o protótipo de papel                           | [Gabriel Campello](https://github.com/G16C)    | [Matheus Henrique](https://github.com/mathonaut) |
 

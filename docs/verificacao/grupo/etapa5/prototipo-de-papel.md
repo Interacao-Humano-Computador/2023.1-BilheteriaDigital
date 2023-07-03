@@ -55,7 +55,7 @@ Como não foram encontrados erros quanto aos tópicos expostos na Tabela 1, a su
 
 ## Acompanhamento
 
-A figura 1 é possível análisar um gráfico com o percentual de erros e acertos de acordo com checklist dos resultados obtidos acima.
+A figura 1 é possível analisar um gráfico com o percentual de erros e acertos de acordo com checklist dos resultados obtidos acima.
 
 <center>
 
