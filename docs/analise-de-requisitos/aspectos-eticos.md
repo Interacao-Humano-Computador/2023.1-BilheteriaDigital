@@ -14,11 +14,14 @@ Os Termos de Consentimento Livre e Esclarecido (TCLE) têm como objetivo fornece
 
 <br>
 
-Olá, somos uma equipe de um projeto acadêmico da disciplina de Interação Humano-Computador do curso de Engenharia de Software da Universidade de Brasília. Nosso objetivo é avaliar o site Bilheteria Digital, que é um site de venda de ingressos para eventos. Estamos atualmente em uma etapa específica do projeto que consiste em [DESCRIÇÃO DA ETAPA].
+Olá, somos a equipe do projeto acadêmico da disciplina de Interação Humano-Computador do curso de Engenharia de Software da Universidade de Brasília. Nosso objetivo é avaliar o site Bilheteria Digital, que é um site de venda de ingressos para eventos. Estamos atualmente em uma etapa específica do projeto que consiste em [DESCRIÇÃO DA ETAPA].
 Para isso, estamos conduzindo uma série de pesquisas e gostaríamos de solicitar o seu consentimento para participar de uma atividade [DESCRIÇÃO DA ATIVIDADE] com duração de aproximadamente [TEMPO DE DURAÇÃO]. É importante que você saiba algumas informações sobre a pesquisa:
 
-- Nosso compromisso é divulgar os resultados de nossas pesquisas para o cliente.
+- Nosso compromisso é divulgar os resultados de nossas pesquisas para a disciplina.
 - Sua participação na atividade é voluntária, ou seja, depende da sua escolha.
+- O seu anonimato e a preservação das suas imagens são garantidos.
+- Nosso objetivo não é prejudicar ou causar dano a sua reputação ou emprego.
+- Seus dados brutos terão total privacidade.
 - A atividade pode ser interrompida a qualquer momento, de acordo com a sua vontade e disponibilidade.
 - Será necessário gravar a atividade, e as gravações serão utilizadas para análise e melhoria do site.
 - Os dados coletados são estritamente para fins de análise e melhoria do site.
@@ -27,6 +30,9 @@ Se você concorda com as condições acima e está disposto(a) a participar como
 
 (&emsp;) Sim
 (&emsp;) Não
+
+_____________
+Assinatura entrevistador
 
 ## Referências Bibliográficas
 
@@ -43,3 +49,4 @@ Se você concorda com as condições acima e está disposto(a) a participar como
 | Versão | Data       | Descrição                                       | Autor(es)                                                                                     | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 06/05/2023 | Criação da página da página de aspectos éticos. | [Douglas Alves](https://github.com/dougAlvs) e [Arthur de Melo](https://github.com/arthurmlv) | [Matheus Henrique](https://github.com/mathonaut) |
+| `1.1` | 02/07/2023 | Correções após verificação | [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv) e [Matheus Henrique](https://github.com/mathonaut)
