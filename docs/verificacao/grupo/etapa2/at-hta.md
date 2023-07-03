@@ -87,8 +87,8 @@ Não é apresentado as consequências caso os usuários não façam corretamente
 
 ### ID 12 - Os diagramas apresentam os elementos esperados (plano, objetivos, operações e as relações entre os subobjetivos)?
 
-Os elementos não estão de acordo com o que é apresentado por Barbosa e Silva.<a id=anchor_1 href="#REF1"><sup>1</sup></a> No diagrama visualizar meus pedidos é utilizado a operação de seleção _“/”_ para representar uma situação sequencial. No diagrama de cancelar, os objetivos hora está uma do lado do outro hora está abaixo do outro.
-Além disso, o objetivo de fazer login é apresentado ou omitido, não tendo um padrão em sua apresentação.
+Os elementos não estão de acordo com o que é recomendado por Barbosa e Silva.<a id=anchor_1 href="#REF1"><sup>1</sup></a>
+No diagrama de cancelar, os objetivos hora está uma do lado do outro hora está abaixo do outro. Além disso, o objetivo de fazer login é apresentado erroneamente.
 
 ### ID 15.2 - As tabelas apresentam os problemas e recomendações?
 
@@ -119,6 +119,29 @@ A figura 1 apresenta um gráfico com o percentual de respostas sim, não, incomp
 _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 </center>
+
+## Retrabalho
+
+Como proposto por Fagan, para o retrabalho os autores do artefato ([Arthur de Melo](https://github.com/arthurmlv), [Douglas Alves](https://github.com/dougAlvs), [Gabriel Campello](https://github.com/G16C), [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut)) serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente, porém há a possibilidade de outros integrantes do grupo realizarem as correções propostas. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+
+<center>
+
+**Tabela 3** - Cronograma de Correções.
+
+| Data de Correção | Descrição                                                                                                  |                 Responsável(eis)                 |                   Revisor(es)                    |      Status      |
+| ---------------- | :--------------------------------------------------------------------------------------------------------- | :----------------------------------------------: | :----------------------------------------------: | :--------------: |
+| 30/06/2023       | Corrigir os erros ortográficos.                                                                            | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
+| 02/07/2023       | Criar um texto de descrição com os objetivos a serem alcançados para cada tarefa.                          | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
+| 02/07/2023       | Apresentar possíveis erros que os usuário possam enfrentar na realização das tarefas e suas consequências. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
+| 02/07/2023       | Corrigir os diagramas HTA's com erros.                                                                     | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
+| 02/07/2023       | Incluir recomendações nas tabelas dos HTA's.                                                               | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
+
+_Fonte: Elaborado por [Matheus Henrique](https://github.com/mathonaut), 2023._
+
+</center>
+
+!!! info
+O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Referências Bibliográficas
 
