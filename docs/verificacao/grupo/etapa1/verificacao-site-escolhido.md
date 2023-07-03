@@ -47,7 +47,7 @@ Novamente, como foi exposto no ID 9, a fim de evitar redundância no trabalho, s
 
 - ID 8: Adicionar as heurísticas que definem os [motivos de escolha](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/site-escolhido/#motivacoes-de-escolha) definidos no artefato em questão.
 
-- ID 9: Seria interessante adicionar um link do artefato [Princípios Gerais](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/)  ao apresentarmos os erros nas eurísticas que influenciaram na escolha do site.
+- ID 9: Seria interessante adicionar um link do artefato [Princípios Gerais](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/)  ao apresentarmos os erros nas heurísticas que influenciaram na escolha do site.
 
 - ID 10: Assim como sugerido no ID 9, já que mas a frente no projeto temos um artefato específico para definir as heurísticas que foram violadas pelo site, devemos relacionar os dois artefatos: [Site Escolhido](../../../../planejamento/site-escolhido) e [Princípios Gerais](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/)
 
@@ -65,6 +65,26 @@ _Fonte: [Gabriel Campello](https://github.com/G16C), 2023._
 
 </center>
 
+## Retrabalho
+
+Como proposto por Fagan, para o retrabalho os autores do artefato [Gabriel Campello](https://github.com/G16C) corrigiram os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 2 a seguir apresenta o cronograma de correções.
+
+<center>
+
+**Tabela 2** - Cronograma de Correções.
+
+| Data de Correção | Descrição                           |                 Responsável(eis)                 |                   Revisor(es)                    |  Status   |
+| ---------------- | :---------------------------------- | :----------------------------------------------: | :----------------------------------------------: | :-------: |
+| 02/06/2023  | Adição das heuríticas relacionadas ao critério para escolha. |   [Gabriel Campello](https://github.com/G16C) | [Rafael Ferreira](https://github.com/RafaelCLG0) | x |
+| 02/06/2023  | Adição do link do artefato princípios gerais. |   [Gabriel Campello](https://github.com/G16C) | [Rafael Ferreira](https://github.com/RafaelCLG0) | x |
+
+
+_Fonte: Elaborado por [Gabriel Campello](https://github.com/G16C), 2023._
+</center>
+
+!!! info
+O cronograma apresentado na tabela 3 pode ser alterado.
+
 ## Bibliografia
 
 > ALVES, Douglas. Site Escolhido.Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/site-escolhido>>. Acesso em: 18 maio 2023.
@@ -80,6 +100,7 @@ _Fonte: [Gabriel Campello](https://github.com/G16C), 2023._
 | Versão | Data       | Descrição                                                                          | Autor(es)                                        | Revisor(es)                                  |
 | ------ | ---------- | ---------------------------------------------------------------------------------- | ------------------------------------------------ | -------------------------------------------- |
 | `1.0`  | 17/06/2023 | Criação da página.                                                                 | [Gabriel Campello](https://github.com/G16C) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.1`  | 02/07/2023 | Retrabalho.                                                                 | [Gabriel Campello](https://github.com/G16C) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
 
 
 

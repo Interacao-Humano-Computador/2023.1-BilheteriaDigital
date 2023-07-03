@@ -6,7 +6,7 @@ Realizado o planejamento do que verificar, é o momento de realizar a inspeção
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-2/prototipo-papel-dad/planejamento-avaliacao-pp/) da Etapa 5 do [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital).
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato [Protótipo de Papel](https://marvelapp.com/prototype/9i40deb/screen/91947044) da Etapa 5 do [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital).
 
 ## Metodologia
 
@@ -14,7 +14,7 @@ Os resultados da verificação dos artefatos foram obtidos a partir das checklis
 
 ## Cronograma e Participantes
 
-Os participantes serão os integrantes do Grupo 1 [Rafael Ferreira](https://github.com/RafaelCLG0), que será responsável por realizar a avaliação, e o [Arthur de Melo](https://github.com/arthurmlv) que realizará a revisão do artefato produzido pelo avaliador. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](../planejamento-verificacao-etapa5-grupo).
+Os participantes serão os integrantes do Grupo 1 [Gabriel Campello](https://github.com/G16C), que será responsável por realizar a avaliação, e o [Rafael Ferreira](https://github.com/RafaelCLG0) que realizará a revisão do artefato produzido pelo avaliador. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](../planejamento-verificacao-etapa5-grupo).
 
 ## Sumário Dos Dados
 
@@ -27,36 +27,18 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |        ID        | Descrição                                                                                                                                                                                                                                                                        | Avaliação  | Observações                              |
 | :--------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | ---------------------------------------- |
 | **Padronização** |                                                                                                                                                                                                                                                                                  |            |                                          |
-|        1         | O artefato possui introdução?                                                                                                                                                                                                                                                    |    Sim     |                                          |
-|        2         | O artefato possui uma bibliografia/referência bibliográfica?                                                                                                                                                                                                                     |    Sim     |                                          |
-|        3         | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                                                                                                                                                                           |    Sim     |                                          |
-|        4         | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                                                                                                                                                                     |    Sim     |                                          |
-|        5         | Todos os textos estão na norma padrão?                                                                                                                                                                                                                                           | Incompleto | Algumas palavras estão escritas erradas. |
-| **Planejamento** |                                                                                                                                                                                                                                                                                  |            |                                          |
-|        6         | O documento possui os objetivos do planejamento?                                                                                                                                                                                                                                 |    Sim     |                                          |
-|        7         | O planejamento segue o framework DECIDE?                                                                                                                                                                                                                                         |    Não     |                                          |
-|        8         | O documento do planejamento está estruturado de acordo com artefatos de planejamento anteriores (Ex: Utilizando o Framework DECIDE com seus tópicos)?                                                                                                                            |    Não     | Não foi utilizado o Framework DECIDE     |
-|        9         | O documento possui quais são os objetivos da avaliação?                                                                                                                                                                                                                          |    Sim     |                                          |
-|        10        | O documento possui quais são as perguntas a serem respondidas com a avaliação?                                                                                                                                                                                                   |    Não     |                                          |
-|        11        | As perguntas selecionadas possuem fontes indicando de onde foram baseadas?                                                                                                                                                                                                       |    Não     |                                          |
-|        12        | O documento possui quais são os métodos a serem utilizados na avaliação?                                                                                                                                                                                                         |    Sim     |                                          |
-|        13        | O documento possui os participantes da avaliação?                                                                                                                                                                                                                                |    Sim     |                                          |
-|        14        | O documento apresenta o motivo do número da escolha dos participantes?                                                                                                                                                                                                           |    Sim     |                                          |
-|        15        | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário?                                                                                                                                                                                     |    Sim     |                                          |
-|        16        | O documento apresenta o papel desempenhado por cada participantes?                                                                                                                                                                                                               |    Sim     |                                          |
-|        17        | O documento possui um cronograma com data, hora e local da realização da avaliação?                                                                                                                                                                                              |    Sim     |                                          |
-|        18        | O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação?                                                                                                                                                                                      |    Sim     |                                          |
-|        19        | O documento apresenta quais são os custos?                                                                                                                                                                                                                                       |    Não     |                                          |
-|        20        | O documento apresenta quais são os recursos de mão de obra necessários?                                                                                                                                                                                                          |    Sim     |                                          |
-|        21        | O documento possui uma seção sobre como as questões éticas são lidadas?                                                                                                                                                                                                          |    Sim     |                                          |
-|        22        | O documento possui uma seção sobre os dados (interpretação e apresentação)?                                                                                                                                                                                                      |    Não     |                                          |
-|        23        | O documento apresenta tarefas de como deve ser realizada a avaliação?                                                                                                                                                                                                            |    Sim     |                                          |
-|        24        | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto?                                                                                                                                              |    Sim     |                                          |
-|        25        | Possui uma gravação do teste piloto?                                                                                                                                                                                                                                             |    Sim     |                                          |
-|        26        | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.) |    Não     |                                          |
-|        27        | O protótipo de papel é apresentado?                                                                                                                                                                                                                                              |    Não     |                                          |
+| 1   | O artefato possui introdução? |  Sim  |  -  |
+| 2   | O artefato possui uma bibliografia/referência bibliográfica?  |  Sim  |   -    |
+| 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim |   -    |
+| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim |   -  |
+| 5   | Todos os textos estão na norma padrão?  | Sim |  -  |
+| **Planejamento**                                    
+| 6   | O protótipo permite avaliar soluções parciais para o sistema, de baixa e média fidelidade? | Sim | - |
+| 7   | O protótipo simula o sistema, de forma que as ações a serem realizadas por seu intermédio sejam reais? | Sim | - |
+| 8   | O protótipo destaca os elementos principais da interface com os quais o usuário vai interagir durante a simulação da interação? | Sim  |  -  |
+| 9   | O protótipo apresenta, também, pedaços de papel com partes da interface que se modificam durante a interação, como menus, dicas sobre elementos de interface, itens de alguma lista, resultados de busca e diálogos?  |  Sim | - | 
 
-_Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
+_Fonte: [Gabriel Campello](https://github.com/G16C), 2023._
 
 </center>
 
@@ -64,79 +46,38 @@ _Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
 
 Com base na tabela preenchida, serão feitas considerações acerca de alguns itens da tabela.
 
-### ID 5 - Todos os textos estão na norma padrão?
-
-Há erros ortográficos a serem corrigidos, segue a lista:
-
-- No tópico Executar um teste-piloto no último parágrafo as palavras verificadas, condizentes e realizadas estão escrita erradas 'verificacadas', 'codizentes' e 'realiazada';
-- No tópico Coleta de Dados a frase 'É papel dos avaliador' está incorreta.
-
-### ID 7 - O planejamento segue o framework DECIDE?
-
-Não foi utilizado o Framework DECIDE no artefato.
-
-### ID 8 - O documento do planejamento está estruturado de acordo com artefatos de planejamento anteriores (Ex: Utilizando o Framework DECIDE com seus tópicos)?
-
-Por não seguir o Framework DECIDE o artefato não está estruturado de acordo com outros planejamentos anteriores, como o [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-avaliavao-at/).
-
-### ID 10 - O documento possui quais são as perguntas a serem respondidas com a avaliação?
-
-Não são apresentados as perguntas a serem respondidas com avaliação.
-
-### ID 11 - As perguntas selecionadas possuem fontes indicando de onde foram baseadas?
-
-Por não apresentarem as perguntas esse tópico não está correto também.
-
-### ID 19 - O documento apresenta quais são os custos?
-
-Não são apresentados os custos avaliados para realizar a avaliação.
-
-### ID 22 - O documento possui uma seção sobre os dados (interpretação e apresentação)?
-
-Devido ao documento não seguir o Framework DECIDE não é apresentado a seção de coleta de dados sobre a interpretação e apresentação.
-
-### ID 26 - O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.)
-
-Não foram apresentados como os dados serão documentados e tratados conforme o ID anterior.
-
-### ID 27 - O protótipo de papel é apresentado?
-
-Não é apresentado um link para o protótipo de papel elaborado no artefato.
+**Não foram encontardos problemas nos tópicos avaliados**.
 
 ## Sugestões de Correções
 
-Tendo em vista os problemas abordados anteriormente, fica como sugestão a realização das seguintes correções:
+Como não foram encontrados erros quanto aos tópicos expostos na Tabela 1, a sugestão seria encontar, se possível, formas de aprimorar o protótipo de papel. 
 
-- Corrigir os erros ortográficos;
-- Utilizar o Framework DECIDE para se estruturar apartir dos planejamentos anteriores.
-- Se estrututar de acordo com o [planejamento anterior da análise de tarefas](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-avaliavao-at/).
-- Elaborar perguntas relacionadas com o objetivo da avaliação em busca de respondê-las com a avaliação.
-- Citar as fontes de onde as perguntas foram baseadas;
-- Com o Framework DECIDE apresentar os custos e dados(interpretação e apresentação), junto como os dados serão tratados e interpretados.
-- Linkar o protótipo de papel as ferramentas utilizadas no planejamento do artefato.
 
 ## Acompanhamento
 
 A figura 1 é possível análisar um gráfico com o percentual de erros e acertos de acordo com checklist dos resultados obtidos acima.
 
-<figure markdown>
+<center>
+
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado da Checklist.</p></font>
-<iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWs8eg31c2-oQxuwxD9eeSYCMdpTouo8fxO41asW_45pB6Dxykjz4FRxfhHJITZ9BCShevDFBzLPo1/pubchart?oid=276785082&amp;format=interactive"></iframe><figcaption><font size="3">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0)</font></figcaption>
-</figure>
+<iframe style="border:3px solid red" width="600" height="378" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThIZRGHl0AwpMwl-szl_S3htqYjBoroXjMGZhuoW08bUqmN_YY8i6RFGoLeKPJSCvtsIELhxy_B1o5/pubchart?oid=727150457&amp;format=interactive"></iframe><figcaption><font size="3"></figcaption>
+
+</center>
+
 
 ## Retrabalho
 
-Como proposto por Fagan, para o retrabalho os autores do artefato ([Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0)) corrigiram os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+Como proposto por Fagan, para o retrabalho os autores do artefato [Gabriel Campello](https://github.com/G16C) corrigiram os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 2 a seguir apresenta o cronograma de correções.
 
 <center>
 
-**Tabela 3** - Cronograma de Correções.
+**Tabela 2** - Cronograma de Correções.
 
 | Data de Correção | Descrição                           |                 Responsável(eis)                 |                   Revisor(es)                    |  Status   |
 | ---------------- | :---------------------------------- | :----------------------------------------------: | :----------------------------------------------: | :-------: |
-| 18/06/2023       | Realizar os ajustes da verificação. | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Matheus Henrique](https://github.com/mathonaut) | CORRIGIDO |
+| 03/06/2023  | Aprimoração do artefato. |   [Gabriel Campello](https://github.com/G16C) | [Rafael Ferreira](https://github.com/RafaelCLG0) | x |
 
-_Fonte: Elaborado por [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
+_Fonte: Elaborado por [Gabriel Campello](https://github.com/G16C), 2023._
 
 </center>
 
@@ -153,5 +94,4 @@ O cronograma apresentado na tabela 3 pode ser alterado.
 
 | Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | ------------------ | ------------------------------------------------ | ---------------------------------------------- |
-| `1.0`  | 18/06/2023 | Criação da página. | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Arthur de Melo](https://github.com/arthurmlv) |
-| `1.1`  | 25/06/2023 | Add retrabalho.    | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny) |
+| `1.0`  | 02/07/2023 | Criação da página. | [Gabriel Campello](https://github.com/G16C) | [Rafael Ferreira](https://github.com/RafaelCLG0) |

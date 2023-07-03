@@ -24,13 +24,15 @@ Os artefatos alvos dessa verificação são:
 - O [**Relato dos Resultados das Análises de Tarefas**](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/resultado-relato-analise-de-tarefas/) na versão 1.4 de data 29/05/2023 produzida por [Geovanna Maciel](https://github.com/manuziny) e revisada por [Douglas Alves](https://github.com/dougalvs) e [Rafael Ferreira](https://github.com/RafaelCLG0);
 - O [**Planejamento da Avaliação do Protótipo de Papel**](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-2/prototipo-papel-dad/planejamento-avaliacao-pp/) na versão 1.2 de data 10/06/2023 produzida por [Rafael Ferreira](https://github.com/RafaelCLG0) e revisada por [Douglas Alves](https://github.com/dougalvs);
 - O [**Planejamento do relato dos resultados da avaliação do protótipo de papel**](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-2/prototipo-papel-dad/planejamento-relato-resultados-pp/) na versão 1.1 de data 28/05/2023 produzido por [Arthur de Melo](https://github.com/arthurmlv) e revisada por [Gabriel Campello](https://github.com/G16C).
+- O [**Protótipo de Papel**](https://marvelapp.com/prototype/9i40deb/screen/91947044) na versão 1.1 de data 27/05/2023 produzido por [Geovanna Maciel](https://github.com/manuziny) e [Douglas Alves](https://github.com/dougAlvs) e revisada por [Matheus Henrique](https://github.com/mathonaut).
 
 Os resultados das verificações em si serão apresentados em páginas separadas e que podem ser acessados através dos seguintes links:
 
 - [Resultados da Verificação do Relato dos Resultados do Storyboard](../verificacao-relato-resultados-sb);
 - [Resultados da Verificação do Relato dos Resultados da Análise de Tarefas](../verificacao-relato-resultados-at);
 - [Resultados da Verificação do Planejamento da Avaliação do Protótipo de Papel](../verificacao-planejamento-prototipo);
-- [Resultados da Verificação do Planejamento do Relato dos Resultados do Protótipo de Papel](../verificacao-planejamento-relato-resultado-pp).
+- [Resultados da Verificação do Planejamento do Relato dos Resultados do Protótipo de Papel](../verificacao-planejamento-relato-resultado-pp);
+- [Protótipo de Papel](../prototipo-de-papel).
 
 ### Cronograma
 
@@ -45,10 +47,11 @@ A verificação será realizada no período de 17 de junho de 2023 até dia 18 d
 | 17/05/2023 | Verificação do Relato de Resultados da Avaliação do Storyboard.                          | [Arthur de Melo](https://github.com/arthurmlv)                                                    |
 | 17/06/2023 | Verificação do Relato dos Resultados das Análises de Tarefas.                            | [Arthur de Melo](https://github.com/arthurmlv)                                                    |
 | 17/06/2023 | Verificação do Planejamento da Avaliação do Protótipo de Papel.                          | [Rafael Ferreira](https://github.com/RafaelCLG0)                                                  |
-| 17/06/2023 | Verificação do Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel. | [Rafael Ferreira](https://github.com/RafaelCLG0)                                                  |
-| 17/06/2023 | Adição da documentação na página do grupo.                                               | [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| 17/06/2023 | Verificação do Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel. | [Rafael Ferreira](https://github.com/RafaelCLG0)  |
+| 02/07/2023 | Verificação do protótipo de papel. | [Gabriel Campello](https://github.com/G16C) |
+| 17/06/2023 | Adição da documentação na página do grupo. | [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0) |
 
-_Fonte: [Arthur de Melo](https://github.com/arthurmlv), 2023._
+_Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Gabriel Campello](https://github.com/G16C), 2023._
 
 </center>
 

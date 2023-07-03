@@ -57,6 +57,25 @@ _Fonte: [Gabriel Campello](https://github.com/G16C), 2023._
 
 </center>
 
+## Retrabalho
+
+Como proposto por Fagan, para o retrabalho os autores do artefato [Gabriel Campello](https://github.com/G16C) corrigiram os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 2 a seguir apresenta o cronograma de correções.
+
+<center>
+
+**Tabela 2** - Cronograma de Correções.
+
+| Data de Correção | Descrição                           |                 Responsável(eis)                 |                   Revisor(es)                    |  Status   |
+| ---------------- | :---------------------------------- | :----------------------------------------------: | :----------------------------------------------: | :-------: |
+| 02/06/2023  | Correção da bibliografia. |   [Gabriel Campello](https://github.com/G16C) | [Rafael Ferreira](https://github.com/RafaelCLG0) | x |
+
+_Fonte: Elaborado por [Gabriel Campello](https://github.com/G16C), 2023._
+
+</center>
+
+!!! info
+O cronograma apresentado na tabela 3 pode ser alterado.
+
 ## Bibliografia
 
 > ALVES, Douglas. Processo de Design.Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/processo-design>>. Acesso em: 18 maio 2023.
@@ -72,3 +91,4 @@ _Fonte: [Gabriel Campello](https://github.com/G16C), 2023._
 | Versão | Data       | Descrição                                                                          | Autor(es)                                        | Revisor(es)                                  |
 | ------ | ---------- | ---------------------------------------------------------------------------------- | ------------------------------------------------ | -------------------------------------------- |
 | `1.0`  | 17/06/2023 | Criação da página.                                                                 | [Gabriel Campello](https://github.com/G16C) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.1`  | 02/07/2023 | Retrabalho.                                                                 | [Gabriel Campello](https://github.com/G16C) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
