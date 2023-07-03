@@ -6,7 +6,7 @@ Este artefato objetiva apresentar uma versão final do cronograma da disciplina.
 
 ## Metodologia
 
-Para uma melhor navegabilidade, utilizou-se do "details" do html. Quanto a organização da tabela, utilizou-se do template explicitado na Tabela 1:
+Para uma melhor navegabilidade, utilizou-se do "details" do html. Além disso, baseou-se no [cronograma](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/) para documentar as Etapas de 1 a 7, dado que as últimas duas etapas foram planejadas apropriadamente só nos estágios finais. Quanto à organização das tabelas, utilizou-se do template explicitado na Tabela 1:
 
 <details>
 
@@ -1116,32 +1116,32 @@ As Tabelas 20 e 21 apresentam, respectivamente, o cronograma planejado e o execu
         <td></td>
         <td></td>
         <td></td>
-        <td>Início: <b>28/03/2023</b></td>
-        <td>Fim: <b>22/04/2023</b></td>
+        <td>Início: <b>01/07/2023</b></td>
+        <td>Fim: <br><b>03/07/2023</b></td>
     </tr>
     <tr>
-        <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
+        <td><a href = "../../verificacao/grupo/etapa4/verificacao-storyboard">Verificação Storyboard</a>; <br> <a href = "../cronograma-projeto">Planejamento dos Recursos e das Entregas (Cronograma)</a>; <br> <a href = "../tecnicas-utilizadas">Técnicas Utilizadas</a>.</td>
+        <td><a href = "../site-selecionado">Site Selecionado</a>; <br> <a href = "../sintese-apresentacao">Síntese apresentações</a>.</td>
+        <td><a href = "../../verificacao/grupo/etapa5/prototipo-de-papel">Verificação Protótipo de Papel</a>; <br> <a href = "../ciclo-de-vida">Ciclo de vida</a>; <br> <a href = "../sintese-verificacoes">Síntese verificação</a>.</td>
+        <td><a href = "../sintese-avaliacao">Síntese das avaliações</a>; <a href = "../resultados-execucao">Resultados do projeto</a>.</td>
+        <td><a href = "../ferramentas-utilizadas">Ferramentas utilizadas</a>; <br> <a href = "../artefatos-criados">Artefatos criados</a>.</td>
+        <td><a href = "../ferramentas-utilizadas">Ferramentas utilizadas</a>; <br> <a href = "../execucao-projeto">Execução do Projeto</a>.</td>
     </tr>
     <tr>
         <td><b>Revisão</b></td>
         <td></td>
         <td></td>
         <td></td>
-        <td>Início: <b>09/04/2023</b></td>
-        <td>Fim: <b>23/04/2023</b></td>
+        <td>Início: <b>02/07/2023</b></td>
+        <td>Fim: <br><b>04/07/2023</b></td>
     </tr>
     <tr>
+        <td><a href = "../ferramentas-utilizadas">Ferramentas utilizadas</a>; <br> <a href = "../execucao-projeto">Execução do Projeto</a>; <br> <a href = "../artefatos-criados">Artefatos criados</a>.</td>
+        <td><a href = "../../verificacao/grupo/etapa4/verificacao-storyboard">Verificação Storyboard</a>; <a href = "../ciclo-de-vida">Ciclo de vida</a>.</td>
         <td><a href = ""></a>.</td>
         <td><a href = ""></a>.</td>
         <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
+        <td><a href = "../cronograma-projeto">Planejamento dos Recursos e das Entregas (Cronograma)</a>; <br> <a href = "../tecnicas-utilizadas">Técnicas Utilizadas</a>.</td>
     </tr>
 </table>
 
@@ -1171,32 +1171,32 @@ As Tabelas 20 e 21 apresentam, respectivamente, o cronograma planejado e o execu
         <td></td>
         <td></td>
         <td></td>
-        <td>Início: <b>28/03/2023</b></td>
-        <td>Fim: <b>22/04/2023</b></td>
+        <td>Início: <b>01/07/2023</b></td>
+        <td>Fim: <br><b>03/07/2023</b></td>
     </tr>
     <tr>
-        <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
+        <td><a href = "../../verificacao/grupo/etapa4/verificacao-storyboard">Verificação Storyboard</a>; <br> <a href = "../cronograma-projeto">Planejamento dos Recursos e das Entregas (Cronograma)</a>; <br> <a href = "../tecnicas-utilizadas">Técnicas Utilizadas</a>.</td>
+        <td><a href = "../site-selecionado">Site Selecionado</a>; <br> <a href = "../sintese-apresentacao">Síntese apresentações</a>.</td>
+        <td><a href = "../../verificacao/grupo/etapa5/prototipo-de-papel">Verificação Protótipo de Papel</a>; <br> <a href = "../ciclo-de-vida">Ciclo de vida</a>; <br> <a href = "../sintese-verificacoes">Síntese verificação</a>.</td>
+        <td><a href = "../sintese-avaliacao">Síntese das avaliações</a>; <a href = "../resultados-execucao">Resultados do projeto</a>.</td>
+        <td><a href = "../ferramentas-utilizadas">Ferramentas utilizadas</a>; <br> <a href = "../artefatos-criados">Artefatos criados</a>.</td>
+        <td><a href = "../ferramentas-utilizadas">Ferramentas utilizadas</a>; <br> <a href = "../execucao-projeto">Execução do Projeto</a>.</td>
     </tr>
     <tr>
         <td><b>Revisão</b></td>
         <td></td>
         <td></td>
         <td></td>
-        <td>Início: <b>09/04/2023</b></td>
-        <td>Fim: <b>23/04/2023</b></td>
+        <td>Início: <b>02/07/2023</b></td>
+        <td>Fim: <br><b>04/07/2023</b></td>
     </tr>
     <tr>
+        <td><a href = "../ferramentas-utilizadas">Ferramentas utilizadas</a>; <br> <a href = "../execucao-projeto">Execução do Projeto</a>; <br> <a href = "../artefatos-criados">Artefatos criados</a>.</td>
+        <td><a href = "../../verificacao/grupo/etapa4/verificacao-storyboard">Verificação Storyboard</a>; <a href = "../ciclo-de-vida">Ciclo de vida</a>.</td>
         <td><a href = ""></a>.</td>
         <td><a href = ""></a>.</td>
         <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
+        <td><a href = "../cronograma-projeto">Planejamento dos Recursos e das Entregas (Cronograma)</a>; <br> <a href = "../tecnicas-utilizadas">Técnicas Utilizadas</a>.</td>
     </tr>
 </table>
 

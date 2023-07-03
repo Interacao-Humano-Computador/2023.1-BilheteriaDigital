@@ -30,7 +30,8 @@ Os resultados das verificações em si serão apresentados em páginas separadas
 - [Planejamento da Avaliação da Análise de Tarefas](../verificacao-planejamento-analise);
 - [Planejamento do Relato dos Resultados da Análise de Tarefas](../verificacao-planejamento-relato-analise);
 - [Planejamento da Avaliação do Storyboard](../verificacao-planejamento-storyboard);
-- [Planejamento do Relato dos Resultados do Storyboard](../verificacao-planejamento-relato-sb).
+- [Planejamento do Relato dos Resultados do Storyboard](../verificacao-planejamento-relato-sb);
+- [Storyboards](../verificacao-storyboard).
 
 ### Cronograma
 
@@ -47,6 +48,7 @@ A verificação será realizada no período de 17 de junho de 2023 até dia 18 d
 | 17/06/2023 | Verificação do Planejamento da Avaliação do Storyboard.                     | [Rafael Ferreira](https://github.com/RafaelCLG0)                                                  |
 | 17/06/2023 | Verificação do Planejamento do Relato dos Resultados do Storyboard.         | [Arthur de Melo](https://github.com/arthurmlv)                                                    |
 | 17/06/2023 | Adição da documentação na página do grupo.                                  | [Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| 03/07/2023 | Verificação dos Storyboards.                                  | [Arthur de Melo](https://github.com/arthurmlv) |
 
 _Fonte: [Arthur de Melo](https://github.com/arthurmlv), 2023._
 
@@ -204,6 +206,28 @@ A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 </center>
 
+### Storyboards
+
+A tabela 7 a seguir apresenta a checklist referente aos itens exigidos para o relato dos resultados segundo PREECE et al. (2007, p.427 e 447).<a href="#REF1"><sup>1</sup></a>
+
+<center>
+
+**Tabela 7** - Checklist para os Storyboards.
+
+| ID  | Descrição                                                                                                                          | Avaliação | Observações |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
+|  6  | O storyboard apresenta os atores envolvidos?<a id="anchor_2" href="#REF2">^2^</a>                          |   -   |       -      |
+|  7  | O contexto e o ambiente estão apresentados e possuem lastro na realidade?<a id="anchor_2" href="#REF2">^2^</a>                                     |    -  |       -      |
+|  8  | Cada storyboard representa ao menos uma atividade principal e os processos envolvidos?<a id="anchor_2" href="#REF2">^2^</a>                                       |   -   |       -      |
+|  9  | As atividades realizadas condizem com o contexto e seguem uma ordem lógica?<a id="anchor_2" href="#REF2">^2^</a>         |    -    |       -     |
+| 10  | Dentro do contexto, o ator principal possui sua motivação explícita e condizente com o que a atividade oferta?<a id="anchor_2" href="#REF2">^2^</a>                                |    -    |   -          |
+| 11  | Ao findar a atividade, o storyboard demonstra a satisfação do usuário?<a id="anchor_2" href="#REF2">^2^</a>                    |    -    |      -       |
+| 12  | O storyboard foi feito com base em um dos cenários criados para o projeto?<a id="anchor_2" href="#REF2">^2^</a>                              |    -   |     -        |
+
+<font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv).</p></font>
+
+</center>
+
 ## Bibliografia
 
 > ESTEVES, Luíza. Planejamento da Verificação da Etapa 5. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/verifica%C3%A7%C3%A3o_dos_artefatos/etapa_5/planejamento/>>. Acesso em: 30 maio 2023.
@@ -216,6 +240,8 @@ A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
+> <a id="REF2" href="#anchor_2">2.</a> Sharp, Helen & Rogers, Yvonne & Preece, Jennifer. (2007). Interaction Design. Beyond Human-Computer Interaction.
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                        | Autor(es)                                        | Revisor(es)                                      |
@@ -223,3 +249,4 @@ A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para o re
 | `1.0`  | 17/06/2023 | Criação da página.                               | [Arthur de Melo](https://github.com/arthurmlv)   | [Matheus Henrique](https://github.com/mathonaut) |
 | `1.1`  | 17/06/2023 | Adição da checklist do planejamento da avaliação | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Matheus Henrique](https://github.com/mathonaut) |
 | `1.2`  | 18/06/2023 | Att checklists dos planejamentos dos relatos     | [Arthur de Melo](https://github.com/arthurmlv)   | [Matheus Henrique](https://github.com/mathonaut) |
+| `1.3`  | 03/07/2023 | Checklist storyboard     | [Arthur de Melo](https://github.com/arthurmlv)   | [Matheus Henrique](https://github.com/mathonaut) |
