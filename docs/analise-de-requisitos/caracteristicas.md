@@ -6,7 +6,19 @@ Quando se realiza uma análise de Interação Humano-Computador em um site que a
 
 Um software, de acordo com os [Princípios Gerais](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/), há de se ter uma [Correspondência com as Expectativas do Usuário](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/#correspondencia-com-as-expectativas-dos-usuarios). Ademais, um dos aspectos primordiais para um site desta natureza é a [Simplicidade nas Estruturas das Tarefas](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/#simplicidade-nas-estruturas-das-tarefas). Principalmente, esses dois princípios se categorizam como pontos críticos de nossa análise.
 
-O sistema da Bilheteria Digital é um sistema que permite aos usuários comprar ingressos para eventos, como shows, esportes, teatro, cinema e outros. Ele pode ser acessado por qualquer dispositivo com acesso a internet e a um navegador de internet, porém por possuir recursos WEB modernos o seu acesso é recomendado apenas para dispositivos com navegadores de internet modernos como Google Chrome, Safari, Microsoft Edge, Firefox, Samsung Internet e Opera.
+O sistema da Bilheteria Digital é um sistema que permite aos usuários comprar ingressos para eventos, como shows, esportes, teatro, cinema e outros. Ele pode ser acessado por qualquer dispositivo com acesso a internet e a um navegador de internet, porém por possuir recursos WEB modernos o seu acesso é recomendado apenas para dispositivos com navegadores de internet modernos como Google Chrome, Safari, Microsoft Edge, Firefox, Samsung Internet e Opera. Dentre suas principais funcionalidades pode-se citar:
+
+* Cadastro e login;
+* Busca de eventos;
+* Filtragem de eventos por estado e por data de ocorrência;
+* Compra de ingressos;
+* Seleção de assentos, quando disponível no evento;
+* Visualização de pedidos feitos;
+* Visualização do local de evento no Google Maps;
+* Aba de central de dúvidas com questionamentos comuns;
+* Compartilhamento de evento nas redes sociais.
+
+Acerca das tecnologias utilizadas no sistema, não foi encontrada uma documentação detalhada. Contudo, por meio do uso da opção de inspencionar elemento na página inicial do site, verificou-se o uso de HTML, CSS e Javascript, além de Zendesk para o gerenciamento de documentação, sobretudo na aba de central de ajuda.
 
 ## Limites
 
@@ -44,3 +56,4 @@ O sistema da Bilheteria Digital é um sistema que permite aos usuários comprar 
 | Versão | Data       | Descrição                         | Autor(es)                                                                                   | Revisor(es)                                                                                         |
 | ------ | ---------- | --------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | `1.0`  | 14/05/2023 | Criação da página de características da plataforma. | [Arthur de Melo](https://github.com/arthurmlv) e [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0)    
+| `1.1`  | 03/07/2023 | Adição detalhamento funcionalidades e tecnologias utilizadas. | [Douglas Alves](https://github.com/dougAlvs) | [Arthur de Melo](https://github.com/arthurmlv)
