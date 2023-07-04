@@ -40,27 +40,27 @@ No total do projeto foram elaborados x artefatos representados pelas tabelas de 
 
 ??? abstract "Tabela 2"
 
-<center>
+    <center>
 
-**Tabela 2** - Artefatos da etapa 2
+    **Tabela 2** - Artefatos da etapa 2
 
-| Artefato                           | Descrição | Autor(es) | Revisor(es) |
-| ---------------------------------- | --------- | --------- | ----------- |
-| **Análise de Requisitos**          |           |           |             |
-| [Aspectos Éticos]()                | -         |           |             |
-| [Perfil de Usuário]()              | -         |           |             |
-| [Cenários]()                       | -         |           |             |
-| [Personas]()                       | -         |           |             |
-| [Análise Hierárquica de Tarefas]() | -         |           |             |
-| [GOMS]()                           | -         |           |             |
-| [Metas de Usabilidade]()           | -         |           |             |
-| [Princípios Gerais]()              | -         |           |             |
-| [Guia de Estilo]()                 | -         |           |             |
-| [Características Gerais]()         | -         |           |             |
+    | Artefato                           | Descrição | Autor(es) | Revisor(es) |
+    | ---------------------------------- | --------- | --------- | ----------- |
+    | **Análise de Requisitos**          |           |           |             |
+    | [Aspectos Éticos]()                | -         |           |             |
+    | [Perfil de Usuário]()              | -         |           |             |
+    | [Cenários]()                       | -         |           |             |
+    | [Personas]()                       | -         |           |             |
+    | [Análise Hierárquica de Tarefas]() | -         |           |             |
+    | [GOMS]()                           | -         |           |             |
+    | [Metas de Usabilidade]()           | -         |           |             |
+    | [Princípios Gerais]()              | -         |           |             |
+    | [Guia de Estilo]()                 | -         |           |             |
+    | [Características Gerais]()         | -         |           |             |
 
-_Fonte: [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0), 2023_
+    _Fonte: [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0), 2023_
 
-</center>
+    </center>
 
 ## Bibliografia
 
