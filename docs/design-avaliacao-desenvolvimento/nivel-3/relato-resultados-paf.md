@@ -118,8 +118,6 @@ _Fonte: [Gabriel Campello](https://github.com/G16C) e [Matheus Henrique](https:/
 
 </center>
 
-
-
 ## Problemas e Dificuldades Encontradas
 
 A princípio, os testes ocorreram sem muitos problemas. Foi encontrado três problemas, um em uma funcionalidade e os outros dois ligados a interface da aplicação.
@@ -333,13 +331,13 @@ _Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Matheus Henrique](http
 | Versão  | Data       | Descrição                                                                                                                                      | Autor(es)                                        | Revisor(es)                                      |
 | ------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`   | 23/06/2023 | Criação da página.                                                                                                                             | [Gabriel Campello](https://github.com/G16C)      | [Matheus Henrique](https://github.com/mathonaut) |
-| `1.1`   | 23/06/2023 | Refatoração do documento.                                                                                                                      | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
-| `1.1.1` | 23/06/2023 | Refatoração do tópico Objetivo e Escopo da Avaliação.                                                                                          | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
-| `1.1.2` | 23/06/2023 | Refatoração do tópico Método de Avaliação.                                                                                                     | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
-| `1.1.2` | 23/06/2023 | Refatoração do tópico Seleção dos Participantes.                                                                                               | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
-| `1.2`   | 24/06/2023 | Adição do tópico Problemas e Dificuldades encontradas.                                                                                         | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
-| `1.3`   | 24/06/2023 | Adição do tópico Sugestões de Melhoria.                                                                                                        | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
+| `1.1`   | 23/06/2023 | Refatoração do documento.                                                                                                                      | [Matheus Henrique](https://github.com/mathonaut) | [Gabriel Campello](https://github.com/G16C)      |
+| `1.1.1` | 23/06/2023 | Refatoração do tópico Objetivo e Escopo da Avaliação.                                                                                          | [Matheus Henrique](https://github.com/mathonaut) | [Gabriel Campello](https://github.com/G16C)      |
+| `1.1.2` | 23/06/2023 | Refatoração do tópico Método de Avaliação.                                                                                                     | [Matheus Henrique](https://github.com/mathonaut) | [Gabriel Campello](https://github.com/G16C)      |
+| `1.1.2` | 23/06/2023 | Refatoração do tópico Seleção dos Participantes.                                                                                               | [Matheus Henrique](https://github.com/mathonaut) | [Gabriel Campello](https://github.com/G16C)      |
+| `1.2`   | 24/06/2023 | Adição do tópico Problemas e Dificuldades encontradas.                                                                                         | [Matheus Henrique](https://github.com/mathonaut) | [Gabriel Campello](https://github.com/G16C)      |
+| `1.3`   | 24/06/2023 | Adição do tópico Sugestões de Melhoria.                                                                                                        | [Matheus Henrique](https://github.com/mathonaut) | [Gabriel Campello](https://github.com/G16C)      |
 | `1.4`   | 24/06/2023 | Adição dos tópicos Feedback dos Usuários, Análise e Interpretação dos Usuários, Sumário dos Principais Resultados e Planejamento do Reprojeto. | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
 | `1.5`   | 25/06/2023 | Atualização do cronograma de rerprojeto.                                                                                                       | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |
 | `1.6`   | 25/06/2023 | Ajustes no texto de sumário dos dados e correções ortográficas.                                                                                | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougalvs)     |
-| `1.7`   | 29/06/2023 | Padronização, ajustes e conclusão dos objetivos.                                                                                | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougalvs)     |
+| `1.7`   | 29/06/2023 | Padronização, ajustes e conclusão dos objetivos.                                                                                               | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougalvs)     |
