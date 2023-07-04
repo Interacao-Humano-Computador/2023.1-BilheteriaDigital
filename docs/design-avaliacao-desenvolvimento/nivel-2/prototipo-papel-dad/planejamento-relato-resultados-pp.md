@@ -5,7 +5,7 @@
 Esse artefato tem o objetivo de documentar um planejamento para o relato dos resultados obtidos pela avaliação do protótipo de papel. Nele serão abordados os tópicos necessários para a construção de tal relato.
 
 ## Metodologia
-Tendo como base os tópicos relatados por Barbosa e Silva (2021, p.312)<a id="anchor_1" href="#REF1">^1^</a> e adaptando-os para o documento a ser desenvolvido pela equipe, esses vão incluir:
+Tendo como base os tópicos relatados além da avaliação de intersujeito descrita por Barbosa e Silva (2011, p.279)<a id="anchor_1" href="#REF1">^1^</a> e adaptando-os para o documento a ser desenvolvido pela equipe, esses vão incluir:
 
 * Objetivo e escopo da avaliação
 * Método de avaliação

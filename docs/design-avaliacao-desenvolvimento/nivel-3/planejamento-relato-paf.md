@@ -5,7 +5,7 @@
 O planejamento de um relato tem a finalidade de estruturar previamente um modelo de documento que descreve os resultados e conclusões de uma avaliação, garantindo que todas as informações relevantes sejam abordadas de maneira clara e ordenada, facilitando, assim, a compreensão dos dados coletados e do resultado da avaliação. Dito isso, espera-se que esse relato siga o que foi definido no [planejamento da avaliação do protótipo de alta fidelidade](../planejamento-avaliacao-paf), com quaisquer divergências sendo documentadas e justificadas.
 
 ## Metodologia
-Tendo como base os tópicos relatados por Barbosa e Silva (2011, p.279)<a id="anchor_1" href="#REF1">^1^</a> e adaptando-os para o documento a ser desenvolvido pela equipe, esses vão incluir:
+Tendo como base os tópicos relatados além da avaliação de intersujeito descrita por Barbosa e Silva (2011, p.279)<a id="anchor_1" href="#REF1">^1^</a> e adaptando-os para o documento a ser desenvolvido pela equipe, esses vão incluir:
 
 * Objetivo e escopo da avaliação
 * Método de avaliação

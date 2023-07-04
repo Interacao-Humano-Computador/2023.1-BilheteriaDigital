@@ -21,7 +21,7 @@ Para realizar esse planejamento será utilizado o framework DECIDE, onde cada le
 |   D   |          Decidir como lidar com as questões éticas.          |
 |   E   |          Avaliar, interpretar e apresentar os dados          |
 
-**Fonte** [Rafael Ferreira](https://github.com/RafaelCLG0) e [Gabriel Campello](https://github.com/G16C).
+**Fonte** - BARBOSA e SILVA (2011).
 
 </center>
 

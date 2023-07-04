@@ -2,7 +2,7 @@
 
 ## Introdução
 
-De modo a representar todos os artefatos criados em cada etapa do projeto com autor e revisor, esse documento busca apresentar tabelas sintetizadas com todos os artefatos criados em suas respectivas etapas ajudando a manter uma documentação clara e organizada, pois fornece uma visão geral das atividades alcançados em cada fase. Ela pode ser utilizada como um guia de referência, auxiliando na comunicação entre os membros da equipe e na identificação de possíveis lacunas ou sobreposições nas responsabilidades.
+De modo a representar todos os artefatos criados em cada etapa do projeto com autor e revisor, esse documento busca apresentar tabelas sintetizadas com todos os artefatos criados em suas respectivas etapas, ajudando a manter uma documentação clara e organizada, pois fornece uma visão geral das atividades alcançadas em cada fase. Ela pode ser utilizada como um guia de referência, auxiliando na comunicação entre os membros da equipe e na identificação de possíveis lacunas ou sobreposições nas responsabilidades.
 
 No total do projeto foram elaborados 78 artefatos representados pelas tabelas de 1 a 9, nos tópicos de cada entrega apresentados a seguir.
 
@@ -252,7 +252,7 @@ No total do projeto foram elaborados 78 artefatos representados pelas tabelas de
 
 ## Bibliografia
 
-> HENRIQUE, Arhur. Artefatos Criados. Repositório do Grupo Millenium Papelaria e Presentes da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.1-Millenium-Papelaria/Conclusao/tabelaArtefatos/>>. Acesso em: 02 de julho 2023.
+> HENRIQUE, Arthur. Artefatos Criados. Repositório do Grupo Millenium Papelaria e Presentes da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.1-Millenium-Papelaria/Conclusao/tabelaArtefatos/>>. Acesso em: 02 de julho 2023.
 
 ## Histórico de Versões
 
