@@ -1,0 +1,34 @@
+# Técnicas Utilizadas
+
+## Introdução
+
+Esse artefato se refere à entrega final da disciplina de Interação Humano-Computador. Portanto, explicitar-se-á todas as técnicas utilizadas para elaboração dos artefatos ao longo da disciplina.
+
+## Técnicas
+
+A tabela 1 a seguir explicita as técnicas utilizadas, bem como quem as utilizou.
+
+<center>
+
+Tabela 1 - Técnicas Utilizadas
+
+|Técnica utilizada|Executores da Técnica no Projeto|Artefato(s) relacionado(s)|
+|-----------------|:-----------:|--------------------|
+|Framework DECIDE |[Arthur de Melo](https://github.com/arthurmlv) <br> [Douglas Alves](https://github.com/dougalvs) <br> [Gabriel Campello](https://github.com/g16c) <br> [Geovanna Maciel](https://github.com/manuziny) <br>[Matheus Henrique](https://github.com/mathonaut) <br> [Rafael Ferreira](https://github.com/RafaelCLG0)| [Planejamentos das Avaliações nível 1, 2 e 3](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-avaliavao-at/) <br> [Site Escolhido](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/site-escolhido/)<br> [Sites Avaliados](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/sites-avaliados/) |
+|Avaliação Heurística|[Arthur de Melo](https://github.com/arthurmlv) <br> [Douglas Alves](https://github.com/dougalvs) <br> [Gabriel Campello](https://github.com/g16c) <br>[Matheus Henrique](https://github.com/mathonaut) <br> [Rafael Ferreira](https://github.com/RafaelCLG0)| [Site Escolhido](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/site-escolhido/) <br> [Sites Avaliados](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/sites-avaliados/) |
+|Grupo de Foco|[Gabriel Campello](https://github.com/g16c) <br> [Geovanna Maciel](https://github.com/manuziny)|[Perfil de Usuário](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/perfil-usuario/#metodologia)|
+|Inspeção de Fagan|[Arthur de Melo](https://github.com/arthurmlv) <br> [Douglas Alves](https://github.com/dougalvs) <br> [Gabriel Campello](https://github.com/g16c) <br> [Geovanna Maciel](https://github.com/manuziny) <br>[Matheus Henrique](https://github.com/mathonaut) <br> [Rafael Ferreira](https://github.com/RafaelCLG0)| [Verificações do Grupo](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa1/planejamento-verificacao-etapa1-grupo/) <br> [Verificações do Grupo 2](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/planejamento/) |
+|Análise de intersujeito| [Arthur de Melo](https://github.com/arthurmlv) <br> [Douglas Alves](https://github.com/dougalvs) <br> [Gabriel Campello](https://github.com/g16c) <br> [Geovanna Maciel](https://github.com/manuziny) <br>[Matheus Henrique](https://github.com/mathonaut) <br> [Rafael Ferreira](https://github.com/RafaelCLG0) | [Relato dos Resultados da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/resultado-relato-analise-de-tarefas/) <br> [Relato dos Resultados do Storyboard](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/relato-resultado-storyboard/) <br> [Relato dos Resultados do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-2/prototipo-papel-dad/relato-dos-resultados-pp/) <br> [Relato dos Resultados do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-3/relato-resultados-paf/) |
+|Teste de Usabilidade| [Arthur de Melo](https://github.com/arthurmlv) <br> [Douglas Alves](https://github.com/dougalvs) <br> [Gabriel Campello](https://github.com/g16c) <br> [Geovanna Maciel](https://github.com/manuziny) <br>[Matheus Henrique](https://github.com/mathonaut) <br> [Rafael Ferreira](https://github.com/RafaelCLG0) | [Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-3/relato-resultados-paf/) |
+|Teste Piloto|[Arthur de Melo](https://github.com/arthurmlv) <br> [Douglas Alves](https://github.com/dougalvs) <br> [Geovanna Maciel](https://github.com/manuziny) <br>[Matheus Henrique](https://github.com/mathonaut) <br> [Rafael Ferreira](https://github.com/RafaelCLG0)| [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-avaliavao-at/) <br> [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-avaliavao-sb/) <br> [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-2/prototipo-papel-dad/planejamento-avaliacao-pp/#resultado-do-teste-piloto) <br> [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-3/planejamento-avaliacao-paf/#planejamento-do-teste-piloto) |
+|Adaptação do Scrum|[Arthur de Melo](https://github.com/arthurmlv) <br> [Douglas Alves](https://github.com/dougalvs) <br> [Gabriel Campello](https://github.com/g16c) <br> [Geovanna Maciel](https://github.com/manuziny) <br>[Matheus Henrique](https://github.com/mathonaut) <br> [Rafael Ferreira](https://github.com/RafaelCLG0)|[Reuniões Semanais de Planning e de Review](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/atas/IHC_Ata_01/) <br> [Metodologia](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/metodologia/#scrum)|
+
+Fonte: [Arthur de Melo](https://github.com/arthurmlv)
+
+</center>
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                    |
+| ------ | ---------- | ------------------ | ------------------------------------------------ | ---------------------------------------------- |
+| `1.0`  | 04/07/2023 | Criação da página. | [Arthur de Melo](https://github.com/arthurmlv) | [Rafael Ferreira](https://github.com/rafaelclg0)  |
