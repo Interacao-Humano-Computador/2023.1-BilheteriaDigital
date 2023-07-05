@@ -87,6 +87,24 @@ _Fonte: [Douglas Alves](https://github.com/dougAlvs), 2023._
 
 </center>
 
+
+<center>
+
+**Tabela 3** - Cronograma de Correções.
+
+| Data de Correção | Descrição                           |                 Responsável(eis)                 |                   Revisor(es)                    |  Status   |
+| ---------------- | :---------------------------------- | :----------------------------------------------: | :----------------------------------------------: | :-------: |
+| 03/07/2023       | Realizar os ajustes do id 9. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) | CORRIGIDO |
+| 03/07/2023       | Realizar os ajustes do id 10. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) | CORRIGIDO |
+
+
+_Fonte: [Douglas Alves](https://github.com/dougAlvs), 2023._
+
+</center>
+
+!!! info
+O cronograma apresentado na tabela 3 pode ser alterado.
+
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador.** Rio de Janeiro: Elsevier, 2011.
@@ -96,3 +114,4 @@ _Fonte: [Douglas Alves](https://github.com/dougAlvs), 2023._
 | Versão | Data       | Descrição          | Autor(es)                                    | Revisor(es)                                      |
 | ------ | ---------- | ------------------ | -------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 19/06/2023 | Criação da página. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.1`  | 03/07/2023 | Adição do retrabalho. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) |

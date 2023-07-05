@@ -2,7 +2,7 @@
 
 ## Introdução
 
-<p style="text-align: justify;">&emsp;&emsp;Antes de falarmos sobre o processo de design é útil definir o que é design. Segundo Barbosa e Silva (2011, p.93), podemos definir design como um processo que possui três atividades básicas, são elas: análise da situação atual (identificação de um problema), síntese de uma intervenção e avaliação da nova situação (da intervenção).</p>
+<p style="text-align: justify;">&emsp;&emsp;Antes de falarmos sobre o processo de design é útil definir o que é design. Segundo Barbosa e Silva (2011, p.93)<a id="anchor_1" href="#REF1"><sup>1<sup></a>, podemos definir design como um processo que possui três atividades básicas, são elas: análise da situação atual (identificação de um problema), síntese de uma intervenção e avaliação da nova situação (da intervenção).</p>
 
 <p style="text-align: justify;">&emsp;&emsp;Os processos de design, portanto, são técnicas que permitem que as atividades elucidadas anteriormente sejam realizadas de forma sistemática e interativa com o objetivo de desenvolver soluções que atendam às necessidades dos usuários. Dentre as diversas técnicas podemos citar quatro principais, sendo elas: ciclo de vida simples, ciclo de vida em estrela, engenharia de usabilidade de Nielsen e engenharia de usabilidade de Mayhew.</p>
 
@@ -74,8 +74,8 @@
 <p style="text-align: justify;">&emsp;&emsp;Após a análise dos modelos citados anteriormente, o grupo discutiu suas vantagens e desvantagens para chegar a um consenso de qual seria o melhor processo para o projeto. A conclusão foi que o Ciclo de Vida de Mayhew seria o melhor candidato por alguns motivos, como o fato de suas etapas serem detalhadas e bem definidas, deixando menos espaço para a subjetividade do que o ciclo de vida simples, por exemplo. Pelo fato do grupo não ter experiência na área de IHC, um modelo mais robusto e detalhado seria mais condizente com nossa situação, pois nos serviria de guia.</p>
 <p style="text-align: justify;">&emsp;&emsp;No contexto do projeto da disciplina, como o sistema escolhido já está em produção, iniciaremos na etapa de instalação do Ciclo de Vida de Mayhew, identificando algumas problemas e respectivas melhorias que possam ser aplicadas ao sistema, para depois ir para a fase de análise de requisitos e assim seguir o fluxo previsto no modelo.</p>
 
-## Referências 
->BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+## Referências Bibliográficas
+> <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 
 ## Histórico de Versão
@@ -84,4 +84,6 @@
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
 | `1.0`  | 22/04/2023 | Criação da página de Processo de Design. | [Matheus Henrique](https://github.com/mathonaut) | [Douglas Alves](https://github.com/dougAlvs) |
 | `1.1`  | 22/04/2023 | Adição dos ciclos de Nielsen, de Mayhew e motivações | [Douglas Alves](https://github.com/dougAlvs)| [Geovanna Maciel](https://github.com/manuziny)
-| `1.1.1`  | 22/04/2023 | Resumo dos processos que não foram escolhidos | [Douglas Alves](https://github.com/dougAlvs)| [Geovanna Maciel](https://github.com/manuziny)
+| `1.1.1`  | 22/04/2023 | Resumo dos processos que não foram escolhidos | [Douglas Alves](https://github.com/dougAlvs)| [Geovanna Maciel](https://github.com/manuziny)|
+| `1.1.2`  | 02/07/2023 | Atualização de acordo como padráo do projeto. | [Gabriel Campello](https://github.com/G16C)| [Rafael Ferreira](https://github.com/RafaelCLG0)|
+
