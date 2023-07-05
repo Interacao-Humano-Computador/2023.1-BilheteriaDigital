@@ -180,6 +180,7 @@ Durante o decorrer do projeto, houveram diversas etapas com suas entregas corres
 <h1>Etapa Final</h1>
 </summary>
 
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/s2IkvaY3WVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <h3>Participantes:</h3>
 

@@ -1138,9 +1138,9 @@ As Tabelas 20 e 21 apresentam, respectivamente, o cronograma planejado e o execu
     <tr>
         <td><a href = "../ferramentas-utilizadas">Ferramentas utilizadas</a>; <br> <a href = "../execucao-projeto">Execução do Projeto</a>; <br> <a href = "../artefatos-criados">Artefatos criados</a>.</td>
         <td><a href = "../../verificacao/grupo/etapa4/verificacao-storyboard">Verificação Storyboard</a>; <a href = "../ciclo-de-vida">Ciclo de vida</a>.</td>
-        <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
         <td><a href = "../cronograma-projeto">Planejamento dos Recursos e das Entregas (Cronograma)</a>; <br> <a href = "../tecnicas-utilizadas">Técnicas Utilizadas</a>.</td>
     </tr>
 </table>
@@ -1191,11 +1191,11 @@ As Tabelas 20 e 21 apresentam, respectivamente, o cronograma planejado e o execu
         <td>Fim: <br><b>04/07/2023</b></td>
     </tr>
     <tr>
-        <td><a href = "../ferramentas-utilizadas">Ferramentas utilizadas</a>; <br> <a href = "../execucao-projeto">Execução do Projeto</a>; <br> <a href = "../artefatos-criados">Artefatos criados</a>.</td>
-        <td><a href = "../../verificacao/grupo/etapa4/verificacao-storyboard">Verificação Storyboard</a>; <a href = "../ciclo-de-vida">Ciclo de vida</a>.</td>
-        <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
-        <td><a href = ""></a>.</td>
+        <td><a href = "../ferramentas-utilizadas">Ferramentas utilizadas</a>; <br> <a href = "../execucao-projeto">Execução do Projeto</a>; <br> <a href = "../artefatos-criados">Artefatos criados</a>; <br> <a href = "../resultados-execucao">Resultados do projeto</a>; <br> <a href = "../sintese-avaliacao">Síntese das avaliações</a>.</td>
+        <td><a href = "../../verificacao/grupo/etapa4/verificacao-storyboard">Verificação Storyboard</a>; <br> <a href = "../ciclo-de-vida">Ciclo de vida</a>.</td>
+        <td>-</td>
+        <td><a href = "../execucao-projeto">Execução do Projeto</a>.</td>
+        <td><a href = "../sintese-apresentacao">Síntese apresentações</a>; <br> <br> <a href = "../sintese-verificacoes">Síntese verificação</a>; <br> <a href = "../site-selecionado">Site Selecionado</a>.</td>
         <td><a href = "../cronograma-projeto">Planejamento dos Recursos e das Entregas (Cronograma)</a>; <br> <a href = "../tecnicas-utilizadas">Técnicas Utilizadas</a>.</td>
     </tr>
 </table>
