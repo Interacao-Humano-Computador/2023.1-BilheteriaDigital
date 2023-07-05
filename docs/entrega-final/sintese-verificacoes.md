@@ -6,7 +6,7 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 
 ## Metodologia
 
-A metodologia escolhida para esta verificação é a inspeção. Desenvolvida originalmente para códigos de software por Fagan na IBM em 1976, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de se encontrar defeitos. Essa revisão é realizada através de uma checklist onde se tem uma lista com os defeitos mais comuns que deverão ser identificados, analisados e classificados. Vale ressaltar que a leitura do artefato não deve ser feita pelo o autor principal do mesmo. As Tabelas 1 a 6 sintetizam os responsáveis pela elaboração dos checklists para cada artefato nos artefatos de planejamento, execução das verificações e nos artefatos de resultados.
+A metodologia escolhida para esta verificação é a inspeção. Desenvolvida originalmente para códigos de software por Fagan na IBM em 1976, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de se encontrar defeitos. Essa revisão é realizada através de uma checklist onde se tem uma lista com os defeitos mais comuns que deverão ser identificados, analisados e classificados. Vale ressaltar que a leitura do artefato não deve ser feita pelo o autor principal do mesmo. As Tabelas 1 a 11 sintetizam os responsáveis pela elaboração dos checklists para cada artefato nos artefatos de planejamento, execução das verificações e nos artefatos de resultados tanto do próprio grupo quanto do grupo 2.
 
 ### Grupo 1 (Meu Grupo) 
 
@@ -137,10 +137,10 @@ A metodologia escolhida para esta verificação é a inspeção. Desenvolvida or
 
 #### Verificação Etapa 1 - Grupo 2
 
-??? abstract "Tabela 1"
+??? abstract "Tabela 7"
     <center>
 
-    **Tabela 1**- Síntese dos artefatos de verificação Etapa 1
+    **Tabela 7**- Síntese dos artefatos de verificação Etapa 1
 
     | Artefato | Autor(es) | Revisor(es) |
     |----------|-----------|-------------|
@@ -156,11 +156,11 @@ A metodologia escolhida para esta verificação é a inspeção. Desenvolvida or
 
 #### Verificação Etapa 2 - Grupo 2   
 
-??? abstract "Tabela 2"    
+??? abstract "Tabela 8"    
 
     <center>
 
-    **Tabela 2**- Síntese dos artefatos de verificação Etapa 2
+    **Tabela 8**- Síntese dos artefatos de verificação Etapa 2
 
     | Artefato | Autor(es) | Revisor(es) |
     |----------|-----------|-------------|
@@ -178,11 +178,11 @@ A metodologia escolhida para esta verificação é a inspeção. Desenvolvida or
 
 #### Verificação Etapa 3 - Grupo 2   
 
-??? abstract "Tabela 3"
+??? abstract "Tabela 9"
 
     <center>
 
-    **Tabela 3**- Síntese dos artefatos de verificação Etapa 3
+    **Tabela 9**- Síntese dos artefatos de verificação Etapa 3
 
     | Artefato | Autor(es) | Revisor(es) |
     |----------|-----------|-------------|
@@ -198,11 +198,11 @@ A metodologia escolhida para esta verificação é a inspeção. Desenvolvida or
 
 #### Verificação Etapa 4 - Grupo 2   
 
-??? abstract "Tabela 4"    
+??? abstract "Tabela 10"    
 
     <center>
 
-    **Tabela 4**- Síntese dos artefatos de verificação Etapa 4
+    **Tabela 10**- Síntese dos artefatos de verificação Etapa 4
 
     | Artefato | Autor(es) | Revisor(es) |
     |----------|-----------|-------------|
@@ -219,11 +219,11 @@ A metodologia escolhida para esta verificação é a inspeção. Desenvolvida or
 
 #### Verificação Etapa 5 - Grupo 2  
 
-??? abstract "Tabela 5"
+??? abstract "Tabela 11"
 
     <center>
 
-    **Tabela 5**- Síntese dos artefatos de verificação Etapa 5
+    **Tabela 11**- Síntese dos artefatos de verificação Etapa 5
 
     | Artefato | Autor(es) | Revisor(es) |
     |----------|-----------|-------------|
