@@ -41,33 +41,6 @@ Os elementos sobre disposição espacial e grid, janelas, tipografia, símbolos 
 <figure markdown><p style="text-align: center">Figura 1 - Elementos da Interface.</p>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FlkJqsPebEpckC0t6oat1MP%2FGuia-de-Estilo%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DZ5BeXjqZIgoiCZxP-1" allowfullscreen></iframe><figcaption> Fonte: [Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny), 2023.</figcaption></figure>
 
-<center>
-
-<table style="border-radius:15px;" >
-    <tbody>
-        <tr style="background-color:#FFFFE0;">
-            <td ></td>
-        </tr>
-        <tr>
-            <td><code>1.1</code></td>
-        </tr>
-        <tr>
-            <td><code>1.2</code></td>
-        </tr>
-        <tr>
-            <td><code>1.2.1</code></td>
-        </tr>
-        <tr>
-            <td><code>1.2.2</code></td>
-        </tr>
-        <tr>
-            <td><code>2.0</code></td>
-        </tr>
-    </tbody>
-</table>
-
-</center>
-
 ## Elementos de Interação
 
 ### Estilo de Interação
@@ -138,11 +111,11 @@ Essas intervenções têm como objetivo principal aprimorar a interação entre 
 
 ## Histórico de Versões
 
-| Versão  | Data       | Descrição                                       | Autor(es)                                                                                   | Revisor(es)                                                                                         |
-| ------- | ---------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| `1.0`   | 13/05/2023 | Criação da página guia de estilo.               | [Geovanna Maciel](https://github.com/manuziny)                                              | [Douglas Alves](https://github.com/dougAlvs)                                                        |
-| `1.1`   | 13/05/2023 | Adição dos tópicos.                             | [Geovanna Maciel](https://github.com/manuziny) [Douglas Alves](https://github.com/dougAlvs) | [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0) |
-| `1.2`   | 27/05/2023 | Correções após apresentação                     | [Geovanna Maciel](https://github.com/manuziny) [Douglas Alves](https://github.com/dougAlvs) | [Arthur de Melo](https://github.com/arthurmlv)                                                      |
-| `1.2.1` | 08/06/2023 | Adição proposta de intervenção atualizada figma | [Douglas Alves](https://github.com/dougAlvs)                                                | [Geovanna Maciel](https://github.com/manuziny)                                                      |
-| `1.2.2` | 10/06/2023 | Dividindo a proposta de intervenção em tópicos. | [Geovanna Maciel](https://github.com/manuziny)                                              | [Douglas Alves](https://github.com/dougAlvs)                                                        |
-| `2.0`   | 01/07/2023 | Correção do documento a partir da verificação.  | [Matheus Henrique](https://github.com/mathonaut)                                            | [Douglas Alves](https://github.com/dougAlvs)                                                        |
+| Versão  | Data       | Descrição                                                                                       | Autor(es)                                                                                   | Revisor(es)                                                                                         |
+| ------- | ---------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| `1.0`   | 13/05/2023 | Criação da página guia de estilo.                                                               | [Geovanna Maciel](https://github.com/manuziny)                                              | [Douglas Alves](https://github.com/dougAlvs)                                                        |
+| `1.1`   | 13/05/2023 | Adição dos tópicos.                                                                             | [Geovanna Maciel](https://github.com/manuziny) [Douglas Alves](https://github.com/dougAlvs) | [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.2`   | 27/05/2023 | Correções após apresentação                                                                     | [Geovanna Maciel](https://github.com/manuziny) [Douglas Alves](https://github.com/dougAlvs) | [Arthur de Melo](https://github.com/arthurmlv)                                                      |
+| `1.2.1` | 08/06/2023 | Adição proposta de intervenção atualizada figma                                                 | [Douglas Alves](https://github.com/dougAlvs)                                                | [Geovanna Maciel](https://github.com/manuziny)                                                      |
+| `1.2.2` | 10/06/2023 | Dividindo a proposta de intervenção em tópicos.                                                 | [Geovanna Maciel](https://github.com/manuziny)                                              | [Douglas Alves](https://github.com/dougAlvs)                                                        |
+| `2.0`   | 01/07/2023 | Correção do documento a partir da [verificação](../verificacao/grupo/etapa3/guia-de-estilo.md). | [Matheus Henrique](https://github.com/mathonaut)                                            | [Douglas Alves](https://github.com/dougAlvs)                                                        |
