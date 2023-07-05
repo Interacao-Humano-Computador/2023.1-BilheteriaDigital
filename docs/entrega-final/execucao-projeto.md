@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Demonstrar a execução do ciclo de vida do projeto é fundamental para promover transparência, comunicação eficaz, gerenciamento de riscos, aprendizado contínuo e avaliação de desempenho. Isso permite que as partes interessadas acompanhem o progresso e identifique os artefatos construídos em cada etapa do projeto. Além disso, a documentação contribui para o aprendizado e desenvolvimento de melhores práticas, entendo melhor cada etapa trabalhada. Para tal foi elabora uma tabela constando as etapas do projeto de acordo com o (Ciclo de Vida de Mayhew, 1999)<a id="anchor_1" href="#REF1">^1^</a> e seus respectivos artefatos atribuídos. A tabela 1 apresenta todo esse processo.
+Demonstrar a execução do ciclo de vida do projeto é fundamental para promover transparência, comunicação eficaz, gerenciamento de riscos, aprendizado contínuo e avaliação de desempenho. Isso permite que as partes interessadas acompanhem o progresso e identifique os artefatos construídos em cada etapa do projeto. Além disso, a documentação contribui para o aprendizado e desenvolvimento de melhores práticas, entendo melhor cada etapa trabalhada. Para tal foi elaborada uma tabela contendo as etapas do projeto de acordo com o (Ciclo de Vida de Mayhew, 1999)<a id="anchor_1" href="#REF1">^1^</a> e seus respectivos artefatos atribuídos. A tabela 1 apresenta todo esse processo.
 
 <center>
 

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Uma maneira de organizar e visualizar o uso dessas ferramentas nos projetos é com tabelas sintetizada. Esta tabela fornece uma visão geral das etapas do projeto e indica as ferramentas específicas usadas em cada etapa. Isso permite visualizar com clareza quais recursos foram utilizados em cada fase, facilitando a comunicação entre os membros da equipe e contribuindo para uma gestão eficiente dos projetos.
+Uma maneira de organizar e visualizar o uso dessas ferramentas nos projetos é com tabelas sintetizadas. Esta tabela fornece uma visão geral das etapas do projeto e indica as ferramentas específicas usadas em cada etapa. Isso permite visualizar com clareza quais recursos foram utilizados em cada fase, facilitando a comunicação entre os membros da equipe e contribuindo para uma gestão eficiente dos projetos.
 
 ## Tabela de Ferramentas
 

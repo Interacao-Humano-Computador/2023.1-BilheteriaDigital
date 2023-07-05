@@ -27,8 +27,8 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 | ID  | Descrição                                                                                                                          | Avaliação | Observações |
 | :-: | ---------------------------------------------------------------------------------------------------------------------------------- | :-------: | ----------- |
 |  1  | O artefato possui Introdução?                                                                                                      |    Sim    |             |
-|  2  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                                              |    Sim    |             |
-|  3  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?                             |    Sim    |             |
+|  2  | O artefato possui uma Bibliografia/Referência Bibliográfica?                                                              |    Sim    |             |
+|  3  | O artefato possui um Histórico de Versões com o id e descrição das versões, datas, autores e revisores?                             |    Sim    |             |
 |  4  | Todos os textos estão na norma padrão?                                                                                             |    Sim    |             |
 |  5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                       |    Sim    |             |
 |  6  | O storyboard apresenta os atores envolvidos?<a id="anchor_1" href="#REF1">^1^</a>                          |    Sim    |             |
@@ -60,7 +60,7 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 
 ## Acompanhamento
 
-A figura 1 é possível análisar um gráfico com o percentual de erros e acertos de acordo com checklist dos resultados obtidos acima.
+A figura 1 é possível analisar um gráfico com o percentual de erros e acertos de acordo com checklist dos resultados obtidos acima.
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado da Checklist.</p></font>

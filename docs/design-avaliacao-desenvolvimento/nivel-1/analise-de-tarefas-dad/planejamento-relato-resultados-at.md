@@ -2,7 +2,7 @@
 O planejamento do relato da análise de tarefas é a estruturação prévia do documento que descreverá os resultados e conclusões da avaliação. O relato será baseado no [planejamento da avaliação da análise de tarefas](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvmento/nivel-1/planejamento-avaliavao-at). O planejamento garante que todas as informações relevantes sejam abordadas de maneira clara e ordenada, facilitando a compreensão e o uso dos dados coletados durante a análise de tarefas do Bilheteria Digital, captando assim melhorias que podem ser viáveis para a interface.
 
 ## Metodologia
-Tendo como base os tópicos relatados por Barbosa e Silva (2011, p.279)<a id="anchor_1" href="#REF1">^1^</a> e adaptando-os para o documento a ser desenvolvido pela equipe, esses vão incluir:
+Tendo como base os tópicos relatados além da avaliação de intersujeito descrita por Barbosa e Silva (2011, p.279)<a id="anchor_1" href="#REF1">^1^</a> e adaptando-os para o documento a ser desenvolvido pela equipe, esses vão incluir:
 
 * Objetivo e escopo da avaliação
 * Método de avaliação

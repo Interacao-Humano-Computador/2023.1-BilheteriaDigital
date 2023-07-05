@@ -5,7 +5,7 @@
 Nesta página será descrito como será realizado o relato dos resultados da avaliação do Storyboard. Para tanto, o documento a seguir tem o foco no planejamento e não nos resultados em questão. Posteriormente esses resultados se encontrarão em uma página a parte.
 
 ## Metodologia
-Tendo como base os tópicos relatados por Barbosa e Silva (2011, p.279)<a id="anchor_1" href="#REF1">^1^</a>, e adaptando-os para o documento a ser desenvolvido pela equipe, esses vão incluir:
+Tendo como base os tópicos relatados além da avaliação de intersujeito descrita por Barbosa e Silva (2011, p.279)<a id="anchor_1" href="#REF1">^1^</a> e adaptando-os para o documento a ser desenvolvido pela equipe, esses vão incluir:
 
 * Objetivo e escopo da avaliação
 * Método de avaliação
