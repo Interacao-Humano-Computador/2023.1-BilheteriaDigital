@@ -1,6 +1,6 @@
 # Síntese das verificações
 
-# Introdução
+## Introdução
 
 A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. O documento a seguir visa sintetizar de forma clara e objetiva a metodologia utilizada para as verificações realizadas para o [grupo](https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital) e para o [grupo 2](https://github.com/Interacao-Humano-Computador/2023.1-Wikipedia).  
 
