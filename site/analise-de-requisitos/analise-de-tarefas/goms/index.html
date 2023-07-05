@@ -1100,15 +1100,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#comprar-ingresso" class="md-nav__link">
-    Comprar Ingresso
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#busca-de-ingresso" class="md-nav__link">
-    Busca de Ingresso
+  <a href="#busca-de-evento" class="md-nav__link">
+    Busca de Evento
   </a>
   
 </li>
@@ -1116,6 +1109,13 @@
           <li class="md-nav__item">
   <a href="#acessar-aba-central-de-ajuda" class="md-nav__link">
     Acessar aba Central de Ajuda
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comprar-ingresso" class="md-nav__link">
+    Comprar Ingresso
   </a>
   
 </li>
@@ -3206,15 +3206,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#comprar-ingresso" class="md-nav__link">
-    Comprar Ingresso
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#busca-de-ingresso" class="md-nav__link">
-    Busca de Ingresso
+  <a href="#busca-de-evento" class="md-nav__link">
+    Busca de Evento
   </a>
   
 </li>
@@ -3222,6 +3215,13 @@
           <li class="md-nav__item">
   <a href="#acessar-aba-central-de-ajuda" class="md-nav__link">
     Acessar aba Central de Ajuda
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comprar-ingresso" class="md-nav__link">
+    Comprar Ingresso
   </a>
   
 </li>
@@ -3308,25 +3308,7 @@
             OP 3.2: Selecionar a compra que deseja cnacelar
             OP 3.3: Clicar no botão de cancelamento
 </code></pre></div>
-<h3 id="comprar-ingresso">Comprar Ingresso</h3>
-<p>Nessa tarefa, o usuário possui o objetivo de encontrar um evento e realizar a compra do mesmo.</p>
-<div class="highlight"><pre><span></span><code>GOAL 0: Adquirir um ingressos
-    GOAL 1: Selecionar o evento
-        OP 1.1: Perceber a informação visual do evento
-        OP 1.2: Selecionar o evento desejado
-    GOAL 2: Selecionar o tipo de ingresso
-        (Sel. Rule: O evento não disponibiliza asssento)
-            OP 2.1: Selecionar o tipo de ingresso
-            OP 2.2: Passar o mouse no botão de compra
-            OP 2.3: Clicar no botão de compra
-    GOAL 3: Realizar pagamento
-        OP 3.1: Preencher as informações de pagamento
-        OP 3.2: Clicar na confirmação de compra
-    GOAL 4: Receber confirmação de compra
-        (Sel. Rule: O sistema deve confirmar a compra e fornecer um recibo ou comprovante para o usuário.)
-            OP 4.1: Receber a confirmação no e-mail de cadastro
-</code></pre></div>
-<h3 id="busca-de-ingresso">Busca de Ingresso</h3>
+<h3 id="busca-de-evento">Busca de Evento</h3>
 <p>Nessa tarefa, o usuário possui o objetivo de encontrar um evento disponível.</p>
 <div class="highlight"><pre><span></span><code>GOAL 0: Encontrar um evento
     GOAL 1: Procurar o evento desejado
@@ -3348,10 +3330,28 @@
         OP 2.1: Guiar o mouse para a opção de ajuda desejada
         OP 2.2: Clicar na opção
 </code></pre></div>
+<h3 id="comprar-ingresso">Comprar Ingresso</h3>
+<p>Nessa tarefa, o usuário possui o objetivo de encontrar um evento e realizar a compra do mesmo.</p>
+<div class="highlight"><pre><span></span><code>GOAL 0: Adquirir um ingressos
+    GOAL 1: Selecionar o evento
+        OP 1.1: Perceber a informação visual do evento
+        OP 1.2: Selecionar o evento desejado
+    GOAL 2: Selecionar o tipo de ingresso
+        (Sel. Rule: O evento não disponibiliza asssento)
+            OP 2.1: Selecionar o tipo de ingresso
+            OP 2.2: Passar o mouse no botão de compra
+            OP 2.3: Clicar no botão de compra
+    GOAL 3: Realizar pagamento
+        OP 3.1: Preencher as informações de pagamento
+        OP 3.2: Clicar na confirmação de compra
+    GOAL 4: Receber confirmação de compra
+        (Sel. Rule: O sistema deve confirmar a compra e fornecer um recibo ou comprovante para o usuário.)
+            OP 4.1: Receber a confirmação no e-mail de cadastro
+</code></pre></div>
 <h2 id="bibliografia">Bibliografia</h2>
 <blockquote>
 <p>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.</p>
-<p>Análise de tarefas. Disponível em: &lt;<a href="https://interacao-humano-computador.github.io/2022.2-Lichess/">https://interacao-humano-computador.github.io/2022.2-Lichess/</a>&gt;. Acesso em 06 de abril de 2023.</p>
+<p>SOUZA, Nicolas. <strong>Análise de Tarefas.</strong> Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: &lt;<a href="https://interacao-humano-computador.github.io/2022.2-Lichess/analise_requisitos/analise_tarefas/">https://interacao-humano-computador.github.io/2022.2-Lichess/analise_requisitos/analise_tarefas/</a>&gt;. Acesso em: 06 de abril 2023.</p>
 </blockquote>
 <h2 id="historico-de-versao">Histórico de Versão</h2>
 <table>

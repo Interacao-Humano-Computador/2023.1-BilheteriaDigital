@@ -166,22 +166,19 @@ Como proposto por Fagan, para o retrabalho os autores do artefato ([Gabriel Camp
 
 **Tabela 3** - Cronograma de Correções.
 
-| Data de Correção | Descrição                                                           |                 Responsável(eis)                 |                  Revisor(es)                   |      Status      |
-| ---------------- | :------------------------------------------------------------------ | :----------------------------------------------: | :--------------------------------------------: | :--------------: |
-| 02/07/2023       | Legendar a tabela 1.                                                | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
-| 02/07/2023       | Corrigir os erros ortográficos.                                     | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
-| 02/07/2023       | Apresentar os resultados da pesquisa realizada.                     | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
-| 02/07/2023       | Agregar os dados em mais de uma faixa/perfil.                       | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
-| 02/07/2023       | Calcular a quantidade de usuário que se encaixam nesses perfis.     | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
-| 02/07/2023       | Incluir as características faltosas.                                | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
-| 02/07/2023       | Refazer a priorização dos perfis a fim de incluir mais informações. | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
+| Data de Correção | Descrição                                                           |                 Responsável(eis)                 |                   Revisor(es)                    |      Status      |
+| ---------------- | :------------------------------------------------------------------ | :----------------------------------------------: | :----------------------------------------------: | :--------------: |
+| 02/07/2023       | Legendar a tabela 1.                                                | [Matheus Henrique](https://github.com/mathonaut) |  [Arthur de Melo](https://github.com/arthurmlv)  | :material-check: |
+| 02/07/2023       | Corrigir os erros ortográficos.                                     | [Matheus Henrique](https://github.com/mathonaut) |  [Arthur de Melo](https://github.com/arthurmlv)  | :material-check: |
+| 02/07/2023       | Apresentar os resultados da pesquisa realizada.                     |   [Gabriel Campello](https://github.com/G16C)    | [Matheus Henrique](https://github.com/mathonaut) | :material-close: |
+| 02/07/2023       | Agregar os dados em mais de uma faixa/perfil.                       | [Matheus Henrique](https://github.com/mathonaut) |  [Arthur de Melo](https://github.com/arthurmlv)  | :material-check: |
+| 02/07/2023       | Calcular a quantidade de usuário que se encaixam nesses perfis.     | [Matheus Henrique](https://github.com/mathonaut) |  [Arthur de Melo](https://github.com/arthurmlv)  | :material-check: |
+| 02/07/2023       | Incluir as características faltosas.                                | [Matheus Henrique](https://github.com/mathonaut) |  [Arthur de Melo](https://github.com/arthurmlv)  | :material-check: |
+| 02/07/2023       | Refazer a priorização dos perfis a fim de incluir mais informações. | [Matheus Henrique](https://github.com/mathonaut) |  [Arthur de Melo](https://github.com/arthurmlv)  | :material-check: |
 
 _Fonte: Elaborado por [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 </center>
-
-!!! info
-O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Referências Bibliográficas
 

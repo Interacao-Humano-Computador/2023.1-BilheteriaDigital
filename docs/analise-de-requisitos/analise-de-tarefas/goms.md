@@ -64,30 +64,7 @@ GOAL 0: Fazer login na página para efetuar cancelamento de compra
 
 ```
 
-### Comprar Ingresso
-
-Nessa tarefa, o usuário possui o objetivo de encontrar um evento e realizar a compra do mesmo.
-
-```
-GOAL 0: Adquirir um ingressos
-    GOAL 1: Selecionar o evento
-        OP 1.1: Perceber a informação visual do evento
-        OP 1.2: Selecionar o evento desejado
-    GOAL 2: Selecionar o tipo de ingresso
-        (Sel. Rule: O evento não disponibiliza asssento)
-            OP 2.1: Selecionar o tipo de ingresso
-            OP 2.2: Passar o mouse no botão de compra
-            OP 2.3: Clicar no botão de compra
-    GOAL 3: Realizar pagamento
-        OP 3.1: Preencher as informações de pagamento
-        OP 3.2: Clicar na confirmação de compra
-    GOAL 4: Receber confirmação de compra
-        (Sel. Rule: O sistema deve confirmar a compra e fornecer um recibo ou comprovante para o usuário.)
-            OP 4.1: Receber a confirmação no e-mail de cadastro
-
-```
-
-### Busca de Ingresso
+### Busca de Evento
 
 Nessa tarefa, o usuário possui o objetivo de encontrar um evento disponível.
 
@@ -119,11 +96,34 @@ GOAL 0: Encontrar a aba de suporte ao cliente
 
 ```
 
+### Comprar Ingresso
+
+Nessa tarefa, o usuário possui o objetivo de encontrar um evento e realizar a compra do mesmo.
+
+```
+GOAL 0: Adquirir um ingressos
+    GOAL 1: Selecionar o evento
+        OP 1.1: Perceber a informação visual do evento
+        OP 1.2: Selecionar o evento desejado
+    GOAL 2: Selecionar o tipo de ingresso
+        (Sel. Rule: O evento não disponibiliza asssento)
+            OP 2.1: Selecionar o tipo de ingresso
+            OP 2.2: Passar o mouse no botão de compra
+            OP 2.3: Clicar no botão de compra
+    GOAL 3: Realizar pagamento
+        OP 3.1: Preencher as informações de pagamento
+        OP 3.2: Clicar na confirmação de compra
+    GOAL 4: Receber confirmação de compra
+        (Sel. Rule: O sistema deve confirmar a compra e fornecer um recibo ou comprovante para o usuário.)
+            OP 4.1: Receber a confirmação no e-mail de cadastro
+
+```
+
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-> Análise de tarefas. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-Lichess/>>. Acesso em 06 de abril de 2023.
+> SOUZA, Nicolas. **Análise de Tarefas.** Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-Lichess/analise_requisitos/analise_tarefas/>>. Acesso em: 06 de abril 2023.
 
 ## Histórico de Versão
 

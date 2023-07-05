@@ -100,7 +100,7 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 
 - Corrigir o erro ortográfico na frase apresentada;
 - Criar um texto de descrição com os objetivos a serem alcançados para cada tarefa;
-- Apresentar possíveis erros que os usuário possam enfrentar na realização das tarefas e suas consequências;
+- Apresentar possíveis erros que os usuário possam enfrentar na realização das tarefas;
 - Corrigir os diagramas HTA's com erros;
 - Incluir recomendações nas tabelas dos HTA's.
 
@@ -128,20 +128,17 @@ Como proposto por Fagan, para o retrabalho os autores do artefato ([Arthur de Me
 
 **Tabela 3** - Cronograma de Correções.
 
-| Data de Correção | Descrição                                                                                                  |                 Responsável(eis)                 |                   Revisor(es)                    |      Status      |
-| ---------------- | :--------------------------------------------------------------------------------------------------------- | :----------------------------------------------: | :----------------------------------------------: | :--------------: |
-| 30/06/2023       | Corrigir os erros ortográficos.                                                                            | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
-| 02/07/2023       | Criar um texto de descrição com os objetivos a serem alcançados para cada tarefa.                          | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
-| 02/07/2023       | Apresentar possíveis erros que os usuário possam enfrentar na realização das tarefas e suas consequências. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
-| 02/07/2023       | Corrigir os diagramas HTA's com erros.                                                                     | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
-| 02/07/2023       | Incluir recomendações nas tabelas dos HTA's.                                                               | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
+| Data de Correção | Descrição                                                                             |                 Responsável(eis)                 |                   Revisor(es)                    |      Status      |
+| ---------------- | :------------------------------------------------------------------------------------ | :----------------------------------------------: | :----------------------------------------------: | :--------------: |
+| 30/06/2023       | Corrigir os erros ortográficos.                                                       | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
+| 02/07/2023       | Criar um texto de descrição com os objetivos a serem alcançados para cada tarefa.     | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
+| 02/07/2023       | Apresentar possíveis erros que os usuário possam enfrentar na realização das tarefas. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
+| 02/07/2023       | Corrigir os diagramas HTA's com erros.                                                | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
+| 02/07/2023       | Incluir recomendações nas tabelas dos HTA's.                                          | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
 
 _Fonte: Elaborado por [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 </center>
-
-!!! info
-O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Referências Bibliográficas
 
@@ -149,7 +146,7 @@ O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Bibliografia
 
-> FERREIRA, Rafael. **Verificação do Planejamento da Avaliação da Análise de Tarefas.** Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<>>. Acesso em: 18 junho 2023.
+> FERREIRA, Rafael. **Verificação do Planejamento da Avaliação da Análise de Tarefas.** Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<>>. Acesso em: 18 de junho 2023.
 
 ## Histórico de Versões
 
