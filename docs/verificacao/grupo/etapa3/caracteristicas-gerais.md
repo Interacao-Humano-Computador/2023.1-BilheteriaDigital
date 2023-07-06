@@ -87,23 +87,22 @@ _Fonte: [Douglas Alves](https://github.com/dougAlvs), 2023._
 
 </center>
 
-
 <center>
 
 **Tabela 3** - Cronograma de Correções.
 
-| Data de Correção | Descrição                           |                 Responsável(eis)                 |                   Revisor(es)                    |  Status   |
-| ---------------- | :---------------------------------- | :----------------------------------------------: | :----------------------------------------------: | :-------: |
-| 03/07/2023       | Realizar os ajustes do id 9. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) | CORRIGIDO |
-| 03/07/2023       | Realizar os ajustes do id 10. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) | CORRIGIDO |
-
+| Data de Correção | Descrição                     |               Responsável(eis)               |                   Revisor(es)                    |      Status      |
+| ---------------- | :---------------------------- | :------------------------------------------: | :----------------------------------------------: | :--------------: |
+| 03/07/2023       | Realizar os ajustes do id 9.  | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
+| 03/07/2023       | Realizar os ajustes do id 10. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
 
 _Fonte: [Douglas Alves](https://github.com/dougAlvs), 2023._
 
 </center>
 
 !!! info
-O cronograma apresentado na tabela 3 pode ser alterado.
+
+    O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Bibliografia
 
@@ -111,7 +110,8 @@ O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição          | Autor(es)                                    | Revisor(es)                                      |
-| ------ | ---------- | ------------------ | -------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 19/06/2023 | Criação da página. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
-| `1.1`  | 03/07/2023 | Adição do retrabalho. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                      |
+| ------ | ---------- | ---------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`  | 19/06/2023 | Criação da página.     | [Douglas Alves](https://github.com/dougAlvs)     | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.1`  | 03/07/2023 | Adição do retrabalho.  | [Douglas Alves](https://github.com/dougAlvs)     | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.2`  | 05/07/2023 | Ajustes no retrabalho. | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |

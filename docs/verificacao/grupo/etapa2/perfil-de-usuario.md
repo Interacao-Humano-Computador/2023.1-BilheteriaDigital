@@ -39,7 +39,7 @@ A tabela 2 a seguir apresenta a checklist com os dados obtidos a partir da verif
 
 | ID  | Descrição                                                                                                      | Avaliação  |         Observações          |
 | :-: | -------------------------------------------------------------------------------------------------------------- | :--------: | :--------------------------: |
-|     | **Padronização**                                                                                               |
+|     | **Padronização**                                                                                               |            |                              |
 |  1  | O artefato possui introdução?                                                                                  |    Sim     |              -               |
 |  2  | O artefato possui uma bibliografia/referência bibliográfica?                                                   |    Sim     |              -               |
 |  3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?         |    Sim     |              -               |
@@ -158,6 +158,32 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 </center>
 
+## Retrabalho
+
+Como proposto por Fagan, para o retrabalho os autores do artefato verificado serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente, porém há a possibilidade de outros integrantes do grupo realizarem as correções propostas. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+
+<center>
+
+**Tabela 3** - Cronograma de Correções.
+
+| Data de Correção | Descrição                                                           |                 Responsável(eis)                 |                   Revisor(es)                    |      Status      |
+| ---------------- | :------------------------------------------------------------------ | :----------------------------------------------: | :----------------------------------------------: | :--------------: |
+| 02/07/2023       | Legendar a tabela 1.                                                | [Matheus Henrique](https://github.com/mathonaut) |  [Arthur de Melo](https://github.com/arthurmlv)  | :material-check: |
+| 02/07/2023       | Corrigir os erros ortográficos.                                     | [Matheus Henrique](https://github.com/mathonaut) |  [Arthur de Melo](https://github.com/arthurmlv)  | :material-check: |
+| 02/07/2023       | Apresentar os resultados da pesquisa realizada.                     |   [Gabriel Campello](https://github.com/G16C)    | [Matheus Henrique](https://github.com/mathonaut) | :material-close: |
+| 02/07/2023       | Agregar os dados em mais de uma faixa/perfil.                       | [Matheus Henrique](https://github.com/mathonaut) |  [Arthur de Melo](https://github.com/arthurmlv)  | :material-check: |
+| 02/07/2023       | Calcular a quantidade de usuário que se encaixam nesses perfis.     | [Matheus Henrique](https://github.com/mathonaut) |  [Arthur de Melo](https://github.com/arthurmlv)  | :material-check: |
+| 02/07/2023       | Incluir as características faltosas.                                | [Matheus Henrique](https://github.com/mathonaut) |  [Arthur de Melo](https://github.com/arthurmlv)  | :material-check: |
+| 02/07/2023       | Refazer a priorização dos perfis a fim de incluir mais informações. | [Matheus Henrique](https://github.com/mathonaut) |  [Arthur de Melo](https://github.com/arthurmlv)  | :material-check: |
+
+_Fonte: Elaborado por [Matheus Henrique](https://github.com/mathonaut), 2023._
+
+</center>
+
+!!! info
+
+    O cronograma apresentado na tabela 3 pode ser alterado.
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor1">1.</a> COURAGE, C. & BAXTER, K. **Understanding your users: a practical guide to user requirements, methods, tools, and techniques.** San Francisco: Morgan Kaufmann Publishers, 2005.
@@ -170,6 +196,7 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                      |
-| ------ | ---------- | ------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 18/06/2023 | Criação da página. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| Versão | Data       | Descrição                 | Autor(es)                                        | Revisor(es)                                      |
+| ------ | ---------- | ------------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`  | 18/06/2023 | Criação da página.        | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.1`  | 05/07/2023 | Atualizando o retrabalho. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |

@@ -24,21 +24,20 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
 **Tabela 1** - Checklist de Verificação.
 
-| ID  | Descrição                                                                                                                          | Avaliação | Observações |
-| :-: | ---------------------------------------------------------------------------------------------------------------------------------- | :-------: | ----------- |
-|  1  | O artefato possui Introdução?                                                                                                      |    Sim    |             |
-|  2  | O artefato possui uma Bibliografia/Referência Bibliográfica?                                                              |    Sim    |             |
-|  3  | O artefato possui um Histórico de Versões com o id e descrição das versões, datas, autores e revisores?                             |    Sim    |             |
-|  4  | Todos os textos estão na norma padrão?                                                                                             |    Sim    |             |
-|  5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                       |    Sim    |             |
-|  6  | O storyboard apresenta os atores envolvidos?<a id="anchor_1" href="#REF1">^1^</a>                          |    Sim    |             |
-|  7  | O contexto e o ambiente estão apresentados e possuem lastro na realidade?<a id="anchor_1" href="#REF1">^1^</a>                                     |    Sim    |             |
-|  8  | Cada storyboard representa ao menos uma atividade principal e os processos envolvidos?<a id="anchor_1" href="#REF1">^1^</a>                                       |    Sim    |             |
-|  9  | As atividades realizadas condizem com o contexto e seguem uma ordem lógica?<a id="anchor_1" href="#REF1">^1^</a>         |    Sim    |             |
-| 10  | Dentro do contexto, o ator principal possui sua motivação explícita e condizente com o que a atividade oferta?<a id="anchor_1" href="#REF1">^1^</a>                                |    Incompleto    |    [Tarefa 3](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/storyboard/#tarefa-3-compartilhar-eventos-nas-redes-sociais)         |
-| 11  | Ao findar a atividade, o storyboard demonstra a satisfação do usuário?<a id="anchor_1" href="#REF1">^1^</a>                    |    Sim    |             |
-| 12  | O storyboard foi feito com base em um dos cenários criados para o projeto?<a id="anchor_1" href="#REF1">^1^</a>                              |    Sim    |             |
-
+| ID  | Descrição                                                                                                                                           | Avaliação  | Observações                                                                                                                                                                                            |
+| :-: | --------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  1  | O artefato possui Introdução?                                                                                                                       |    Sim     |                                                                                                                                                                                                        |
+|  2  | O artefato possui uma Bibliografia/Referência Bibliográfica?                                                                                        |    Sim     |                                                                                                                                                                                                        |
+|  3  | O artefato possui um Histórico de Versões com o id e descrição das versões, datas, autores e revisores?                                             |    Sim     |                                                                                                                                                                                                        |
+|  4  | Todos os textos estão na norma padrão?                                                                                                              |    Sim     |                                                                                                                                                                                                        |
+|  5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                                        |    Sim     |                                                                                                                                                                                                        |
+|  6  | O storyboard apresenta os atores envolvidos?<a id="anchor_1" href="#REF1">^1^</a>                                                                   |    Sim     |                                                                                                                                                                                                        |
+|  7  | O contexto e o ambiente estão apresentados e possuem lastro na realidade?<a id="anchor_1" href="#REF1">^1^</a>                                      |    Sim     |                                                                                                                                                                                                        |
+|  8  | Cada storyboard representa ao menos uma atividade principal e os processos envolvidos?<a id="anchor_1" href="#REF1">^1^</a>                         |    Sim     |                                                                                                                                                                                                        |
+|  9  | As atividades realizadas condizem com o contexto e seguem uma ordem lógica?<a id="anchor_1" href="#REF1">^1^</a>                                    |    Sim     |                                                                                                                                                                                                        |
+| 10  | Dentro do contexto, o ator principal possui sua motivação explícita e condizente com o que a atividade oferta?<a id="anchor_1" href="#REF1">^1^</a> | Incompleto | [Tarefa 3](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/storyboard/#tarefa-3-compartilhar-eventos-nas-redes-sociais) |
+| 11  | Ao findar a atividade, o storyboard demonstra a satisfação do usuário?<a id="anchor_1" href="#REF1">^1^</a>                                         |    Sim     |                                                                                                                                                                                                        |
+| 12  | O storyboard foi feito com base em um dos cenários criados para o projeto?<a id="anchor_1" href="#REF1">^1^</a>                                     |    Sim     |                                                                                                                                                                                                        |
 
 _Fonte: [Arthur de Melo](https://github.com/arthurmlv), 2023._
 
@@ -71,15 +70,12 @@ A figura 1 é possível analisar um gráfico com o percentual de erros e acertos
 
 Como proposto por Fagan, para o retrabalho os autores do artefato corrigiram os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente. No entanto, devido à data de realização da verificação, não será possível realizar a correção do referido artefato. Portanto, não haverá retrabalho.
 
-
-
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> Sharp, Helen & Rogers, Yvonne & Preece, Jennifer. (2007). Interaction Design. Beyond Human-Computer Interaction.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição          | Autor(es)                                      | Revisor(es)                                    |
-| ------ | ---------- | ------------------ | ---------------------------------------------- | ---------------------------------------------- |
-| `1.0`  | 03/07/2023 | Criação da página. | [Arthur de Melo](https://github.com/arthurmlv) | [Douglas Alves](https://github.com/dougalvs) |
-
+| Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                    |
+| ------ | ---------- | ---------------------- | ------------------------------------------------ | ---------------------------------------------- |
+| `1.0`  | 03/07/2023 | Criação da página.     | [Arthur de Melo](https://github.com/arthurmlv)   | [Douglas Alves](https://github.com/dougalvs)   |

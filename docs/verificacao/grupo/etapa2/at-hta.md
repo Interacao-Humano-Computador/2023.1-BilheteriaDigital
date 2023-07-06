@@ -87,8 +87,8 @@ Não é apresentado as consequências caso os usuários não façam corretamente
 
 ### ID 12 - Os diagramas apresentam os elementos esperados (plano, objetivos, operações e as relações entre os subobjetivos)?
 
-Os elementos não estão de acordo com o que é apresentado por Barbosa e Silva.<a id=anchor_1 href="#REF1"><sup>1</sup></a> No diagrama visualizar meus pedidos é utilizado a operação de seleção _“/”_ para representar uma situação sequencial. No diagrama de cancelar, os objetivos hora está uma do lado do outro hora está abaixo do outro.
-Além disso, o objetivo de fazer login é apresentado ou omitido, não tendo um padrão em sua apresentação.
+Os elementos não estão de acordo com o que é recomendado por Barbosa e Silva.<a id=anchor_1 href="#REF1"><sup>1</sup></a>
+No diagrama de cancelar, os objetivos hora está uma do lado do outro hora está abaixo do outro. Além disso, o objetivo de fazer login é apresentado erroneamente.
 
 ### ID 15.2 - As tabelas apresentam os problemas e recomendações?
 
@@ -100,7 +100,7 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 
 - Corrigir o erro ortográfico na frase apresentada;
 - Criar um texto de descrição com os objetivos a serem alcançados para cada tarefa;
-- Apresentar possíveis erros que os usuário possam enfrentar na realização das tarefas e suas consequências;
+- Apresentar possíveis erros que os usuário possam enfrentar na realização das tarefas;
 - Corrigir os diagramas HTA's com erros;
 - Incluir recomendações nas tabelas dos HTA's.
 
@@ -120,13 +120,41 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 </center>
 
+## Retrabalho
+
+Como proposto por Fagan, para o retrabalho os autores do artefato verificado serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente, porém há a possibilidade de outros integrantes do grupo realizarem as correções propostas. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+
+<center>
+
+**Tabela 3** - Cronograma de Correções.
+
+| Data de Correção | Descrição                                                                             |                 Responsável(eis)                 |                   Revisor(es)                    |      Status      |
+| ---------------- | :------------------------------------------------------------------------------------ | :----------------------------------------------: | :----------------------------------------------: | :--------------: |
+| 30/06/2023       | Corrigir os erros ortográficos.                                                       | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
+| 02/07/2023       | Criar um texto de descrição com os objetivos a serem alcançados para cada tarefa.     | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
+| 02/07/2023       | Apresentar possíveis erros que os usuário possam enfrentar na realização das tarefas. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
+| 02/07/2023       | Corrigir os diagramas HTA's com erros.                                                |   [Gabriel Campello](https://github.com/G16C)    | [Matheus Henrique](https://github.com/mathonaut) | :material-close: |
+| 02/07/2023       | Incluir recomendações nas tabelas dos HTA's.                                          | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
+
+_Fonte: Elaborado por [Matheus Henrique](https://github.com/mathonaut), 2023._
+
+!!! warning ""
+
+    Por motivos de incompatibilidade de agenda, não haverá retrabalho da correção dos diagramas de responsabilidade do [Gabriel Campello](https://github.com/G16C).
+
+</center>
+
+!!! info
+
+    O cronograma apresentado na tabela 3 pode ser alterado.
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador.** Rio de Janeiro: Elsevier, 2011.
 
 ## Bibliografia
 
-> FERREIRA, Rafael. **Verificação do Planejamento da Avaliação da Análise de Tarefas.** Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<>>. Acesso em: 18 junho 2023.
+> FERREIRA, Rafael. **Verificação do Planejamento da Avaliação da Análise de Tarefas.** Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<>>. Acesso em: 18 de junho 2023.
 
 ## Histórico de Versões
 

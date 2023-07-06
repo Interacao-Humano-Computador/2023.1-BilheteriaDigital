@@ -24,7 +24,7 @@ Para a verificação do artefato, será feita uma checklist com base no que fora
 |  8  | O cronogrma apresenta o planejado e o executado?                                                       | Sim       |             |
 |  9  | O cronograma foi atualizado conforme as entregas foram sendo executadas?                               | Sim       |             |
 | 10  | Os revisores são pessoas diferentes dos autores?                                                       | Sim       |             |
-| 11  | As atividades definidas se complementam, mas não são redundantes?                                                   | Sim       |             |
+| 11  | As atividades definidas se complementam, mas não são redundantes?                                      | Sim       |             |
 
 _Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Gabriel Campello](https://github.com/G16C), 2023._
 
@@ -56,22 +56,23 @@ _Fonte: [Gabriel Campello](https://github.com/G16C), 2023._
 
 ## Retrabalho
 
-Como proposto por Fagan, para o retrabalho os autores do artefato [Gabriel Campello](https://github.com/G16C) corrigiram os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 2 a seguir apresenta o cronograma de correções.
+Como proposto por Fagan, para o retrabalho os autores do artefato verificado serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente, porém há a possibilidade de outros integrantes do grupo realizarem as correções propostas. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 2 a seguir apresenta o cronograma de correções.
 
 <center>
 
 **Tabela 2** - Cronograma de Correções.
 
-| Data de Correção | Descrição                           |                 Responsável(eis)                 |                   Revisor(es)                    |  Status   |
-| ---------------- | :---------------------------------- | :----------------------------------------------: | :----------------------------------------------: | :-------: |
-| 02/06/2023  | Correção das referências e histórico de versão. |   [Gabriel Campello](https://github.com/G16C) | [Rafael Ferreira](https://github.com/RafaelCLG0) | x |
+| Data de Correção | Descrição                                       |              Responsável(eis)               |                   Revisor(es)                    |      Status      |
+| ---------------- | :---------------------------------------------- | :-----------------------------------------: | :----------------------------------------------: | :--------------: |
+| 02/06/2023       | Correção das referências e histórico de versão. | [Gabriel Campello](https://github.com/G16C) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
 
 _Fonte: Elaborado por [Gabriel Campello](https://github.com/G16C), 2023._
 
 </center>
 
 !!! info
-O cronograma apresentado na tabela 3 pode ser alterado.
+
+    O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Bibliografia
 
@@ -85,7 +86,8 @@ O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição          | Autor(es)                                   | Revisor(es)                                      |
-| ------ | ---------- | ------------------ | ------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 18/06/2023 | Criação da página. | [Gabriel Campello](https://github.com/G16C) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
-| `1.1`  | 02/07/2023 | Retrabalho.                                                                 | [Gabriel Campello](https://github.com/G16C) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                      |
+| ------ | ---------- | ---------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`  | 18/06/2023 | Criação da página.     | [Gabriel Campello](https://github.com/G16C)      | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.1`  | 02/07/2023 | Retrabalho.            | [Gabriel Campello](https://github.com/G16C)      | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.2`  | 05/07/2023 | Ajustes no retrabalho. | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |

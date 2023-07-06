@@ -43,10 +43,10 @@ Os artefatos alvos dessa verificação são:
 
 Os resultados das verificações em si serão apresentados em páginas separadas e podem ser acessados através dos seguintes links:
 
-- [Resultados da Verificaçã do Princípios Gerais]();
-- [Resultados da Verificaçã do Características Gerais]();
-- [Resultados da Verificaçã do Metas de Usabilidade]();
-- [Resultados da Verificaçã do Guia de Estilo](../guia-de-estilo);
+- [Resultados da Verificaçã do Princípios Gerais](./principios-gerais.md);
+- [Resultados da Verificaçã do Características Gerais](./caracteristicas-gerais.md);
+- [Resultados da Verificaçã do Metas de Usabilidade](./metas-usabilidade.md);
+- [Resultados da Verificaçã do Guia de Estilo](./guia-de-estilo.md);
 
 ### Cronograma
 
@@ -83,12 +83,12 @@ A tabela 3 a seguir apresenta a checklist referente aos aspectos gerais que os a
 **Tabela 3** - Checklist para os Itens Gerais.
 
 | ID  | Descrição                                                                                              | Avaliação | Observações |
-| :-: | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-|  1  | O artefato possui introdução?                                                                          |           |             |
-|  2  | O artefato possui uma bibliografia/referência bibliográfica?                                           |           |             |
-|  3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |           |             |
-|  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |           |             |
-|  5  | Todos os textos estão na norma padrão?                                                                 |           |             |
+| :-: | ------------------------------------------------------------------------------------------------------ | :-------: | :---------: |
+|  1  | O artefato possui introdução?                                                                          |     -     |      -      |
+|  2  | O artefato possui uma bibliografia/referência bibliográfica?                                           |     -     |      -      |
+|  3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |     -     |      -      |
+|  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |     -     |      -      |
+|  5  | Todos os textos estão na norma padrão?                                                                 |     -     |      -      |
 
 _Fonte: Equipe do Projeto, 2023._
 
@@ -105,18 +105,18 @@ Em relação aos itens de verificação, as questões 6 a 16 foram retiradas da 
 **Tabela 4** - Checklist para o artefato de Princípios Gerais.
 
 | ID  | Descrição                                                                                                                                                      | Avaliação | Observações |
-| :-: | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-|  6  | Os princípios gerais do projeto apresentam embasamento teórico? Por exemplo: Norman, 1988; Tognazzini, online; Nielsen, 1993; Shneiderman, 1998; Cooper, 1999; |           |
-|  7  | Foram identificadas violações dos princípios gerais definidos no projeto? Caso sim, essas violações foram explicitadas?                                        |           |
-|  8  | Os princípios gerais do projeto contém correspondência com as expectativas dos usuários ?                                                                      |           |
-|  9  | Os princípios gerais do projeto contém simplicidade nas estruturas das tarefas ?                                                                               |           |
-| 10  | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ?                                                                      |           |
-| 11  | Os princípios gerais do projeto contém consistência e padronização ?                                                                                           |           |
-| 12  | Os princípios gerais do projeto contém promoção da eficiência do usuário ?                                                                                     |           |
-| 13  | Os princípios gerais do projeto contém antecipação das necessidades do usuário ?                                                                               |           |
-| 14  | Os princípios gerais do projeto contém visibilidade e reconhecimento ?                                                                                         |           |
-| 15  | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ?                                                                               |           |
-| 16  | Os princípios gerais do projeto contém projeto para erros ?                                                                                                    |           |
+| :-: | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
+|  6  | Os princípios gerais do projeto apresentam embasamento teórico? Por exemplo: Norman, 1988; Tognazzini, online; Nielsen, 1993; Shneiderman, 1998; Cooper, 1999; |     -     |      -      |
+|  7  | Foram identificadas violações dos princípios gerais definidos no projeto? Caso sim, essas violações foram explicitadas?                                        |     -     |      -      |
+|  8  | Os princípios gerais do projeto contém correspondência com as expectativas dos usuários ?                                                                      |     -     |      -      |
+|  9  | Os princípios gerais do projeto contém simplicidade nas estruturas das tarefas ?                                                                               |     -     |      -      |
+| 10  | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ?                                                                      |     -     |      -      |
+| 11  | Os princípios gerais do projeto contém consistência e padronização ?                                                                                           |     -     |      -      |
+| 12  | Os princípios gerais do projeto contém promoção da eficiência do usuário ?                                                                                     |     -     |      -      |
+| 13  | Os princípios gerais do projeto contém antecipação das necessidades do usuário ?                                                                               |     -     |      -      |
+| 14  | Os princípios gerais do projeto contém visibilidade e reconhecimento ?                                                                                         |     -     |      -      |
+| 15  | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ?                                                                               |     -     |      -      |
+| 16  | Os princípios gerais do projeto contém projeto para erros ?                                                                                                    |     -     |      -      |
 
 _Fonte: [Rafael Ferreira](https://github.com/rafaelCLG0) e [Douglas Alves](https://github.com/dougAlvs), 2023._
 
@@ -133,12 +133,12 @@ Em relação aos itens de verificação, as questões 6 a 10 foram retiradas da 
 **Tabela 5** - Checklist para o artefato de Características Gerais.
 
 | ID  | Descrição                                                                         | Avaliação | Observações |
-| :-: | --------------------------------------------------------------------------------- | :-------: | ----------- |
-|  6  | São identificadas as características da plataforma para o projeto ?               |           |
-|  7  | São identificados os navegadores ou dispositivos que podem acessar a plataforma ? |           |
-|  8  | São identificadas as limitações da plataforma ?                                   |           |
-|  9  | São identificadas as funcionalidades da plataforma ?                              |           |
-| 10  | São identificadas as tecnologias que foram utilizadas ?                           |           |
+| :-: | --------------------------------------------------------------------------------- | :-------: | :---------: |
+|  6  | São identificadas as características da plataforma para o projeto ?               |     -     |      -      |
+|  7  | São identificados os navegadores ou dispositivos que podem acessar a plataforma ? |     -     |      -      |
+|  8  | São identificadas as limitações da plataforma ?                                   |     -     |      -      |
+|  9  | São identificadas as funcionalidades da plataforma ?                              |     -     |      -      |
+| 10  | São identificadas as tecnologias que foram utilizadas ?                           |     -     |      -      |
 
 _Fonte: [Rafael Ferreira](https://github.com/rafaelCLG0), 2023._
 
@@ -153,12 +153,12 @@ A tabela 6 a seguir apresenta a checklist referente às metas de usabilidade, qu
 **Tabela 6** - Checklist para o artefato de Metas de Usabilidade.
 
 | ID  | Descrição                                                                        | Avaliação | Observações |
-| :-: | -------------------------------------------------------------------------------- | --------- | ----------- |
-|  6  | São apresentados quais fatores de qualidade de uso serão priorizados no projeto? |           |             |
-|  7  | Há algum indicador de interesse baseado no desempenho dos usuários?              |           |             |
-|  8  | As metas foram definidas através do perfil de usuário?                           |           |             |
-|  9  | Foram definidas as usabilidades em 6 metas?                                      |           |             |
-| 10  | As metas são representadas como "guias de estilos"?                              |           |             |
+| :-: | -------------------------------------------------------------------------------- | :-------: | :---------: |
+|  6  | São apresentados quais fatores de qualidade de uso serão priorizados no projeto? |     -     |      -      |
+|  7  | Há algum indicador de interesse baseado no desempenho dos usuários?              |     -     |      -      |
+|  8  | As metas foram definidas através do perfil de usuário?                           |     -     |      -      |
+|  9  | Foram definidas as usabilidades em 6 metas?                                      |     -     |      -      |
+| 10  | As metas são representadas como "guias de estilos"?                              |     -     |      -      |
 
 _Fonte: [Geovanna Maciel](https://github.com/manuziny), 2023._
 
@@ -175,36 +175,36 @@ Em relação aos itens de verificação, as questões de 6 a 11 foram retiradas 
 **Tabela 7** - Checklist para o artefato de Guia de Estilo.
 
 |  ID  | Descrição                                                                                     | Avaliação | Observações |
-| :--: | --------------------------------------------------------------------------------------------- | --------- | ----------- |
-|  6   | Existe um tópico de introdução?                                                               |           |             |
-| 6.1  | Existe um subtópico de objetivo do guia de estilo?                                            |           |             |
-| 6.2  | Existe um subtópico de organização e conteúdo do guia de estilo?                              |           |             |
-| 6.3  | Existe um subtópico de público-alvo do guia de estilos?                                       |           |             |
-| 6.4  | Existe um subtópico de como utilizar o guia?                                                  |           |             |
-| 6.5  | Existe um subtópico de como manter o guia?                                                    |           |             |
-|  7   | Existe um tópico de resultados de análise?                                                    |           |             |
-| 7.1  | Existe um subtópico de descrição do ambiente de trabalho do usuário?                          |           |             |
-|  8   | Existe um tópico de Elementos de interface?                                                   |           |             |
-| 8.1  | Existe um subtópico de disposição espacial e grid?                                            |           |             |
-| 8.2  | Existe um subtópico de janelas?                                                               |           |             |
-| 8.3  | Existe um subtópico de tipografia?                                                            |           |             |
-| 8.4  | Existe um subtópico de símbolos não tipográficos?                                             |           |             |
-| 8.5  | Existe um subtópico de cores?                                                                 |           |             |
-| 8.6  | Existe um subtópico de animações?                                                             |           |             |
-|  9   | Existe um tópico de Elementos de interação?                                                   |           |             |
-| 9.1  | Existe um subtópico de estilos de interação?                                                  |           |             |
-| 9.2  | Existe um subtópico de seleção de um estilo?                                                  |           |             |
-| 9.3  | Existe um subtópico de aceleradores (teclas de atalho)?                                       |           |             |
-|  10  | Existe um tópico de Elementos de ação?                                                        |           |             |
-| 10.1 | Existe um subtópico de preenchimento de campos?                                               |           |             |
-| 10.2 | Existe um subtópico de seleção?                                                               |           |             |
-| 10.3 | Existe um subtópico de ativação?                                                              |           |             |
-|  11  | Existe um tópico de Vocabulário e padrões?                                                    |           |             |
-| 11.1 | Existe um subtópico de terminologia?                                                          |           |             |
-| 11.2 | Existe um subtópico de tipos de tela (para tarefas comuns)?                                   |           |             |
-| 11.3 | Existe um subtópico de sequências de diálogos?                                                |           |             |
-|  12  | O Guia de Estilo apresenta como os Princípios Gerais do Projeto serão adicionados ao projeto? |           |             |
-|  13  | O guia trata as metas de usabilidade priorizadas?                                             |           |             |
+| :--: | --------------------------------------------------------------------------------------------- | :-------: | :---------: |
+|  6   | Existe um tópico de introdução?                                                               |     -     |      -      |
+| 6.1  | Existe um subtópico de objetivo do guia de estilo?                                            |     -     |      -      |
+| 6.2  | Existe um subtópico de organização e conteúdo do guia de estilo?                              |     -     |      -      |
+| 6.3  | Existe um subtópico de público-alvo do guia de estilos?                                       |     -     |      -      |
+| 6.4  | Existe um subtópico de como utilizar o guia?                                                  |     -     |      -      |
+| 6.5  | Existe um subtópico de como manter o guia?                                                    |     -     |      -      |
+|  7   | Existe um tópico de resultados de análise?                                                    |     -     |      -      |
+| 7.1  | Existe um subtópico de descrição do ambiente de trabalho do usuário?                          |     -     |      -      |
+|  8   | Existe um tópico de Elementos de interface?                                                   |     -     |      -      |
+| 8.1  | Existe um subtópico de disposição espacial e grid?                                            |     -     |      -      |
+| 8.2  | Existe um subtópico de janelas?                                                               |     -     |      -      |
+| 8.3  | Existe um subtópico de tipografia?                                                            |     -     |      -      |
+| 8.4  | Existe um subtópico de símbolos não tipográficos?                                             |     -     |      -      |
+| 8.5  | Existe um subtópico de cores?                                                                 |     -     |      -      |
+| 8.6  | Existe um subtópico de animações?                                                             |     -     |      -      |
+|  9   | Existe um tópico de Elementos de interação?                                                   |     -     |      -      |
+| 9.1  | Existe um subtópico de estilos de interação?                                                  |     -     |      -      |
+| 9.2  | Existe um subtópico de seleção de um estilo?                                                  |     -     |      -      |
+| 9.3  | Existe um subtópico de aceleradores (teclas de atalho)?                                       |     -     |      -      |
+|  10  | Existe um tópico de Elementos de ação?                                                        |     -     |      -      |
+| 10.1 | Existe um subtópico de preenchimento de campos?                                               |     -     |      -      |
+| 10.2 | Existe um subtópico de seleção?                                                               |     -     |      -      |
+| 10.3 | Existe um subtópico de ativação?                                                              |     -     |      -      |
+|  11  | Existe um tópico de Vocabulário e padrões?                                                    |     -     |      -      |
+| 11.1 | Existe um subtópico de terminologia?                                                          |     -     |      -      |
+| 11.2 | Existe um subtópico de tipos de tela (para tarefas comuns)?                                   |     -     |      -      |
+| 11.3 | Existe um subtópico de sequências de diálogos?                                                |     -     |      -      |
+|  12  | O Guia de Estilo apresenta como os Princípios Gerais do Projeto serão adicionados ao projeto? |     -     |      -      |
+|  13  | O guia trata as metas de usabilidade priorizadas?                                             |     -     |      -      |
 
 _Fonte: [Arthur Henrique](https://github.com/black258br), [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
 
