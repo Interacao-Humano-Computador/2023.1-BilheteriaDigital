@@ -3,6 +3,7 @@
 Este documento é de verificação por inspeção do artefato [Aspectos éticos](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/aspectos-eticos/). Com base nisso, o documento de aspectos éticos será verificado de acordo com a literatura Interação-Humano-Computador de Barbosa e Silva capítulo 5 - Identificação de necessidades dos usuários e requisitos de IHC.
 
 ## Objetivo
+
 O objetivo deste documento é relatar os resultados da verificação realizada acerca do artefato [Aspectos éticos](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/aspectos-eticos/) Etapa 2 do grupo na versão 1.3, feita no dia 13 de maio de 2023 na etapa 3 do grupo.
 
 ## Metodologia
@@ -10,16 +11,17 @@ O objetivo deste documento é relatar os resultados da verificação realizada a
 Para a verificação do artefato, será feito uma checklist com base na literatura já citada anteriormente. A mesma será composta por 5 perguntas que serão o padrão exigido para a documentação e em seguida perguntas envolvendo o conteúdo do artefato Aspectos éticos. Para responder às perguntas apresentadas nas checklist o avaliador usará as opções Sim, Não, Incompleto ou Não se aplica. O avaliador poderá também escrever observações em cada pergunta detalhando pontos que achar necessários.
 
 ## Crongrama e Participantes
+
 O integrante do grupo [Geovanna Maciel](https://github.com/manuziny) será responsável por realizar a verificação e a correção dos problemas encontrados. Além disso, o integrante do grupo [Douglas Alves](https://github.com/dougAlvs) realizará a revisão do artefato produzido pelo avaliador. Em relação ao cronograma seguido, ele já foi explicitado na página de planejamento. A tabela 1 apresenta os participantes da verificação.
 
 <center>
 
 **Tabela 1** - Participantes da Verificação.
 
-|                   Participante                   |   Papel   |
-| :----------------------------------------------: | :-------: |
-|   [Geovanna Maciel](https://github.com/manuziny)   | Avaliador |
-| [Douglas Alves](https://github.com/dougAlvs) |  Revisor  |
+|                  Participante                  |   Papel   |
+| :--------------------------------------------: | :-------: |
+| [Geovanna Maciel](https://github.com/manuziny) | Avaliador |
+|  [Douglas Alves](https://github.com/dougAlvs)  |  Revisor  |
 
 _Fonte: [Geovanna Maciel](https://github.com/manuziny)_
 
@@ -93,19 +95,24 @@ Na figura 1 é possível analisar em forma de gráfico o percentual de erros e a
 </center>
 
 ## Retrabalho
-Como proposto por Fagan, para o retrabalho os autores do artefato ([Arthur de Melo](https://github.com/arthurmlv)) corrigiram os problemas apresentados seguindo a lista de sugestões de correção apresentada anteriormente. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+
+Como proposto por Fagan, para o retrabalho os autores do artefato verificado serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente, porém há a possibilidade de outros integrantes do grupo realizarem as correções propostas. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
 
 <center>
 
 **Tabela 3** - Cronograma de Correções.
 
-| Data de Correção | Descrição                           |                 Responsável(eis)                 |                   Revisor(es)                    |  Status   |
-| ---------------- | :---------------------------------- | :----------------------------------------------: | :----------------------------------------------: | :-------: |
-| 18/06/2023       | Realizar os ajustes da verificação. | [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) | CORRIGIDO |
+| Data de Correção | Descrição                           |                Responsável(eis)                |                  Revisor(es)                   |      Status      |
+| ---------------- | :---------------------------------- | :--------------------------------------------: | :--------------------------------------------: | :--------------: |
+| 18/06/2023       | Realizar os ajustes da verificação. | [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny) | :material-check: |
 
 _Fonte: Elaborado por [Geovanna Maciel](https://github.com/manuziny), 2023._
 
 </center>
+
+!!! info
+
+    O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Referências Bibliográficas
 
@@ -113,7 +120,8 @@ _Fonte: Elaborado por [Geovanna Maciel](https://github.com/manuziny), 2023._
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor(es)                                      | Revisor(es)                                  |
-| ------ | ---------- | -------------------- | ---------------------------------------------- | -------------------------------------------- |
-| `1.0`  | 18/06/2023 | Criação do documento | [Geovanna Maciel](https://github.com/manuziny) | [Douglas Alves](https://github.com/dougalvs) |
-| `1.1` | 02/07/2023 | Padronização do documento | [Geovanna Maciel](https://github.com/manuziny) | [Matheus Henrique](https://github.com/mathonaut)
+| Versão | Data       | Descrição                 | Autor(es)                                        | Revisor(es)                                      |
+| ------ | ---------- | ------------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`  | 18/06/2023 | Criação do documento      | [Geovanna Maciel](https://github.com/manuziny)   | [Douglas Alves](https://github.com/dougalvs)     |
+| `1.1`  | 02/07/2023 | Padronização do documento | [Geovanna Maciel](https://github.com/manuziny)   | [Matheus Henrique](https://github.com/mathonaut) |
+| `1.2`  | 05/07/2023 | Ajustes no retrabalho.    | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |

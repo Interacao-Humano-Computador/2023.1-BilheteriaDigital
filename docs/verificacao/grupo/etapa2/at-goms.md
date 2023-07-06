@@ -97,7 +97,7 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 ## Retrabalho
 
-Como proposto por Fagan, para o retrabalho os autores do artefato ([Douglas Alves](https://github.com/dougAlvs), [Gabriel Campello](https://github.com/G16C), [Geovanna Maciel](https://github.com/manuziny) e [Rafael Ferreira](https://github.com/RafaelCLG0)) serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente, porém há a possibilidade de outros integrantes do grupo realizarem as correções propostas. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+Como proposto por Fagan, para o retrabalho os autores do artefato verificado serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente, porém há a possibilidade de outros integrantes do grupo realizarem as correções propostas. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
 
 <center>
 
@@ -113,7 +113,8 @@ _Fonte: Elaborado por [Matheus Henrique](https://github.com/mathonaut), 2023._
 </center>
 
 !!! info
-O cronograma apresentado na tabela 3 pode ser alterado.
+
+    O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Referências Bibliográficas
 
@@ -125,6 +126,6 @@ O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                      |
-| ------ | ---------- | ------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 19/06/2023 | Criação da página. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                      |
+| ------ | ---------- | ---------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`  | 19/06/2023 | Criação da página.     | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |

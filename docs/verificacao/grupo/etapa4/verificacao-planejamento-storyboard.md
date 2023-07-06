@@ -123,7 +123,7 @@ A figura 1 é possível análisar um gráfico com o percentual de erros e acerto
 
 ## Retrabalho
 
-Como proposto por Fagan, para o retrabalho os autores do artefato ([Arthur de Melo](https://github.com/arthurmlv) e [Rafael Ferreira](https://github.com/RafaelCLG0)) corrigiram os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+Como proposto por Fagan, para o retrabalho os autores do artefato verificado serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente, porém há a possibilidade de outros integrantes do grupo realizarem as correções propostas. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
 
 <center>
 
@@ -138,7 +138,8 @@ _Fonte: Elaborado por [Rafael Ferreira](https://github.com/RafaelCLG0), 2023._
 </center>
 
 !!! info
-O cronograma apresentado na tabela 3 pode ser alterado.
+
+    O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Bibliografia
 
@@ -148,7 +149,8 @@ O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                    |
-| ------ | ---------- | ------------------ | ------------------------------------------------ | ---------------------------------------------- |
-| `1.0`  | 17/06/2023 | Criação da página. | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Arthur de Melo](https://github.com/arthurmlv) |
-| `1.1`  | 25/06/2023 | Add retrabalho.    | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny) |
+| Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                    |
+| ------ | ---------- | ---------------------- | ------------------------------------------------ | ---------------------------------------------- |
+| `1.0`  | 17/06/2023 | Criação da página.     | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Arthur de Melo](https://github.com/arthurmlv) |
+| `1.1`  | 25/06/2023 | Add retrabalho.        | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny) |
+| `1.2`  | 05/07/2023 | Ajustes no retrabalho. | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) |

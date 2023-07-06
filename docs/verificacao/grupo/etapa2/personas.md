@@ -93,25 +93,26 @@ _Fonte: [Douglas Alves](https://github.com/dougAlvs), 2023._
 
 ## Retrabalho
 
-Como proposto por Fagan, para o retrabalho o autor da verificação [Douglas Alves](https://github.com/dougAlvs) corrigiu os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente. Foi realizada uma revisão das correções feitas, checando se as correções foram suficientes e se foram introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+Como proposto por Fagan, para o retrabalho os autores do artefato verificado serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente, porém há a possibilidade de outros integrantes do grupo realizarem as correções propostas. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
 
 <center>
 
 **Tabela 3** - Cronograma de Correções.
 
-| Data de Correção | Descrição                           |                 Responsável(eis)                 |                   Revisor(es)                    |  Status   |
-| ---------------- | :---------------------------------- | :----------------------------------------------: | :----------------------------------------------: | :-------: |
-| 02/07/2023       | Realizar os ajustes do id 11. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) | CORRIGIDO |
-| 02/07/2023       | Realizar os ajustes do id 13. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) | NÃO CORRIGIDO |
-| 02/07/2023       | Realizar os ajustes do id 14. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) | CORRIGIDO |
-| 02/07/2023       | Realizar os ajustes do id 15. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) | CORRIGIDO |
+| Data de Correção | Descrição                     |               Responsável(eis)               |                   Revisor(es)                    |      Status      |
+| ---------------- | :---------------------------- | :------------------------------------------: | :----------------------------------------------: | :--------------: |
+| 02/07/2023       | Realizar os ajustes do id 11. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
+| 02/07/2023       | Realizar os ajustes do id 13. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-close: |
+| 02/07/2023       | Realizar os ajustes do id 14. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
+| 02/07/2023       | Realizar os ajustes do id 15. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
 
 _Fonte: [Douglas Alves](https://github.com/dougAlvs), 2023._
 
 </center>
 
 !!! info
-O cronograma apresentado na tabela 3 pode ser alterado.
+
+    O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Referências Bibliograficas
 
@@ -119,13 +120,8 @@ O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Histórico de Versões
 
-<<<<<<< HEAD
-| Versão | Data       | Descrição          | Autor(es)                                    | Revisor(es)                                      |
-| ------ | ---------- | ------------------ | -------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 19/06/2023 | Criação da página. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
-=======
-| Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                      |
-| ------ | ---------- | ------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 19/06/2023 | Criação da página. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
-| `1.1`  | 02/07/2023 | Adição do retrabalho. | [Douglas Alves](https://github.com/dougAlvs) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
->>>>>>> main
+| Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                      |
+| ------ | ---------- | ---------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`  | 19/06/2023 | Criação da página.     | [Douglas Alves](https://github.com/dougAlvs)     | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.1`  | 02/07/2023 | Adição do retrabalho.  | [Douglas Alves](https://github.com/dougAlvs)     | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.2`  | 05/07/2023 | Ajustes no retrabalho. | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv)   |

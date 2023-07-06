@@ -211,7 +211,8 @@ _Fonte: Elaborado por [Matheus Henrique](https://github.com/mathonaut), 2023._
 </center>
 
 !!! info
-O cronograma apresentado na tabela 3 pode ser alterado.
+
+    O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Referências Bibliográficas
 

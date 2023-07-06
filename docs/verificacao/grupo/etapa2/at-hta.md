@@ -122,7 +122,7 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 ## Retrabalho
 
-Como proposto por Fagan, para o retrabalho os autores do artefato ([Arthur de Melo](https://github.com/arthurmlv), [Douglas Alves](https://github.com/dougAlvs), [Gabriel Campello](https://github.com/G16C), [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut)) serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente, porém há a possibilidade de outros integrantes do grupo realizarem as correções propostas. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+Como proposto por Fagan, para o retrabalho os autores do artefato verificado serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente, porém há a possibilidade de outros integrantes do grupo realizarem as correções propostas. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
 
 <center>
 
@@ -133,12 +133,20 @@ Como proposto por Fagan, para o retrabalho os autores do artefato ([Arthur de Me
 | 30/06/2023       | Corrigir os erros ortográficos.                                                       | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
 | 02/07/2023       | Criar um texto de descrição com os objetivos a serem alcançados para cada tarefa.     | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
 | 02/07/2023       | Apresentar possíveis erros que os usuário possam enfrentar na realização das tarefas. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
-| 02/07/2023       | Corrigir os diagramas HTA's com erros.                                                | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
+| 02/07/2023       | Corrigir os diagramas HTA's com erros.                                                |   [Gabriel Campello](https://github.com/G16C)    | [Matheus Henrique](https://github.com/mathonaut) | :material-close: |
 | 02/07/2023       | Incluir recomendações nas tabelas dos HTA's.                                          | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) | :material-check: |
 
 _Fonte: Elaborado por [Matheus Henrique](https://github.com/mathonaut), 2023._
 
+!!! warning ""
+
+    Por motivos de incompatibilidade de agenda, não haverá retrabalho da correção dos diagramas de responsabilidade do [Gabriel Campello](https://github.com/G16C).
+
 </center>
+
+!!! info
+
+    O cronograma apresentado na tabela 3 pode ser alterado.
 
 ## Referências Bibliográficas
 

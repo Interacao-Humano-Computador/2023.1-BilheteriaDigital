@@ -98,7 +98,9 @@ Também foi possível inferir que a atitude dos usuários é de gostar de tecnol
 
 ### Perfis Priorizados
 
-Levando em conta os dados levantados a partir do grupo de foco, do questionário realizado para a produção do [mesmo artefato na disciplina de Requisitos de Software](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/) e validação dos resultados através de dados da ferramenta de tráfego [_Simlar Web_](https://www.similarweb.com/), foi possível construir dois perfis dos usuários da plataforma. As características priorizadas que serão incluídas nos perfis serão as seguintes: faixa etária, escolaridade, experiência com tecnologia, atitude perante tecnologia e as tarefas primárias. A tabela 2 sintetiza os perfis.
+Levando em conta os dados levantados a partir do grupo de foco, do questionário realizado para a produção do [mesmo artefato na disciplina de Requisitos de Software](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/) e validação dos resultados através de dados da ferramenta de tráfego [_Simlar Web_](https://www.similarweb.com/), foi possível construir dois perfis dos usuários da plataforma.
+
+As características priorizadas que serão incluídas nos perfis serão as seguintes: faixa etária, escolaridade, experiência com tecnologia, atitude perante tecnologia e as tarefas primárias. A tabela 2 sintetiza os perfis.
 
 <center>
 

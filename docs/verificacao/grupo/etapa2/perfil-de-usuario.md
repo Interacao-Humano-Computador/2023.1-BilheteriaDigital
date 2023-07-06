@@ -160,7 +160,7 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 ## Retrabalho
 
-Como proposto por Fagan, para o retrabalho os autores do artefato ([Gabriel Campello](https://github.com/G16C) e [Geovanna Maciel](https://github.com/manuziny)) serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente, porém há a possibilidade de outros integrantes do grupo realizarem as correções propostas. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+Como proposto por Fagan, para o retrabalho os autores do artefato verificado serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente, porém há a possibilidade de outros integrantes do grupo realizarem as correções propostas. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
 
 <center>
 
@@ -180,6 +180,10 @@ _Fonte: Elaborado por [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 </center>
 
+!!! info
+
+    O cronograma apresentado na tabela 3 pode ser alterado.
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor1">1.</a> COURAGE, C. & BAXTER, K. **Understanding your users: a practical guide to user requirements, methods, tools, and techniques.** San Francisco: Morgan Kaufmann Publishers, 2005.
@@ -192,6 +196,7 @@ _Fonte: Elaborado por [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                      |
-| ------ | ---------- | ------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 18/06/2023 | Criação da página. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| Versão | Data       | Descrição                 | Autor(es)                                        | Revisor(es)                                      |
+| ------ | ---------- | ------------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`  | 18/06/2023 | Criação da página.        | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.1`  | 05/07/2023 | Atualizando o retrabalho. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
