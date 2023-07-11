@@ -2,7 +2,7 @@
 
 ## Introdução 
 
-Este documento visa apresentar as considerações finais de cada membro do [grupo](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/#contribuidores), quanto a facilidades e dificuldades encontradas ao decorrer da matéria. Essas considerações objetivam não somente dar um feedback para o professor, mas também para alunos dos próximos semestres que realizarão a matéria de Requisitos de Software.
+Este documento visa apresentar as considerações finais de cada membro do [grupo](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/#equipe), quanto a facilidades e dificuldades encontradas ao decorrer da matéria. Essas considerações objetivam não somente dar um feedback para o professor, mas também para alunos dos próximos semestres que realizarão a matéria de Interação Humano Computador.
 
 ## Considerações Individuais
 
@@ -22,9 +22,9 @@ Da minha parte, primeiramente gostaria de agradecer ao professor pela oportunida
 Não obstante, encontrei bastante facilidade de comunicação com o grupo, a organização e a competência de todos os membros foi um alento em meio a tantas entregas. Fica de sugestão a importância de definir prazos estritos para a execução do projeto, isso é valioso para a boa execução das tarefas e garantir que todos participem. 
 
 ### [Geovanna Maciel](https://github.com/manuziny)
-Antes de tudo eu queria dizer que a disciplina foi muito edificante pra mim. A disciplina de Requisitos abriu novos horizontes que antes eu não tinha entrado em contato. Acredito que todos os ensinamentos dados vão me ajudar muito futuramente, tanto profissionalmente quanto academicamente.
+Antes de tudo eu queria dizer que a disciplina foi muito edificante pra mim. A disciplina de IHC abriu novos horizontes que antes eu não tinha entrado em contato. Acredito que todos os ensinamentos dados vão me ajudar muito futuramente, tanto profissionalmente quanto academicamente.
 
-Na disciplina, a minha maior dificuldade inicial foi o cronograma. Foi um foi estranho pra mim criar um cronograma completo sem saber quais etapas exatamente nós teríamos que realizar. Com o apoio do conteúdo já produzido por outros semestres foi possível construir um cronograma, mas ainda um pouco ambíguo por ainda serem cronogramas diferentes. Mas no geral, eu gostei do meu grupo e de fazer parte desse projeto de Requisitos de Software.
+Na disciplina, a minha maior dificuldade inicial foi o cronograma. Foi um foi estranho pra mim criar um cronograma completo sem saber quais etapas exatamente nós teríamos que realizar. Com o apoio do conteúdo já produzido por outros semestres foi possível construir um cronograma, mas ainda um pouco ambíguo por ainda serem cronogramas diferentes. Mas no geral, eu gostei do meu grupo e de fazer parte desse projeto de Interação Humano Computador.
 
 ### [Matheus Henrique](https://github.com/mathonaut)
 
@@ -33,10 +33,6 @@ Em relação às considerações, a maior dificuldade foi relacionada ao tempo p
 ### [Rafael Ferreira](https://github.com/RafaelCLG0)
 
 Em geral minhas considerações permeiam em torno do grupo por todos os membros serem pessoas disciplinadas e empenhadas em toda parte do projeto e das parte de realizar uma refatoração dos artefatos produzidos, pois em uma primeira visão sobre o artefatos não temos uma visão geral e prospera sobre como aquele artefatos vai ser trabalhado ocasionando em artefatos "soltos", mas com os ajustes finais podemos além de corrigir os erros compreender melhor os artefatos produzidos é assim entender melhor como a matéria se aplica.
-
-### [Sidney Fernando](https://github.com/nando3d3)
-
-Inicialmente, enfrentei uma dificuldade em relação ao cronograma. Foi um desafio criar um cronograma completo sem ter um conhecimento detalhado das etapas que precisaríamos realizar. No entanto, com o auxílio do material produzido por estudantes de semestres anteriores, conseguimos construir um cronograma, embora ainda um tanto ambíguo devido às diferenças entre os cronogramas anteriores. No geral, gostei muito do meu grupo e de fazer parte desse projeto de Requistos de Software.
 
 ## Conclusão
 
@@ -47,3 +43,4 @@ O trabalho no geral foi complexo e trabalhoso, mas com organização, compromiss
 | Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | ------------------ | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`  | 10/07/2023 | Criação da página. | [Douglas Alves](https://github.com/dougAlvs) | [Arthur de Melo](https://github.com/arthurmlv)  |
+| `1.1`  | 11/07/2023 | Correção do texto. | [Douglas Alves](https://github.com/dougAlvs) | [Arthur de Melo](https://github.com/arthurmlv)  |
