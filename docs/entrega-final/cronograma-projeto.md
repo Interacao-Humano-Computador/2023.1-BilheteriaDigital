@@ -1206,8 +1206,13 @@ As Tabelas 20 e 21 apresentam, respectivamente, o cronograma planejado e o execu
 
 </details>
 
+## Conclusão
+
+Isso posto, pode-se inferir que, ao analisar o cronograma como um todo, as tarefas foram bem distribuídas entre todos os integrantes. Além disso, todos os integrantes participaram de ao menos um artefato em cada entrega. Por outra via, as etapas finais do projeto não apresentaram uma boa distribuição dos revisores.
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | ------------------ | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`  | 03/07/2023 | Criação da página. | [Arthur de Melo](https://github.com/arthurmlv) | [Rafael Ferreira](https://github.com/rafaelclg0)  |
+| `1.1`  | 13/07/2023 | Add conclusão. | [Arthur de Melo](https://github.com/arthurmlv) | [Rafael Ferreira](https://github.com/rafaelclg0)  |
