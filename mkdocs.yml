@@ -187,13 +187,13 @@ theme:
       scheme: claro
       toggle:
         icon: material/circle-half-full
-        name: Escuro
+        name: Mudar para o modo escuro
 
-    - media: "(prefers-color-scheme: light)"
+    - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/circle-half-full
-        name: Claro
+        name: Mudar para o modo claro
 
   language: pt-BR
   favicon: assets/bilheteria.png
