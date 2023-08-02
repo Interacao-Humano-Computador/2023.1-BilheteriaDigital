@@ -33,15 +33,23 @@ Ainda na etapa de escolha do site a avaliação de IHC executada pelo grupo, gui
 * Flexibilidade e eficiência: site não apresenta opções de acessibilidade como alto-contraste e audiodescrição.
 * Estética e design minimalista: eventos finalizados são mantidos na tela inicial.
 
-###  [Link para a avaliação de IHC completa do site.](avaliacoes/avaliacao-bilheteria-digital.pdf)
+###  [Link para a avaliação de IHC completa do site para mais detalhes.](../../planejamento/avaliacoes/avaliacao-bilheteria-digital.pdf)
 
-### Princípios Gerais
+## Princípios Gerais
 
 Após a escolha do site, na etapa de análise de requisitos, foi feita uma análise ainda mais a fundo da plataforma, tomando por bases os princípios gerais definidos por Barbosa e Silva (2011). Nessa análise foram verificadas as violações de alguns desses princípios, que se tornaram foco de trabalho em etapas subsequentes do projeto. Para maior detalhes acesse o artefato dos [princípios gerais do projeto](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/).
 
+## Conclusão
+
+A escolha do site para trabalho no projeto é uma etapa imprescindível na disciplina de IHC. Durante todo o semestre será realizado trabalho baseado no site escolhido, dito isso, é importante que essa escolha seja feita cuidadosamente e se atentando a critérios sólidos. Com a experiência que obtivemos na disciplina, recomendamos principalmente atenção à disponibilidade do público-alvo e à presença de problemas no site que possam ser resolvidos durante o decorrer do projeto.
+
+## Bibliografia
+
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 ## Histórico de Versões
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
  `1.0` | 03/07/2023 | Criação do documento | [Douglas Alves](https://github.com/dougalvs)| [Matheus Henrique](https://github.com/mathonaut)
+ `1.1` | 10/07/2023 | Adição conclusão e correção de link quebrado| [Douglas Alves](https://github.com/dougalvs)| [Matheus Henrique](https://github.com/mathonaut)
 

@@ -10,23 +10,17 @@ autonomia, reconhecendo sua vulnerabilidade, assegurando sua vontade de contribu
 
 ## Termo de Consentimento
 
-Os Termos de Consentimento Livre e Esclarecido (TCLE) têm como objetivo fornecer informações detalhadas sobre uma pesquisa para as pessoas que vão participar dela. Essas informações incluem os riscos e benefícios envolvidos, de modo que as pessoas possam tomar uma decisão informada sobre se querem ou não participar. O TCLE é importante porque permite que as pessoas tomem uma decisão livre e consciente sobre sua participação na pesquisa. Além disso, em caso de uma gravação, a permissão para o uso de tal gravação, o que inclui a voz e/ou imagem da pessoal, será reforçada pelo pesquisador. Nessa disciplina, quando se trata de pesquisas envolvendo pessoas, o grupo utiliza deste template de termo de uso quando necessário:
+Os Termos de Consentimento Livre e Esclarecido (TCLE) têm como objetivo fornecer informações detalhadas sobre uma pesquisa para as pessoas que vão participar dela. Essas informações incluem os riscos e benefícios envolvidos, de modo que as pessoas possam tomar uma decisão informada sobre se querem ou não participar. O TCLE é importante porque permite que as pessoas tomem uma decisão livre e consciente sobre sua participação na pesquisa. Além disso, em caso de uma gravação, a permissão para o uso de tal gravação, o que inclui a voz e/ou imagem da pessoal, será reforçada pelo pesquisador. Nessa disciplina, quando se trata de pesquisas envolvendo pessoas, o grupo utiliza deste template de termo de uso presente na Figura 1 quando for necessário:
 
-<br>
+<center>
 
-Olá, somos uma equipe de um projeto acadêmico da disciplina de Interação Humano-Computador do curso de Engenharia de Software da Universidade de Brasília. Nosso objetivo é avaliar o site Bilheteria Digital, que é um site de venda de ingressos para eventos. Estamos atualmente em uma etapa específica do projeto que consiste em [DESCRIÇÃO DA ETAPA].
-Para isso, estamos conduzindo uma série de pesquisas e gostaríamos de solicitar o seu consentimento para participar de uma atividade [DESCRIÇÃO DA ATIVIDADE] com duração de aproximadamente [TEMPO DE DURAÇÃO]. É importante que você saiba algumas informações sobre a pesquisa:
+**Figura 1** - Termo de Consentimento
+<font><figure markdown>![Termo de Consentimento](../assets/aspectos-eticos/termo-de-consentimento.png){: style="height:680px;width:650px"}
 
-- Nosso compromisso é divulgar os resultados de nossas pesquisas para o cliente.
-- Sua participação na atividade é voluntária, ou seja, depende da sua escolha.
-- A atividade pode ser interrompida a qualquer momento, de acordo com a sua vontade e disponibilidade.
-- Será necessário gravar a atividade, e as gravações serão utilizadas para análise e melhoria do site.
-- Os dados coletados são estritamente para fins de análise e melhoria do site.
+_Fonte: [Geovanna Maciel](https://github.com/manuziny), 2023_
 
-Se você concorda com as condições acima e está disposto(a) a participar como colaborador, por favor, nos dê o seu consentimento. Caso você seja menor de idade, precisamos da permissão de seu responsável legal.
+</center>
 
-(&emsp;) Sim
-(&emsp;) Não
 
 ## Referências Bibliográficas
 
@@ -43,3 +37,4 @@ Se você concorda com as condições acima e está disposto(a) a participar como
 | Versão | Data       | Descrição                                       | Autor(es)                                                                                     | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 06/05/2023 | Criação da página da página de aspectos éticos. | [Douglas Alves](https://github.com/dougAlvs) e [Arthur de Melo](https://github.com/arthurmlv) | [Matheus Henrique](https://github.com/mathonaut) |
+| `1.1` | 02/07/2023 | Correções após verificação | [Geovanna Maciel](https://github.com/manuziny) | [Arthur de Melo](https://github.com/arthurmlv) e [Matheus Henrique](https://github.com/mathonaut)

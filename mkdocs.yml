@@ -33,6 +33,7 @@ nav:
       - Apresentação 7: apresentacao/apresentacao7.md
       - Apresentação 8: apresentacao/apresentacao8.md
       - Apresentação 9: apresentacao/apresentacao9.md
+      - Apresentação 10: apresentacao/apresentacao10.md
   - Atas:
       - Ata 1: atas/IHC_Ata_01.md
       - Ata 2: atas/IHC_Ata_02.md
@@ -170,6 +171,7 @@ nav:
       - Síntese das Avaliações: entrega-final/sintese-avaliacao.md
       - Síntese das Verificações: entrega-final/sintese-verificacoes.md
       - Síntese das Apresentações: entrega-final/sintese-apresentacao.md
+      - Considerações Finais: entrega-final/consideracoes.md
 
 theme:
   name: material

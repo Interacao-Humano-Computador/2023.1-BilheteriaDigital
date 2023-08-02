@@ -40,7 +40,7 @@ Os artefatos alvos dessa verificação são:
 - O [**Perfil de Usuário**](../../../../analise-de-requisitos/perfil-usuario) na versão 1.0 de data 06/05/2023 produzido por [Gabriel Campello](https://github.com/G16C) e [Geovanna Maciel](https://github.com/manuziny) com revisão de [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0);
 - O [**Cenários**](../../../../analise-de-requisitos/cenarios) na versão 1.5 de data 20/05/2023 produzido por [Arthur de Melo](https://github.com/arthurmlv), [Geovanna Maciel](https://github.com/manuziny), [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0) com revisão de [Arthur de Melo](https://github.com/arthurmlv), [Douglas Alves](https://github.com/dougAlvs), [Geovanna Maciel](https://github.com/manuziny) e [Rafael Ferreira](https://github.com/RafaelCLG0);
 - O [**Personas**](../../../../analise-de-requisitos/personas) na versão 1.3 de data 07/05/2023 produzido por [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0) com revisão dos mesmos;
-- O [**Análise de Tarefas (Análise Hierárquica de Tarefas)**](../../../../analise-de-requisitos/analise-de-tarefas/hta) na versão 1.4 de data 20/05/2023 produzido por [Arthur de Melo](https://github.com/arthurmlv), [Douglas Alves](https://github.com/dougAlvs), [Geovanna Maciel](https://github.com/manuziny), [Matheus Henrique](https://github.com/mathonaut) com revisão de [Arthur de Melo](https://github.com/arthurmlv) e [Geovanna Maciel](https://github.com/manuziny);
+- O [**Análise de Tarefas (Análise Hierárquica de Tarefas)**](../../../../analise-de-requisitos/analise-de-tarefas/hta) na versão 1.4 de data 20/05/2023 produzido por [Arthur de Melo](https://github.com/arthurmlv), [Douglas Alves](https://github.com/dougAlvs), [Gabriel Campello](https://github.com/G16C), [Geovanna Maciel](https://github.com/manuziny) e [Matheus Henrique](https://github.com/mathonaut) com revisão de [Arthur de Melo](https://github.com/arthurmlv) e [Geovanna Maciel](https://github.com/manuziny);
 - O [**Análise de Tarefas (GOMS)**](../../../../analise-de-requisitos/analise-de-tarefas/goms) na versão 1.3 de data 13/05/2023 produzido por [Douglas Alves](https://github.com/dougAlvs), [Gabriel Campello](https://github.com/G16C), [Geovanna Maciel](https://github.com/manuziny) e [Rafael Ferreira](https://github.com/RafaelCLG0) com revisão de [Arthur de Melo](https://github.com/arthurmlv), [Geovanna Maciel](https://github.com/manuziny) e [Rafael Ferreira](https://github.com/RafaelCLG0).
 
 Os resultados das verificações em si serão apresentados em páginas separadas e podem ser acessados através dos seguintes links:
@@ -89,12 +89,12 @@ A tabela 3 a seguir apresenta a checklist referente aos aspectos gerais que os a
 **Tabela 3** - Checklist para os Itens Gerais.
 
 | ID  | Descrição                                                                                              | Avaliação | Observações |
-| :-: | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-|  1  | O artefato possui introdução?                                                                          |           |             |
-|  2  | O artefato possui uma bibliografia/referência bibliográfica?                                           |           |             |
-|  3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |           |             |
-|  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |           |             |
-|  5  | Todos os textos estão na norma padrão?                                                                 |           |             |
+| :-: | ------------------------------------------------------------------------------------------------------ | :-------: | :---------: |
+|  1  | O artefato possui introdução?                                                                          |     -     |      -      |
+|  2  | O artefato possui uma bibliografia/referência bibliográfica?                                           |     -     |      -      |
+|  3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |     -     |      -      |
+|  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |     -     |      -      |
+|  5  | Todos os textos estão na norma padrão?                                                                 |     -     |      -      |
 
 _Fonte: Equipe do Projeto, 2023._
 
@@ -109,15 +109,15 @@ A tabela 4 a seguir apresenta a checklist referente ao artefato Apectos Éticos,
 **Tabela 4** - Checklist para o artefato de Aspectos Éticos.
 
 | ID  | Descrição                                                                                                                 | Avaliação | Observações |
-| :-: | ------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-|  6  | O documento possui o cuidado ético de evitar prejudicar ou causar dano a outras pessoas, seus bens, reputação ou emprego? |           |             |
-|  7  | O documento possui os princípios de autonomia, beneficiência, não maleficiência, justiça e equidade?                      |           |             |
-|  8  | No documento, há a explicação do objetivo da pesquisa e como ela será realizada aos participantes?                        |           |             |
-|  9  | Há a garantia de confidencialidade e a privacidade dos dados brutos?                                                      |           |             |
-| 10  | Garante o anonimato dos participantes, preservação das suas imagens e a utilização cuidadosa das informações coletadas?   |           |             |
-| 11  | É explicitado um pedido de permissão para gravação? Seja de imagem ou voz do participante.                                |           |             |
-| 12  | Há esclarecido um consentimento livre de desistência do participante durante a pesquisa?                                  |           |             |
-| 13  | Há local de assinatura do entrevistador e do entrevsitado?                                                                |           |             |
+| :-: | ------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
+|  6  | O documento possui o cuidado ético de evitar prejudicar ou causar dano a outras pessoas, seus bens, reputação ou emprego? |     -     |      -      |
+|  7  | O documento possui os princípios de autonomia, beneficiência, não maleficiência, justiça e equidade?                      |     -     |      -      |
+|  8  | No documento, há a explicação do objetivo da pesquisa e como ela será realizada aos participantes?                        |     -     |      -      |
+|  9  | Há a garantia de confidencialidade e a privacidade dos dados brutos?                                                      |     -     |      -      |
+| 10  | Garante o anonimato dos participantes, preservação das suas imagens e a utilização cuidadosa das informações coletadas?   |     -     |      -      |
+| 11  | É explicitado um pedido de permissão para gravação? Seja de imagem ou voz do participante.                                |     -     |      -      |
+| 12  | Há esclarecido um consentimento livre de desistência do participante durante a pesquisa?                                  |     -     |      -      |
+| 13  | Há local de assinatura do entrevistador e do entrevsitado?                                                                |     -     |      -      |
 
 _Fonte: [Geovanna Maciel](https://github.com/manuziny), 2023._
 
@@ -134,24 +134,24 @@ Em relação aos itens de verificação, a questão 6 foi retirada da checklist 
 **Tabela 5** - Checklist para o artefato de Perfil de Usuário.
 
 | ID  | Descrição                                                                                                      | Avaliação | Observações |
-| :-: | -------------------------------------------------------------------------------------------------------------- | :-------: | ----------- |
-|  6  | Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários? |           |             |
-|  7  | Os dados coletados são agregados por grupos e faixas na qual os usuários se encaixam?                          |           |             |
-| 7.1 | É traçado perfis de usuários a partir deste dados agregados?                                                   |           |             |
-| 7.2 | A proporção de usuários que se encaixam em cada perfil é calculada?                                            |           |             |
-| 7.3 | Os usuários são categorizados em grupos por idade, experiências, atitudes e tarefas primárias?                 |           |             |
-|  8  | O perfil de usuário identifica características de interesse?                                                   |           |             |
-| 8.1 | O perfil de usuário identifica o cargo?                                                                        |           |             |
-| 8.2 | O perfil de usuário identifica a função?                                                                       |           |             |
-| 8.3 | O perfil de usuário identifica a experiência?                                                                  |           |             |
-| 8.4 | O perfil de usuário identifica o nível de instrução?                                                           |           |             |
-| 8.5 | O perfil de usuário identifica as atividades principais?                                                       |           |             |
-| 8.6 | O perfil de usuário identifica a faixa etária?                                                                 |           |             |
-| 8.7 | O perfil de usuário identifica a relação com a tecnologia?                                                     |           |             |
-| 8.8 | O perfil de usuário identifica a relação com o domínio do produto?                                             |           |             |
-| 8.9 | O perfil de usuário identifica a relação com o principais tarefas realizadas?                                  |           |             |
-|  9  | As características dos perfis são priorizadas?                                                                 |           |             |
-| 10  | São apresentados os participantes e suas funções?                                                              |           |             |
+| :-: | -------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
+|  6  | Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários? |     -     |      -      |
+|  7  | Os dados coletados são agregados por grupos e faixas na qual os usuários se encaixam?                          |     -     |      -      |
+| 7.1 | É traçado perfis de usuários a partir deste dados agregados?                                                   |     -     |      -      |
+| 7.2 | A proporção de usuários que se encaixam em cada perfil é calculada?                                            |     -     |      -      |
+| 7.3 | Os usuários são categorizados em grupos por idade, experiências, atitudes e tarefas primárias?                 |     -     |      -      |
+|  8  | O perfil de usuário identifica características de interesse?                                                   |     -     |      -      |
+| 8.1 | O perfil de usuário identifica o cargo?                                                                        |     -     |      -      |
+| 8.2 | O perfil de usuário identifica a função?                                                                       |     -     |      -      |
+| 8.3 | O perfil de usuário identifica a experiência?                                                                  |     -     |      -      |
+| 8.4 | O perfil de usuário identifica o nível de instrução?                                                           |     -     |      -      |
+| 8.5 | O perfil de usuário identifica as atividades principais?                                                       |     -     |      -      |
+| 8.6 | O perfil de usuário identifica a faixa etária?                                                                 |     -     |      -      |
+| 8.7 | O perfil de usuário identifica a relação com a tecnologia?                                                     |     -     |      -      |
+| 8.8 | O perfil de usuário identifica a relação com o domínio do produto?                                             |     -     |      -      |
+| 8.9 | O perfil de usuário identifica a relação com o principais tarefas realizadas?                                  |     -     |      -      |
+|  9  | As características dos perfis são priorizadas?                                                                 |     -     |      -      |
+| 10  | São apresentados os participantes e suas funções?                                                              |     -     |      -      |
 
 _Fonte: [Douglas Alves](https://github.com/dougAlvs) e [Matheus Henrique](https://github.com/mathonaut), 2023._
 
@@ -166,14 +166,14 @@ A tabela 6 a seguir apresenta a checklist referente aos cenários, que foi const
 **Tabela 6** - Checklist para o artefato de Cenários.
 
 | ID  | Descrição                                                                                              | Avaliação | Observações |
-| :-: | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-|  6  | Os cenários possuem detalhes contextuais de uso da aplicação envolvendo o usuário?                     |           |             |
-|  7  | Eles descrevem o comportamento e as experiência dos atores?                                            |           |             |
-|  8  | Cada ator possui objetivos que dirigem as tarefas que ele realiza?                                     |           |             |
-|  9  | Cada cenário tem um título que descreve brevemente a situação, os atores, referência a outro artefato? |           |             |
-| 10  | Há ambiente, planejamento, ações, eventos, avaliação?                                                  |           |             |
-| 11  | Os cenários são associados à alguma tarefa de uso diário do ator?                                      |           |             |
-| 12  | Os atores são as personas feitas para o projeto?                                                       |           |             |
+| :-: | ------------------------------------------------------------------------------------------------------ | :-------: | :---------: |
+|  6  | Os cenários possuem detalhes contextuais de uso da aplicação envolvendo o usuário?                     |     -     |      -      |
+|  7  | Eles descrevem o comportamento e as experiência dos atores?                                            |     -     |      -      |
+|  8  | Cada ator possui objetivos que dirigem as tarefas que ele realiza?                                     |     -     |      -      |
+|  9  | Cada cenário tem um título que descreve brevemente a situação, os atores, referência a outro artefato? |     -     |      -      |
+| 10  | Há ambiente, planejamento, ações, eventos, avaliação?                                                  |     -     |      -      |
+| 11  | Os cenários são associados à alguma tarefa de uso diário do ator?                                      |     -     |      -      |
+| 12  | Os atores são as personas feitas para o projeto?                                                       |     -     |      -      |
 
 _Fonte: [Geovanna Maciel](https://github.com/manuziny), 2023._
 
@@ -189,6 +189,21 @@ Em relação aos itens de verificação, as questões 6 a 15 foram retiradas da 
 
 **Tabela 7** - Checklist para o artefato de Personas.
 
+<<<<<<< HEAD
+| ID  | Descrição                                                                                                                                                                                                                                                                | Avaliação | Observações |
+| :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------: | :---------: |
+|  6  | A persona possui identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas?                                                                                                                                                        |     -     |      -      |
+|  7  | A persona primária possui elasticidade? (Uma persona assume uma solidez tangível que coloca os pressupostos de design em perspectiva. À medida que uma persona perde sua elasticidade, podemos identificar suas habilidades, suas motivações e o que ela quer alcançar.) |     -     |      -      |
+|  8  | A persona primária é sólida e tangível o suficiente para colocar os pressupostos de design em perspectiva?                                                                                                                                                               |     -     |      -      |
+|  9  | O elenco de personas torna evidente quais são os objetivos dos usuários?                                                                                                                                                                                                 |     -     |      -      |
+| 10  | O elenco de personas tem entre 3 a 12 personas?                                                                                                                                                                                                                          |     -     |      -      |
+| 11  | Possui justificativa do número?                                                                                                                                                                                                                                          |     -     |      -      |
+| 12  | Possui uma antipersona definida?                                                                                                                                                                                                                                         |     -     |      -      |
+| 13  | Há algum método para descobrir o objetivo das personas?                                                                                                                                                                                                                  |     -     |      -      |
+| 14  | Possui objetivos pessoais, corporativos e práticos?                                                                                                                                                                                                                      |     -     |      -      |
+| 15  | Há algum objetivo de experiência da persona?                                                                                                                                                                                                                             |     -     |      -      |
+| 16  | O elenco de personas é definido a partir do perfil de usuário?                                                                                                                                                                                                           |     -     |      -      |
+=======
 | ID  | Descrição                                                                                                                                                                                                                                                                | Avaliação  | Observações                                               |
 | :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------------------------------------------------- |
 |  6  | A persona possui identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas?                                                                                                                                                        |         |                                                           |
@@ -202,6 +217,7 @@ Em relação aos itens de verificação, as questões 6 a 15 foram retiradas da 
 | 14  | Possui objetivos pessoais, corporativos e práticos?                                                                                                                                                                                                                      |  |        |
 | 15  | Há algum objetivo de experiência da persona?                                                                                                                                                                                                                             |         |                       |
 | 16  | O elenco de personas é definido a partir do perfil de usuário?                                                                                                                                                                                                           |         |                                                           |
+>>>>>>> main
 
 _Fonte: [Geovanna Maciel](https://github.com/manuziny), [Douglas Alves](https://github.com/dougAlvs) e [Marcus Vinicius](https://github.com/MarcusVcd), 2023._
 
@@ -218,23 +234,23 @@ Em relação aos itens de verificação, as questões 7, 8 e 9 foram retiradas d
 **Tabela 8** - Checklist para o artefato de Análise Hierárquica de Tarefas.
 
 |  ID  | Descrição                                                                                                                                                                            | Avaliação | Observações |
-| :--: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-|  6   | Os objetivos a serem alcançados são apresentados?                                                                                                                                    |           |             |
-|  7   | As tarefas foram descritas em termos de objetivos que os usuários precisam executar, evitando descrições vagas ou ambíguas?                                                          |           |             |
-|  8   | As tarefas apresentadas são verossímeis?                                                                                                                                             |           |             |
-|  9   | As tarefas foram formuladas de maneira conceitual e orientada ao usuário, focando nas ações que eles executam, em vez de detalhes técnicos ou da implementação/interface do sistema? |           |             |
-|  10  | As tarefas são decompostas?                                                                                                                                                          |           |             |
-|  11  | As tarefas relacionam o que as pessoas fazem com o porquê o fazem e quais as consequências caso não façam corretamente?                                                              |           |             |
-|  12  | Os diagramas apresentam os elementos esperados (plano, objetivos, operações e as relações entre os subobjetivos)?                                                                    |           |             |
-|  13  | As operações são especificadas?                                                                                                                                                      |           |             |
-| 13.1 | Elas possuem entradas?                                                                                                                                                               |           |             |
-| 13.2 | Elas possuem ações?                                                                                                                                                                  |           |             |
-| 13.3 | Elas possuem _feedbacks_?                                                                                                                                                            |           |             |
-|  14  | A decomposição termina quando os objetivos são atingidos ou quando a origem de um erro é identificada?                                                                               |           |             |
-|  15  | As tarefas são apresentadas em tabelas?                                                                                                                                              |           |             |
-| 15.1 | As tabelas apresentam os objetivos/operações?                                                                                                                                        |           |             |
-| 15.2 | As tabelas apresentam os problemas e recomendações?                                                                                                                                  |           |             |
-| 15.3 | As tabelas apresentam as entradas, ações, _feedbacks_ e os planos?                                                                                                                   |           |             |
+| :--: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------: | :---------: |
+|  6   | Os objetivos a serem alcançados são apresentados?                                                                                                                                    |     -     |      -      |
+|  7   | As tarefas foram descritas em termos de objetivos que os usuários precisam executar, evitando descrições vagas ou ambíguas?                                                          |     -     |      -      |
+|  8   | As tarefas apresentadas são verossímeis?                                                                                                                                             |     -     |      -      |
+|  9   | As tarefas foram formuladas de maneira conceitual e orientada ao usuário, focando nas ações que eles executam, em vez de detalhes técnicos ou da implementação/interface do sistema? |     -     |      -      |
+|  10  | As tarefas são decompostas?                                                                                                                                                          |     -     |      -      |
+|  11  | As tarefas relacionam o que as pessoas fazem com o porquê o fazem e quais as consequências caso não façam corretamente?                                                              |     -     |      -      |
+|  12  | Os diagramas apresentam os elementos esperados (plano, objetivos, operações e as relações entre os subobjetivos)?                                                                    |     -     |      -      |
+|  13  | As operações são especificadas?                                                                                                                                                      |     -     |      -      |
+| 13.1 | Elas possuem entradas?                                                                                                                                                               |     -     |      -      |
+| 13.2 | Elas possuem ações?                                                                                                                                                                  |     -     |      -      |
+| 13.3 | Elas possuem _feedbacks_?                                                                                                                                                            |     -     |      -      |
+|  14  | A decomposição termina quando os objetivos são atingidos ou quando a origem de um erro é identificada?                                                                               |     -     |      -      |
+|  15  | As tarefas são apresentadas em tabelas?                                                                                                                                              |     -     |      -      |
+| 15.1 | As tabelas apresentam os objetivos/operações?                                                                                                                                        |     -     |      -      |
+| 15.2 | As tabelas apresentam os problemas e recomendações?                                                                                                                                  |     -     |      -      |
+| 15.3 | As tabelas apresentam as entradas, ações, _feedbacks_ e os planos?                                                                                                                   |     -     |      -      |
 
 _Fonte: [Douglas Alves](https://github.com/dougAlvs) e [Matheus Henrique](https://github.com/mathonaut), 2023._
 
@@ -251,16 +267,16 @@ Em relação aos itens de verificação, as questões foram construídas levando
 **Tabela 9** - Checklist para o artefato de GOMS.
 
 | ID   | Descrição                                                                 | Avaliação | Observações |
-| ---- | ------------------------------------------------------------------------- | --------- | ----------- |
-| 6    | As análises com o GOMS são realizadas a partir das tarefas da HTA?        |           |             |
-| 7    | Há uma hierarquia estrita entre os objetivos?                             |           |             |
-| 8    | Os operadores são executados em ordem sequencial?                         |           |             |
-| 9    | Os métodos GOMS são representados em notação semelhante a pseudocódigo?   |           |             |
-| 10   | Os métodos GOMS possuem os quatros elementos principais?                  |           |             |
-| 10.1 | Eles possuem os objetivos (_goals_)?                                      |           |             |
-| 10.2 | Eles possuem os operadores (_operators_) primitivos internos ou externos? |           |             |
-| 10.3 | Eles possuem os métodos (_methods_)?                                      |           |             |
-| 10.4 | Eles possuem as regras de seleção (_selection rules_)?                    |           |             |
+| ---- | ------------------------------------------------------------------------- | :-------: | :---------: |
+| 6    | As análises com o GOMS são realizadas a partir das tarefas da HTA?        |     -     |      -      |
+| 7    | Há uma hierarquia estrita entre os objetivos?                             |     -     |      -      |
+| 8    | Os operadores são executados em ordem sequencial?                         |     -     |      -      |
+| 9    | Os métodos GOMS são representados em notação semelhante a pseudocódigo?   |     -     |      -      |
+| 10   | Os métodos GOMS possuem os quatros elementos principais?                  |     -     |      -      |
+| 10.1 | Eles possuem os objetivos (_goals_)?                                      |     -     |      -      |
+| 10.2 | Eles possuem os operadores (_operators_) primitivos internos ou externos? |     -     |      -      |
+| 10.3 | Eles possuem os métodos (_methods_)?                                      |     -     |      -      |
+| 10.4 | Eles possuem as regras de seleção (_selection rules_)?                    |     -     |      -      |
 
 _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 

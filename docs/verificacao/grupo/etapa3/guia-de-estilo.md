@@ -45,7 +45,7 @@ A tabela 2 a seguir apresenta a checklist com os dados obtidos a partir da verif
 |  3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |    Sim     |                     -                     |
 |  4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |    Sim     |                     -                     |
 |  5   | Todos os textos estão na norma padrão?                                                                 |    Não     |                     -                     |
-|      | **Análise Hierárquica de Tarefas**                                                                     |            |                                           |
+|      | **Guia de Estilo**                                                                                     |            |                                           |
 |  6   | Existe um tópico de introdução?                                                                        | Incompleto |                     -                     |
 | 6.1  | Existe um subtópico de objetivo do guia de estilo?                                                     |    Sim     |                     -                     |
 | 6.2  | Existe um subtópico de organização e conteúdo do guia de estilo?                                       |    Sim     |                     -                     |
@@ -191,6 +191,29 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 </center>
 
+## Retrabalho
+
+Como proposto por Fagan, para o retrabalho os autores do artefato ([Douglas Alves](https://github.com/dougAlvs) e [Geovanna Maciel](https://github.com/manuziny)) serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente, porém há a possibilidade de outros integrantes do grupo realizarem as correções propostas. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+
+<center>
+
+**Tabela 3** - Cronograma de Correções.
+
+| Data de Correção | Descrição                                                                      |                 Responsável(eis)                 |                  Revisor(es)                   |      Status      |
+| ---------------- | :----------------------------------------------------------------------------- | :----------------------------------------------: | :--------------------------------------------: | :--------------: |
+| 30/06/2023       | Corrigir os erros ortográficos.                                                | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
+| 01/06/2023       | Adicionar os tópicos e subtópicos faltantes.                                   | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
+| 01/06/2023       | Explicar como os princípios gerais será utilizado no guia.                     | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
+| 01/06/2023       | Apresentar tratamentos para os problemas nas metas de usabilidade priorizadas. | [Matheus Henrique](https://github.com/mathonaut) | [Arthur de Melo](https://github.com/arthurmlv) | :material-check: |
+
+_Fonte: Elaborado por [Matheus Henrique](https://github.com/mathonaut), 2023._
+
+</center>
+
+!!! info
+
+    O cronograma apresentado na tabela 3 pode ser alterado.
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> MARCUS, A. **Graphic Design for Electronic Documents and User Interfaces.** New York: The ACM Press, 1992.
@@ -203,6 +226,8 @@ _Fonte: [Matheus Henrique](https://github.com/mathonaut), 2023._
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                      |
-| ------ | ---------- | ------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 19/06/2023 | Criação da página. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| Versão | Data       | Descrição               | Autor(es)                                        | Revisor(es)                                      |
+| ------ | ---------- | ----------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`  | 19/06/2023 | Criação da página.      | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.1`  | 30/06/2023 | Adicionando retrabalho. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |
+| `1.2`  | 01/07/2023 | Concluído o retrabalho. | [Matheus Henrique](https://github.com/mathonaut) | [Rafael Ferreira](https://github.com/RafaelCLG0) |

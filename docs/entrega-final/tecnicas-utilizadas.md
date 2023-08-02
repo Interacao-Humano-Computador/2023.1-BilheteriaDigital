@@ -29,6 +29,10 @@ Fonte: [Arthur de Melo](https://github.com/arthurmlv)
 
 </center>
 
+## Conclusão
+
+Portanto, infere-se que grande parte das técnicas utilizadas foram executadas por todos os integrantes do grupo, o que garante uma experiência ao grupo como um todo para lidar com essas técnicas individualmente. Principalmente as técnicas executadas para realizar um planejamento, que é uma etapa de extrema importância.
+
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -38,3 +42,4 @@ Fonte: [Arthur de Melo](https://github.com/arthurmlv)
 | Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | ------------------ | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`  | 04/07/2023 | Criação da página. | [Arthur de Melo](https://github.com/arthurmlv) | [Rafael Ferreira](https://github.com/rafaelclg0)  |
+| `1.1`  | 13/07/2023 | Add conclusão. | [Arthur de Melo](https://github.com/arthurmlv) | [Rafael Ferreira](https://github.com/rafaelclg0)  |
